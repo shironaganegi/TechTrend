@@ -6,10 +6,10 @@
       "owner": "openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": 207018,
+      "stars": 208621,
       "daily_stars": 3796,
       "language": "all",
-      "fetched_at": "2026-02-18T11:57:47.100234"
+      "fetched_at": "2026-02-18T23:04:49.292328"
     },
     {
       "source": "hacker_news",
@@ -17,10 +17,10 @@
       "owner": "adocomplete",
       "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
       "description": "Claude Sonnet 4.6",
-      "stars": 1145,
-      "daily_stars": 1145,
+      "stars": 1284,
+      "daily_stars": 1284,
       "language": "tech",
-      "fetched_at": "2026-02-18T11:57:48.890650"
+      "fetched_at": "2026-02-18T23:04:54.666246"
     },
     {
       "source": "github",
@@ -28,10 +28,10 @@
       "owner": "p-e-w",
       "url": "https://github.com/p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 7615,
+      "stars": 7979,
       "daily_stars": 947,
       "language": "all",
-      "fetched_at": "2026-02-18T11:57:47.096188"
+      "fetched_at": "2026-02-18T23:04:49.287660"
     },
     {
       "source": "github",
@@ -39,76 +39,21 @@
       "owner": "obra",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53977,
+      "stars": 54414,
       "daily_stars": 868,
       "language": "all",
-      "fetched_at": "2026-02-18T11:57:47.098467"
+      "fetched_at": "2026-02-18T23:04:49.290305"
     },
     {
       "source": "hacker_news",
-      "name": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "name": "AI adoption and Solow's productivity paradox",
       "owner": "virgildotcodes",
       "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-      "description": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-      "stars": 537,
-      "daily_stars": 537,
+      "description": "AI adoption and Solow's productivity paradox",
+      "stars": 761,
+      "daily_stars": 761,
       "language": "tech",
-      "fetched_at": "2026-02-18T11:57:49.758309"
-    },
-    {
-      "source": "github",
-      "name": "zvec",
-      "owner": "alibaba",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4695,
-      "daily_stars": 501,
-      "language": "all",
-      "fetched_at": "2026-02-18T11:57:47.095753"
-    },
-    {
-      "source": "github",
-      "name": "hummingbot",
-      "owner": "hummingbot",
-      "url": "https://github.com/hummingbot/hummingbot",
-      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 17216,
-      "daily_stars": 465,
-      "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.469869"
-    },
-    {
-      "source": "github",
-      "name": "pyrite64",
-      "owner": "HailToDodongo",
-      "url": "https://github.com/HailToDodongo/pyrite64",
-      "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
-      "stars": 913,
-      "daily_stars": 407,
-      "language": "all",
-      "fetched_at": "2026-02-18T11:57:47.098877"
-    },
-    {
-      "source": "github",
-      "name": "convert",
-      "owner": "p2r3",
-      "url": "https://github.com/p2r3/convert",
-      "description": "Truly universal online file converter",
-      "stars": 1127,
-      "daily_stars": 397,
-      "language": "all",
-      "fetched_at": "2026-02-18T11:57:47.099701"
-    },
-    {
-      "source": "github",
-      "name": "AstrBot",
-      "owner": "AstrBotDevs",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 16570,
-      "daily_stars": 385,
-      "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.470279"
+      "fetched_at": "2026-02-18T23:04:55.778259"
     },
     {
       "source": "github",
@@ -116,65 +61,10 @@
       "owner": "harvard-edge",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "description": "Introduction to Machine Learning Systems",
-      "stars": 19278,
-      "daily_stars": 374,
+      "stars": 19620,
+      "daily_stars": 737,
       "language": "all",
-      "fetched_at": "2026-02-18T11:57:47.097947"
-    },
-    {
-      "source": "github",
-      "name": "opencti",
-      "owner": "OpenCTI-Platform",
-      "url": "https://github.com/OpenCTI-Platform/opencti",
-      "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8531,
-      "daily_stars": 282,
-      "language": "all",
-      "fetched_at": "2026-02-18T11:57:47.096593"
-    },
-    {
-      "source": "github",
-      "name": "RAG_Techniques",
-      "owner": "NirDiamant",
-      "url": "https://github.com/NirDiamant/RAG_Techniques",
-      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
-      "stars": 25012,
-      "daily_stars": 280,
-      "language": "all",
-      "fetched_at": "2026-02-18T11:57:47.097530"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
-      "owner": "whynotmaybe",
-      "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
-      "description": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
-      "stars": 276,
-      "daily_stars": 276,
-      "language": "tech",
-      "fetched_at": "2026-02-18T11:57:51.410932"
-    },
-    {
-      "source": "github",
-      "name": "wifi-densepose",
-      "owner": "ruvnet",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "stars": 6972,
-      "daily_stars": 258,
-      "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.472301"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Async/Await on the GPU",
-      "owner": "Philpax",
-      "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-      "description": "Async/Await on the GPU",
-      "stars": 201,
-      "daily_stars": 201,
-      "language": "tech",
-      "fetched_at": "2026-02-18T11:57:50.318303"
+      "fetched_at": "2026-02-18T23:04:49.289709"
     },
     {
       "source": "hacker_news",
@@ -182,76 +72,120 @@
       "owner": "soheilpro",
       "url": "https://annas-archive.li/blog/llms-txt.html",
       "description": "If you’re an LLM, please read this",
-      "stars": 132,
-      "daily_stars": 132,
+      "stars": 719,
+      "daily_stars": 719,
       "language": "tech",
-      "fetched_at": "2026-02-18T11:57:49.535915"
+      "fetched_at": "2026-02-18T23:04:52.234489"
+    },
+    {
+      "source": "github",
+      "name": "zvec",
+      "owner": "alibaba",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "stars": 4882,
+      "daily_stars": 501,
+      "language": "all",
+      "fetched_at": "2026-02-18T23:04:49.287135"
+    },
+    {
+      "source": "github",
+      "name": "hummingbot",
+      "owner": "hummingbot",
+      "url": "https://github.com/hummingbot/hummingbot",
+      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+      "stars": 17236,
+      "daily_stars": 465,
+      "language": "python",
+      "fetched_at": "2026-02-18T23:04:50.504675"
+    },
+    {
+      "source": "github",
+      "name": "pyrite64",
+      "owner": "HailToDodongo",
+      "url": "https://github.com/HailToDodongo/pyrite64",
+      "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+      "stars": 1235,
+      "daily_stars": 407,
+      "language": "all",
+      "fetched_at": "2026-02-18T23:04:49.290780"
+    },
+    {
+      "source": "github",
+      "name": "convert",
+      "owner": "p2r3",
+      "url": "https://github.com/p2r3/convert",
+      "description": "Truly universal online file converter",
+      "stars": 1390,
+      "daily_stars": 397,
+      "language": "all",
+      "fetched_at": "2026-02-18T23:04:49.291733"
+    },
+    {
+      "source": "github",
+      "name": "opencti",
+      "owner": "OpenCTI-Platform",
+      "url": "https://github.com/OpenCTI-Platform/opencti",
+      "description": "Open Cyber Threat Intelligence Platform",
+      "stars": 8673,
+      "daily_stars": 282,
+      "language": "all",
+      "fetched_at": "2026-02-18T23:04:49.288132"
+    },
+    {
+      "source": "github",
+      "name": "RAG_Techniques",
+      "owner": "NirDiamant",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+      "stars": 25215,
+      "daily_stars": 280,
+      "language": "all",
+      "fetched_at": "2026-02-18T23:04:49.289229"
     },
     {
       "source": "hacker_news",
-      "name": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
-      "owner": "GregorStocks",
-      "url": "https://mage-bench.com/",
-      "description": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
-      "stars": 107,
-      "daily_stars": 107,
+      "name": "Tailscale Peer Relays is now generally available",
+      "owner": "sz4kerto",
+      "url": "https://tailscale.com/blog/peer-relays-ga",
+      "description": "Tailscale Peer Relays is now generally available",
+      "stars": 280,
+      "daily_stars": 280,
       "language": "tech",
-      "fetched_at": "2026-02-18T11:57:51.305482"
+      "fetched_at": "2026-02-18T23:04:51.417251"
+    },
+    {
+      "source": "github",
+      "name": "AstrBot",
+      "owner": "AstrBotDevs",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 16679,
+      "daily_stars": 272,
+      "language": "python",
+      "fetched_at": "2026-02-18T23:04:50.505146"
     },
     {
       "source": "hacker_news",
-      "name": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
-      "owner": "LowLevelMahn",
-      "url": "https://www.vogons.org/viewtopic.php?t=105451",
-      "description": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
-      "stars": 101,
-      "daily_stars": 101,
+      "name": "Microsoft says bug causes Copilot to summarize confidential emails",
+      "owner": "tablets",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
+      "description": "Microsoft says bug causes Copilot to summarize confidential emails",
+      "stars": 218,
+      "daily_stars": 218,
       "language": "tech",
-      "fetched_at": "2026-02-18T11:57:49.877090"
+      "fetched_at": "2026-02-18T23:04:55.269375"
     },
     {
-      "source": "product_hunt",
-      "name": "Empirical Health for web",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/empirical-health",
-      "description": "\n            Comprehensive preventive heart health solution scaled w/ AI\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-02-18T11:57:48.679003"
-    },
-    {
-      "source": "product_hunt",
-      "name": "SPECTRE",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/spectre-2",
-      "description": "\n            An agentic coding workflow for product builders\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-02-18T11:57:48.679189"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Travel Animator",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/travel-animator",
-      "description": "\n            Name every stop your way with Place Labels.\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-02-18T11:57:48.679359"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Moda",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/moda-2",
-      "description": "\n            Finally, AI designs you can edit.\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-02-18T11:57:48.679522"
+      "source": "hacker_news",
+      "name": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+      "owner": "todsacerdoti",
+      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+      "description": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+      "stars": 147,
+      "daily_stars": 147,
+      "language": "tech",
+      "fetched_at": "2026-02-18T23:04:51.622110"
     },
     {
       "source": "product_hunt",
@@ -262,7 +196,73 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-02-18T11:57:48.679689"
+      "fetched_at": "2026-02-18T23:04:50.864834"
+    },
+    {
+      "source": "product_hunt",
+      "name": "yottoCode",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/yottocode",
+      "description": "\n            Claude Code, meet Telegram.\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-02-18T23:04:50.865045"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Travel Animator",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/travel-animator",
+      "description": "\n            Name every stop your way with Place Labels\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-02-18T23:04:50.865236"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Open blivz",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/blivz",
+      "description": "\n            Customizable Open-source alternative to Clay\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-02-18T23:04:50.865425"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Design Rails",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/design-rails-ai-native-brand-in-mins",
+      "description": "\n            Get an agent-ready brand in minutes\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-02-18T23:04:50.865642"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Deckary",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/deckary",
+      "description": "\n            The AI consulting toolkit for PowerPoint\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-02-18T23:04:50.865827"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Konta",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/konta",
+      "description": "\n            GitOps for Docker Compose on low‑resource VPS\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-02-18T23:04:50.866021"
     },
     {
       "source": "product_hunt",
@@ -273,40 +273,18 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-02-18T11:57:48.679861"
+      "fetched_at": "2026-02-18T23:04:50.866206"
     },
     {
       "source": "product_hunt",
-      "name": "ClawMetry for OpenClaw",
+      "name": "Empirical Health for web",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/clawmetry",
-      "description": "\n            Real-time observability dashboard for OpenClaw AI agents\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/empirical-health",
+      "description": "\n            Comprehensive preventive heart health solution scaled w/ AI\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-02-18T11:57:48.680024"
-    },
-    {
-      "source": "product_hunt",
-      "name": "BotBot",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/botbot",
-      "description": "\n            The open-source brain for any legged robot\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-02-18T11:57:48.680185"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Sonnet 4.6",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/anthropic-claude-3-5-sonnet",
-      "description": "\n            The most capable Sonnet model yet\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-02-18T11:57:48.680345"
+      "fetched_at": "2026-02-18T23:04:50.866390"
     },
     {
       "source": "product_hunt",
@@ -317,7 +295,7 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-02-18T11:57:48.680507"
+      "fetched_at": "2026-02-18T23:04:50.866592"
     },
     {
       "source": "github",
@@ -325,87 +303,142 @@
       "owner": "QwenLM",
       "url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI agent that lives in your terminal.",
-      "stars": 18621,
+      "stars": 18803,
       "daily_stars": 82,
       "language": "all",
-      "fetched_at": "2026-02-18T11:57:47.097008"
+      "fetched_at": "2026-02-18T23:04:49.288625"
+    },
+    {
+      "source": "github",
+      "name": "wifi-densepose",
+      "owner": "ruvnet",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "stars": 7009,
+      "daily_stars": 47,
+      "language": "python",
+      "fetched_at": "2026-02-18T23:04:50.507541"
+    },
+    {
+      "source": "github",
+      "name": "Auto_job_applier_linkedIn",
+      "owner": "GodsScion",
+      "url": "https://github.com/GodsScion/Auto_job_applier_linkedIn",
+      "description": "Make your job hunt easy by automating your application process with this Auto Applier",
+      "stars": 1606,
+      "daily_stars": 41,
+      "language": "python",
+      "fetched_at": "2026-02-18T23:04:50.510021"
     },
     {
       "source": "qiita",
-      "name": "【忙しい人向け】30分でAgentCoreとStrandsに入門！",
-      "owner": "minorun365",
-      "url": "https://qiita.com/minorun365/items/6b8fa1d65f992dc2fc1b",
-      "description": "【忙しい人向け】30分でAgentCoreとStrandsに入門！",
+      "name": "個人開発した「技術書ランキングサイト」が公開1日で1,000PV突破した裏側",
+      "owner": "YA001",
+      "url": "https://qiita.com/YA001/items/859d17fd039e39a3f8a8",
+      "description": "個人開発した「技術書ランキングサイト」が公開1日で1,000PV突破した裏側",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-18T11:57:52.169944"
+      "fetched_at": "2026-02-18T23:04:57.094884"
     },
     {
       "source": "qiita",
-      "name": "メール自動化：デュアルメールボックス接続とAIトリアージシステム",
-      "owner": "linou",
-      "url": "https://qiita.com/linou/items/77cd8ea2d72de56d2b8b",
-      "description": "メール自動化：デュアルメールボックス接続とAIトリアージシステム",
+      "name": "28.【可視化】pn接合バンド構造を3Dアニメーションで見てみる",
+      "owner": "ctrl_bug",
+      "url": "https://qiita.com/ctrl_bug/items/ea78f844ed1fef60f5fb",
+      "description": "28.【可視化】pn接合バンド構造を3Dアニメーションで見てみる",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-18T11:57:52.169958"
+      "fetched_at": "2026-02-18T23:04:57.094899"
     },
     {
       "source": "qiita",
-      "name": "Python+DjangoによるWebアプリ（第1回）",
-      "owner": "t_ogisawa",
-      "url": "https://qiita.com/t_ogisawa/items/0dda8128cadad84c154f",
-      "description": "Python+DjangoによるWebアプリ（第1回）",
+      "name": "RaspiでWiiリモコン IRカメラ＆ヌンチャク対応",
+      "owner": "6186milktea",
+      "url": "https://qiita.com/6186milktea/items/c21f7c48bf349634217d",
+      "description": "RaspiでWiiリモコン IRカメラ＆ヌンチャク対応",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-18T11:57:52.169964"
+      "fetched_at": "2026-02-18T23:04:57.094905"
     },
     {
       "source": "qiita",
-      "name": "タイムラインスケジューリングエンジン——Linouの一日に目盛りを刻む",
-      "owner": "linou",
-      "url": "https://qiita.com/linou/items/1d522d966775efdfe518",
-      "description": "タイムラインスケジューリングエンジン——Linouの一日に目盛りを刻む",
+      "name": "2025年、日本の家計ストレスはコロナを超えた ── KSI（家計ストレス指数）12月月次",
+      "owner": "d94231",
+      "url": "https://qiita.com/d94231/items/77b636e49eb94082a1bb",
+      "description": "2025年、日本の家計ストレスはコロナを超えた ── KSI（家計ストレス指数）12月月次",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-18T11:57:52.169970"
+      "fetched_at": "2026-02-18T23:04:57.094911"
     },
     {
       "source": "qiita",
-      "name": "ガチの自家焙煎コーヒー屋が、有料レベルの完璧な焙煎アプリを作った件",
-      "owner": "0xshiba",
-      "url": "https://qiita.com/0xshiba/items/a21ca715eda7fa61c315",
-      "description": "ガチの自家焙煎コーヒー屋が、有料レベルの完璧な焙煎アプリを作った件",
+      "name": "プログラミング雑記 2026年2月19日",
+      "owner": "ishisaka",
+      "url": "https://qiita.com/ishisaka/items/427a9b99e9a44842df1d",
+      "description": "プログラミング雑記 2026年2月19日",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-18T11:57:52.417468"
+      "fetched_at": "2026-02-18T23:04:57.391725"
     },
     {
       "source": "qiita",
-      "name": "深夜ブレインストーミング：3トピック並行研究と予期せぬ発見",
-      "owner": "linou",
-      "url": "https://qiita.com/linou/items/3e38c9abcfd4ad4ab9db",
-      "description": "深夜ブレインストーミング：3トピック並行研究と予期せぬ発見",
+      "name": "【2026年2月】エンジニアが押さえておくべきITニュースまとめ",
+      "owner": "kotaro_ai_lab",
+      "url": "https://qiita.com/kotaro_ai_lab/items/e017239c3688448c5b43",
+      "description": "【2026年2月】エンジニアが押さえておくべきITニュースまとめ",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-18T11:57:52.417488"
+      "fetched_at": "2026-02-18T23:04:57.391740"
     },
     {
       "source": "qiita",
-      "name": "Agentメッセージバスの誕生：16のAI Agentの通信インフラ",
-      "owner": "linou",
-      "url": "https://qiita.com/linou/items/de3d48e7cc6f9c731772",
-      "description": "Agentメッセージバスの誕生：16のAI Agentの通信インフラ",
+      "name": "【論文要約】 Thought crime: Backdoors and emergent misalignment in reasoning models",
+      "owner": "mogura_qiita",
+      "url": "https://qiita.com/mogura_qiita/items/acdbaa58684a3dd5d52a",
+      "description": "【論文要約】 Thought crime: Backdoors and emergent misalignment in reasoning models",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-18T11:57:52.417493"
+      "fetched_at": "2026-02-18T23:04:57.391746"
+    },
+    {
+      "source": "qiita",
+      "name": "Claude Codeを最速でセットアップする5つのコツ",
+      "owner": "myougaTheAxo-VT",
+      "url": "https://qiita.com/myougaTheAxo-VT/items/15d08a63675380e2d81a",
+      "description": "Claude Codeを最速でセットアップする5つのコツ",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-02-18T23:04:57.391752"
+    },
+    {
+      "source": "qiita",
+      "name": "【革命】MITが「失敗しないAIエージェント」を開発！EnCompassで精度40%向上の衝撃",
+      "owner": "emi_ndk",
+      "url": "https://qiita.com/emi_ndk/items/a30cab3d0d005eb4adcf",
+      "description": "【革命】MITが「失敗しないAIエージェント」を開発！EnCompassで精度40%向上の衝撃",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-02-18T23:04:57.658606"
+    },
+    {
+      "source": "qiita",
+      "name": "【個人開発】「砂を箱に詰める実験」から着想を得た、物理ベースの学習最適化手法 〜ニューラルネットを\"揺らす\"と学習は加速するか？〜",
+      "owner": "yomawari-san",
+      "url": "https://qiita.com/yomawari-san/items/0739169b8a1615e02e0f",
+      "description": "【個人開発】「砂を箱に詰める実験」から着想を得た、物理ベースの学習最適化手法 〜ニューラルネットを\"揺らす\"と学習は加速するか？〜",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-02-18T23:04:57.658612"
     },
     {
       "source": "qiita",
@@ -416,51 +449,7 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-18T11:57:52.620777"
-    },
-    {
-      "source": "qiita",
-      "name": "マテリアルエクスプローラ",
-      "owner": "Oleksandr_Kotliar",
-      "url": "https://qiita.com/Oleksandr_Kotliar/items/74e1960e59b4f9ea04eb",
-      "description": "マテリアルエクスプローラ",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-02-18T11:57:52.620798"
-    },
-    {
-      "source": "qiita",
-      "name": "【機械学習】Hydra × MLflow 最強の実験管理術",
-      "owner": "shun_hobby",
-      "url": "https://qiita.com/shun_hobby/items/94619e1027fe93fa1f0e",
-      "description": "【機械学習】Hydra × MLflow 最強の実験管理術",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-02-18T11:57:52.620809"
-    },
-    {
-      "source": "qiita",
-      "name": "【機械学習】MLflowで実験結果を「可視化・比較」する",
-      "owner": "shun_hobby",
-      "url": "https://qiita.com/shun_hobby/items/67e07676a0af6c25e522",
-      "description": "【機械学習】MLflowで実験結果を「可視化・比較」する",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-02-18T11:57:52.620820"
-    },
-    {
-      "source": "github",
-      "name": "Auto_job_applier_linkedIn",
-      "owner": "GodsScion",
-      "url": "https://github.com/GodsScion/Auto_job_applier_linkedIn",
-      "description": "Make your job hunt easy by automating your application process with this Auto Applier",
-      "stars": 1593,
-      "daily_stars": 34,
-      "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.474457"
+      "fetched_at": "2026-02-18T23:04:57.658618"
     },
     {
       "source": "github",
@@ -468,10 +457,10 @@
       "owner": "databricks-solutions",
       "url": "https://github.com/databricks-solutions/ai-dev-kit",
       "description": "Databricks Toolkit for Coding Agents provided by Field Engineering",
-      "stars": 363,
+      "stars": 387,
       "daily_stars": 33,
       "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.471913"
+      "fetched_at": "2026-02-18T23:04:50.507078"
     },
     {
       "source": "github",
@@ -479,10 +468,10 @@
       "owner": "TheAlgorithms",
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
-      "stars": 217772,
+      "stars": 217804,
       "daily_stars": 30,
       "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.473944"
+      "fetched_at": "2026-02-18T23:04:50.509406"
     },
     {
       "source": "github",
@@ -490,10 +479,10 @@
       "owner": "Cinnamon",
       "url": "https://github.com/Cinnamon/kotaemon",
       "description": "An open-source RAG-based tool for chatting with your documents.",
-      "stars": 25118,
-      "daily_stars": 21,
+      "stars": 25121,
+      "daily_stars": 19,
       "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.473121"
+      "fetched_at": "2026-02-18T23:04:50.508468"
     },
     {
       "source": "github",
@@ -501,10 +490,10 @@
       "owner": "microsoft",
       "url": "https://github.com/microsoft/agent-framework",
       "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-      "stars": 7223,
+      "stars": 7240,
       "daily_stars": 17,
       "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.472711"
+      "fetched_at": "2026-02-18T23:04:50.508008"
     },
     {
       "source": "github",
@@ -512,21 +501,21 @@
       "owner": "mistralai",
       "url": "https://github.com/mistralai/mistral-vibe",
       "description": "Minimal CLI coding agent by Mistral",
-      "stars": 3128,
+      "stars": 3131,
       "daily_stars": 15,
       "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.470683"
+      "fetched_at": "2026-02-18T23:04:50.505638"
     },
     {
       "source": "github",
       "name": "composio",
       "owner": "ComposioHQ",
       "url": "https://github.com/ComposioHQ/composio",
-      "description": "Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling",
-      "stars": 26621,
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "stars": 26735,
       "daily_stars": 14,
       "language": "all",
-      "fetched_at": "2026-02-18T11:57:47.099289"
+      "fetched_at": "2026-02-18T23:04:49.291250"
     },
     {
       "source": "github",
@@ -534,10 +523,10 @@
       "owner": "NVIDIA-NeMo",
       "url": "https://github.com/NVIDIA-NeMo/Automodel",
       "description": "Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support",
-      "stars": 318,
+      "stars": 321,
       "daily_stars": 5,
       "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.471093"
+      "fetched_at": "2026-02-18T23:04:50.506108"
     },
     {
       "source": "github",
@@ -545,10 +534,10 @@
       "owner": "mavlink",
       "url": "https://github.com/mavlink/mavlink",
       "description": "Marshalling / communication library for drones.",
-      "stars": 2163,
+      "stars": 2169,
       "daily_stars": 5,
       "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.473527"
+      "fetched_at": "2026-02-18T23:04:50.508948"
     },
     {
       "source": "github",
@@ -556,10 +545,10 @@
       "owner": "SemiAnalysisAI",
       "url": "https://github.com/SemiAnalysisAI/InferenceX",
       "description": "Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3",
-      "stars": 493,
+      "stars": 500,
       "daily_stars": 4,
       "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.471503"
+      "fetched_at": "2026-02-18T23:04:50.506597"
     },
     {
       "source": "github",
@@ -567,10 +556,10 @@
       "owner": "pytorch",
       "url": "https://github.com/pytorch/executorch",
       "description": "On-device AI across mobile, embedded and edge for PyTorch",
-      "stars": 4275,
+      "stars": 4279,
       "daily_stars": 3,
       "language": "python",
-      "fetched_at": "2026-02-18T11:57:48.474864"
+      "fetched_at": "2026-02-18T23:04:50.510488"
     }
   ],
   "x_hot_words": [
