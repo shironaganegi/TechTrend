@@ -43,11 +43,21 @@ def generate_tweet_thread(draft_content):
     1. First tweet must have a "Hook" that stops the scroll.
     2. Don't sound like a bot. Sound like a knowledgeable human.
     3. Include 3 relevant hashtags (e.g. #AI #Python).
-    4. Output format:
-       [Tweet 1]
-       ...
-       [Tweet 2]
-       ...
+      - スパム判定を避けるため、関連が低いタグは絶対に使わない。
+
+    **ブログ内容**:
+    {draft_content[:6000]}
+
+    **出力形式**:
+    [Tweet 1]
+    (本文)
+    [Image Proposal 1]
+    (提案内容：例「コードのBefore/After比較図」)
+    [Image Generation Prompt 1]
+    (プロンプト：例「Side-by-side comparison of messy code vs clean code with neon highlights...」)
+    ...
+    [Tweet 2]
+    ...
     """
     
     response = model.generate_content(prompt)
