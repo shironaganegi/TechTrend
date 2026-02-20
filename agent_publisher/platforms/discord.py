@@ -9,7 +9,7 @@ class DiscordPublisher:
         if not self.webhook_url:
              logger.warning("Discord Webhook URL missing.")
 
-    def notify(self, title, zenn_url, x_post_text, note_post_text=""):
+    def notify(self, title, zenn_url, x_post_text, note_post_text="", image_prompt_text=""):
         if not self.webhook_url:
             return
 
@@ -65,6 +65,13 @@ class DiscordPublisher:
             "name": "Note Post (Intro)",
             "value": f"```\n{note_post_text}\n\n{zenn_url}\n```"
         })
+        
+        # Process Image Prompt IF present
+        if image_prompt_text:
+            embed["fields"].append({
+                "name": "Image Generation Prompt",
+                "value": f"```\n{image_prompt_text}\n```"
+            })
         
         payload = {
             "username": "AI Affiliate Bot",

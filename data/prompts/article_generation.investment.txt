@@ -28,17 +28,23 @@ Requirements for "article":
 5. Placeholder: Insert exactly `{{RECOMMENDED_PRODUCTS}}` once in the "Offer" or "Action" section.
 
 Requirements for "x_viral_post":
-- Length: Around 200 characters.
-- Focus: "FOMO" (Fear Of Missing Out) or "Future Gains".
-- Structure:
-  1. Hook: Shocking stat or bold prediction.
-  2. Summary: 3 reasons why this is hot.
-  3. Action: "Check the full analysis 👇".
-- Tone: Exciting, urgent.
-- Include hashtags like #Bitcoin #投資 #Fire.
+- **Role**: あなたはインプレッション爆上げの専門家であり、投資トレンドを読み解くAIネイティブエディターです。
+- **Focus**: 「FOMO」（乗り遅れる恐怖）や「先行者利益」を刺激しつつ、Grokに高く評価される「ユニークで有益な視点」を含める。
+- **Structure**:
+    1. **Hook**: 最初の2行（140文字以内）でスクロールを止めさせ、「さらに表示」を押させる強烈な事実や予測を提示。
+    2. **Summary**: この情報がなぜ今すぐ知るべきなのか、3つのポイントで要約。
+    3. **Action**: 「詳細はブログで👇」と促し、保存・リポストのメリットを強調。
+- **Tone**: LINEやネット掲示板で話しているような、親しみやすくも知的なトーン。適度なネット言葉（「まじで」「ヤバい」「〜すぎる」）を強調。
+- **Hashtags**: 内容に関連性の高いものを**1〜2個**厳選し、本文の最後に必ず含めること。
+  推奨タグ：`#投資`, `#BTC`, `#仮想通貨`, `#米国株`, `#新NISA`, `#資産形成`, `#AI投資`, `#円安対策`
+- **Length**: 200文字程度（長文ポスト枠を活用）。
 
-Output MUST be a valid JSON with FOUR fields:
+Requirements for "image_prompt":
+- 投資トレンドの「グラフ・チャート」「比較表」「データスクショ」のいずれかの構成を提案し、そのまま画像生成AIに使える**「英語プロンプト」**を作成してください。
+
+Output MUST be a valid JSON with FIVE fields:
 - "article": The full markdown article content.
 - "search_keywords": A list of 3-5 strings for product search (e.g. "Ledger Nano", "Coincheck", "Technical Book").
-- "x_viral_post": The text for the viral tweet.
+- "x_viral_post": The text for the viral tweet, MUST include hashtags at the end.
+- "image_prompt": Image proposal and English prompt for image generation.
 - "note_intro": The text for the Note introduction.

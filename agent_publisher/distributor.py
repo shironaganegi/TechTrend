@@ -33,8 +33,11 @@ def parse_article(file_path):
     note_intro_match = re.search(r'^note_intro:\s*"(.*)"', content, re.MULTILINE)
     note_intro = note_intro_match.group(1).replace("\\n", "\n").replace('\\"', '"') if note_intro_match else None
 
+    image_prompt_match = re.search(r'^image_prompt:\s*"(.*)"', content, re.MULTILINE)
+    image_prompt = image_prompt_match.group(1).replace("\\n", "\n").replace('\\"', '"') if image_prompt_match else None
+
     body = re.sub(r'^---[\s\S]*?---\n', '', content)
-    return title, body, x_viral_post, note_intro
+    return title, body, x_viral_post, note_intro, image_prompt
 
 def main():
     logger.info("--- Starting Content Distribution ---")
@@ -45,7 +48,7 @@ def main():
         return
 
     # Process Japanese Article
-    title, body, x_viral_text, note_intro_text = parse_article(latest_ja_path)
+    title, body, x_viral_text, note_intro_text, image_prompt_text = parse_article(latest_ja_path)
     slug = os.path.basename(latest_ja_path).replace(".md", "")
     zenn_url = f"https://zenn.dev/shironaganegi/articles/{slug}"
     website_url = f"https://techtrend-watch.com/posts/{slug}/"
@@ -93,8 +96,9 @@ def main():
     discord = DiscordPublisher()
     x_text_for_discord = x_viral_text if x_viral_text else f"記事公開: {title}"
     note_text_for_discord = note_intro_text if note_intro_text else "Note用の紹介文はありません。"
+    img_text_for_discord = image_prompt_text if image_prompt_text else "画像提案はありません。"
     
-    discord.notify(title, website_url, x_text_for_discord, note_text_for_discord)
+    discord.notify(title, website_url, x_text_for_discord, note_text_for_discord, img_text_for_discord)
     
     logger.info("--- Distribution Completed ---")
 

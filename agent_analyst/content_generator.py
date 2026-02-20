@@ -120,6 +120,7 @@ def generate_article(tool_data, x_hot_words=[]):
         draft = res_json.get("article", "")
         keywords = res_json.get("search_keywords", [name])
         x_post = res_json.get("x_viral_post", "")
+        image_prompt = res_json.get("image_prompt", "")
         note_intro = res_json.get("note_intro", "")
         
     except (json.JSONDecodeError, AttributeError) as e:
@@ -133,6 +134,7 @@ def generate_article(tool_data, x_hot_words=[]):
             logger.info("Recovered article content using Regex fallback.")
             keywords = [name]
             x_post = ""
+            image_prompt = ""
             note_intro = ""
         else:
             # Fallback 2: Treat raw text as article, but strip JSON-like wrappers if present
@@ -142,6 +144,7 @@ def generate_article(tool_data, x_hot_words=[]):
             draft = response_text
             keywords = [name]
             x_post = ""
+            image_prompt = ""
             note_intro = ""
 
             # Minimal cleanup if it looks like JSON
@@ -161,7 +164,7 @@ def generate_article(tool_data, x_hot_words=[]):
         refined_article = final_article
 
     # 6. Append Ad, X Post & Note Intro
-    refined_article = append_footer_content(refined_article, x_post, note_intro)
+    refined_article = append_footer_content(refined_article, x_post, note_intro, image_prompt)
     
     return refined_article
     
@@ -218,7 +221,7 @@ def inject_products(draft, keywords):
     
     return draft.replace("{{RECOMMENDED_PRODUCTS}}", products_html).replace("{RECOMMENDED_PRODUCTS}", products_html)
 
-def append_footer_content(article, x_post, note_intro=""):
+def append_footer_content(article, x_post, note_intro="", image_prompt=""):
     # Add Affiliate Campaign
     ads = load_ads()
     try:
@@ -235,9 +238,13 @@ def append_footer_content(article, x_post, note_intro=""):
     if note_intro:
         article += f"\n\n---NOTE_INTRO_START---\n{note_intro}\n---NOTE_INTRO_END---\n"
         
+    # Add Hidden Image Prompt
+    if image_prompt:
+        article += f"\n\n---IMAGE_PROMPT_START---\n{image_prompt}\n---IMAGE_PROMPT_END---\n"
+        
     return article
 
-def generate_zenn_frontmatter(title, tool_name, source, x_post="", note_intro=""):
+def generate_zenn_frontmatter(title, tool_name, source, x_post="", note_intro="", image_prompt=""):
     """
     Generates Zenn compatible YAML frontmatter.
     """
@@ -251,6 +258,7 @@ def generate_zenn_frontmatter(title, tool_name, source, x_post="", note_intro=""
     # Escape quotes in metadata
     if x_post: x_post = x_post.replace('"', '\\"').replace("\n", "\\n")
     if note_intro: note_intro = note_intro.replace('"', '\\"').replace("\n", "\\n")
+    if image_prompt: image_prompt = image_prompt.replace('"', '\\"').replace("\n", "\\n")
 
     frontmatter = f"""---
 title: "{title}"
@@ -260,6 +268,7 @@ topics: {json.dumps(topics)}
 published: {str(is_published).lower()}
 x_viral_post: "{x_post}"
 note_intro: "{note_intro}"
+image_prompt: "{image_prompt}"
 ---
 
 """
@@ -424,11 +433,15 @@ if __name__ == "__main__":
     note_intro_match = re.search(r'---NOTE_INTRO_START---([\s\S]*?)---NOTE_INTRO_END---', body_content)
     note_intro = note_intro_match.group(1).strip() if note_intro_match else ""
     
+    image_prompt_match = re.search(r'---IMAGE_PROMPT_START---([\s\S]*?)---IMAGE_PROMPT_END---', body_content)
+    image_prompt = image_prompt_match.group(1).strip() if image_prompt_match else ""
+    
     # Clean body from blocks
     body_content = re.sub(r'---X_POST_START---[\s\S]*?---X_POST_END---\n?', '', body_content)
     body_content = re.sub(r'---NOTE_INTRO_START---[\s\S]*?---NOTE_INTRO_END---\n?', '', body_content)
+    body_content = re.sub(r'---IMAGE_PROMPT_START---[\s\S]*?---IMAGE_PROMPT_END---\n?', '', body_content)
 
-    frontmatter = generate_zenn_frontmatter(article_title, top_tool['name'], top_tool.get('source'), x_viral_post, note_intro)
+    frontmatter = generate_zenn_frontmatter(article_title, top_tool['name'], top_tool.get('source'), x_viral_post, note_intro, image_prompt)
     final_content = frontmatter + body_content
     
     # 5. Save Japanese Article

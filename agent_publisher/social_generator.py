@@ -29,35 +29,43 @@ def generate_tweet_thread(draft_content):
     model = genai.GenerativeModel('gemini-2.5-flash')
     
     prompt = f"""
-    You are a professional Social Media Manager for a tech news account.
-    Create a highly engaging Twitter (X) thread (3-5 tweets) based on the following blog post draft.
-    
-    **Goal**: Drive clicks to the blog post (assume the link is [LINK]).
-    **Target**: Japanese Engineers & Tech Enthusiasts.
-    **Tone**: Urgent, Exciting, insightful. Use Emojis effectively.
-    
-    **Content**:
-    {draft_content[:6000]}
-    
-    **Rules**:
-    1. First tweet must have a "Hook" that stops the scroll.
-    2. Don't sound like a bot. Sound like a knowledgeable human.
-    3. Include 3 relevant hashtags (e.g. #AI #Python).
-      - スパム判定を避けるため、関連が低いタグは絶対に使わない。
+    あなたはXで合計600万インプレッション以上獲得している、技術動向に精通したAIネイティブな日本人テックライターです。
+    提供されたブログ記事（ドラフト）に基づき、2026年現在で最もバズりやすいTwitter (X) スレッド（3-5ツイート）を作成してください。
+
+    **ターゲット**: 日本人のエンジニア、テック愛好家、最新ツールに敏感な層。
+    **トーン**: 
+    - 「友達にLINEで熱く語っている」ような親しみやすさと、プロとしての深い洞察を融合。
+    - 自然なネット言葉（「まじで」「ヤバい」「〜すぎる」など）を適度に使用。
+
+    **構成ルール（2026年アルゴリズム最適化）**:
+    1. **第1ポスト（フック）**: 
+       - 冒頭2行（140文字以内）で、絶対に「さらに表示」を押したくなる強烈なフックを作成。
+       - **※重要**: ハッシュタグ（1〜2個）はこの第1ポストの末尾に必ず含めること。
+    2. **中盤ポスト**:
+       - 役立つ＋ユニークな情報を1枚の図解（テキストによる説明）のように配置。
+    3. **最終ポスト**:
+       - ブログへの誘導（リンクプレースホルダー: [LINK]）を含める。
+       - コメントやリポストを促す行動喚起（CTA）を含める。
+
+    **ハッシュタグ**: 
+    - 以下から最も関連性の高いものを選択：`#AI活用`, `#生成AI`, `#エンジニアの日常`, `#AIツール`, `#LLM`
+
+    **画像生成指示**:
+    スレッド全体を通して最もバズりそうな画像を1つ提案してください。
+    - パターン：コード比較、図解、UI注釈、未来感ビジュアル等。
 
     **ブログ内容**:
     {draft_content[:6000]}
 
     **出力形式**:
     [Tweet 1]
+    (本文...ハッシュタグはここ)
+    ...
+    [Tweet N]
     (本文)
-    [Image Proposal 1]
-    (提案内容：例「コードのBefore/After比較図」)
-    [Image Generation Prompt 1]
-    (プロンプト：例「Side-by-side comparison of messy code vs clean code with neon highlights...」)
-    ...
-    [Tweet 2]
-    ...
+    
+    [Image Prompt]
+    (提案内容と、そのまま使える英語プロンプトをここに出力。※ポスト本文とは分離すること)
     """
     
     response = model.generate_content(prompt)
