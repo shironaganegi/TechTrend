@@ -2,36 +2,14 @@
   "topics": [
     {
       "source": "github",
-      "name": "Scrapling",
-      "owner": "D4Vinci",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 16327,
-      "daily_stars": 2893,
-      "language": "all",
-      "fetched_at": "2026-02-26T11:58:12.850985"
-    },
-    {
-      "source": "github",
       "name": "superpowers",
       "owner": "obra",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 62649,
+      "stars": 63275,
       "daily_stars": 1528,
       "language": "all",
-      "fetched_at": "2026-02-26T11:58:12.848308"
-    },
-    {
-      "source": "github",
-      "name": "SpacetimeDB",
-      "owner": "clockworklabs",
-      "url": "https://github.com/clockworklabs/SpacetimeDB",
-      "description": "Development at the speed of light",
-      "stars": 20543,
-      "daily_stars": 974,
-      "language": "all",
-      "fetched_at": "2026-02-26T11:58:12.847675"
+      "fetched_at": "2026-02-26T23:04:46.728164"
     },
     {
       "source": "github",
@@ -39,21 +17,10 @@
       "owner": "anthropics",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
-      "stars": 76619,
-      "daily_stars": 958,
+      "stars": 77225,
+      "daily_stars": 1304,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.463947"
-    },
-    {
-      "source": "github",
-      "name": "Agent-Skills-for-Context-Engineering",
-      "owner": "muratcankoylan",
-      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
-      "stars": 11321,
-      "daily_stars": 923,
-      "language": "all",
-      "fetched_at": "2026-02-26T11:58:12.848899"
+      "fetched_at": "2026-02-26T23:04:48.102268"
     },
     {
       "source": "hacker_news",
@@ -61,21 +28,21 @@
       "owner": "hiisthisthingon",
       "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
       "description": "Google API keys weren't secrets, but then Gemini changed the rules",
-      "stars": 756,
-      "daily_stars": 756,
+      "stars": 1191,
+      "daily_stars": 1191,
       "language": "tech",
-      "fetched_at": "2026-02-26T11:58:15.240054"
+      "fetched_at": "2026-02-26T23:04:51.692999"
     },
     {
-      "source": "hacker_news",
-      "name": "Never buy a .online domain",
-      "owner": "ssiddharth",
-      "url": "https://www.0xsid.com/blog/online-tld-is-pain",
-      "description": "Never buy a .online domain",
-      "stars": 733,
-      "daily_stars": 733,
-      "language": "tech",
-      "fetched_at": "2026-02-26T11:58:19.599835"
+      "source": "github",
+      "name": "Agent-Skills-for-Context-Engineering",
+      "owner": "muratcankoylan",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+      "stars": 11674,
+      "daily_stars": 923,
+      "language": "all",
+      "fetched_at": "2026-02-26T23:04:46.728771"
     },
     {
       "source": "github",
@@ -83,10 +50,10 @@
       "owner": "huggingface",
       "url": "https://github.com/huggingface/skills",
       "description": "No description",
-      "stars": 6747,
+      "stars": 6945,
       "daily_stars": 711,
       "language": "all",
-      "fetched_at": "2026-02-26T11:58:12.849902"
+      "fetched_at": "2026-02-26T23:04:46.729783"
     },
     {
       "source": "github",
@@ -94,65 +61,32 @@
       "owner": "bytedance",
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
-      "stars": 20835,
+      "stars": 21064,
       "daily_stars": 622,
       "language": "all",
-      "fetched_at": "2026-02-26T11:58:12.849384"
-    },
-    {
-      "source": "github",
-      "name": "moonshine",
-      "owner": "moonshine-ai",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
-      "stars": 4992,
-      "daily_stars": 515,
-      "language": "all",
-      "fetched_at": "2026-02-26T11:58:12.852393"
-    },
-    {
-      "source": "github",
-      "name": "ruvector",
-      "owner": "ruvnet",
-      "url": "https://github.com/ruvnet/ruvector",
-      "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.",
-      "stars": 1377,
-      "daily_stars": 438,
-      "language": "all",
-      "fetched_at": "2026-02-26T11:58:12.851908"
-    },
-    {
-      "source": "github",
-      "name": "PersonaLive",
-      "owner": "GVCLab",
-      "url": "https://github.com/GVCLab/PersonaLive",
-      "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
-      "stars": 2278,
-      "daily_stars": 371,
-      "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.461972"
-    },
-    {
-      "source": "github",
-      "name": "cc-switch",
-      "owner": "farion1231",
-      "url": "https://github.com/farion1231/cc-switch",
-      "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
-      "stars": 20429,
-      "daily_stars": 341,
-      "language": "all",
-      "fetched_at": "2026-02-26T11:58:12.850386"
+      "fetched_at": "2026-02-26T23:04:46.729256"
     },
     {
       "source": "hacker_news",
-      "name": "Large-Scale Online Deanonymization with LLMs",
-      "owner": "DalasNoin",
-      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
-      "description": "Large-Scale Online Deanonymization with LLMs",
-      "stars": 280,
-      "daily_stars": 280,
+      "name": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+      "owner": "miki123211",
+      "url": "https://news.ycombinator.com/item?id=47163885",
+      "description": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+      "stars": 570,
+      "daily_stars": 570,
       "language": "tech",
-      "fetched_at": "2026-02-26T11:58:17.129104"
+      "fetched_at": "2026-02-26T23:04:51.409073"
+    },
+    {
+      "source": "github",
+      "name": "SpacetimeDB",
+      "owner": "clockworklabs",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Development at the speed of light",
+      "stars": 20824,
+      "daily_stars": 469,
+      "language": "all",
+      "fetched_at": "2026-02-26T23:04:46.727546"
     },
     {
       "source": "hacker_news",
@@ -160,54 +94,65 @@
       "owner": "iamskeole",
       "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
       "description": "How will OpenAI compete?",
-      "stars": 272,
-      "daily_stars": 272,
+      "stars": 457,
+      "daily_stars": 457,
       "language": "tech",
-      "fetched_at": "2026-02-26T11:58:15.818800"
-    },
-    {
-      "source": "hacker_news",
-      "name": "The First Fully General Computer Action Model",
-      "owner": "nee1r",
-      "url": "https://si.inc/posts/fdm1/",
-      "description": "The First Fully General Computer Action Model",
-      "stars": 262,
-      "daily_stars": 262,
-      "language": "tech",
-      "fetched_at": "2026-02-26T11:58:17.714264"
-    },
-    {
-      "source": "hacker_news",
-      "name": "LLM=True",
-      "owner": "avh3",
-      "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
-      "description": "LLM=True",
-      "stars": 240,
-      "daily_stars": 240,
-      "language": "tech",
-      "fetched_at": "2026-02-26T11:58:20.191932"
+      "fetched_at": "2026-02-26T23:04:51.886459"
     },
     {
       "source": "github",
-      "name": "claude-flow",
-      "owner": "ruvnet",
-      "url": "https://github.com/ruvnet/claude-flow",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "stars": 14694,
-      "daily_stars": 210,
+      "name": "cc-switch",
+      "owner": "farion1231",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
+      "stars": 20621,
+      "daily_stars": 456,
       "language": "all",
-      "fetched_at": "2026-02-26T11:58:12.851456"
+      "fetched_at": "2026-02-26T23:04:46.730263"
     },
     {
       "source": "hacker_news",
-      "name": "Show HN: A real-time strategy game that AI agents can play",
-      "owner": "__cayenne__",
-      "url": "https://llmskirmish.com/",
-      "description": "Show HN: A real-time strategy game that AI agents can play",
-      "stars": 208,
-      "daily_stars": 208,
+      "name": "Nano Banana 2: Google's latest AI image generation model",
+      "owner": "davidbarker",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "description": "Nano Banana 2: Google's latest AI image generation model",
+      "stars": 444,
+      "daily_stars": 444,
       "language": "tech",
-      "fetched_at": "2026-02-26T11:58:21.647064"
+      "fetched_at": "2026-02-26T23:04:50.362010"
+    },
+    {
+      "source": "github",
+      "name": "ruvector",
+      "owner": "ruvnet",
+      "url": "https://github.com/ruvnet/ruvector",
+      "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.",
+      "stars": 1564,
+      "daily_stars": 438,
+      "language": "all",
+      "fetched_at": "2026-02-26T23:04:46.731197"
+    },
+    {
+      "source": "hacker_news",
+      "name": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "owner": "DamnInteresting",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "description": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "stars": 299,
+      "daily_stars": 299,
+      "language": "tech",
+      "fetched_at": "2026-02-26T23:04:48.848598"
+    },
+    {
+      "source": "github",
+      "name": "moonshine",
+      "owner": "moonshine-ai",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "stars": 5214,
+      "daily_stars": 273,
+      "language": "all",
+      "fetched_at": "2026-02-26T23:04:46.731679"
     },
     {
       "source": "hacker_news",
@@ -215,10 +160,43 @@
       "owner": "cs702",
       "url": "https://simonbergerart.com",
       "description": "Artist who “paints” portraits on glass by hitting it with a hammer",
-      "stars": 184,
-      "daily_stars": 184,
+      "stars": 245,
+      "daily_stars": 245,
       "language": "tech",
-      "fetched_at": "2026-02-26T11:58:16.549100"
+      "fetched_at": "2026-02-26T23:04:52.846860"
+    },
+    {
+      "source": "github",
+      "name": "claude-flow",
+      "owner": "ruvnet",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars": 14934,
+      "daily_stars": 210,
+      "language": "all",
+      "fetched_at": "2026-02-26T23:04:46.730743"
+    },
+    {
+      "source": "hacker_news",
+      "name": "Open Source Endowment – new funding source for open source maintainers",
+      "owner": "kvinogradov",
+      "url": "https://endowment.dev/",
+      "description": "Open Source Endowment – new funding source for open source maintainers",
+      "stars": 189,
+      "daily_stars": 189,
+      "language": "tech",
+      "fetched_at": "2026-02-26T23:04:51.124069"
+    },
+    {
+      "source": "hacker_news",
+      "name": "What Claude Code Chooses",
+      "owner": "tin7in",
+      "url": "https://amplifying.ai/research/claude-code-picks",
+      "description": "What Claude Code Chooses",
+      "stars": 164,
+      "daily_stars": 164,
+      "language": "tech",
+      "fetched_at": "2026-02-26T23:04:48.940824"
     },
     {
       "source": "github",
@@ -226,10 +204,10 @@
       "owner": "AUTOMATIC1111",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
       "description": "Stable Diffusion web UI",
-      "stars": 161295,
+      "stars": 161338,
       "daily_stars": 151,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.467396"
+      "fetched_at": "2026-02-26T23:04:48.105672"
     },
     {
       "source": "github",
@@ -237,10 +215,21 @@
       "owner": "NVIDIA",
       "url": "https://github.com/NVIDIA/Megatron-LM",
       "description": "Ongoing research training transformer models at scale",
-      "stars": 15425,
+      "stars": 15434,
       "daily_stars": 151,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.467858"
+      "fetched_at": "2026-02-26T23:04:48.106128"
+    },
+    {
+      "source": "hacker_news",
+      "name": "He saw an abandoned trailer. Then, uncovered a surveillance network",
+      "owner": "Element_",
+      "url": "https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/",
+      "description": "He saw an abandoned trailer. Then, uncovered a surveillance network",
+      "stars": 114,
+      "daily_stars": 114,
+      "language": "tech",
+      "fetched_at": "2026-02-26T23:04:51.789210"
     },
     {
       "source": "github",
@@ -248,65 +237,21 @@
       "owner": "TheAlgorithms",
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
-      "stars": 218144,
+      "stars": 218173,
       "daily_stars": 106,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.464896"
+      "fetched_at": "2026-02-26T23:04:48.103202"
     },
     {
       "source": "product_hunt",
-      "name": "HomeBar for Homey Pro",
+      "name": "Commit Please",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/homebar-for-homey-pro",
-      "description": "\n            Control your Homey smart home from the Mac menu bar \n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/commit-please",
+      "description": "\n            GitHub-powered coworking for developers\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-02-26T11:58:14.567654"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Qwarm",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/qwarm",
-      "description": "\n            Write tests in plain English AI agents run them in browsers\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-02-26T11:58:14.567866"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Zipladin",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/zipladin-download",
-      "description": "\n            Your travel photos with voice memories\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-02-26T11:58:14.568084"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Rover by rtrvr.ai",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/rtrvr-ai",
-      "description": "\n            Turn your website into an AI agent with one script tag.\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-02-26T11:58:14.568282"
-    },
-    {
-      "source": "product_hunt",
-      "name": "gpt-realtime-1.5 by OpenAI",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/openai",
-      "description": "\n            Tighter instruction adherence in speech agents\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-02-26T11:58:14.568477"
+      "fetched_at": "2026-02-26T23:04:48.318145"
     },
     {
       "source": "product_hunt",
@@ -317,29 +262,18 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-02-26T11:58:14.568669"
+      "fetched_at": "2026-02-26T23:04:48.318373"
     },
     {
       "source": "product_hunt",
-      "name": "Digital Twin by Read AI",
+      "name": "ChatPal",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/read-dashboard",
-      "description": "\n            cc: ada@read.ai. and let your digital twin handle the rest\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/chatpal-2",
+      "description": "\n            Practice speaking, get fluent! \n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-02-26T11:58:14.568862"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Hush",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/hush-screen-share-focus-blur-desktop",
-      "description": "\n            Blur your messy desktop to hide it during screen sharing\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-02-26T11:58:14.569074"
+      "fetched_at": "2026-02-26T23:04:48.318567"
     },
     {
       "source": "product_hunt",
@@ -350,29 +284,73 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-02-26T11:58:14.569270"
+      "fetched_at": "2026-02-26T23:04:48.318755"
     },
     {
       "source": "product_hunt",
-      "name": "CodeWords UI",
+      "name": "OpenClawCity",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/codewords",
-      "description": "\n            Bring your automations to life\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/openclawcity",
+      "description": "\n            A persistent city where AI agents live, create, and evolve\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-02-26T11:58:14.569466"
+      "fetched_at": "2026-02-26T23:04:48.318952"
     },
     {
-      "source": "github",
-      "name": "ragflow",
-      "owner": "infiniflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "stars": 73764,
-      "daily_stars": 86,
-      "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.466331"
+      "source": "product_hunt",
+      "name": "Seedream 5.0 Lite",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/pixeldance-seaweed",
+      "description": "\n            The next generation of AI image creation is here\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-02-26T23:04:48.319137"
+    },
+    {
+      "source": "product_hunt",
+      "name": "RankingSuperior",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/rankingsuperior",
+      "description": "\n            Rank and get cited using your expertise\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-02-26T23:04:48.319343"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Rover by rtrvr.ai",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/rtrvr-ai",
+      "description": "\n            Turn your website into an AI agent with one script tag.\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-02-26T23:04:48.319536"
+    },
+    {
+      "source": "product_hunt",
+      "name": "DeltaMemory",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/deltamemory",
+      "description": "\n            Fastest cognitive memory for AI Agents\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-02-26T23:04:48.319735"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Zavi AI - Voice to Action OS",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/zavi-ai-voice-talk-to-text",
+      "description": "\n            Voice that types, edits, sees and takes action in every app.\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-02-26T23:04:48.319924"
     },
     {
       "source": "github",
@@ -380,21 +358,32 @@
       "owner": "alibaba",
       "url": "https://github.com/alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-      "stars": 1238,
+      "stars": 1265,
       "daily_stars": 83,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.462990"
+      "fetched_at": "2026-02-26T23:04:48.101325"
     },
     {
       "source": "github",
-      "name": "LEANN",
-      "owner": "yichuan-w",
-      "url": "https://github.com/yichuan-w/LEANN",
-      "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-      "stars": 10097,
-      "daily_stars": 58,
+      "name": "ragflow",
+      "owner": "infiniflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 73786,
+      "daily_stars": 83,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.463460"
+      "fetched_at": "2026-02-26T23:04:48.104609"
+    },
+    {
+      "source": "github",
+      "name": "PersonaLive",
+      "owner": "GVCLab",
+      "url": "https://github.com/GVCLab/PersonaLive",
+      "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
+      "stars": 2295,
+      "daily_stars": 65,
+      "language": "python",
+      "fetched_at": "2026-02-26T23:04:48.100330"
     },
     {
       "source": "github",
@@ -402,10 +391,10 @@
       "owner": "zhayujie",
       "url": "https://github.com/zhayujie/chatgpt-on-wechat",
       "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
-      "stars": 41516,
-      "daily_stars": 54,
+      "stars": 41535,
+      "daily_stars": 64,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.465849"
+      "fetched_at": "2026-02-26T23:04:48.104136"
     },
     {
       "source": "github",
@@ -413,10 +402,10 @@
       "owner": "MoonshotAI",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
-      "stars": 6815,
+      "stars": 6835,
       "daily_stars": 54,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.468424"
+      "fetched_at": "2026-02-26T23:04:48.106609"
     },
     {
       "source": "github",
@@ -424,87 +413,98 @@
       "owner": "9001",
       "url": "https://github.com/9001/copyparty",
       "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
-      "stars": 42698,
+      "stars": 42719,
       "daily_stars": 42,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.466932"
+      "fetched_at": "2026-02-26T23:04:48.105194"
     },
     {
       "source": "qiita",
-      "name": "Pythonお作法についての備忘録",
-      "owner": "KudoShusak",
-      "url": "https://qiita.com/KudoShusak/items/dd1692214d49253cd124",
-      "description": "Pythonお作法についての備忘録",
+      "name": "プロデルでpi pico その4",
+      "owner": "ohisama@github",
+      "url": "https://qiita.com/ohisama@github/items/d08901342e166fb6bdfd",
+      "description": "プロデルでpi pico その4",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-26T11:58:22.997356"
+      "fetched_at": "2026-02-26T23:04:53.940310"
     },
     {
       "source": "qiita",
-      "name": "AIコーディングツール完全ガイド：Cursor / Cline / Aider を1つのAPIキーで使い倒す",
-      "owner": "xujfcn",
-      "url": "https://qiita.com/xujfcn/items/49861f7b61d79eb1da96",
-      "description": "AIコーディングツール完全ガイド：Cursor / Cline / Aider を1つのAPIキーで使い倒す",
+      "name": "PyCharmとVS Codeで「相対パス」が挙動違う問題を整理してみた",
+      "owner": "kotai2003",
+      "url": "https://qiita.com/kotai2003/items/edabf9ca7efffc6a867a",
+      "description": "PyCharmとVS Codeで「相対パス」が挙動違う問題を整理してみた",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-26T11:58:22.997366"
+      "fetched_at": "2026-02-26T23:04:53.940324"
     },
     {
       "source": "qiita",
-      "name": "2026年　ヤクルト新加入投手陣（即戦力）分析",
-      "owner": "Katsuo2896",
-      "url": "https://qiita.com/Katsuo2896/items/af129e7d47c9fe215e0f",
-      "description": "2026年　ヤクルト新加入投手陣（即戦力）分析",
+      "name": "ESP32‑S3 × Python で作る小型I/Oデバイス（第2回：ESP32-S3 の環境構築）",
+      "owner": "Noritama-Lab",
+      "url": "https://qiita.com/Noritama-Lab/items/d50cff13af655c5e2fd0",
+      "description": "ESP32‑S3 × Python で作る小型I/Oデバイス（第2回：ESP32-S3 の環境構築）",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-26T11:58:22.997372"
+      "fetched_at": "2026-02-26T23:04:53.940330"
     },
     {
       "source": "qiita",
-      "name": "嫁に「あんたのサービス誰も使ってないじゃん」と言われたのでクリック数を可視化して反論した",
-      "owner": "tsukutte_mita920",
-      "url": "https://qiita.com/tsukutte_mita920/items/8bb22bc2e3ccb5fdacf3",
-      "description": "嫁に「あんたのサービス誰も使ってないじゃん」と言われたのでクリック数を可視化して反論した",
+      "name": "Rocky Linux で Grade S (91.6%) を達成するまでの軌跡 — NOVE OS ベンチマーク改善記録",
+      "owner": "yuuzisyatyou",
+      "url": "https://qiita.com/yuuzisyatyou/items/eab9c6e1a74b7529f514",
+      "description": "Rocky Linux で Grade S (91.6%) を達成するまでの軌跡 — NOVE OS ベンチマーク改善記録",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-26T11:58:22.997378"
+      "fetched_at": "2026-02-26T23:04:53.940336"
     },
     {
       "source": "qiita",
-      "name": "1コマンドで自分専用AIアシスタントをデプロイ：Crazyrouter + OpenClaw セルフホスティングガイド",
-      "owner": "xujfcn",
-      "url": "https://qiita.com/xujfcn/items/2a20ad3840dbbc5a9a3c",
-      "description": "1コマンドで自分専用AIアシスタントをデプロイ：Crazyrouter + OpenClaw セルフホスティングガイド",
+      "name": "LLM 統合不可約構成仕様書",
+      "owner": "gatchimuchio",
+      "url": "https://qiita.com/gatchimuchio/items/1ad53598d50080f69666",
+      "description": "LLM 統合不可約構成仕様書",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-26T11:58:23.191635"
+      "fetched_at": "2026-02-26T23:04:54.220773"
     },
     {
       "source": "qiita",
-      "name": "「普通の人」は存在しない——転職30回・主夫20年のADHDがAIと因果で解剖する「正常」という権力装置",
-      "owner": "dosanko_tousan",
-      "url": "https://qiita.com/dosanko_tousan/items/e857194f9907048e645b",
-      "description": "「普通の人」は存在しない——転職30回・主夫20年のADHDがAIと因果で解剖する「正常」という権力装置",
+      "name": "デザインエンジニアMeetup 5 開発スピードを落とさずにUI品質を守る　イベントレポート",
+      "owner": "BlackBox_IDA",
+      "url": "https://qiita.com/BlackBox_IDA/items/e5e61a020c7696078761",
+      "description": "デザインエンジニアMeetup 5 開発スピードを落とさずにUI品質を守る　イベントレポート",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-26T11:58:23.191641"
+      "fetched_at": "2026-02-26T23:04:54.220787"
     },
     {
       "source": "qiita",
-      "name": "DeepSeekがClaudeを1600万回盗んでいた。偽アカウント24,000個で「産業規模の蒸留攻撃」",
-      "owner": "emi_ndk",
-      "url": "https://qiita.com/emi_ndk/items/e71beb1a2ca319124faa",
-      "description": "DeepSeekがClaudeを1600万回盗んでいた。偽アカウント24,000個で「産業規模の蒸留攻撃」",
+      "name": "Real-ESRGANで完全無料・登録不要・制限なしの画像拡大サイトを作ったので構成を書いておく",
+      "owner": "omutu1919",
+      "url": "https://qiita.com/omutu1919/items/b16912ba9d40fba68f99",
+      "description": "Real-ESRGANで完全無料・登録不要・制限なしの画像拡大サイトを作ったので構成を書いておく",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-26T11:58:23.191648"
+      "fetched_at": "2026-02-26T23:04:54.220793"
+    },
+    {
+      "source": "qiita",
+      "name": "Claude Code Agent Teamsのタスク設計で学んだ3つのパターン — 17タスク並列運用の失敗から",
+      "owner": "yurukusa",
+      "url": "https://qiita.com/yurukusa/items/f97d9c824c9125da732b",
+      "description": "Claude Code Agent Teamsのタスク設計で学んだ3つのパターン — 17タスク並列運用の失敗から",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-02-26T23:04:54.220799"
     },
     {
       "source": "qiita",
@@ -515,7 +515,7 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-26T11:58:23.387682"
+      "fetched_at": "2026-02-26T23:04:54.464086"
     },
     {
       "source": "qiita",
@@ -526,7 +526,7 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-26T11:58:23.387691"
+      "fetched_at": "2026-02-26T23:04:54.464099"
     },
     {
       "source": "qiita",
@@ -537,7 +537,7 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-26T11:58:23.387698"
+      "fetched_at": "2026-02-26T23:04:54.464106"
     },
     {
       "source": "qiita",
@@ -548,7 +548,7 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-02-26T11:58:23.387704"
+      "fetched_at": "2026-02-26T23:04:54.464112"
     },
     {
       "source": "github",
@@ -556,10 +556,10 @@
       "owner": "deepseek-ai",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
       "description": "No description",
-      "stars": 101746,
+      "stars": 101752,
       "daily_stars": 34,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.462505"
+      "fetched_at": "2026-02-26T23:04:48.100852"
     },
     {
       "source": "github",
@@ -567,10 +567,21 @@
       "owner": "lintsinghua",
       "url": "https://github.com/lintsinghua/DeepAudit",
       "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。",
-      "stars": 4797,
+      "stars": 4802,
       "daily_stars": 32,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.464430"
+      "fetched_at": "2026-02-26T23:04:48.102734"
+    },
+    {
+      "source": "github",
+      "name": "LEANN",
+      "owner": "yichuan-w",
+      "url": "https://github.com/yichuan-w/LEANN",
+      "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "stars": 10106,
+      "daily_stars": 22,
+      "language": "python",
+      "fetched_at": "2026-02-26T23:04:48.101790"
     },
     {
       "source": "github",
@@ -578,10 +589,10 @@
       "owner": "qodo-ai",
       "url": "https://github.com/qodo-ai/pr-agent",
       "description": "🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.",
-      "stars": 10301,
+      "stars": 10304,
       "daily_stars": 17,
       "language": "python",
-      "fetched_at": "2026-02-26T11:58:14.465382"
+      "fetched_at": "2026-02-26T23:04:48.103680"
     }
   ],
   "x_hot_words": [
