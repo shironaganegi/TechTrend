@@ -1,6 +1,12 @@
+"""
+配信オーケストレーター: 生成された記事をQiita, Zenn, X (Twitter), BlueSky, Discord等に
+マルチ配信するモジュール。
+"""
 import os
 import glob
 import re
+import logging
+from typing import Tuple, Optional
 from src.shared.config import config
 from src.shared.utils import setup_logging
 
@@ -12,18 +18,26 @@ from src.agent_publisher.platforms.discord import DiscordPublisher
 
 logger = setup_logging(__name__)
 
-def get_latest_article():
-    """Finds the latest article in the Zenn articles directory."""
-    files = sorted([f for f in glob.glob(os.path.join(config.ARTICLES_DIR, "*.md")) if not f.endswith(".en.md")], key=os.path.getmtime, reverse=True)
+
+def get_latest_article() -> Optional[str]:
+    """Zenn 記事ディレクトリから最新の日本語記事のパスを取得する。"""
+    files = [
+        f for f in glob.glob(os.path.join(config.ARTICLES_DIR, "*.md"))
+        if not f.endswith(".en.md")
+    ]
     if not files:
         return None
+    # 更新日時順にソートして最新を取得
+    files.sort(key=os.path.getmtime, reverse=True)
     return files[0]
 
-def parse_article(file_path):
-    """Extracts title, body, and metadata from the Zenn Markdown file."""
+
+def parse_article(file_path: str) -> Tuple[str, str, Optional[str], Optional[str], Optional[str]]:
+    """Zenn のマークダウンファイルからタイトル、本文、メタデータを抽出する。"""
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
+    # regexを使用してフロントマターを解析
     title_match = re.search(r'^title:\s*"(.*)"', content, re.MULTILINE)
     title = title_match.group(1) if title_match else "No Title"
     
@@ -36,38 +50,41 @@ def parse_article(file_path):
     image_prompt_match = re.search(r'^image_prompt:\s*"(.*)"', content, re.MULTILINE)
     image_prompt = image_prompt_match.group(1).replace("\\n", "\n").replace('\\"', '"') if image_prompt_match else None
 
+    # 本文を取り出すためにフロントマターを除去
     body = re.sub(r'^---[\s\S]*?---\n', '', content)
+    
     return title, body, x_viral_post, note_intro, image_prompt
 
-def main():
-    logger.info("--- Starting Content Distribution ---")
+
+def main() -> None:
+    logger.info("--- コンテンツ配信プロセス開始 ---")
 
     latest_ja_path = get_latest_article()
     if not latest_ja_path:
-        logger.warning("No articles found to distribute.")
+        logger.warning("配信する記事が見つかりませんでした。")
         return
 
-    # Process Japanese Article
+    # 日本語記事の処理
     title, body, x_viral_text, note_intro_text, image_prompt_text = parse_article(latest_ja_path)
     slug = os.path.basename(latest_ja_path).replace(".md", "")
     zenn_url = f"https://zenn.dev/shironaganegi/articles/{slug}"
     website_url = f"https://techtrend-watch.com/posts/{slug}/"
     
-    logger.info(f"Processing (JA): {title}")
+    logger.info(f"処理中 (JA): {title}")
 
-    # 1. Qiita (Disabled: Bot detection risk)
+    # 1. Qiita (Bot検出リスクのため一旦無効化)
     # qiita = QiitaPublisher()
     # qiita.publish(title, body, website_url)
 
-    # 2. BlueSky (Use Website URL for traffic)
+    # 2. BlueSky
     bsky = BlueSkyPublisher()
     bsky.publish(title, website_url)
 
-    # 3. Twitter (X) (Use Website URL for traffic)
+    # 3. Twitter (X)
     twitter = TwitterPublisher()
     twitter.publish(custom_text=x_viral_text, article_url=website_url)
 
-    # 4. Hugo (JA) (Pass Website URL for canonical/footer ref - no backlink needed)
+    # 4. Hugo (JA)
     hugo = HugoPublisher()
     hugo.save_article(title, body, website_url, latest_ja_path, lang="ja")
 
@@ -76,7 +93,7 @@ def main():
     latest_en_path = os.path.join(config.EN_ARTICLES_DIR, filename_en)
     
     if os.path.exists(latest_en_path):
-        logger.info(f"Found English translation: {latest_en_path}")
+        logger.info(f"英語版記事が見つかりました: {latest_en_path}")
         try:
             with open(latest_en_path, 'r', encoding='utf-8') as f:
                 en_content = f.read()
@@ -85,14 +102,13 @@ def main():
             en_title = en_title_match.group(1) if en_title_match else title
             en_body = re.sub(r'^---[\s\S]*?---\n', '', en_content)
             
-            # Pass website_url for EN canonical too
             hugo.save_article(en_title, en_body, website_url, latest_en_path, lang="en")
         except Exception as e:
-             logger.error(f"Failed to generate Hugo article (EN): {e}")
+             logger.error(f"Hugo記事の生成(EN)に失敗: {e}")
     else:
-        logger.info("No English translation found. Skipping EN distribution.")
+        logger.info("英語版記事が見つからないため、EN配信をスキップします。")
 
-    # 6. Discord Notification (Use Website URL)
+    # 6. Discord 通知
     discord = DiscordPublisher()
     x_text_for_discord = x_viral_text if x_viral_text else f"記事公開: {title}"
     note_text_for_discord = note_intro_text if note_intro_text else "Note用の紹介文はありません。"
@@ -100,7 +116,8 @@ def main():
     
     discord.notify(title, website_url, x_text_for_discord, note_text_for_discord, img_text_for_discord)
     
-    logger.info("--- Distribution Completed ---")
+    logger.info("--- コンテンツ配信プロセス完了 ---")
+
 
 if __name__ == "__main__":
     main()

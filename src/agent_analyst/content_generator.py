@@ -1,13 +1,13 @@
-from bs4 import BeautifulSoup
+"""コンテンツジェネレーター: トレンドデータからAI記事を自動生成するモジュール。"""
 from datetime import datetime, timedelta
 import warnings
-import sys
 import os
 import json
 import re
 import random
 import string
 import logging
+from typing import List, Dict, Any, Optional
 
 from src.agent_analyst.failure_miner import mine_failures
 from src.agent_analyst.product_recommender import search_related_items
@@ -17,14 +17,8 @@ from src.agent_analyst.affiliate_manager import affiliate_manager
 from src.shared.config import config
 from src.shared.utils import setup_logging, safe_requests_get
 
-# Suppress deprecation warnings
 warnings.filterwarnings("ignore", category=FutureWarning)
 
-# Ensure stdout handles unicode
-if sys.stdout.encoding:
-    sys.stdout.reconfigure(encoding='utf-8')
-
-# Configure Logging
 logger = setup_logging(__name__)
 
 def get_readme_content(github_url):
@@ -62,21 +56,24 @@ def load_ads():
         logger.error(f"Failed to load ads from {config.ADS_FILE}: {e}")
         return []
 
-def generate_article(tool_data, x_hot_words=[]):
+def generate_article(tool_data: Dict[str, Any], x_hot_words: Optional[List[str]] = None) -> str:
     """
-    Generates a blog post draft and a viral X post using Gemini.
+    Gemini を使ってブログ記事ドラフトとバイラルXポストを生成する。
     """
+    if x_hot_words is None:
+        x_hot_words = []
+
     name = tool_data.get('name')
     description = tool_data.get('description')
     url = tool_data.get('url')
     
-    print(f"Analyzing {name}...")
+    logger.info(f"分析中: {name}")
     readme_text = get_readme_content(url)
     failure_context = mine_failures(name)
     x_context = ", ".join(x_hot_words[:10])
     
-    # 1. Prepare Prompt
-    prompt_template = llm_client.load_prompt(os.path.join(config.PROMPTS_DIR, "article_generation.txt"))
+    # 1. プロンプトの読み込み
+    prompt_template = llm_client.load_prompt("article_generation.txt")
     if not prompt_template:
         return f"# {name}\n\nMetrics error: Prompt file missing."
 
@@ -160,7 +157,7 @@ def generate_article(tool_data, x_hot_words=[]):
     try:
         refined_article = refine_article(final_article)
     except Exception as e:
-        print(f"Editor refinement failed: {e}")
+        logger.warning(f"エディターリファインに失敗: {e}")
         refined_article = final_article
 
     # 6. Append Ad, X Post & Note Intro
@@ -228,7 +225,8 @@ def append_footer_content(article, x_post, note_intro="", image_prompt=""):
         ad = random.choice(ads)
         # Use Zenn message block for cleaner ad separation
         article += f"\n\n:::message\n**おすすめのサービス (PR)**\n\n{ad['html']}\n:::\n"
-    except: pass
+    except (IndexError, KeyError):
+        pass
 
     # Add Hidden X Post
     if x_post:

@@ -2,6 +2,7 @@ import json
 import os
 from datetime import datetime
 import logging
+from typing import List, Dict, Any, Optional
 from src.shared.config import config
 from src.shared.utils import setup_logging
 
@@ -17,7 +18,7 @@ from src.agent_watcher.sources.rss import fetch_rss_trends
 # Setup logging
 logger = setup_logging(__name__)
 
-def save_trends(data, x_trends=None, filename_prefix="trends"):
+def save_trends(data: List[Dict[str, Any]], x_trends: Optional[List[str]] = None, filename_prefix: str = "trends") -> None:
     """Saves the raw trend data to a daily file."""
     output_dir = config.DATA_DIR
     os.makedirs(output_dir, exist_ok=True)
@@ -33,24 +34,24 @@ def save_trends(data, x_trends=None, filename_prefix="trends"):
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, indent=2, ensure_ascii=False)
     
-    logging.info(f"Saved {len(data)} topics and {len(x_trends or [])} X trends to {filepath}")
+    logger.info(f"Saved {len(data)} topics and {len(x_trends or [])} X trends to {filepath}")
 
-def load_source_config():
+def load_source_config() -> List[Dict[str, Any]]:
     config_path = os.path.join(os.path.dirname(__file__), "sources_config.json")
     if os.path.exists(config_path):
         with open(config_path, 'r', encoding='utf-8') as f:
             return json.load(f)
     return []
 
-def main():
+def main() -> None:
     """
     Main execution flow to hunt trends from sources defined in config.
     """
-    logging.info("--- Project Trend-Hunter Started ---")
+    logger.info("--- Project Trend-Hunter Started ---")
     
     # 1. Load Sources Config
     sources = load_source_config()
-    all_trends = []
+    all_trends: List[Dict[str, Any]] = []
 
     # Map source types to functions
     source_map = {
@@ -63,12 +64,12 @@ def main():
     }
 
     for source in sources:
-        sType = source.get("type")
+        sType = source.get("type", "")
         params = source.get("params", {})
         
         if sType in source_map:
             try:
-                logging.info(f"Fetching from {sType} with params {params}...")
+                logger.info(f"Fetching from {sType} with params {params}...")
                 # Dispatch with params if function accepts them
                 if sType == "github":
                     trends = source_map[sType](**params)
@@ -77,7 +78,7 @@ def main():
                 
                 all_trends.extend(trends)
             except Exception as e:
-                logging.error(f"Failed to fetch from {sType}: {e}")
+                logger.error(f"Failed to fetch from {sType}: {e}")
 
     # Get X trends for viral context (Global context, not a source per se)
     x_hot_words = fetch_x_trends()
@@ -86,16 +87,17 @@ def main():
     seen_urls = set()
     unique_trends = []
     for trend in all_trends:
-        if trend["url"] not in seen_urls:
+        url = trend.get("url")
+        if url and url not in seen_urls:
             unique_trends.append(trend)
-            seen_urls.add(trend["url"])
+            seen_urls.add(url)
             
     # 3. Sort by 'daily_stars' (Ranking signal)
     sorted_trends = sorted(unique_trends, key=lambda x: x.get("daily_stars", 0), reverse=True)
     
     # 4. Save results
     save_trends(sorted_trends, x_trends=x_hot_words)
-    logging.info("--- Project Trend-Hunter Completed ---")
+    logger.info("--- Project Trend-Hunter Completed ---")
 
 if __name__ == "__main__":
     main()

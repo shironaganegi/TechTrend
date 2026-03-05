@@ -1,23 +1,16 @@
-import os
-# import google.generativeai as genai # REMOVED
-from src.agent_analyst.llm_client import get_gemini_response
-from dotenv import load_dotenv
+"""
+エディターエージェント: AI が生成したドラフト記事を
+「白ネギ・テック」の編集長ペルソナでリライトするモジュール。
+"""
+import logging
+from typing import Optional
+from src.agent_analyst.llm import llm_client
+from src.shared.config import config
 
-load_dotenv()
+logger = logging.getLogger(__name__)
 
-# Configure Gemini - API Key check is done inside llm_client
-api_key = os.getenv("GEMINI_API_KEY")
-
-def refine_article(draft_text):
-    """
-    Acts as a sharp tech editor to refine and humanize the AI-generated draft.
-    """
-    if not api_key:
-        print("WARNING: GEMINI_API_KEY is missing. Editor bypass.")
-        return draft_text
-
-    try:
-        system_prompt = """
+# エディター用システムプロンプト（定数）
+EDITOR_SYSTEM_PROMPT = """
 あなたはテック系メディア「白ネギ・テック」の敏腕編集長です。
 提出されたAI下書きを、読者の知的好奇心を刺激する、エモーショナルで読み応えのある記事にリライトしてください。
 
@@ -38,34 +31,27 @@ def refine_article(draft_text):
 - **これらは一文字たりとも変更・削除・移動せず、元の位置にそのまま維持してください。** AIが勝手に解釈して要約したり、Markdownに変換したりすることは厳禁です。
 - Markdownの構造（# や ## などの見出し）は維持してください。
 """
-        prompt = f"{system_prompt}\n\n以下が編集対象の原稿です（出力は記事本文のみ）：\n\n{draft_text}"
 
-        candidate_models = [
-            'gemini-2.0-flash-lite-001',
-            'gemini-flash-latest',
-            'gemini-2.0-flash',
-            'gemini-pro-latest'
-        ]
 
-        response_data = None
-        for model_name in candidate_models:
-            print(f"Editor optimizing using: {model_name}...")
-            # No JSON constraint, we want raw text (markdown)
-            response_data = get_gemini_response(prompt, model_name)
-            if response_data:
-                break
-                
-        if not response_data:
-            print("All editor models failed.")
-            return draft_text
+def refine_article(draft_text: str) -> str:
+    """
+    LLMClientを使用してドラフト記事をリライトする。
+    失敗時は元のドラフトをそのまま返す（安全なフォールバック）。
+    """
+    if not config.GEMINI_API_KEY:
+        logger.warning("GEMINI_API_KEY が未設定のためエディター処理をスキップします。")
+        return draft_text
 
-        # Extract text from REST response
-        try:
-            return response_data["candidates"][0]["content"]["parts"][0]["text"]
-        except (KeyError, IndexError, TypeError):
-             print(f"Editor response parsing failed: {response_data}")
-             return draft_text
+    try:
+        prompt = f"{EDITOR_SYSTEM_PROMPT}\n\n以下が編集対象の原稿です（出力は記事本文のみ）：\n\n{draft_text}"
+        result = llm_client.generate_content(prompt)
+
+        if result:
+            return result
+        
+        logger.warning("エディターのレスポンスが空でした。元のドラフトを使用します。")
+        return draft_text
 
     except Exception as e:
-        print(f"Editor refinement failed: {e}")
-        return draft_text # Fallback to original
+        logger.error(f"エディター処理中にエラーが発生: {e}")
+        return draft_text
