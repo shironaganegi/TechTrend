@@ -1,7 +1,7 @@
 from google import genai
 from google.genai import types
 import logging
-from shared.config import config
+from src.shared.config import config
 import time
 
 logger = logging.getLogger(__name__)

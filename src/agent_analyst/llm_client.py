@@ -1,7 +1,7 @@
 import os
 import requests
 import json
-from shared.utils import load_config
+from src.shared.utils import load_config
 
 # Load configuration to ensure env vars are available
 load_config()

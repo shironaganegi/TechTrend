@@ -1,6 +1,6 @@
 import os
 # import google.generativeai as genai # REMOVED
-from agent_analyst.llm_client import get_gemini_response
+from src.agent_analyst.llm_client import get_gemini_response
 from dotenv import load_dotenv
 
 load_dotenv()

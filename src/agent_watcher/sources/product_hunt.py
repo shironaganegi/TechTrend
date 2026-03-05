@@ -1,7 +1,7 @@
 import feedparser
 from bs4 import BeautifulSoup
 from datetime import datetime
-from shared.utils import setup_logging, DEFAULT_USER_AGENT
+from src.shared.utils import setup_logging, DEFAULT_USER_AGENT
 
 logger = setup_logging(__name__)
 

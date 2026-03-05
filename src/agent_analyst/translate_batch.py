@@ -2,8 +2,8 @@ import os
 import glob
 import time
 import re
-from agent_analyst.content_generator import translate_article_to_english
-from shared.utils import load_config
+from src.agent_analyst.content_generator import translate_article_to_english
+from src.shared.utils import load_config
 
 # Load env variables (API keys etc)
 load_config()

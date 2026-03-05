@@ -2,8 +2,8 @@ import os
 import time
 import logging
 from datetime import datetime, timedelta
-from shared.config import config
-from shared.utils import setup_logging
+from src.shared.config import config
+from src.shared.utils import setup_logging
 
 # Setup logging
 logger = setup_logging(__name__)

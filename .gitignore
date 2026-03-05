@@ -15,3 +15,6 @@ venv/
 # For this "Human Node" workflow, committing drafts is good.)
 # data/
 # drafts/
+
+# Logs
+logs/

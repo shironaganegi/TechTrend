@@ -1,14 +1,14 @@
 import os
 import glob
 import re
-from shared.config import config
-from shared.utils import setup_logging
+from src.shared.config import config
+from src.shared.utils import setup_logging
 
-from agent_publisher.platforms.qiita import QiitaPublisher
-from agent_publisher.platforms.bluesky import BlueSkyPublisher
-from agent_publisher.platforms.twitter import TwitterPublisher
-from agent_publisher.platforms.hugo import HugoPublisher
-from agent_publisher.platforms.discord import DiscordPublisher
+from src.agent_publisher.platforms.qiita import QiitaPublisher
+from src.agent_publisher.platforms.bluesky import BlueSkyPublisher
+from src.agent_publisher.platforms.twitter import TwitterPublisher
+from src.agent_publisher.platforms.hugo import HugoPublisher
+from src.agent_publisher.platforms.discord import DiscordPublisher
 
 logger = setup_logging(__name__)
 

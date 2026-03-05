@@ -1,5 +1,5 @@
-from agent_publisher.platforms.discord import DiscordPublisher
-from shared.config import config
+from src.agent_publisher.platforms.discord import DiscordPublisher
+from src.shared.config import config
 
 if __name__ == "__main__":
     # Compatible wrapper for "Draft Created" notification

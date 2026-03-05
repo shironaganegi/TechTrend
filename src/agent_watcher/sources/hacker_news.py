@@ -1,5 +1,5 @@
 from datetime import datetime
-from shared.utils import setup_logging, safe_requests_get
+from src.shared.utils import setup_logging, safe_requests_get
 
 logger = setup_logging(__name__)
 

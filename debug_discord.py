@@ -1,5 +1,5 @@
-from agent_publisher.platforms.discord import DiscordPublisher
-from shared.utils import setup_logging
+from src.agent_publisher.platforms.discord import DiscordPublisher
+from src.shared.utils import setup_logging
 import logging
 
 # Configure basic logging to see output

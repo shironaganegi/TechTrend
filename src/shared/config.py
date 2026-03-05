@@ -29,7 +29,7 @@ class Config:
     ZENN_AUTO_PUBLISH: bool = os.getenv("ZENN_AUTO_PUBLISH", "true").lower() == "true"
     
     # Paths
-    BASE_DIR: str = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    BASE_DIR: str = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     DATA_DIR: str = os.path.join(BASE_DIR, "data")
     ARTICLES_DIR: str = os.path.join(BASE_DIR, "articles")
     EN_ARTICLES_DIR: str = os.path.join(DATA_DIR, "articles_en")

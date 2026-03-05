@@ -1,8 +1,8 @@
 import os
 import requests
 import re
-from shared.config import config
-from shared.utils import setup_logging, safe_requests_post
+from src.shared.config import config
+from src.shared.utils import setup_logging, safe_requests_post
 
 logger = setup_logging(__name__)
 

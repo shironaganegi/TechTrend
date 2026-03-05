@@ -1,7 +1,7 @@
 import feedparser
 from datetime import datetime
 import logging
-from shared.utils import setup_logging
+from src.shared.utils import setup_logging
 
 logger = setup_logging(__name__)
 

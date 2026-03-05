@@ -2,9 +2,9 @@
 import json
 import random
 import os
-from agent_analyst.product_recommender import search_related_items
-from shared.config import config
-from shared.utils import setup_logging
+from src.agent_analyst.product_recommender import search_related_items
+from src.shared.config import config
+from src.shared.utils import setup_logging
 
 logger = setup_logging(__name__)
 

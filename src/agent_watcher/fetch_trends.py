@@ -2,17 +2,17 @@ import json
 import os
 from datetime import datetime
 import logging
-from shared.config import config
-from shared.utils import setup_logging
+from src.shared.config import config
+from src.shared.utils import setup_logging
 
 # Import trend sources
-from agent_watcher.sources.github import fetch_github_trending
-from agent_watcher.sources.product_hunt import fetch_product_hunt_trends
-from agent_watcher.sources.hacker_news import fetch_hacker_news_trends
-from agent_watcher.sources.zenn import fetch_zenn_trends
-from agent_watcher.sources.qiita import fetch_qiita_trends
-from agent_watcher.sources.x_trends import fetch_x_trends
-from agent_watcher.sources.rss import fetch_rss_trends
+from src.agent_watcher.sources.github import fetch_github_trending
+from src.agent_watcher.sources.product_hunt import fetch_product_hunt_trends
+from src.agent_watcher.sources.hacker_news import fetch_hacker_news_trends
+from src.agent_watcher.sources.zenn import fetch_zenn_trends
+from src.agent_watcher.sources.qiita import fetch_qiita_trends
+from src.agent_watcher.sources.x_trends import fetch_x_trends
+from src.agent_watcher.sources.rss import fetch_rss_trends
 
 # Setup logging
 logger = setup_logging(__name__)
