@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "魔法の杖を、その手に。PythonでChatGPTを「飼い慣らす」ための思考と実践 (English)"
 date = "2026-03-01T06:10:14.654980"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to 魔法の杖を、その手に。PythonでChatGPTを「飼い慣らす」ための思考と実践 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/2lxlhsw1peged7/"
 +++

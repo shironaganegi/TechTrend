@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "NVIDIA PersonaPlex：AIは「無機質な道具」から「魂を持つ隣人」へ。"
 date = "2026-02-17T06:19:57.907200"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「NVIDIA PersonaPlex：AIは「無機質な道具」から「魂を持つ隣人」へ。」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/1g6rujbuvedktx/"
 +++

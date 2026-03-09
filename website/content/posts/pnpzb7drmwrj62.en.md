@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "「サーバー不要」の衝撃。Rustで書く次世代DB「SpacetimeDB」がバックエンド開発を破壊する件 (English)"
 date = "2026-02-26T12:04:34.046135"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to 「サーバー不要」の衝撃。Rustで書く次世代DB「SpacetimeDB」がバックエンド開発を破壊する件 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/pnpzb7drmwrj62/"
 +++

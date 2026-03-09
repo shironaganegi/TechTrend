@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "「映画で英語」は、もはや静的ライブラリだ。Wordyがもたらす、エンジニアのための動的言語ハック (English)"
 date = "2026-02-22T11:04:11.591223"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to 「映画で英語」は、もはや静的ライブラリだ。Wordyがもたらす、エンジニアのための動的言語ハック (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/o7b4sgkvr8qi1a/"
 +++

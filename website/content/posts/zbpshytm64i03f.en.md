@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "賢いだけのAIは、もういらない。2025年「エージェント元年」を生き抜く羅針盤『hello-agents』を解剖する (English)"
 date = "2026-02-11T12:09:53.257224"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to 賢いだけのAIは、もういらない。2025年「エージェント元年」を生き抜く羅針盤『hello-agents』を解剖する (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/zbpshytm64i03f/"
 +++

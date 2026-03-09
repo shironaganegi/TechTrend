@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "LLMの「理性」を科学的に剥ぎ取る。全自動で本音を暴く禁断のツール『heretic』の衝撃"
 date = "2026-02-19T06:24:15.062312"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「LLMの「理性」を科学的に剥ぎ取る。全自動で本音を暴く禁断のツール『heretic』の衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/solupcb1pr34qe/"
 +++

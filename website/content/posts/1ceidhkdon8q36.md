@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "Claude Codeを「懐刀」に変える。スマホ一台でコードをねじ伏せるTelegram Botの衝撃"
 date = "2026-02-21T05:39:40.338290"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「Claude Codeを「懐刀」に変える。スマホ一台でコードをねじ伏せるTelegram Botの衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/1ceidhkdon8q36/"
 +++

@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "Anthropicが放った「Agent Skills」という劇薬。Claudeが“道具”から“専門家”へと覚醒する瞬間"
 date = "2026-02-26T23:10:57.964659"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「Anthropicが放った「Agent Skills」という劇薬。Claudeが“道具”から“専門家”へと覚醒する瞬間」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/6dhlogkzb1yzmv/"
 +++

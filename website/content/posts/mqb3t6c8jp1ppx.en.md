@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "AI開発の「聖域」が暴かれた？CursorやDevinを操る“3万行の魔導書”に震えろ (English)"
 date = "2026-02-22T23:04:06.105555"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to AI開発の「聖域」が暴かれた？CursorやDevinを操る“3万行の魔導書”に震えろ (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/mqb3t6c8jp1ppx/"
 +++

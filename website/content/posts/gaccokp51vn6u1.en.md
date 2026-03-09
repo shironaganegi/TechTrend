@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "AIに「自由」と「枷」を。Alibaba発のOpenSandboxが、エージェント開発の景色を塗り替える (English)"
 date = "2026-03-01T22:36:48.885421"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to AIに「自由」と「枷」を。Alibaba発のOpenSandboxが、エージェント開発の景色を塗り替える (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/gaccokp51vn6u1/"
 +++

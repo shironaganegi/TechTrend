@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "New AI Tool: The Waymo World Model (English)"
 date = "2026-02-07T18:06:06.321679"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to New AI Tool: The Waymo World Model (English)"
 canonicalUrl = "https://zenn.dev/shironaganegi/articles/6f9ygv36mznta6"
 +++

@@ -1,2 +1,28 @@
+<link rel="stylesheet" href="/css/custom.css">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8651981255093232"
     crossorigin="anonymous"></script>
+
+<!-- Cookie Consent Banner -->
+<div id="cookie-consent" style="display: none;">
+    <div class="consent-text">
+        当サイトでは、サービスの向上および広告配信のためにCookieを使用しています。詳細は<a href="/privacy/">プライバシーポリシー</a>をご覧ください。
+    </div>
+    <div class="consent-actions">
+        <button id="accept-cookies">承諾する</button>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        if (!localStorage.getItem('cookieConsent')) {
+            document.getElementById('cookie-consent').style.display = 'flex';
+        }
+        document.getElementById('accept-cookies').addEventListener('click', function () {
+            localStorage.setItem('cookieConsent', 'true');
+            document.getElementById('cookie-consent').style.opacity = '0';
+            setTimeout(() => {
+                document.getElementById('cookie-consent').style.display = 'none';
+            }, 500);
+        });
+    });
+</script>

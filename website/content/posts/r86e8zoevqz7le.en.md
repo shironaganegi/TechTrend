@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "Pythonの`astimezone`で事故る前に！「環境依存」という見えない爆弾を解体する極意 🚀 (English)"
 date = "2026-03-02T10:57:16.078412"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to Pythonの`astimezone`で事故る前に！「環境依存」という見えない爆弾を解体する極意 🚀 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/r86e8zoevqz7le/"
 +++

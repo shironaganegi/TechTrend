@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "New AI Tool: Felsius (English)"
 date = "2026-02-08T06:14:36.233833"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to New AI Tool: Felsius (English)"
 canonicalUrl = "https://zenn.dev/shironaganegi/articles/jadwtkcnijybdt"
 +++

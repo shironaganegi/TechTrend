@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "「画面の向こう」に魂を実装せよ。Project AIRIで描く、パーソナルAIの特異点 (English)"
 date = "2026-02-28T22:56:24.563586"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to 「画面の向こう」に魂を実装せよ。Project AIRIで描く、パーソナルAIの特異点 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/tmp86g0frca6eb/"
 +++

@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "巨匠Knuthが描く、もう一人の「Claude」の肖像。計算機科学の聖域『Claude's Cycles』に震えろ"
 date = "2026-03-04T10:50:15.542679"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「巨匠Knuthが描く、もう一人の「Claude」の肖像。計算機科学の聖域『Claude's Cycles』に震えろ」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/9x68pp95lfqjlq/"
 +++

@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "【警告】ネットの年齢確認が「個人情報の墓場」になる？IEEEが鳴らす警鐘と、僕たちが選ぶべき第三の道"
 date = "2026-02-24T12:06:34.727671"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「【警告】ネットの年齢確認が「個人情報の墓場」になる？IEEEが鳴らす警鐘と、僕たちが選ぶべき第三の道」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/d0e561bbcu1q1o/"
 +++

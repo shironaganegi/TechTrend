@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "溢れかえるメールの波に溺れていないか？LLMで「デュアルメールボックス」を完全自動化する知的武装のススメ (English)"
 date = "2026-02-18T12:05:54.695691"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to 溢れかえるメールの波に溺れていないか？LLMで「デュアルメールボックス」を完全自動化する知的武装のススメ (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/qryv03epzb9cfg/"
 +++

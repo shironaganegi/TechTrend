@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "「AgentCenter for OpenClaw」が爆誕！AIエージェントの”司令塔”はこれで決まり？管理の苦労をゼロにする方法 (English)"
 date = "2026-03-03T11:06:47.462661"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to 「AgentCenter for OpenClaw」が爆誕！AIエージェントの”司令塔”はこれで決まり？管理の苦労をゼロにする方法 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/too8bocxmiserp/"
 +++

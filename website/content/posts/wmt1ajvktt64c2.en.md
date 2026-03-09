@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "OpenAIが政府と結ぶ「見えない首輪」。アイデンティティ監視の真実と、僕たちが失うもの (English)"
 date = "2026-02-24T23:12:25.076407"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to OpenAIが政府と結ぶ「見えない首輪」。アイデンティティ監視の真実と、僕たちが失うもの (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/wmt1ajvktt64c2/"
 +++

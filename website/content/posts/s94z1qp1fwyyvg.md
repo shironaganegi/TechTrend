@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "Claude Code × NetworkXで挑むバイオインフォマティクス：がんシグナル解析の自動化"
 date = "2026-02-11T00:13:28.958761"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「Claude Code × NetworkXで挑むバイオインフォマティクス：がんシグナル解析の自動化」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/s94z1qp1fwyyvg/"
 +++

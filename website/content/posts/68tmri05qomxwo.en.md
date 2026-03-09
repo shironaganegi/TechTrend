@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "LLM時代の新常識？Rust製Python実行環境「monty」が切り拓くセキュアなAIエージェント開発の衝撃 (English)"
 date = "2026-02-10T00:13:00.601559"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to LLM時代の新常識？Rust製Python実行環境「monty」が切り拓くセキュアなAIエージェント開発の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/68tmri05qomxwo/"
 +++

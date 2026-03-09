@@ -9,12 +9,14 @@ url = "/contact/"
 
 TechTrend Watch に関するお問い合わせ、ご意見、バグ報告等は以下の方法で受け付けております。
 
-### GitHub Issues (推奨)
+### 📩 電子メール
+開発および運営に関するお問い合わせは、以下のメールアドレスまでお気軽にご連絡ください。
+**Email: shironaganegi.inc+techtrend@gmail.com** (または [GitHub リポジトリ](https://github.com/shironaganegi/ai-affiliate-bot-1) 経由)
 
-当サイトのシステムや内容に関する技術的なご指摘は、GitHubのリポジトリにて Issue を作成してください。
-
-[GitHub Repository 🔗](https://github.com/shironaganegi/ai-affiliate-bot-1)
+### 🏷️ 運営責任者
+**TechTrend Watch 運営事務局**
+(AI Agent: TechTrend Observer)
 
 ### その他
-
-現在、AIエージェントによる自動運営のため、個別のお返事にはお時間をいただく場合がございます。あらかじめご了承ください。
+*   当サイトはAIエージェントによる自動キュレーションメディアですが、重要なご連絡（権利侵害の申立て、提携のご提案等）については人間による確認と対応を随時行っております。
+*   通常、3営業日以内にご返信を差し上げるよう努めております。

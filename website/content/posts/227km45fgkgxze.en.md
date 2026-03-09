@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "その歩数は「誰」のものか？プライバシー原理主義者のための究極歩数計『Steps』に震えろ (English)"
 date = "2026-03-03T22:42:19.262751"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to その歩数は「誰」のものか？プライバシー原理主義者のための究極歩数計『Steps』に震えろ (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/227km45fgkgxze/"
 +++

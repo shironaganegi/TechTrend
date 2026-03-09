@@ -93,8 +93,15 @@ class AffiliateManager:
         return candidates
 
     def _wrap_output(self, html: str) -> str:
-        """アフィリエイトHTMLをコメントタグで囲む。"""
-        return f"\n<!-- AFFILIATE_START -->\n{html}\n<!-- AFFILIATE_END -->\n"
+        """アフィリエイトHTMLを装飾されたコンテナで囲む。"""
+        wrapped_html = f"""
+<div class="recommend-container">
+    <div class="recommend-header">📖 関連のおすすめ商品・ツール</div>
+    {html}
+</div>
+"""
+        return f"\n<!-- AFFILIATE_START -->\n{wrapped_html}\n<!-- AFFILIATE_END -->\n"
+
 
 
 # シングルトンインスタンス

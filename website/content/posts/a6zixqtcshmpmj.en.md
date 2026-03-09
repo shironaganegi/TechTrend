@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "New AI Tool: NoteのProseMirror対応HTML変換を作った話｜アイキャッチ画像APIも発見 (English)"
 date = "2026-02-08T04:50:36.257634"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to New AI Tool: NoteのProseMirror対応HTML変換を作った話｜アイキャッチ画像APIも発見 (English)"
 canonicalUrl = "https://zenn.dev/shironaganegi/articles/a6zixqtcshmpmj"
 +++

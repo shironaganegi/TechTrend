@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "北の大地が「日本のラストホープ」に化ける。EV特区構想『5本の矢』が描く、美しき逆転劇"
 date = "2026-02-27T11:54:12.910614"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「北の大地が「日本のラストホープ」に化ける。EV特区構想『5本の矢』が描く、美しき逆転劇」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/79qzyr3ubwin9z/"
 +++

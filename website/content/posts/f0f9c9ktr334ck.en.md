@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "Xcodeという「重力」から解放される日。AIでiOSアプリ開発を再定義する『Rork Max』の衝撃 (English)"
 date = "2026-02-21T11:03:56.081400"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to Xcodeという「重力」から解放される日。AIでiOSアプリ開発を再定義する『Rork Max』の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/f0f9c9ktr334ck/"
 +++

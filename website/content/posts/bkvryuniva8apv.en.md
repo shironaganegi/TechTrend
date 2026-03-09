@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "サイト改修に負けない！次世代スクレイピング「Scrapling」がまじで最強すぎる件 (English)"
 date = "2026-02-25T12:17:09.977765"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to サイト改修に負けない！次世代スクレイピング「Scrapling」がまじで最強すぎる件 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/bkvryuniva8apv/"
 +++

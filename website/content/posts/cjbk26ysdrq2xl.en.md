@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "膨れ上がるトークンへの「特効薬」となるか。AIゲートウェイ「Edgee」が切り拓く、知的なダイエットのすすめ (English)"
 date = "2026-02-12T12:05:30.564325"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to 膨れ上がるトークンへの「特効薬」となるか。AIゲートウェイ「Edgee」が切り拓く、知的なダイエットのすすめ (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/cjbk26ysdrq2xl/"
 +++

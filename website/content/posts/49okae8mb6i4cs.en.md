@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "その1ドルが命取りに？エンジニアが「.online」ドメインを選んではいけない3つの冷徹な理由 (English)"
 date = "2026-02-25T23:24:11.543137"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to その1ドルが命取りに？エンジニアが「.online」ドメインを選んではいけない3つの冷徹な理由 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/49okae8mb6i4cs/"
 +++

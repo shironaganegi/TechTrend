@@ -72,6 +72,10 @@ def generate_article(tool_data: Dict[str, Any], x_hot_words: Optional[List[str]]
     failure_context = mine_failures(name)
     x_context = ", ".join(x_hot_words[:10])
     
+    from src.agent_analyst.brain_connector import brain_connector
+    strategic_context = brain_connector.get_strategic_context()
+    adsense_sop = brain_connector.get_adsense_sop()
+    
     # 1. プロンプトの読み込み
     prompt_template = llm_client.load_prompt("article_generation.txt")
     if not prompt_template:
@@ -83,8 +87,11 @@ def generate_article(tool_data: Dict[str, Any], x_hot_words: Optional[List[str]]
         description=description,
         readme_text=readme_text[:5000],
         failure_context=failure_context,
-        x_context=x_context
+        x_context=x_context,
+        strategic_context=strategic_context[:3000], # Limit to avoid context overflow
+        adsense_sop=adsense_sop[:2000]
     )
+
 
     if not config.GEMINI_API_KEY:
         return f"# {name}\n:::message\n本記事はプロモーションを含みます\n:::\nMock content.\n{{{{RECOMMENDED_PRODUCTS}}}}"

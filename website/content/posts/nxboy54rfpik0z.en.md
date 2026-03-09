@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "または、高度な動的サイトを攻略するなら、こちらを推奨します (English)"
 date = "2026-02-09T12:08:14.557224"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to または、高度な動的サイトを攻略するなら、こちらを推奨します (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/nxboy54rfpik0z/"
 +++

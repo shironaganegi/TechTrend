@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "RAGの「チャンク職人」を卒業せよ。推論ベースの破壊者『PageIndex』が描く検索の終焉"
 date = "2026-02-23T23:55:16.106695"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「RAGの「チャンク職人」を卒業せよ。推論ベースの破壊者『PageIndex』が描く検索の終焉」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/kv5g0qsy40nviq/"
 +++

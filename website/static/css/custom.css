@@ -1,0 +1,188 @@
+/* Custom CSS for TechTrend Watch - Premium Edition */
+
+:root {
+    --primary: #3366ff;
+    --primary-light: #f0f4ff;
+    --accent: #e44d26;
+    --bg-card: #ffffff;
+    --text-main: #2c3e50;
+    --text-muted: #7f8c8d;
+    --border-radius: 12px;
+}
+
+body {
+    font-family: 'Inter', 'Outfit', 'Noto Sans JP', sans-serif;
+    color: var(--text-main);
+}
+
+/* Base Post Styling */
+.post-content h2 {
+    margin-top: 2.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--primary-light);
+}
+
+/* Recommendation Box (Affiliate) */
+.recommend-container {
+    background: linear-gradient(135deg, #ffffff 0%, #f9faff 100%);
+    border: 1px solid #eef2ff;
+    border-radius: var(--border-radius);
+    padding: 24px;
+    margin: 40px 0;
+    box-shadow: 0 10px 30px rgba(51, 102, 255, 0.05);
+}
+
+.recommend-header {
+    font-size: 1.2em;
+    font-weight: 800;
+    color: var(--primary);
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.recommend-header::before {
+    content: '💎';
+}
+
+.recommend-item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px 0;
+    border-bottom: 1px solid #f1f5f9;
+}
+
+.recommend-item:last-child {
+    border-bottom: none;
+}
+
+.recommend-item img {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+    border-radius: 10px;
+    background: #fff;
+    border: 1px solid #f8fafc;
+    transition: transform 0.3s ease;
+}
+
+.recommend-item:hover img {
+    transform: scale(1.05);
+}
+
+.recommend-info {
+    flex: 1;
+}
+
+.recommend-name {
+    display: block;
+    font-size: 1.05em;
+    font-weight: 700;
+    color: #1e293b;
+    text-decoration: none;
+    line-height: 1.4;
+    margin-bottom: 10px;
+}
+
+.recommend-name:hover {
+    color: var(--primary);
+}
+
+.recommend-price {
+    font-size: 1em;
+    color: var(--accent);
+    font-weight: 800;
+}
+
+.recommend-badge {
+    display: inline-block;
+    font-size: 0.75em;
+    font-weight: bold;
+    padding: 4px 12px;
+    background: var(--primary);
+    color: white;
+    border-radius: 20px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Expert Opinion / Callout Block (AdSense Loves This) */
+.expert-opinion {
+    position: relative;
+    background: #f8fafc;
+    border-left: 5px solid var(--primary);
+    padding: 24px;
+    margin: 30px 0;
+    border-radius: 0 8px 8px 0;
+}
+
+.expert-opinion::before {
+    content: "EXPERT VIEW";
+    position: absolute;
+    top: -12px;
+    left: 20px;
+    background: var(--primary);
+    color: white;
+    font-size: 0.7em;
+    font-weight: 900;
+    padding: 2px 10px;
+    border-radius: 4px;
+}
+
+/* Cookie Consent Banner */
+#cookie-consent {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border: 1px solid #e2e8f0;
+    padding: 20px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    animation: slideUp 0.5s ease-out;
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+#cookie-consent button {
+    background: var(--primary);
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+#cookie-consent button:hover {
+    background: #2563eb;
+    transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+    #cookie-consent {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+}

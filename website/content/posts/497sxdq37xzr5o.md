@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "【革命】コードを書くAI、壊すAI。自律型ペンテスター『Shannon』が暴く、爆速開発の「致命的な裏側」"
 date = "2026-03-05T04:56:02.724712"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「【革命】コードを書くAI、壊すAI。自律型ペンテスター『Shannon』が暴く、爆速開発の「致命的な裏側」」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/497sxdq37xzr5o/"
 +++

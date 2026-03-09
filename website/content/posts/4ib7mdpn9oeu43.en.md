@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "AIエージェントが「最強のシニア」に化ける。開発手法『Superpowers』がまじで革命的すぎる件 (English)"
 date = "2026-02-20T12:05:51.941427"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to AIエージェントが「最強のシニア」に化ける。開発手法『Superpowers』がまじで革命的すぎる件 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/4ib7mdpn9oeu43/"
 +++

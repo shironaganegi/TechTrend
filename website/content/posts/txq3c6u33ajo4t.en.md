@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "「AIを使えば使うほど、あなたは『つまらない人間』になる？」— 効率化という名の底なし沼から、\"人間らしさ\"を救い出せ (English)"
 date = "2026-02-19T23:11:41.231082"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to 「AIを使えば使うほど、あなたは『つまらない人間』になる？」— 効率化という名の底なし沼から、\"人間らしさ\"を救い出せ (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/txq3c6u33ajo4t/"
 +++

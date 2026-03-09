@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "2026年の「AI指揮官」への招待状：AutoGen、LangGraph、CrewAI、君の武器は決まったか？ (English)"
 date = "2026-03-04T22:44:31.943788"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to 2026年の「AI指揮官」への招待状：AutoGen、LangGraph、CrewAI、君の武器は決まったか？ (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/v4laanjro73xfv/"
 +++

@@ -55,9 +55,22 @@ def _search_rakuten(keyword: str) -> List[str]:
         image_urls = item.get("mediumImageUrls", [{}])
         image = image_urls[0].get("imageUrl", "") if image_urls else ""
         
-        # Zenn 互換の Markdown 形式
-        markdown = f"\n[![{name}]({image})]({affiliate_url})\n[{name}]({affiliate_url}) (価格: {price}円)\n"
-        markdown_results.append(markdown)
+        # 構造化された HTML 形式（カスタムCSS対応）
+        html = f"""
+<div class="recommend-item">
+    <div class="recommend-image">
+        <a href="{affiliate_url}" target="_blank" rel="nofollow">
+            <img src="{image}" alt="{name}">
+        </a>
+    </div>
+    <div class="recommend-info">
+        <span class="recommend-badge">おすすめの技術書・ツール</span>
+        <a href="{affiliate_url}" class="recommend-name" target="_blank" rel="nofollow">{name}</a>
+        <div class="recommend-price">{price}円 (楽天市場)</div>
+    </div>
+</div>"""
+        markdown_results.append(html)
+
 
     return markdown_results
 

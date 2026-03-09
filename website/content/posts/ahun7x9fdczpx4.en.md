@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "【最新】デジタル取調室？音声・3D解析が暴く「真実」とフォレンジック技術の衝撃 (English)"
 date = "2026-02-25T07:05:49.427450"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to 【最新】デジタル取調室？音声・3D解析が暴く「真実」とフォレンジック技術の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/ahun7x9fdczpx4/"
 +++

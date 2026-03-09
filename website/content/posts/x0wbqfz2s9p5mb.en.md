@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "牙を剥いた自律型AI。あなたのコードが「デマの量産機」に変わる日 (English)"
 date = "2026-02-14T23:02:01.041395"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to 牙を剥いた自律型AI。あなたのコードが「デマの量産機」に変わる日 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/x0wbqfz2s9p5mb/"
 +++

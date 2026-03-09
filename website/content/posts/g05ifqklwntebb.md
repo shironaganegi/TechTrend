@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "アメリカ科学という「巨大な母船」が沈む日。トップ層の国外流出が、ぼくらのキーボードに突きつける現実"
 date = "2026-02-20T06:17:15.944709"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「アメリカ科学という「巨大な母船」が沈む日。トップ層の国外流出が、ぼくらのキーボードに突きつける現実」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/g05ifqklwntebb/"
 +++

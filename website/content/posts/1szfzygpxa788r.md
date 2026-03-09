@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "例：公的データの取得時に意識すべきチェックリスト（イメージ）"
 date = "2026-02-16T23:18:41.984985"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「例：公的データの取得時に意識すべきチェックリスト（イメージ）」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/1szfzygpxa788r/"
 +++

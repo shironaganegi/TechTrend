@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "最強の相棒を、ポケットに。Claude CodeをSlackで操る「リモートCLI操作ブリッジ」が、エンジニアを物理的な制約から解放する (English)"
 date = "2026-02-26T06:21:09.299478"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to 最強の相棒を、ポケットに。Claude CodeをSlackで操る「リモートCLI操作ブリッジ」が、エンジニアを物理的な制約から解放する (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/fkl0d5rknyd9ly/"
 +++

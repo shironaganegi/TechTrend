@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "Matchlock – Secures AI agent workloads with a Linux-based sandbox (English)"
 date = "2026-02-09T06:49:32.491080"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to Matchlock – Secures AI agent workloads with a Linux-based sandbox (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/d0jra4vhmkdhjw/"
 +++

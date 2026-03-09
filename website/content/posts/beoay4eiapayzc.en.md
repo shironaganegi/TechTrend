@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "開発者の「脳内」を先回りする神速の知能――Claude Sonnet 4.6が描く、AI開発のシン・常識 (English)"
 date = "2026-02-17T23:20:10.618819"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to 開発者の「脳内」を先回りする神速の知能――Claude Sonnet 4.6が描く、AI開発のシン・常識 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/beoay4eiapayzc/"
 +++

@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "「AIに会いに行く」のはもう終わり。全方位型ゲートウェイ『OpenClaw』で、AIをあなたの日常へ「召喚」せよ (English)"
 date = "2026-02-15T11:06:07.791472"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to 「AIに会いに行く」のはもう終わり。全方位型ゲートウェイ『OpenClaw』で、AIをあなたの日常へ「召喚」せよ (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/m0h49pcd2mcxb1/"
 +++

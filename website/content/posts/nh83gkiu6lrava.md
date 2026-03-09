@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "牙を剥くAPIコストに、知性と「無料枠」で立ち向かえ。最強のリポジトリ「free-llm-api-resources」を使い倒す"
 date = "2026-02-14T11:06:11.079868"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「牙を剥くAPIコストに、知性と「無料枠」で立ち向かえ。最強のリポジトリ「free-llm-api-resources」を使い倒す」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/nh83gkiu6lrava/"
 +++

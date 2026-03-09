@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "脳内に「4人の天才」を飼う衝撃。Grok 4.2の「合議制AI」が、エンジニアの孤独な戦いを終わらせる。 (English)"
 date = "2026-02-23T12:14:12.073536"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to 脳内に「4人の天才」を飼う衝撃。Grok 4.2の「合議制AI」が、エンジニアの孤独な戦いを終わらせる。 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/c2f0izz3fk04jd/"
 +++

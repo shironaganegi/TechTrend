@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "「Pythonは遅い」という呪縛を解く。2024年にエンジニアが向き合うべき「真の速度」とは？"
 date = "2026-02-15T06:16:22.469936"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「「Pythonは遅い」という呪縛を解く。2024年にエンジニアが向き合うべき「真の速度」とは？」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/980s2snpcv46vv/"
 +++

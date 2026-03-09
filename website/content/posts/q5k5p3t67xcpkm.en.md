@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "思考を「自動化」せよ。AIがパーソナリティを務める、無人ラジオ局の衝撃 (English)"
 date = "2026-02-10T06:54:41.274706"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to 思考を「自動化」せよ。AIがパーソナリティを務める、無人ラジオ局の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/q5k5p3t67xcpkm/"
 +++

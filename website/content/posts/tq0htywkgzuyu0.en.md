@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "「Zed vs JetBrains」次世代エディタ論争に終止符？対談から見えた開発の未来がアツすぎる (English)"
 date = "2026-03-03T05:07:59.163950"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to 「Zed vs JetBrains」次世代エディタ論争に終止符？対談から見えた開発の未来がアツすぎる (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/tq0htywkgzuyu0/"
 +++

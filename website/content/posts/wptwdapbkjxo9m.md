@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "New AI Tool: StayAwake.Dev"
 date = "2026-02-08T23:08:04.324522"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「New AI Tool: StayAwake.Dev」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/wptwdapbkjxo9m/"
 +++

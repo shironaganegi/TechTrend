@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "スライド作成という「知的単純労働」からの脱却。Plus AI Presentation Agentがもたらす静かな革命 (English)"
 date = "2026-02-15T23:04:26.334421"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to スライド作成という「知的単純労働」からの脱却。Plus AI Presentation Agentがもたらす静かな革命 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/nxagvkc3rviyom/"
 +++

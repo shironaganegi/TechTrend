@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "LLMの「ブラックボックス」を解剖せよ。図解の神が贈る『Hands-On Large Language Models』が、エンジニアの視界を100倍クリアにする"
 date = "2026-02-22T06:12:29.514950"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「LLMの「ブラックボックス」を解剖せよ。図解の神が贈る『Hands-On Large Language Models』が、エンジニアの視界を100倍クリアにする」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/lxbe24pag4myh8/"
 +++

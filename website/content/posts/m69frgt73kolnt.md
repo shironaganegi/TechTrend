@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "散らかった「言葉の山」を、信頼の「地図」に変える。Google発・langextractが構造化データ抽出の景色を変える。"
 date = "2026-02-13T11:54:52.101892"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「散らかった「言葉の山」を、信頼の「地図」に変える。Google発・langextractが構造化データ抽出の景色を変える。」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/m69frgt73kolnt/"
 +++

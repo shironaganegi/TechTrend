@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "「検索」という儀式は、もう終わった。爆速リサーチの新境地「What's Up With That?」で脳を拡張せよ"
 date = "2026-02-28T05:15:04.085957"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「「検索」という儀式は、もう終わった。爆速リサーチの新境地「What's Up With That?」で脳を拡張せよ」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/5ol25z3glwsmg0/"
 +++

@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "AIエージェントに「最強の地図」を。コードの迷宮を突破する『GitNexus』が描く、開発の異次元"
 date = "2026-02-23T06:53:12.455512"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「AIエージェントに「最強の地図」を。コードの迷宮を突破する『GitNexus』が描く、開発の異次元」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/t0cm3zfdw8bavk/"
 +++

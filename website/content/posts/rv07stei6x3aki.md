@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "【常識の崩壊】自律型AIハッカー「PentAGI」という衝撃。脆弱性診断の“聖域”は、もう人間だけのものではない"
 date = "2026-02-21T23:02:35.965354"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「【常識の崩壊】自律型AIハッカー「PentAGI」という衝撃。脆弱性診断の“聖域”は、もう人間だけのものではない」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/rv07stei6x3aki/"
 +++

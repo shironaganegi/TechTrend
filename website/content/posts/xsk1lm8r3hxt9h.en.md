@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "【Python×ChatGPT】「数打ちゃ当たる」はもう終わりにしよう。AIが導き出す「Sランク企業」リスト生成術 (English)"
 date = "2026-02-12T06:49:08.842549"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to 【Python×ChatGPT】「数打ちゃ当たる」はもう終わりにしよう。AIが導き出す「Sランク企業」リスト生成術 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/xsk1lm8r3hxt9h/"
 +++

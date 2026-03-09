@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "Cursorが「博識な助手」を卒業する日。148の専門技能をインストールする『claude-scientific-skills』の衝撃 (English)"
 date = "2026-03-02T22:39:43.561644"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to Cursorが「博識な助手」を卒業する日。148の専門技能をインストールする『claude-scientific-skills』の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/hlptwtltm60hr4/"
 +++

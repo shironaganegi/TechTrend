@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "溢れる情報の海で、私たちは「羅針盤」を求めている。エンジニアの知的好奇心を加速させる新星「Seda」の正体"
 date = "2026-02-13T06:22:52.707991"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「溢れる情報の海で、私たちは「羅針盤」を求めている。エンジニアの知的好奇心を加速させる新星「Seda」の正体」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/7c9vktz2sd9c54/"
 +++

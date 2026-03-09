@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "e-Stat 17分野横断分析の衝撃：AIが示す日本の真の姿"
 date = "2026-02-07T00:54:51.771135"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「e-Stat 17分野横断分析の衝撃：AIが示す日本の真の姿」の活用法を紹介"
 canonicalUrl = "https://zenn.dev/shironaganegi/articles/pgnr6cu48mmdop"
 +++

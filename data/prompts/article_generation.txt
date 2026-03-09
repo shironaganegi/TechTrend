@@ -19,60 +19,52 @@ Topic Info:
 - Name: {name} | URL: {url} | Description: {description}
 - Context: {readme_text}
 
-### 📝 Task 1: Write a High-Quality Tech Blog Article (Japanese)
+### 🧠 Strategic Knowledge (Brain & SOP)
+- **Latest Buzz Strategy**: {strategic_context}
+- **Compliance & SOP**: {adsense_sop}
 
-1.  **Title**: 35-50 chars. Catchy and specific. Use patterns like "〜を徹底解説", "〜の使い方ガイド", "なぜ〜が話題なのか".
-2.  **PR Notice**: The very first line MUST be:
-    :::message
-    本記事はプロモーションを含みます
-    :::
-3.  **Content Structure**:
-    -   **Introduction**: What is this tool/project? Why should developers care RIGHT NOW?
-    -   **Key Features**: 3-5 main features with brief explanations. Use bullet points.
-    -   **Getting Started**: Basic setup or usage instructions. Include code snippets if applicable.
-    -   **Use Cases**: 2-3 practical scenarios where this tool shines.
-    -   **Pros & Cons**: Honest assessment to build trust.
-    -   **Recommendation**: Insert `{{{{RECOMMENDED_PRODUCTS}}}}` here. Suggest related books or tools.
-    -   **Conclusion**: Summary and call to action ("Star the repo", "Try it out", etc.)
 
-4.  **Technical Accuracy**: Ensure all technical details are correct. Don't fabricate features.
-5.  **Code Examples**: Include relevant code snippets in appropriate language blocks.
+### 📝 Task 1: Write an In-Depth Tech Blog Article (Japanese)
 
-### 🐦 Task 2: Viral X (Twitter) Post (Japanese)
--   **Role**: あなたはインプレッション爆上げの専門家です。
--   **Style**: 2026年現在のXアルゴリズムに最適化された「共感＋意外性」スタイル。
--   **Patterns**: 以下のいずれかを採用（混合も可）：
-    1. **「これ知らなかった…」系**: 「正直これやらないとヤバいレベル」「みんな絶対言わないけど本音はこれ」等のフック。
-    2. **実用的ミニTips**: 「たった3秒で〜」「永久保存版」「これ知らないと損」といった有益さ。
-    3. **共感＋あるある**: 「あるあるすぎて草」「これ私しか思ってない？」といったエンジニアの代弁者トーン。
--   **Requirements**:
-    1.  **冒頭フック**: 最初の2行（140文字以内）で「さらに表示」を絶対に押させる。
-    2.  **語り口**: LINEやネット掲示板で話しているような、親しみやすくも知的なトーン。適度なネット言葉（「まじで」「ヤバい」「〜すぎる」）を歓迎。
-    3.  **アクション**: 記事への興味を最大限に高めた上で「詳細はブログで👇」と促す。
-    4.  **Hashtags**: 内容に応じて、以下から**1〜2個**を厳選し、本文の最後に必ず含めること：
-        `#AI活用`, `#生成AI`, `#エンジニアの日常`, `#AIエンジニア`, `#プロンプト`, `#今日のAI`, `#AIツール`, `#AI初心者`, `#LLM`
--   **Constraint**: 200文字程度（長文ポスト活用）。Grokに「有益」と判断させるユニークな視点を1つ含める。
+**Goal**: Create a 1,500+ character "High-Value Navigation & Content" article that complies with Google AdSense Publisher Policies.
 
-### 🎨 Task 3: Image Generation Prompt
--   投稿内容に合わせ、以下のいずれかの「バズる画像」構成を具体的に提案し、そのまま画像生成AI（ChatGPT/Grok等）に使える**「英語プロンプト」**を作成してください。
-    1. **コード＋実行結果の比較**: Before/Afterがわかるスクショ（黒背景ネオン調）。
-    2. **図解・インフォグラフィック**: アーキテクチャ図、フローチャート、3つのポイント比較表。
-    3. **スクショ＋注釈**: 赤枠・矢印・吹き出しで注釈を入れたイメージ。
-    4. **デモ・GIF風**: 動きがわかる短い動画の構成案。
-    5. **未来感・AIビジュアル**: サイバーパンク、ホログラムUI、AIロボット等のかっこいい画像。
-    6. **共感メメ・ネタ画像**: エンジニアの「あるある」を表現したユーモラスな画像。
+1.  **Title**: 35-50 chars. High information density.
+2.  **Introduction**: 200-300 chars. Why this project matters NOW.
+3.  **The "Why" (Curation & Value)**: Explain why you chose this topic. 
+    Wrap your core professional insight in `<div class="expert-opinion">Detailed unique insight here</div>`. **(Crucial for AdSense "Curation/Commentary" requirement)**.
+4.  **Key Features & Deep Dive**: Analyze the architecture. Don't just list README features. Provide your own expert interpretation.
+5.  **Comparison & Originality**: Compare with 1-2 major alternatives. What makes this one stand out? (Demonstrates **Expertise**).
+6.  **Practical Insights (Pitfalls & Setup)**: Discuss potential challenges, hardware requirements, and "gotchas" in implementation. (Demonstrates **Experience**).
+7.  **FAQ Section**: Anticipate 3-4 specific user questions based on search intent.
+8.  **Conclusion**: Final verdict and future outlook.
 
-### Notes for "note_intro"
-- A brief, intriguing introduction for Note.
-- Focus on why this tool matters for Japanese developers.
-- Length: 100-150 characters.
+### 📜 Writing Guidelines (Anti-Spam & Google Search Essentials)
+- **Min Length**: **1,500+ characters** (excluding code/tags). Deliver depth and substance.
+- **Originality**: Provide **Additional Commentary (独自の解説)**. Do NOT just summarize the README. Think as a tech consultant.
+- **Thin Content Avoidance**: Ensure every paragraph adds new information or perspective. No filler text.
+- **Anti-Spam**: No **Keyword Stuffing**. Do not unnaturally repeat project names or industry buzzwords.
+- **EEAT Focus**: Maintain a professional yet engaging tone that builds trust with developers.
+- **Formatting**: Use proper Markdown hierarchy (H1, H2, H3), bolding, and tables effectively.
+
+
+### 🐦 Task 2: Strategic X (Twitter) Post (Japanese)
+-   **Style**: 2026年現在のXアルゴリズムに最適化された「有益性＋本音」スタイル。
+-   **Hook**: 記事の結論を一言で伝え、続きを読みたくさせるフックを1行目に。
+-   **Value**: 「これを知っているかどうかで、開発効率が〜倍変わる」といった具体的なメリットを提示。
+-   **Hashtags**: 内容に応じて**1〜2個**厳選。
+-   **Details**: 「詳細はブログで👇」
+
+### 🎨 Task 3: Professional Visual Prompt
+-   英語で画像生成AI（ChatGPT/Grok等）向けのプロンプトを作成。
+-   「未来的」「クリーン」「高画質」な3Dレンダリングやインフォグラフィックスタイルのアートを指示。
 
 ### Output Format (JSON)
 Return a valid JSON object with these 5 keys:
 {{
-  "article": "(The full markdown blog post)",
-  "search_keywords": ["(3-5 keywords for product search, e.g. 'Python入門', 'Docker実践')"],
-  "x_viral_post": "(The text for X, MUST include hashtags at the end)",
-  "image_prompt": "(Image proposal and English prompt for image generation)",
-  "note_intro": "(A short teaser for Note users)"
+  "article": "(The full markdown blog post - Minimum 1,500 characters)",
+  "search_keywords": ["(3-5 specific keywords for product search)"],
+  "x_viral_post": "(Strategic X post)",
+  "image_prompt": "(Detailed English prompt for high-quality visuals)",
+  "note_intro": "(A professional teaser for external platforms)"
 }}
+

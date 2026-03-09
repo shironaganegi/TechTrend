@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "ByteDanceが放った「DeerFlow 2.0」という劇薬。AIを“秘書”から“現場監督”に変える、自律型エージェントの到達点 (English)"
 date = "2026-02-27T23:01:12.555417"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to ByteDanceが放った「DeerFlow 2.0」という劇薬。AIを“秘書”から“現場監督”に変える、自律型エージェントの到達点 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/3t3lbx1jmnta07/"
 +++

@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "サイトを「生きた知能」へ変える魔法の1行。新星『Rover』が突きつける、RAG構築からの解放。 (English)"
 date = "2026-02-27T06:14:32.352674"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to サイトを「生きた知能」へ変える魔法の1行。新星『Rover』が突きつける、RAG構築からの解放。 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/gygmfv6no4vqlx/"
 +++

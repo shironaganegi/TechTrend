@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "貴方の財布は、AIの進化に耐えられるか？「Toolspend」が暴くサブスクリプションの真実"
 date = "2026-02-16T12:04:17.278169"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「貴方の財布は、AIの進化に耐えられるか？「Toolspend」が暴くサブスクリプションの真実」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/u174y8o74nhcie/"
 +++

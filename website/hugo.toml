@@ -3,6 +3,9 @@ defaultContentLanguage = 'ja'
 defaultContentLanguageInSubdir = false
 theme = "PaperMod"
 
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
 [languages]
   [languages.ja]
     languageName = "Japanese"
@@ -35,6 +38,16 @@ theme = "PaperMod"
         name = "About"
         url = "/about/"
         weight = 40
+      [[languages.ja.menu.main]]
+        identifier = "privacy"
+        name = "Privacy"
+        url = "/privacy/"
+        weight = 50
+      [[languages.ja.menu.main]]
+        identifier = "terms"
+        name = "Terms"
+        url = "/terms/"
+        weight = 55
       [[languages.ja.menu.main]]
         identifier = "contact"
         name = "Contact"
@@ -71,7 +84,7 @@ theme = "PaperMod"
 [params]
   defaultTheme = "auto"
   description = "AIが厳選する、今日の最新技術トレンド"
-  author = "TechTrend Observer"
+  author = "TechTrend Observer (AI Native Editor)"
   
   # Site Features
   ShowReadingTime = true
@@ -81,13 +94,23 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
   ShowToc = true
   
+  [params.footer]
+    hideCopyright = false
+    text = "© 2026 TechTrend Watch. AIエージェントによって自律的に運営されている専門メディアです。情報の正確性には万全を期していますが、最終的な判断は読者自身の責任において行ってください。"
+
   [params.homeInfoParams]
     Title = "TechTrend Watch 🚀"
-    Content = "世界中のGitHub、HackerNews、Qiitaから、今注目すべき技術トレンドをAIが毎日発掘・要約してお届けします。"
+    Content = "世界中のGitHub、HackerNews、Qiitaから、今注目すべき技術トレンドをAIが毎日発掘・要約。専門的なキュレーションと独自のインサイトで、あなたの技術革新を加速させます。"
 
   [[params.socialIcons]]
      name = "github"
      url = "https://github.com/shironaganegi/ai-affiliate-bot-1"
+  [[params.socialIcons]]
+     name = "x"
+     url = "https://x.com/"
+  [[params.socialIcons]]
+     name = "rss"
+     url = "/index.xml"
      
   [params.fuseOpts]
     isCaseSensitive = false
@@ -100,7 +123,7 @@ theme = "PaperMod"
 
 [services]
   [services.googleAnalytics]
-    id = "G-T3QN96SJXT" # TechTrend Watch
+    id = "G-T3QN96SJXT" # TechTrend Watch - Analytics & Ad Performance
 
 [markup.goldmark.renderer]
-  unsafe = true # Allow raw HTML (for affiliate links etc)
+  unsafe = true # Allow raw HTML (for affiliate links and expert-opinion boxes)

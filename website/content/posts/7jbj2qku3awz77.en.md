@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "思考停止の「泥沼」から抜け出せ。レガシーな現場で生き残るための“ゲリラ的”自動化戦略 (English)"
 date = "2026-02-14T05:42:23.486707"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "Introduction to 思考停止の「泥沼」から抜け出せ。レガシーな現場で生き残るための“ゲリラ的”自動化戦略 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/7jbj2qku3awz77/"
 +++

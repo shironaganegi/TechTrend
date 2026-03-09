@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "【削除済み】MSがハリー・ポッターでLLM学習？RAG開発で絶対に踏んではいけない「著作権」の地雷"
 date = "2026-02-19T12:06:14.030134"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「【削除済み】MSがハリー・ポッターでLLM学習？RAG開発で絶対に踏んではいけない「著作権」の地雷」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/lov7vxlm04c04o/"
 +++

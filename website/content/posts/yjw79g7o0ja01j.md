@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "Perplexityの「月額課金」から卒業する準備はいいか？自前で構築する最強のAI検索エンジン『Perplexica』が提示する、知の主権。"
 date = "2026-03-05T10:56:11.765437"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "AIツール「Perplexityの「月額課金」から卒業する準備はいいか？自前で構築する最強のAI検索エンジン『Perplexica』が提示する、知の主権。」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/yjw79g7o0ja01j/"
 +++

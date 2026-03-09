@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "凡庸な個人開発を「傑作」に変える魔法の杖。無料APIの聖地『public-apis』を使い倒せ (English)"
 date = "2026-02-11T06:50:26.626231"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to 凡庸な個人開発を「傑作」に変える魔法の杖。無料APIの聖地『public-apis』を使い倒せ (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/dki7mi8b5zk5bq/"
 +++

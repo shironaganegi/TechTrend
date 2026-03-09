@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "高価な機材はもう捨てろ。スマホ1台で「命」を吹き込む、freemocapという名の革命"
 date = "2026-02-20T23:08:42.554230"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「高価な機材はもう捨てろ。スマホ1台で「命」を吹き込む、freemocapという名の革命」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/f8bk1sdgm78op4/"
 +++

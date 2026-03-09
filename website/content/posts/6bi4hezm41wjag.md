@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "膨大な「情報の墓場」を黄金のインサイトへ。Geminiの真価を問う『Jemini』の衝撃"
 date = "2026-02-17T12:03:51.416714"
 tags = ["AI", "Tools", "Python"]
-draft = false
+draft = true
 description = "AIツール「膨大な「情報の墓場」を黄金のインサイトへ。Geminiの真価を問う『Jemini』の衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/6bi4hezm41wjag/"
 +++

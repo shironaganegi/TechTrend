@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "New AI Tool: shannon (English)"
 date = "2026-02-08T11:16:02.520976"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to New AI Tool: shannon (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/j46pj26w0xeczy/"
 +++

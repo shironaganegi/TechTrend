@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "AIに「使われる」側で終わるつもりか？ 個人のポテンシャルを覚醒させる聖域、PAI（Personal AI Infrastructure）の衝撃 (English)"
 date = "2026-02-13T23:12:23.333432"
 tags = ["AI", "Tools"]
-draft = false
+draft = true
 description = "Introduction to AIに「使われる」側で終わるつもりか？ 個人のポテンシャルを覚醒させる聖域、PAI（Personal AI Infrastructure）の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/bpmg0kvzsyvexp/"
 +++
