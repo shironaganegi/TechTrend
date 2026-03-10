@@ -1,10 +1,5 @@
 [
   {
-    "name": "The Waymo World Model",
-    "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-    "date": "2026-02-07T18:05:40.787732"
-  },
-  {
     "name": "NoteのProseMirror対応HTML変換を作った話｜アイキャッチ画像APIも発見",
     "url": "https://qiita.com/secure-auto-lab/items/0184db597dd5e9129a4d",
     "date": "2026-02-08T04:50:11.443949"
@@ -498,5 +493,10 @@
     "name": "OpenAI is walking away from expanding its Stargate data center with Oracle",
     "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
     "date": "2026-03-10T10:50:21.607599"
+  },
+  {
+    "name": "MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "date": "2026-03-10T22:35:20.747993"
   }
 ]
