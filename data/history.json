@@ -1,10 +1,5 @@
 [
   {
-    "name": "Felsius",
-    "url": "https://www.producthunt.com/products/felsius",
-    "date": "2026-02-08T06:14:12.803130"
-  },
-  {
     "name": "shannon",
     "url": "https://github.com/KeygraphHQ/shannon",
     "date": "2026-02-08T11:15:41.665973"
@@ -498,5 +493,10 @@
     "name": "superpowers",
     "url": "https://github.com/obra/superpowers",
     "date": "2026-03-11T04:48:20.564887"
+  },
+  {
+    "name": "Yann LeCun raises $1B to build AI that understands the physical world",
+    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+    "date": "2026-03-11T10:50:25.435331"
   }
 ]
