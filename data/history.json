@@ -1,10 +1,5 @@
 [
   {
-    "name": "StayAwake.Dev",
-    "url": "https://www.producthunt.com/products/stayawake-dev",
-    "date": "2026-02-08T23:07:41.473093"
-  },
-  {
     "name": "Matchlock – Secures AI agent workloads with a Linux-based sandbox",
     "url": "https://github.com/jingkaihe/matchlock",
     "date": "2026-02-09T06:49:00.685705"
@@ -498,5 +493,10 @@
     "name": "Claude Code Auto Modeが来る ── もう承認ボタン連打の日々は終わり",
     "url": "https://qiita.com/TMiyamoto/items/45090821969d9895639e",
     "date": "2026-03-11T22:33:29.029462"
+  },
+  {
+    "name": "How we hacked McKinsey's AI platform",
+    "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+    "date": "2026-03-12T04:52:55.901829"
   }
 ]
