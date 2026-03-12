@@ -1,10 +1,5 @@
 [
   {
-    "name": "不動産データをスクレイピングする方法：完全ガイド",
-    "url": "https://qiita.com/DataJournal/items/d067f611d34d62887f7d",
-    "date": "2026-02-09T12:07:51.496218"
-  },
-  {
     "name": "monty",
     "url": "https://github.com/pydantic/monty",
     "date": "2026-02-10T00:12:40.086185"
@@ -498,5 +493,10 @@
     "name": "TokenZip",
     "url": "https://www.producthunt.com/products/tokenzip",
     "date": "2026-03-12T10:48:28.905750"
+  },
+  {
+    "name": "\"Unity MCP が Claude Code に繋がらないときに確認したい5つの落とし穴と2つの回避策\"",
+    "url": "https://qiita.com/MirabelleQuest/items/b8957889d38427e656bb",
+    "date": "2026-03-12T22:49:48.983327"
   }
 ]
