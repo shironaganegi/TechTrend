@@ -1,10 +1,5 @@
 [
   {
-    "name": "monty",
-    "url": "https://github.com/pydantic/monty",
-    "date": "2026-02-10T00:12:40.086185"
-  },
-  {
     "name": "AIに原稿書かせて全自動でラジオ番組を作ってみた",
     "url": "https://qiita.com/midry3125/items/cd4410be6d0bcb0a8458",
     "date": "2026-02-10T06:54:07.056758"
@@ -498,5 +493,10 @@
     "name": "\"Unity MCP が Claude Code に繋がらないときに確認したい5つの落とし穴と2つの回避策\"",
     "url": "https://qiita.com/MirabelleQuest/items/b8957889d38427e656bb",
     "date": "2026-03-12T22:49:48.983327"
+  },
+  {
+    "name": "IBM Bob にうっかり機密ファイルを渡していませんか？― ルール と MCP で\"渡す前に止める\"仕組みを作る",
+    "url": "https://qiita.com/zhangzhenji228/items/5ffcfc2020082a3f6751",
+    "date": "2026-03-13T04:50:23.223547"
   }
 ]
