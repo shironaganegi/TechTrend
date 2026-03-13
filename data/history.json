@@ -1,10 +1,5 @@
 [
   {
-    "name": "AIに原稿書かせて全自動でラジオ番組を作ってみた",
-    "url": "https://qiita.com/midry3125/items/cd4410be6d0bcb0a8458",
-    "date": "2026-02-10T06:54:07.056758"
-  },
-  {
     "name": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
     "url": "https://github.com/antirez/voxtral.c",
     "date": "2026-02-10T14:10:32.606479"
@@ -498,5 +493,10 @@
     "name": "IBM Bob にうっかり機密ファイルを渡していませんか？― ルール と MCP で\"渡す前に止める\"仕組みを作る",
     "url": "https://qiita.com/zhangzhenji228/items/5ffcfc2020082a3f6751",
     "date": "2026-03-13T04:50:23.223547"
+  },
+  {
+    "name": "ClawMote",
+    "url": "https://www.producthunt.com/products/clawmote-one-hand-openclaw-wispr-flow",
+    "date": "2026-03-13T10:44:31.355778"
   }
 ]
