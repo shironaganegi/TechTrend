@@ -1,10 +1,5 @@
 [
   {
-    "name": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
-    "url": "https://github.com/antirez/voxtral.c",
-    "date": "2026-02-10T14:10:32.606479"
-  },
-  {
     "name": "AI for Science #25：Claude Code × NetworkX でがんシグナル伝達の PPI ネットワーク解析を実行してみた",
     "url": "https://qiita.com/hisaho/items/7f95606f047cf99b79e7",
     "date": "2026-02-11T00:13:10.269691"
@@ -498,5 +493,10 @@
     "name": "ClawMote",
     "url": "https://www.producthunt.com/products/clawmote-one-hand-openclaw-wispr-flow",
     "date": "2026-03-13T10:44:31.355778"
+  },
+  {
+    "name": "BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "date": "2026-03-13T22:34:30.243332"
   }
 ]
