@@ -1,10 +1,5 @@
 [
   {
-    "name": "public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "date": "2026-02-11T06:49:58.525496"
-  },
-  {
     "name": "hello-agents",
     "url": "https://github.com/datawhalechina/hello-agents",
     "date": "2026-02-11T12:09:23.463125"
@@ -498,5 +493,10 @@
     "name": "Qatar helium shutdown puts chip supply chain on a two-week clock",
     "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
     "date": "2026-03-14T04:48:15.031024"
+  },
+  {
+    "name": "Lingofable",
+    "url": "https://www.producthunt.com/products/lingofable",
+    "date": "2026-03-14T10:35:32.843404"
   }
 ]
