@@ -1,10 +1,5 @@
 [
   {
-    "name": "hello-agents",
-    "url": "https://github.com/datawhalechina/hello-agents",
-    "date": "2026-02-11T12:09:23.463125"
-  },
-  {
     "name": "JumprAI",
     "url": "https://www.producthunt.com/products/jumprai",
     "date": "2026-02-11T23:11:00.928131"
@@ -498,5 +493,10 @@
     "name": "Lingofable",
     "url": "https://www.producthunt.com/products/lingofable",
     "date": "2026-03-14T10:35:32.843404"
+  },
+  {
+    "name": "ChaosProof v1.1.0リリース — 3層可用性モデル・ベースライン回帰検出・1070テスト",
+    "url": "https://qiita.com/ymaeda_it/items/e346ae702caebc14b4a5",
+    "date": "2026-03-14T22:33:30.858372"
   }
 ]
