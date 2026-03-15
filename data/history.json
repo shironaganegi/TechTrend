@@ -1,10 +1,5 @@
 [
   {
-    "name": "Edgee",
-    "url": "https://www.producthunt.com/products/edgee",
-    "date": "2026-02-12T12:05:05.014379"
-  },
-  {
     "name": "An AI agent published a hit piece on me",
     "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
     "date": "2026-02-12T23:08:20.444849"
@@ -498,5 +493,10 @@
     "name": "browser",
     "url": "https://github.com/lightpanda-io/browser",
     "date": "2026-03-15T10:38:06.129335"
+  },
+  {
+    "name": "OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
+    "date": "2026-03-15T22:35:28.550636"
   }
 ]
