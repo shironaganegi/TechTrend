@@ -1,10 +1,5 @@
 [
   {
-    "name": "langextract",
-    "url": "https://github.com/google/langextract",
-    "date": "2026-02-13T11:54:17.068154"
-  },
-  {
     "name": "Personal_AI_Infrastructure",
     "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
     "date": "2026-02-13T23:11:49.570050"
@@ -498,5 +493,10 @@
     "name": "Canada's bill C-22 mandates mass metadata surveillance",
     "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
     "date": "2026-03-16T11:00:09.909385"
+  },
+  {
+    "name": "PythonのOOMキルを完全防御する：BytesIOの罠とD-MemFS「ハードクォータ」の設計思想",
+    "url": "https://qiita.com/_D_/items/570f3c92781111340ddd",
+    "date": "2026-03-16T22:40:58.416914"
   }
 ]
