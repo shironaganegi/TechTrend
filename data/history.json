@@ -1,10 +1,5 @@
 [
   {
-    "name": "Personal_AI_Infrastructure",
-    "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-    "date": "2026-02-13T23:11:49.570050"
-  },
-  {
     "name": "保守的な現場でも負けない！「こっそり自動化」で自習時間を捻出するエンジニアの処世術",
     "url": "https://qiita.com/handson-lab/items/5f389c5d786e6b8877",
     "date": "2026-02-14T05:42:00.748456"
@@ -498,5 +493,10 @@
     "name": "PythonのOOMキルを完全防御する：BytesIOの罠とD-MemFS「ハードクォータ」の設計思想",
     "url": "https://qiita.com/_D_/items/570f3c92781111340ddd",
     "date": "2026-03-16T22:40:58.416914"
+  },
+  {
+    "name": "非エンジニアがCursor+Claudeで構築した、24時間自律駆動AIエコシステム「System Lagrange」の全設計図",
+    "url": "https://qiita.com/slashohajiki-maker/items/bce9fb55695e7b3d82e2",
+    "date": "2026-03-17T04:57:55.144201"
   }
 ]
