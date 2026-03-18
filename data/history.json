@@ -1,10 +1,5 @@
 [
   {
-    "name": "結局 Python は遅いのか",
-    "url": "https://qiita.com/k2-gc/items/7b8a5e65873a35ea72dd",
-    "date": "2026-02-15T06:15:58.415419"
-  },
-  {
     "name": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
     "date": "2026-02-15T11:05:46.104423"
@@ -498,5 +493,10 @@
     "name": "Windowsの名前付きパイプをPythonで利用する",
     "url": "https://qiita.com/fumifumi0453/items/1025c60406d72b9a32c7",
     "date": "2026-03-18T05:02:30.658582"
+  },
+  {
+    "name": "deepagents",
+    "url": "https://github.com/langchain-ai/deepagents",
+    "date": "2026-03-18T10:58:03.237106"
   }
 ]
