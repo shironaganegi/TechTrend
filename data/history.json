@@ -1,10 +1,5 @@
 [
   {
-    "name": "An AI agent published a hit piece on me – more things have happened",
-    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-    "date": "2026-02-14T23:01:39.900342"
-  },
-  {
     "name": "結局 Python は遅いのか",
     "url": "https://qiita.com/k2-gc/items/7b8a5e65873a35ea72dd",
     "date": "2026-02-15T06:15:58.415419"
@@ -498,5 +493,10 @@
     "name": "老眼でも作れた——京商ミニッツ用3DプリントギヤのRPM・電流・騒音・歯形を同時計測する測定システム",
     "url": "https://qiita.com/himajisan/items/193f8ffc466ee718ed1a",
     "date": "2026-03-17T22:40:26.926102"
+  },
+  {
+    "name": "Windowsの名前付きパイプをPythonで利用する",
+    "url": "https://qiita.com/fumifumi0453/items/1025c60406d72b9a32c7",
+    "date": "2026-03-18T05:02:30.658582"
   }
 ]
