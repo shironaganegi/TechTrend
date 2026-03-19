@@ -1,10 +1,5 @@
 [
   {
-    "name": "Plus AI Presentation Agent",
-    "url": "https://www.producthunt.com/products/plus-ai-presentation-agent",
-    "date": "2026-02-15T23:03:54.721616"
-  },
-  {
     "name": "野球を科学するためのデータ収集",
     "url": "https://qiita.com/jianayouchen/items/9c47e6be6992b66dd732",
     "date": "2026-02-16T06:51:33.002340"
@@ -498,5 +493,10 @@
     "name": "Mistral AI Releases Forge",
     "url": "https://mistral.ai/news/forge",
     "date": "2026-03-18T22:38:52.069081"
+  },
+  {
+    "name": "unsloth",
+    "url": "https://github.com/unslothai/unsloth",
+    "date": "2026-03-19T05:00:25.574593"
   }
 ]
