@@ -1,10 +1,5 @@
 [
   {
-    "name": "メール自動化：デュアルメールボックス接続とAIトリアージシステム",
-    "url": "https://qiita.com/linou/items/77cd8ea2d72de56d2b8b",
-    "date": "2026-02-18T12:04:41.547745"
-  },
-  {
     "name": "Tailscale Peer Relays is now generally available",
     "url": "https://tailscale.com/blog/peer-relays-ga",
     "date": "2026-02-18T23:10:45.302727"
@@ -498,5 +493,10 @@
     "name": "電子工作ガチ初心者がラズパイゼロでエアコン制御してみた　１",
     "url": "https://qiita.com/sowacoco/items/a9b3ed7098aa60e405c9",
     "date": "2026-03-21T10:34:39.968498"
+  },
+  {
+    "name": "OpenCode – Open source AI coding agent",
+    "url": "https://opencode.ai/",
+    "date": "2026-03-21T22:32:25.181362"
   }
 ]
