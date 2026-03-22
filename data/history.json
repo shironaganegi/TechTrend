@@ -1,10 +1,5 @@
 [
   {
-    "name": "Tailscale Peer Relays is now generally available",
-    "url": "https://tailscale.com/blog/peer-relays-ga",
-    "date": "2026-02-18T23:10:45.302727"
-  },
-  {
     "name": "heretic",
     "url": "https://github.com/p-e-w/heretic",
     "date": "2026-02-19T06:23:28.873285"
@@ -498,5 +493,10 @@
     "name": "OpenCode – Open source AI coding agent",
     "url": "https://opencode.ai/",
     "date": "2026-03-21T22:32:25.181362"
+  },
+  {
+    "name": "Tinybox – Offline AI device 120B parameters",
+    "url": "https://tinygrad.org/#tinybox",
+    "date": "2026-03-22T04:58:17.173125"
   }
 ]
