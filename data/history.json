@@ -1,10 +1,5 @@
 [
   {
-    "name": "heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "date": "2026-02-19T06:23:28.873285"
-  },
-  {
     "name": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
     "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
     "date": "2026-02-19T12:05:21.296717"
@@ -498,5 +493,10 @@
     "name": "Tinybox – Offline AI device 120B parameters",
     "url": "https://tinygrad.org/#tinybox",
     "date": "2026-03-22T04:58:17.173125"
+  },
+  {
+    "name": "Xiaomi MiMo-V2-Pro入門 — 匿名で1兆トークン処理した1TパラメータLLMの全貌",
+    "url": "https://qiita.com/kai_kou/items/c787f4aa998302508004",
+    "date": "2026-03-22T10:35:02.114981"
   }
 ]
