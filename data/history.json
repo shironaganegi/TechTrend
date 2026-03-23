@@ -1,10 +1,5 @@
 [
   {
-    "name": "We're no longer attracting top talent: the brain drain killing American science",
-    "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-    "date": "2026-02-20T06:16:54.260960"
-  },
-  {
     "name": "superpowers",
     "url": "https://github.com/obra/superpowers",
     "date": "2026-02-20T12:04:59.489890"
@@ -498,5 +493,10 @@
     "name": "【まとめ】Python学習Day1〜5で学んだこと",
     "url": "https://qiita.com/RITSU_UK/items/e5ecb90b6e97ab44f122",
     "date": "2026-03-23T05:09:22.105167"
+  },
+  {
+    "name": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
+    "url": "https://github.com/danveloper/flash-moe",
+    "date": "2026-03-23T10:58:35.491479"
   }
 ]
