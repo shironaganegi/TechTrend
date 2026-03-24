@@ -1,10 +1,5 @@
 [
   {
-    "name": "freemocap",
-    "url": "https://github.com/freemocap/freemocap",
-    "date": "2026-02-20T23:08:09.454135"
-  },
-  {
     "name": "claude-code-telegram",
     "url": "https://github.com/RichardAtCT/claude-code-telegram",
     "date": "2026-02-21T05:39:15.512670"
@@ -498,5 +493,10 @@
     "name": "DataSieve 2.0",
     "url": "https://www.producthunt.com/products/textmine-extract-data-from-text",
     "date": "2026-03-23T22:39:45.901713"
+  },
+  {
+    "name": "Ubuntu Proを使おう！",
+    "url": "https://qiita.com/kawamo55/items/49c9c8274a3311074394",
+    "date": "2026-03-24T04:59:34.405143"
   }
 ]
