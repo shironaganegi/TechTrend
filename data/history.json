@@ -1,10 +1,5 @@
 [
   {
-    "name": "Wordy",
-    "url": "https://www.producthunt.com/products/wordy-81fc3d1c-40c1-42d1-9a07-6c2a80ffb302",
-    "date": "2026-02-22T11:03:10.077097"
-  },
-  {
     "name": "system-prompts-and-models-of-ai-tools",
     "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
     "date": "2026-02-22T23:03:43.326644"
@@ -498,5 +493,10 @@
     "name": "OpenAIにAPIを送るだけで個人情報保護法違反？LLM開発者が知るべきAPPIリスクと対策",
     "url": "https://qiita.com/zivuch/items/86fad374e41a77a29d4a",
     "date": "2026-03-25T10:55:15.096507"
+  },
+  {
+    "name": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+    "url": "https://github.com/BerriAI/litellm/issues/24512",
+    "date": "2026-03-25T22:43:27.582356"
   }
 ]
