@@ -1,10 +1,5 @@
 [
   {
-    "name": "Hands-On-Large-Language-Models",
-    "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-    "date": "2026-02-22T06:12:03.935258"
-  },
-  {
     "name": "Wordy",
     "url": "https://www.producthunt.com/products/wordy-81fc3d1c-40c1-42d1-9a07-6c2a80ffb302",
     "date": "2026-02-22T11:03:10.077097"
@@ -498,5 +493,10 @@
     "name": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
     "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
     "date": "2026-03-25T05:00:15.513741"
+  },
+  {
+    "name": "OpenAIにAPIを送るだけで個人情報保護法違反？LLM開発者が知るべきAPPIリスクと対策",
+    "url": "https://qiita.com/zivuch/items/86fad374e41a77a29d4a",
+    "date": "2026-03-25T10:55:15.096507"
   }
 ]
