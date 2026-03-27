@@ -1,10 +1,5 @@
 [
   {
-    "name": "PageIndex",
-    "url": "https://github.com/VectifyAI/PageIndex",
-    "date": "2026-02-23T23:54:55.561792"
-  },
-  {
     "name": "Ladybird adopts Rust, with help from AI",
     "url": "https://ladybird.org/posts/adopting-rust/",
     "date": "2026-02-24T06:33:14.164043"
@@ -498,5 +493,10 @@
     "name": "Zeus",
     "url": "https://www.producthunt.com/products/your-ai-colleague-is-online-meet-zeus",
     "date": "2026-03-26T22:37:40.435372"
+  },
+  {
+    "name": "【量子×DRL物流最適化 #5】FSSPスケジューリングQUBO後半",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/12b7a7d59b28776d24cd",
+    "date": "2026-03-27T05:13:51.636977"
   }
 ]
