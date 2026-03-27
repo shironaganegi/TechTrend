@@ -1,10 +1,5 @@
 [
   {
-    "name": "Ladybird adopts Rust, with help from AI",
-    "url": "https://ladybird.org/posts/adopting-rust/",
-    "date": "2026-02-24T06:33:14.164043"
-  },
-  {
     "name": "The Age Verification Trap: Verifying age undermines everyone's data protection",
     "url": "https://spectrum.ieee.org/age-verification",
     "date": "2026-02-24T12:05:40.646164"
@@ -498,5 +493,10 @@
     "name": "【量子×DRL物流最適化 #5】FSSPスケジューリングQUBO後半",
     "url": "https://qiita.com/AIRoboticsQuantumLab/items/12b7a7d59b28776d24cd",
     "date": "2026-03-27T05:13:51.636977"
+  },
+  {
+    "name": "Oracle AI Database 26ai入門 — Agent FactoryとMCPでAIエージェントを構築する",
+    "url": "https://qiita.com/kai_kou/items/e32d16c4fe512070f160",
+    "date": "2026-03-27T10:56:09.316398"
   }
 ]
