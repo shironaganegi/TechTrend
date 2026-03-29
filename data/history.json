@@ -1,10 +1,5 @@
 [
   {
-    "name": "🌉 SlackからClaude Code CLIをリモート操作するブリッジを作った",
-    "url": "https://qiita.com/nariakiiwatani/items/e79186237cce6cf7462d",
-    "date": "2026-02-26T06:20:47.048448"
-  },
-  {
     "name": "SpacetimeDB",
     "url": "https://github.com/clockworklabs/SpacetimeDB",
     "date": "2026-02-26T12:04:09.896429"
@@ -498,5 +493,10 @@
     "name": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
     "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
     "date": "2026-03-29T05:18:09.266456"
+  },
+  {
+    "name": "superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "date": "2026-03-29T10:42:49.836406"
   }
 ]
