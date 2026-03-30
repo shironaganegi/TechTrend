@@ -1,10 +1,5 @@
 [
   {
-    "name": "skills",
-    "url": "https://github.com/anthropics/skills",
-    "date": "2026-02-26T23:10:37.346899"
-  },
-  {
     "name": "Rover by rtrvr.ai",
     "url": "https://www.producthunt.com/products/rtrvr-ai",
     "date": "2026-02-27T06:14:06.332433"
@@ -498,5 +493,10 @@
     "name": "last30days-skill",
     "url": "https://github.com/mvanhorn/last30days-skill",
     "date": "2026-03-29T22:38:47.950435"
+  },
+  {
+    "name": "【2026年最前線】量子機械学習が変える金融リスク管理：QAOAとQAEの実装ガイド",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/956357d053ed9c7e45e4",
+    "date": "2026-03-30T05:32:20.717902"
   }
 ]
