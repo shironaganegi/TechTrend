@@ -1,10 +1,5 @@
 [
   {
-    "name": "What's Up With That?",
-    "url": "https://www.producthunt.com/products/what-s-up-with-that",
-    "date": "2026-02-28T05:14:40.396001"
-  },
-  {
     "name": "Agent-Skills-for-Context-Engineering",
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
     "date": "2026-02-28T10:56:41.960818"
@@ -498,5 +493,10 @@
     "name": "claude-howto",
     "url": "https://github.com/luongnv89/claude-howto",
     "date": "2026-03-31T05:15:31.220242"
+  },
+  {
+    "name": "VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "date": "2026-03-31T11:24:20.005918"
   }
 ]
