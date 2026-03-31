@@ -1,10 +1,5 @@
 [
   {
-    "name": "Agent-Skills-for-Context-Engineering",
-    "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-    "date": "2026-02-28T10:56:41.960818"
-  },
-  {
     "name": "airi",
     "url": "https://github.com/moeru-ai/airi",
     "date": "2026-02-28T22:56:01.684468"
@@ -498,5 +493,10 @@
     "name": "VibeVoice",
     "url": "https://github.com/microsoft/VibeVoice",
     "date": "2026-03-31T11:24:20.005918"
+  },
+  {
+    "name": "claude-code-best-practice",
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "date": "2026-03-31T22:41:10.292500"
   }
 ]
