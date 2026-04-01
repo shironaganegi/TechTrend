@@ -1,10 +1,5 @@
 [
   {
-    "name": "airi",
-    "url": "https://github.com/moeru-ai/airi",
-    "date": "2026-02-28T22:56:01.684468"
-  },
-  {
     "name": "ChatGPT を Python で使ってみる",
     "url": "https://qiita.com/nanbuwks/items/29f15f2a26e2da71b5e4",
     "date": "2026-03-01T06:09:54.261097"
@@ -498,5 +493,10 @@
     "name": "claude-code-best-practice",
     "url": "https://github.com/shanraisshan/claude-code-best-practice",
     "date": "2026-03-31T22:41:10.292500"
+  },
+  {
+    "name": "Djangoの基本 #3",
+    "url": "https://qiita.com/toshimizu/items/d550e554128964288d64",
+    "date": "2026-04-01T05:30:39.867765"
   }
 ]
