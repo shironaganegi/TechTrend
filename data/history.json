@@ -1,10 +1,5 @@
 [
   {
-    "name": "Pythonでastimezoneを使う前に必ず知っておいてほしいこと",
-    "url": "https://qiita.com/shun_sakamoto/items/8d8504a5625fdb6860d9",
-    "date": "2026-03-02T10:56:56.715511"
-  },
-  {
     "name": "claude-scientific-skills",
     "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
     "date": "2026-03-02T22:39:21.901001"
@@ -498,5 +493,10 @@
     "name": "【Pythonで本物のパーサを作る #1】2年間挫折していたパーサ開発をClaude Codeが1日で動かした話",
     "url": "https://qiita.com/phoenixkoyo/items/35d1b293c40b747fa751",
     "date": "2026-04-02T10:58:19.287820"
+  },
+  {
+    "name": "oh-my-codex",
+    "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+    "date": "2026-04-02T22:39:29.523814"
   }
 ]
