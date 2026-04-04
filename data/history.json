@@ -1,10 +1,5 @@
 [
   {
-    "name": "Claude's Cycles [pdf]",
-    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-    "date": "2026-03-04T10:49:44.960660"
-  },
-  {
     "name": "AutoGen vs LangGraph vs CrewAI: 2026年に実務で使えるのはどれか",
     "url": "https://qiita.com/synsun/items/b8d419b5a54043c47510",
     "date": "2026-03-04T22:44:09.762016"
@@ -498,5 +493,10 @@
     "name": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "url": "https://news.ycombinator.com/item?id=47633396",
     "date": "2026-04-04T10:41:51.988496"
+  },
+  {
+    "name": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+    "date": "2026-04-04T22:37:22.944584"
   }
 ]
