@@ -6,10 +6,21 @@
       "owner": "siddharthvaddem",
       "url": "https://github.com/siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "stars": 21309,
-      "daily_stars": 1591,
+      "stars": 22420,
+      "daily_stars": 2692,
       "language": "all",
-      "fetched_at": "2026-04-05T10:40:59.063868"
+      "fetched_at": "2026-04-05T22:37:53.825512"
+    },
+    {
+      "source": "github",
+      "name": "hermes-agent",
+      "owner": "NousResearch",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 26210,
+      "daily_stars": 1237,
+      "language": "python",
+      "fetched_at": "2026-04-05T22:37:54.753979"
     },
     {
       "source": "github",
@@ -17,21 +28,10 @@
       "owner": "onyx-dot-app",
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "stars": 24584,
-      "daily_stars": 1197,
+      "stars": 24966,
+      "daily_stars": 960,
       "language": "all",
-      "fetched_at": "2026-04-05T10:40:59.064843"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "owner": "firloop",
-      "url": "https://news.ycombinator.com/item?id=47633396",
-      "description": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "stars": 1050,
-      "daily_stars": 1050,
-      "language": "tech",
-      "fetched_at": "2026-04-05T10:41:01.956327"
+      "fetched_at": "2026-04-05T22:37:53.826472"
     },
     {
       "source": "github",
@@ -39,54 +39,21 @@
       "owner": "block",
       "url": "https://github.com/block/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": 35983,
-      "daily_stars": 935,
+      "stars": 36907,
+      "daily_stars": 866,
       "language": "all",
-      "fetched_at": "2026-04-05T10:40:59.064341"
+      "fetched_at": "2026-04-05T22:37:53.826008"
     },
     {
-      "source": "github",
-      "name": "fff.nvim",
-      "owner": "dmtrKovalenko",
-      "url": "https://github.com/dmtrKovalenko/fff.nvim",
-      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "stars": 3491,
-      "daily_stars": 443,
-      "language": "all",
-      "fetched_at": "2026-04-05T10:40:59.066060"
-    },
-    {
-      "source": "github",
-      "name": "mlx-vlm",
-      "owner": "Blaizzy",
-      "url": "https://github.com/Blaizzy/mlx-vlm",
-      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-      "stars": 3750,
-      "daily_stars": 343,
-      "language": "all",
-      "fetched_at": "2026-04-05T10:40:59.063327"
-    },
-    {
-      "source": "github",
-      "name": "pi-mono",
-      "owner": "badlogic",
-      "url": "https://github.com/badlogic/pi-mono",
-      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "stars": 31630,
-      "daily_stars": 340,
-      "language": "all",
-      "fetched_at": "2026-04-05T10:40:59.065453"
-    },
-    {
-      "source": "github",
-      "name": "freeCodeCamp",
-      "owner": "freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 441083,
-      "daily_stars": 292,
-      "language": "all",
-      "fetched_at": "2026-04-05T10:40:59.067738"
+      "source": "hacker_news",
+      "name": "Eight years of wanting, three months of building with AI",
+      "owner": "brilee",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "description": "Eight years of wanting, three months of building with AI",
+      "stars": 522,
+      "daily_stars": 522,
+      "language": "tech",
+      "fetched_at": "2026-04-05T22:37:55.654748"
     },
     {
       "source": "github",
@@ -94,10 +61,65 @@
       "owner": "google-ai-edge",
       "url": "https://github.com/google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "stars": 16329,
-      "daily_stars": 286,
+      "stars": 16858,
+      "daily_stars": 495,
       "language": "all",
-      "fetched_at": "2026-04-05T10:40:59.062693"
+      "fetched_at": "2026-04-05T22:37:53.824374"
+    },
+    {
+      "source": "github",
+      "name": "mlx-vlm",
+      "owner": "Blaizzy",
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "stars": 3897,
+      "daily_stars": 408,
+      "language": "all",
+      "fetched_at": "2026-04-05T22:37:53.825029"
+    },
+    {
+      "source": "hacker_news",
+      "name": "Someone at BrowserStack is leaking users' email addresses",
+      "owner": "m_km",
+      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+      "description": "Someone at BrowserStack is leaking users' email addresses",
+      "stars": 354,
+      "daily_stars": 354,
+      "language": "tech",
+      "fetched_at": "2026-04-05T22:38:00.408590"
+    },
+    {
+      "source": "github",
+      "name": "pi-mono",
+      "owner": "badlogic",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "stars": 31879,
+      "daily_stars": 340,
+      "language": "all",
+      "fetched_at": "2026-04-05T22:37:53.827085"
+    },
+    {
+      "source": "github",
+      "name": "agent-framework",
+      "owner": "microsoft",
+      "url": "https://github.com/microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "stars": 8889,
+      "daily_stars": 338,
+      "language": "python",
+      "fetched_at": "2026-04-05T22:37:54.753490"
+    },
+    {
+      "source": "github",
+      "name": "freeCodeCamp",
+      "owner": "freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 441466,
+      "daily_stars": 292,
+      "language": "all",
+      "fetched_at": "2026-04-05T22:37:53.829332"
     },
     {
       "source": "github",
@@ -105,54 +127,10 @@
       "owner": "telegramdesktop",
       "url": "https://github.com/telegramdesktop/tdesktop",
       "description": "Telegram Desktop messaging app",
-      "stars": 30917,
-      "daily_stars": 249,
+      "stars": 31050,
+      "daily_stars": 265,
       "language": "all",
-      "fetched_at": "2026-04-05T10:40:59.067079"
-    },
-    {
-      "source": "hacker_news",
-      "name": "LLM Wiki – example of an \"idea file\"",
-      "owner": "tamnd",
-      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "description": "LLM Wiki – example of an \"idea file\"",
-      "stars": 202,
-      "daily_stars": 202,
-      "language": "tech",
-      "fetched_at": "2026-04-05T10:41:00.005238"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Emotion concepts and their function in a large language model",
-      "owner": "dnw",
-      "url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "description": "Emotion concepts and their function in a large language model",
-      "stars": 174,
-      "daily_stars": 174,
-      "language": "tech",
-      "fetched_at": "2026-04-05T10:41:02.474220"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-      "owner": "jrandolf",
-      "url": "https://sllm.cloud",
-      "description": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-      "stars": 159,
-      "daily_stars": 159,
-      "language": "tech",
-      "fetched_at": "2026-04-05T10:41:00.985319"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Training mRNA Language Models Across 25 Species for $165",
-      "owner": "maziyar",
-      "url": "https://news.ycombinator.com/item?id=47606244",
-      "description": "Training mRNA Language Models Across 25 Species for $165",
-      "stars": 138,
-      "daily_stars": 138,
-      "language": "tech",
-      "fetched_at": "2026-04-05T10:41:01.894248"
+      "fetched_at": "2026-04-05T22:37:53.828733"
     },
     {
       "source": "github",
@@ -160,21 +138,76 @@
       "owner": "google-ai-edge",
       "url": "https://github.com/google-ai-edge/LiteRT-LM",
       "description": "No description",
-      "stars": 1289,
-      "daily_stars": 113,
+      "stars": 1521,
+      "daily_stars": 193,
       "language": "all",
-      "fetched_at": "2026-04-05T10:40:59.066609"
+      "fetched_at": "2026-04-05T22:37:53.828242"
     },
     {
-      "source": "product_hunt",
-      "name": "Influcio",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/influcio-2",
-      "description": "\n            AI marketing Agent for result-driven influencer campaign\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-04-05T10:40:59.381259"
+      "source": "hacker_news",
+      "name": "Japanese, French and Omani vessels cross Strait of Hormuz",
+      "owner": "vrganj",
+      "url": "https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz",
+      "description": "Japanese, French and Omani vessels cross Strait of Hormuz",
+      "stars": 136,
+      "daily_stars": 136,
+      "language": "tech",
+      "fetched_at": "2026-04-05T22:38:00.067238"
+    },
+    {
+      "source": "hacker_news",
+      "name": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+      "owner": "desideratum",
+      "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+      "description": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+      "stars": 126,
+      "daily_stars": 126,
+      "language": "tech",
+      "fetched_at": "2026-04-05T22:37:56.342525"
+    },
+    {
+      "source": "hacker_news",
+      "name": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "owner": "vbtechguy",
+      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "description": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "stars": 122,
+      "daily_stars": 122,
+      "language": "tech",
+      "fetched_at": "2026-04-05T22:37:55.754750"
+    },
+    {
+      "source": "github",
+      "name": "fff.nvim",
+      "owner": "dmtrKovalenko",
+      "url": "https://github.com/dmtrKovalenko/fff.nvim",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "stars": 3669,
+      "daily_stars": 111,
+      "language": "all",
+      "fetched_at": "2026-04-05T22:37:53.827709"
+    },
+    {
+      "source": "hacker_news",
+      "name": "A tail-call interpreter in (nightly) Rust",
+      "owner": "g0xA52A2A",
+      "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+      "description": "A tail-call interpreter in (nightly) Rust",
+      "stars": 111,
+      "daily_stars": 111,
+      "language": "tech",
+      "fetched_at": "2026-04-05T22:37:56.203358"
+    },
+    {
+      "source": "github",
+      "name": "RAG-Anything",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "stars": 15214,
+      "daily_stars": 101,
+      "language": "python",
+      "fetched_at": "2026-04-05T22:37:54.754448"
     },
     {
       "source": "product_hunt",
@@ -185,29 +218,18 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-05T10:40:59.381517"
+      "fetched_at": "2026-04-05T22:37:54.996730"
     },
     {
       "source": "product_hunt",
-      "name": "Ember",
+      "name": "Influcio",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/ember-104",
-      "description": "\n            Meal scan, macros & AI coach\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/influcio-2",
+      "description": "\n            AI marketing Agent for result-driven influencer campaign\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-05T10:40:59.381729"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Shotwell",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/shotwell",
-      "description": "\n            The screenshot editor for iPhone.\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-04-05T10:40:59.381924"
+      "fetched_at": "2026-04-05T22:37:54.996944"
     },
     {
       "source": "product_hunt",
@@ -218,7 +240,18 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-05T10:40:59.382131"
+      "fetched_at": "2026-04-05T22:37:54.997155"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Ember",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/ember-104",
+      "description": "\n            Meal scan, macros & AI coach\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-04-05T22:37:54.997359"
     },
     {
       "source": "product_hunt",
@@ -229,7 +262,18 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-05T10:40:59.382321"
+      "fetched_at": "2026-04-05T22:37:54.997573"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Shotwell",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/shotwell",
+      "description": "\n            The screenshot editor for iPhone.\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-04-05T22:37:54.997772"
     },
     {
       "source": "product_hunt",
@@ -240,7 +284,18 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-05T10:40:59.382553"
+      "fetched_at": "2026-04-05T22:37:54.997964"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Fluently",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/fluently-accurate-youtube-subtitles",
+      "description": "\n            AI subtitles & translations for YouTube. 20+ Languages. \n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-04-05T22:37:54.998161"
     },
     {
       "source": "product_hunt",
@@ -251,51 +306,117 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-05T10:40:59.382757"
+      "fetched_at": "2026-04-05T22:37:54.998350"
     },
     {
       "source": "product_hunt",
-      "name": "Faahh",
+      "name": "Klick AI Camera Assistant",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/faahh-app-that-roasts-you-back-to-work",
-      "description": "\n            Slap your desk. Unplug distractions. Get back to focus.\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/klick-1-ai-camera-assistant",
+      "description": "\n            Real-time AI camera that teaches you composition live\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-05T10:40:59.382953"
+      "fetched_at": "2026-04-05T22:37:54.998554"
     },
     {
-      "source": "product_hunt",
-      "name": "Donut Browser",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/donut-browser",
-      "description": "\n            Open Source Anti-Detect Browser with Unlimited Profiles\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-04-05T10:40:59.383139"
-    },
-    {
-      "source": "qiita",
-      "name": "Anthropic マルチエージェントハーネス入門 — 自律アプリ開発の3エージェント設計",
-      "owner": "kai_kou",
-      "url": "https://qiita.com/kai_kou/items/94b00143fc895ac0271e",
-      "description": "Anthropic マルチエージェントハーネス入門 — 自律アプリ開発の3エージェント設計",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-04-05T10:41:03.426977"
+      "source": "github",
+      "name": "gemma",
+      "owner": "google-deepmind",
+      "url": "https://github.com/google-deepmind/gemma",
+      "description": "Gemma open-weight LLM library, from Google DeepMind",
+      "stars": 4410,
+      "daily_stars": 45,
+      "language": "python",
+      "fetched_at": "2026-04-05T22:37:54.754935"
     },
     {
       "source": "qiita",
-      "name": "GT7の数万行ログを「プロレーサーのアドバイス」に変える：時系列データ×LLMによる言語化設計パターン",
-      "owner": "toolstudio22",
-      "url": "https://qiita.com/toolstudio22/items/63ba2ddaf8f6200e84bc",
-      "description": "GT7の数万行ログを「プロレーサーのアドバイス」に変える：時系列データ×LLMによる言語化設計パターン",
+      "name": "エラーを「握りつぶす」コードの見抜き方 ― Python・TypeScript・Go・Rustで学ぶエラーハンドリング設計",
+      "owner": "nrEngineer",
+      "url": "https://qiita.com/nrEngineer/items/ea782ba7f73199d258c3",
+      "description": "エラーを「握りつぶす」コードの見抜き方 ― Python・TypeScript・Go・Rustで学ぶエラーハンドリング設計",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-05T10:41:03.426992"
+      "fetched_at": "2026-04-05T22:38:02.221962"
+    },
+    {
+      "source": "qiita",
+      "name": "Gemma 4をOllamaで動かしたら、Qwen 3.5が思考ダダ漏れで自滅した：ローカルLLM日本語対決",
+      "owner": "kenimo49",
+      "url": "https://qiita.com/kenimo49/items/700ebefb8dd89cccf42c",
+      "description": "Gemma 4をOllamaで動かしたら、Qwen 3.5が思考ダダ漏れで自滅した：ローカルLLM日本語対決",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-04-05T22:38:02.221977"
+    },
+    {
+      "source": "qiita",
+      "name": "AIエージェントのスキルファイルにプロンプトインジェクションを仕込む方法（と検出する方法）",
+      "owner": "sami-openlife",
+      "url": "https://qiita.com/sami-openlife/items/38e22dfa4c5ff7c274d6",
+      "description": "AIエージェントのスキルファイルにプロンプトインジェクションを仕込む方法（と検出する方法）",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-04-05T22:38:02.221983"
+    },
+    {
+      "source": "qiita",
+      "name": "IRFを使わずに感度分析！主成分回帰と介入で探る変数の影響力",
+      "owner": "maskot1977",
+      "url": "https://qiita.com/maskot1977/items/402a64baa4d22744832a",
+      "description": "IRFを使わずに感度分析！主成分回帰と介入で探る変数の影響力",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-04-05T22:38:02.221990"
+    },
+    {
+      "source": "qiita",
+      "name": "Amazon Bedrock AgentCore Runtime が実務モードに入った！AIエージェントが「昨日の workspace」を忘れなくなる話",
+      "owner": "syukan3",
+      "url": "https://qiita.com/syukan3/items/13e48ce07b286441127c",
+      "description": "Amazon Bedrock AgentCore Runtime が実務モードに入った！AIエージェントが「昨日の workspace」を忘れなくなる話",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-04-05T22:38:02.490885"
+    },
+    {
+      "source": "qiita",
+      "name": "知らないと損する Claude Code のモデル設定 — 5つの実践的な設定テクニック",
+      "owner": "moha0918_",
+      "url": "https://qiita.com/moha0918_/items/c24338fd8eb19a8bcb2f",
+      "description": "知らないと損する Claude Code のモデル設定 — 5つの実践的な設定テクニック",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-04-05T22:38:02.490892"
+    },
+    {
+      "source": "qiita",
+      "name": "AIプロンプト実行途中結果7",
+      "owner": "sadasi64",
+      "url": "https://qiita.com/sadasi64/items/4555a3e66a2839c574ab",
+      "description": "AIプロンプト実行途中結果7",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-04-05T22:38:02.490898"
+    },
+    {
+      "source": "qiita",
+      "name": "時系列モデルを用いた東京の電力需要の予測",
+      "owner": "ground__around",
+      "url": "https://qiita.com/ground__around/items/9624844f918a7e89e784",
+      "description": "時系列モデルを用いた東京の電力需要の予測",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-04-05T22:38:02.762787"
     },
     {
       "source": "qiita",
@@ -306,62 +427,7 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-05T10:41:03.426999"
-    },
-    {
-      "source": "qiita",
-      "name": "【Docker】Pythonアプリを別環境で動かすまで【初心者向け・備忘録】",
-      "owner": "mnskdev",
-      "url": "https://qiita.com/mnskdev/items/b0b6d15c76128a690673",
-      "description": "【Docker】Pythonアプリを別環境で動かすまで【初心者向け・備忘録】",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-04-05T10:41:03.427005"
-    },
-    {
-      "source": "qiita",
-      "name": "「構造化された忘却」— AIエージェントの記憶管理に数学的裏付けが出た",
-      "owner": "sami-openlife",
-      "url": "https://qiita.com/sami-openlife/items/f9546dfb695211c79999",
-      "description": "「構造化された忘却」— AIエージェントの記憶管理に数学的裏付けが出た",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-04-05T10:41:03.628585"
-    },
-    {
-      "source": "qiita",
-      "name": "【Claude Code節約術】\"原始人プロンプト\"でトークンを75%節約可能？",
-      "owner": "ehrktm090",
-      "url": "https://qiita.com/ehrktm090/items/6b399c66cf71e7d8578e",
-      "description": "【Claude Code節約術】\"原始人プロンプト\"でトークンを75%節約可能？",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-04-05T10:41:03.628600"
-    },
-    {
-      "source": "qiita",
-      "name": "ChatGPTの出力をそのまま使うと\"AI臭い\"ので、リライトツール作った",
-      "owner": "Mildsolt2914491",
-      "url": "https://qiita.com/Mildsolt2914491/items/64f17be4ab8a9a562853",
-      "description": "ChatGPTの出力をそのまま使うと\"AI臭い\"ので、リライトツール作った",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-04-05T10:41:03.628606"
-    },
-    {
-      "source": "qiita",
-      "name": "Bonsai llama.cpp ROCmテスト",
-      "owner": "kotetsu_yama",
-      "url": "https://qiita.com/kotetsu_yama/items/fb85cced2f4ddaa79232",
-      "description": "Bonsai llama.cpp ROCmテスト",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-04-05T10:41:03.628612"
+      "fetched_at": "2026-04-05T22:38:02.762799"
     },
     {
       "source": "qiita",
@@ -372,7 +438,7 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-05T10:41:03.846040"
+      "fetched_at": "2026-04-05T22:38:02.762806"
     },
     {
       "source": "qiita",
@@ -383,18 +449,18 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-05T10:41:03.846047"
+      "fetched_at": "2026-04-05T22:38:02.762812"
     },
     {
-      "source": "qiita",
-      "name": "ローカル環境構築：超軽量モデル「BitNet」をとりあえず動かしてみる",
-      "owner": "Ban-Takumi",
-      "url": "https://qiita.com/Ban-Takumi/items/a65f42e5b08b877a4c2f",
-      "description": "ローカル環境構築：超軽量モデル「BitNet」をとりあえず動かしてみる",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-04-05T10:41:03.846053"
+      "source": "github",
+      "name": "tradingview-mcp",
+      "owner": "atilaahmettaner",
+      "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+      "description": "Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude Desktop & AI assistants. Multi-exchange support (Binance, KuCoin, Bybit+). Open source trading toolkit.",
+      "stars": 671,
+      "daily_stars": 38,
+      "language": "python",
+      "fetched_at": "2026-04-05T22:37:54.755553"
     }
   ],
   "x_hot_words": [

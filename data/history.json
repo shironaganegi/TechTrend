@@ -1,10 +1,5 @@
 [
   {
-    "name": "Perplexica",
-    "url": "https://github.com/ItzCrazyKns/Perplexica",
-    "date": "2026-03-05T10:55:49.181672"
-  },
-  {
     "name": "GPT-5.4",
     "url": "https://openai.com/index/introducing-gpt-5-4/",
     "date": "2026-03-05T22:43:56.491580"
@@ -498,5 +493,10 @@
     "name": "Tiny Aya",
     "url": "https://www.producthunt.com/products/cohere-2",
     "date": "2026-04-05T10:42:28.042460"
+  },
+  {
+    "name": "Gemma 4をOllamaで動かしたら、Qwen 3.5が思考ダダ漏れで自滅した：ローカルLLM日本語対決",
+    "url": "https://qiita.com/kenimo49/items/700ebefb8dd89cccf42c",
+    "date": "2026-04-05T22:38:54.238287"
   }
 ]
