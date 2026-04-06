@@ -1,10 +1,5 @@
 [
   {
-    "name": "GPT-5.4",
-    "url": "https://openai.com/index/introducing-gpt-5-4/",
-    "date": "2026-03-05T22:43:56.491580"
-  },
-  {
     "name": "JupyterLabへの使用仮想環境追加(忘備録)",
     "url": "https://qiita.com/tkiyom2024/items/f62ef53e34cd670d7047",
     "date": "2026-03-05T23:14:52.570016"
@@ -498,5 +493,10 @@
     "name": "Gemma 4をOllamaで動かしたら、Qwen 3.5が思考ダダ漏れで自滅した：ローカルLLM日本語対決",
     "url": "https://qiita.com/kenimo49/items/700ebefb8dd89cccf42c",
     "date": "2026-04-05T22:38:54.238287"
+  },
+  {
+    "name": "hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "date": "2026-04-06T05:31:58.308838"
   }
 ]
