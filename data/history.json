@@ -1,10 +1,5 @@
 [
   {
-    "name": "Imbue",
-    "url": "https://www.producthunt.com/products/imbue-7",
-    "date": "2026-03-06T10:44:07.141450"
-  },
-  {
     "name": "agency-agents",
     "url": "https://github.com/msitarzewski/agency-agents",
     "date": "2026-03-06T22:35:54.281245"
@@ -498,5 +493,10 @@
     "name": "30_OOF予測値でIsotonic Regressionを学習する",
     "url": "https://qiita.com/keiba_ai_rui/items/1abccf5704b3695d2953",
     "date": "2026-04-06T22:43:12.832984"
+  },
+  {
+    "name": "Claude API 1Mコンテキストベータ廃止ガイド — 4/30期限の移行チェックリスト",
+    "url": "https://qiita.com/kai_kou/items/cdeff88376b1c5941f5a",
+    "date": "2026-04-07T05:16:17.555802"
   }
 ]
