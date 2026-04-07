@@ -1,10 +1,5 @@
 [
   {
-    "name": "agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "date": "2026-03-06T22:35:54.281245"
-  },
-  {
     "name": "Qwen-Agent",
     "url": "https://github.com/QwenLM/Qwen-Agent",
     "date": "2026-03-07T04:26:53.251233"
@@ -498,5 +493,10 @@
     "name": "Claude API 1Mコンテキストベータ廃止ガイド — 4/30期限の移行チェックリスト",
     "url": "https://qiita.com/kai_kou/items/cdeff88376b1c5941f5a",
     "date": "2026-04-07T05:16:17.555802"
+  },
+  {
+    "name": "Silkwave Voice",
+    "url": "https://www.producthunt.com/products/silkwave-voice",
+    "date": "2026-04-07T11:04:13.606215"
   }
 ]
