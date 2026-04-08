@@ -6,10 +6,10 @@
       "owner": "NousResearch",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 34907,
-      "daily_stars": 3009,
+      "stars": 37154,
+      "daily_stars": 5761,
       "language": "python",
-      "fetched_at": "2026-04-08T11:03:55.428214"
+      "fetched_at": "2026-04-08T22:49:30.724908"
     },
     {
       "source": "github",
@@ -17,10 +17,10 @@
       "owner": "obra",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 140455,
-      "daily_stars": 1926,
+      "stars": 141413,
+      "daily_stars": 2170,
       "language": "all",
-      "fetched_at": "2026-04-08T11:03:54.135299"
+      "fetched_at": "2026-04-08T22:49:29.475446"
     },
     {
       "source": "hacker_news",
@@ -28,164 +28,10 @@
       "owner": "Ryan5453",
       "url": "https://www.anthropic.com/glasswing",
       "description": "Project Glasswing: Securing critical software for the AI era",
-      "stars": 1315,
-      "daily_stars": 1315,
+      "stars": 1473,
+      "daily_stars": 1473,
       "language": "tech",
-      "fetched_at": "2026-04-08T11:03:56.424235"
-    },
-    {
-      "source": "github",
-      "name": "GitNexus",
-      "owner": "abhigyanpatwari",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": 24990,
-      "daily_stars": 1195,
-      "language": "all",
-      "fetched_at": "2026-04-08T11:03:54.136233"
-    },
-    {
-      "source": "github",
-      "name": "gallery",
-      "owner": "google-ai-edge",
-      "url": "https://github.com/google-ai-edge/gallery",
-      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "stars": 19175,
-      "daily_stars": 897,
-      "language": "all",
-      "fetched_at": "2026-04-08T11:03:54.133462"
-    },
-    {
-      "source": "hacker_news",
-      "name": "System Card: Claude Mythos Preview [pdf]",
-      "owner": "be7a",
-      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "description": "System Card: Claude Mythos Preview [pdf]",
-      "stars": 715,
-      "daily_stars": 715,
-      "language": "tech",
-      "fetched_at": "2026-04-08T11:03:57.100969"
-    },
-    {
-      "source": "github",
-      "name": "personaplex",
-      "owner": "NVIDIA",
-      "url": "https://github.com/NVIDIA/personaplex",
-      "description": "PersonaPlex code.",
-      "stars": 8210,
-      "daily_stars": 662,
-      "language": "all",
-      "fetched_at": "2026-04-08T11:03:54.133877"
-    },
-    {
-      "source": "github",
-      "name": "RedditVideoMakerBot",
-      "owner": "elebumm",
-      "url": "https://github.com/elebumm/RedditVideoMakerBot",
-      "description": "Create Reddit Videos with just✨ one command ✨",
-      "stars": 10253,
-      "daily_stars": 636,
-      "language": "all",
-      "fetched_at": "2026-04-08T11:03:54.134764"
-    },
-    {
-      "source": "github",
-      "name": "LiteRT-LM",
-      "owner": "google-ai-edge",
-      "url": "https://github.com/google-ai-edge/LiteRT-LM",
-      "description": "No description",
-      "stars": 2775,
-      "daily_stars": 528,
-      "language": "all",
-      "fetched_at": "2026-04-08T11:03:54.134348"
-    },
-    {
-      "source": "github",
-      "name": "tradingview-mcp",
-      "owner": "atilaahmettaner",
-      "url": "https://github.com/atilaahmettaner/tradingview-mcp",
-      "description": "Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude Desktop & AI assistants. Multi-exchange support (Binance, KuCoin, Bybit+). Open source trading toolkit.",
-      "stars": 1151,
-      "daily_stars": 438,
-      "language": "python",
-      "fetched_at": "2026-04-08T11:03:55.429147"
-    },
-    {
-      "source": "github",
-      "name": "BitNet",
-      "owner": "microsoft",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "stars": 37763,
-      "daily_stars": 435,
-      "language": "python",
-      "fetched_at": "2026-04-08T11:03:55.428630"
-    },
-    {
-      "source": "hacker_news",
-      "name": "A truck driver spent 20 years making a scale model of every building in NYC",
-      "owner": "1659447091",
-      "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-      "description": "A truck driver spent 20 years making a scale model of every building in NYC",
-      "stars": 340,
-      "daily_stars": 340,
-      "language": "tech",
-      "fetched_at": "2026-04-08T11:03:57.893659"
-    },
-    {
-      "source": "github",
-      "name": "AI-Trader",
-      "owner": "HKUDS",
-      "url": "https://github.com/HKUDS/AI-Trader",
-      "description": "\"AI-Trader: 100% Fully-Automated Trading Powered by Agent Swarm Intelligence\"",
-      "stars": 12551,
-      "daily_stars": 320,
-      "language": "python",
-      "fetched_at": "2026-04-08T11:03:55.429562"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Assessing Claude Mythos Preview's cybersecurity capabilities",
-      "owner": "sweis",
-      "url": "https://red.anthropic.com/2026/mythos-preview/",
-      "description": "Assessing Claude Mythos Preview's cybersecurity capabilities",
-      "stars": 286,
-      "daily_stars": 286,
-      "language": "tech",
-      "fetched_at": "2026-04-08T11:04:01.813876"
-    },
-    {
-      "source": "github",
-      "name": "unsloth",
-      "owner": "unslothai",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.",
-      "stars": 60107,
-      "daily_stars": 268,
-      "language": "python",
-      "fetched_at": "2026-04-08T11:03:55.430079"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Taste in the age of AI and LLMs",
-      "owner": "speckx",
-      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-      "description": "Taste in the age of AI and LLMs",
-      "stars": 247,
-      "daily_stars": 247,
-      "language": "tech",
-      "fetched_at": "2026-04-08T11:04:02.048980"
-    },
-    {
-      "source": "github",
-      "name": "seomachine",
-      "owner": "TheCraigHewitt",
-      "url": "https://github.com/TheCraigHewitt/seomachine",
-      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-      "stars": 4190,
-      "daily_stars": 215,
-      "language": "all",
-      "fetched_at": "2026-04-08T11:03:54.133043"
+      "fetched_at": "2026-04-08T22:49:37.034463"
     },
     {
       "source": "github",
@@ -193,10 +39,175 @@
       "owner": "HKUDS",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "stars": 12781,
-      "daily_stars": 168,
+      "stars": 13496,
+      "daily_stars": 1168,
       "language": "python",
-      "fetched_at": "2026-04-08T11:03:55.427393"
+      "fetched_at": "2026-04-08T22:49:30.724076"
+    },
+    {
+      "source": "github",
+      "name": "GitNexus",
+      "owner": "abhigyanpatwari",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": 25256,
+      "daily_stars": 981,
+      "language": "all",
+      "fetched_at": "2026-04-08T22:49:29.476385"
+    },
+    {
+      "source": "github",
+      "name": "gallery",
+      "owner": "google-ai-edge",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "stars": 19471,
+      "daily_stars": 853,
+      "language": "all",
+      "fetched_at": "2026-04-08T22:49:29.473616"
+    },
+    {
+      "source": "github",
+      "name": "andrej-karpathy-skills",
+      "owner": "forrestchang",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "No description",
+      "stars": 8903,
+      "daily_stars": 686,
+      "language": "all",
+      "fetched_at": "2026-04-08T22:49:29.472778"
+    },
+    {
+      "source": "github",
+      "name": "seomachine",
+      "owner": "TheCraigHewitt",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "stars": 4529,
+      "daily_stars": 645,
+      "language": "all",
+      "fetched_at": "2026-04-08T22:49:29.473202"
+    },
+    {
+      "source": "github",
+      "name": "personaplex",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "stars": 8383,
+      "daily_stars": 589,
+      "language": "all",
+      "fetched_at": "2026-04-08T22:49:29.474031"
+    },
+    {
+      "source": "github",
+      "name": "RedditVideoMakerBot",
+      "owner": "elebumm",
+      "url": "https://github.com/elebumm/RedditVideoMakerBot",
+      "description": "Create Reddit Videos with just✨ one command ✨",
+      "stars": 10445,
+      "daily_stars": 572,
+      "language": "all",
+      "fetched_at": "2026-04-08T22:49:29.474921"
+    },
+    {
+      "source": "github",
+      "name": "LiteRT-LM",
+      "owner": "google-ai-edge",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "description": "No description",
+      "stars": 2959,
+      "daily_stars": 500,
+      "language": "all",
+      "fetched_at": "2026-04-08T22:49:29.474500"
+    },
+    {
+      "source": "github",
+      "name": "tradingview-mcp",
+      "owner": "atilaahmettaner",
+      "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+      "description": "Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude Desktop & AI assistants. Multi-exchange support (Binance, KuCoin, Bybit+). Open source trading toolkit.",
+      "stars": 1295,
+      "daily_stars": 438,
+      "language": "python",
+      "fetched_at": "2026-04-08T22:49:30.725856"
+    },
+    {
+      "source": "github",
+      "name": "BitNet",
+      "owner": "microsoft",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "stars": 37879,
+      "daily_stars": 435,
+      "language": "python",
+      "fetched_at": "2026-04-08T22:49:30.725319"
+    },
+    {
+      "source": "github",
+      "name": "AI-Trader",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "stars": 12671,
+      "daily_stars": 320,
+      "language": "python",
+      "fetched_at": "2026-04-08T22:49:30.726270"
+    },
+    {
+      "source": "github",
+      "name": "unsloth",
+      "owner": "unslothai",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.",
+      "stars": 60306,
+      "daily_stars": 268,
+      "language": "python",
+      "fetched_at": "2026-04-08T22:49:30.726800"
+    },
+    {
+      "source": "hacker_news",
+      "name": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "owner": "chrsw",
+      "url": "https://arxiv.org/abs/2604.05091",
+      "description": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "stars": 242,
+      "daily_stars": 242,
+      "language": "tech",
+      "fetched_at": "2026-04-08T22:49:32.823839"
+    },
+    {
+      "source": "hacker_news",
+      "name": "I've been waiting over a month for Anthropic to respond to my billing issue",
+      "owner": "nickvec",
+      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+      "description": "I've been waiting over a month for Anthropic to respond to my billing issue",
+      "stars": 222,
+      "daily_stars": 222,
+      "language": "tech",
+      "fetched_at": "2026-04-08T22:49:33.540034"
+    },
+    {
+      "source": "hacker_news",
+      "name": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
+      "owner": "bundie",
+      "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
+      "description": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
+      "stars": 161,
+      "daily_stars": 161,
+      "language": "tech",
+      "fetched_at": "2026-04-08T22:49:34.291055"
+    },
+    {
+      "source": "hacker_news",
+      "name": "Your File System Is Already A Graph Database",
+      "owner": "alxndr",
+      "url": "https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/",
+      "description": "Your File System Is Already A Graph Database",
+      "stars": 155,
+      "daily_stars": 155,
+      "language": "tech",
+      "fetched_at": "2026-04-08T22:49:35.407940"
     },
     {
       "source": "github",
@@ -204,21 +215,21 @@
       "owner": "mem0ai",
       "url": "https://github.com/mem0ai/mem0",
       "description": "Universal memory layer for AI Agents",
-      "stars": 52277,
+      "stars": 52329,
       "daily_stars": 136,
       "language": "python",
-      "fetched_at": "2026-04-08T11:03:55.427803"
+      "fetched_at": "2026-04-08T22:49:30.724495"
     },
     {
       "source": "hacker_news",
-      "name": "AI helps add 10k more photos to OldNYC",
-      "owner": "evakhoury",
-      "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
-      "description": "AI helps add 10k more photos to OldNYC",
+      "name": "Claude Managed Agents",
+      "owner": "adocomplete",
+      "url": "https://claude.com/blog/claude-managed-agents",
+      "description": "Claude Managed Agents",
       "stars": 133,
       "daily_stars": 133,
       "language": "tech",
-      "fetched_at": "2026-04-08T11:04:01.240049"
+      "fetched_at": "2026-04-08T22:49:35.785378"
     },
     {
       "source": "github",
@@ -226,54 +237,43 @@
       "owner": "virattt",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
-      "stars": 50430,
+      "stars": 50647,
       "daily_stars": 123,
       "language": "all",
-      "fetched_at": "2026-04-08T11:03:54.136650"
+      "fetched_at": "2026-04-08T22:49:29.476802"
     },
     {
       "source": "hacker_news",
-      "name": "A database of analog cameras that can be 3D printed",
-      "owner": "thomasjb",
-      "url": "https://printed.analogcamera.space/",
-      "description": "A database of analog cameras that can be 3D printed",
-      "stars": 109,
-      "daily_stars": 109,
+      "name": "One item purchased, ten emails",
+      "owner": "speckx",
+      "url": "https://joshghent.com/online-shopping/",
+      "description": "One item purchased, ten emails",
+      "stars": 105,
+      "daily_stars": 105,
       "language": "tech",
-      "fetched_at": "2026-04-08T11:03:58.238366"
+      "fetched_at": "2026-04-08T22:49:36.398283"
     },
     {
       "source": "product_hunt",
-      "name": "Flint",
+      "name": "Hire Roger",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/flint-6",
-      "description": "\n            Launch on-brand pages for every campaign, ad, and prospect.\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/hire-roger",
+      "description": "\n            Hire an AI outbound sales rep as your next coworker\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-08T11:03:55.663773"
+      "fetched_at": "2026-04-08T22:49:30.988978"
     },
     {
       "source": "product_hunt",
-      "name": "Google Chrome Vertical Tabs",
+      "name": "Career-Ops on Claude",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/google",
-      "description": "\n            Chrome now supports vertical tabs and immersive reading mode\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/santifer-io",
+      "description": "\n            An AI-powered Job Search System built on Claude Code\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-08T11:03:55.663961"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Zoho Projects Infinity.ai",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/zoho-projects",
-      "description": "\n            Your projects. Your way. \n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-04-08T11:03:55.664134"
+      "fetched_at": "2026-04-08T22:49:30.989162"
     },
     {
       "source": "product_hunt",
@@ -284,7 +284,7 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-08T11:03:55.664317"
+      "fetched_at": "2026-04-08T22:49:30.989333"
     },
     {
       "source": "product_hunt",
@@ -295,51 +295,40 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-08T11:03:55.664505"
+      "fetched_at": "2026-04-08T22:49:30.989521"
     },
     {
       "source": "product_hunt",
-      "name": "PassportReader",
+      "name": "Keeby",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/iris-id-by-passportreader",
-      "description": "\n            Verify passports, ID cards, and digital credentials via API\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/keeby",
+      "description": "\n            Mechanical keyboard sounds for your Mac\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-08T11:03:55.664673"
+      "fetched_at": "2026-04-08T22:49:30.989690"
     },
     {
       "source": "product_hunt",
-      "name": "Marble 1.1",
+      "name": "Google Chrome Vertical Tabs",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/marble-by-world-labs",
-      "description": "\n            Better lighting and larger scales for 3D world generation\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/google",
+      "description": "\n            Chrome now supports vertical tabs and immersive reading mode\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-08T11:03:55.664839"
+      "fetched_at": "2026-04-08T22:49:30.989855"
     },
     {
       "source": "product_hunt",
-      "name": "Clawcast",
+      "name": "BizCalc",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/clawcast",
-      "description": "\n            Peer-to-Peer Podcasting for Agents\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/bizcalc",
+      "description": "\n            Free business calculators — instant results, no signup\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-08T11:03:55.665003"
-    },
-    {
-      "source": "product_hunt",
-      "name": "LookAway 2",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/lookaway",
-      "description": "\n            The Mac app your body thanks you for\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-04-08T11:03:55.665169"
+      "fetched_at": "2026-04-08T22:49:30.990028"
     },
     {
       "source": "product_hunt",
@@ -350,7 +339,29 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-04-08T11:03:55.665343"
+      "fetched_at": "2026-04-08T22:49:30.990192"
+    },
+    {
+      "source": "product_hunt",
+      "name": "FeatDrop",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/featdrop",
+      "description": "\n            Public changelog for builders to share product updates\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-04-08T22:49:30.990355"
+    },
+    {
+      "source": "product_hunt",
+      "name": "PassportReader",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/iris-id-by-passportreader",
+      "description": "\n            Verify passports, ID cards, and digital credentials via API\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-04-08T22:49:30.990526"
     },
     {
       "source": "github",
@@ -358,131 +369,131 @@
       "owner": "newton-physics",
       "url": "https://github.com/newton-physics/newton",
       "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "stars": 3886,
+      "stars": 4061,
       "daily_stars": 67,
       "language": "all",
-      "fetched_at": "2026-04-08T11:03:54.135712"
-    },
-    {
-      "source": "github",
-      "name": "andrej-karpathy-skills",
-      "owner": "forrestchang",
-      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "description": "No description",
-      "stars": 8377,
-      "daily_stars": 51,
-      "language": "all",
-      "fetched_at": "2026-04-08T11:03:54.132611"
+      "fetched_at": "2026-04-08T22:49:29.475866"
     },
     {
       "source": "qiita",
-      "name": "NVIDIA NeMo Agent Toolkit入門 — MCP・A2A対応マルチエージェントをPythonで実装する",
+      "name": "家のPCの local LLM を外部ネットワークからブラウザで使いたい",
+      "owner": "sinngoro456",
+      "url": "https://qiita.com/sinngoro456/items/b6e51aa0b6d796e4683b",
+      "description": "家のPCの local LLM を外部ネットワークからブラウザで使いたい",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-04-08T22:49:37.978743"
+    },
+    {
+      "source": "qiita",
+      "name": "資産が消える国の構造 ― 相続税・財源幻想・国土流出をどう立て直すか : Pythonで学ぶ マクロ経済学入門 (70)",
+      "owner": "maskot1977",
+      "url": "https://qiita.com/maskot1977/items/b7ec98e87f67063110e8",
+      "description": "資産が消える国の構造 ― 相続税・財源幻想・国土流出をどう立て直すか : Pythonで学ぶ マクロ経済学入門 (70)",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-04-08T22:49:37.978757"
+    },
+    {
+      "source": "qiita",
+      "name": "Gemini for Home入門 — スマートホームをGemini AIで制御するGoogle Home APIの全貌",
       "owner": "kai_kou",
-      "url": "https://qiita.com/kai_kou/items/ecd87651aa0de5549ccd",
-      "description": "NVIDIA NeMo Agent Toolkit入門 — MCP・A2A対応マルチエージェントをPythonで実装する",
+      "url": "https://qiita.com/kai_kou/items/88fc4537116895980c8d",
+      "description": "Gemini for Home入門 — スマートホームをGemini AIで制御するGoogle Home APIの全貌",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-08T11:04:02.897607"
+      "fetched_at": "2026-04-08T22:49:37.978763"
     },
     {
       "source": "qiita",
-      "name": "KVキャッシュをQ4に落としたら32Kコンテキストが8GBに収まった — 壊れたのは数学だけだった",
+      "name": "Ollama・LM Studio・GPT4Allの中身は全部llama.cppだった — それでも差が出る理由",
       "owner": "plasmon",
-      "url": "https://qiita.com/plasmon/items/44baacc8c2459dcd31ed",
-      "description": "KVキャッシュをQ4に落としたら32Kコンテキストが8GBに収まった — 壊れたのは数学だけだった",
+      "url": "https://qiita.com/plasmon/items/5fa3707d9c6148fa8acc",
+      "description": "Ollama・LM Studio・GPT4Allの中身は全部llama.cppだった — それでも差が出る理由",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-08T11:04:02.897621"
+      "fetched_at": "2026-04-08T22:49:37.978768"
     },
     {
       "source": "qiita",
-      "name": "How to Integrate AI-Powered Invoice OCR API into ERP Workflows",
-      "owner": "azapiaibservices",
-      "url": "https://qiita.com/azapiaibservices/items/72a0b265890993684ae3",
-      "description": "How to Integrate AI-Powered Invoice OCR API into ERP Workflows",
+      "name": "Claude Code でAIチームを組織した — CEO・DevOps・Writer・Researcher の役割分担と運用設計",
+      "owner": "saitoko",
+      "url": "https://qiita.com/saitoko/items/954130302c71bb094522",
+      "description": "Claude Code でAIチームを組織した — CEO・DevOps・Writer・Researcher の役割分担と運用設計",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-08T11:04:02.897628"
+      "fetched_at": "2026-04-08T22:49:38.285007"
     },
     {
       "source": "qiita",
-      "name": "量子機械学習でポートフォリオ最適化をやってみた（Qiskit / PennyLane 実装解説）",
-      "owner": "AIRoboticsQuantumLab",
-      "url": "https://qiita.com/AIRoboticsQuantumLab/items/637c18cba3ac8f0180ed",
-      "description": "量子機械学習でポートフォリオ最適化をやってみた（Qiskit / PennyLane 実装解説）",
+      "name": "OpenClawのサブエージェント、Claude HaikuとローカルGemma 4 どっちが正解か実測した",
+      "owner": "kenimo49",
+      "url": "https://qiita.com/kenimo49/items/537ed430779c29388000",
+      "description": "OpenClawのサブエージェント、Claude HaikuとローカルGemma 4 どっちが正解か実測した",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-08T11:04:02.897633"
+      "fetched_at": "2026-04-08T22:49:38.285021"
     },
     {
       "source": "qiita",
-      "name": "Claude Code Headless実行で開発効率40%改善 - 導入ガイド完全版",
+      "name": "複数のAIが同時に働く仕組み - Agent Teamsで実現するチーム開発の全体像",
       "owner": "moha0918_",
-      "url": "https://qiita.com/moha0918_/items/998f0ca62960492a13d4",
-      "description": "Claude Code Headless実行で開発効率40%改善 - 導入ガイド完全版",
+      "url": "https://qiita.com/moha0918_/items/9682b1ec8b71e884ec13",
+      "description": "複数のAIが同時に働く仕組み - Agent Teamsで実現するチーム開発の全体像",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-08T11:04:03.353320"
+      "fetched_at": "2026-04-08T22:49:38.285027"
     },
     {
       "source": "qiita",
-      "name": "LLMは「賢くなるほど安心」ではないかもしれない――FCL-S V5という視点が面白かった",
-      "owner": "masahiroSV",
-      "url": "https://qiita.com/masahiroSV/items/e7807b788c1535fa29bf",
-      "description": "LLMは「賢くなるほど安心」ではないかもしれない――FCL-S V5という視点が面白かった",
+      "name": "今日のClaude Code v2.1.97 リリース｜毎日Changelog解説",
+      "owner": "moha0918_",
+      "url": "https://qiita.com/moha0918_/items/112149866223f8b5f6a0",
+      "description": "今日のClaude Code v2.1.97 リリース｜毎日Changelog解説",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-08T11:04:03.353334"
+      "fetched_at": "2026-04-08T22:49:38.285033"
     },
     {
       "source": "qiita",
-      "name": "【Claude Code】エージェントチーム機能でアプリ作ってみた",
-      "owner": "pro-tein",
-      "url": "https://qiita.com/pro-tein/items/27ced96875f5d6b2d095",
-      "description": "【Claude Code】エージェントチーム機能でアプリ作ってみた",
+      "name": "あんまり聞かない主成分分析の幾何学的解釈",
+      "owner": "nyosan",
+      "url": "https://qiita.com/nyosan/items/5b340beb9285e44d970e",
+      "description": "あんまり聞かない主成分分析の幾何学的解釈",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-08T11:04:03.353340"
+      "fetched_at": "2026-04-08T22:49:38.653065"
     },
     {
       "source": "qiita",
-      "name": "【Claude Code】Agent Teams（エージェントチーム）機能とは",
-      "owner": "pro-tein",
-      "url": "https://qiita.com/pro-tein/items/87da6cf462b3d930f7e0",
-      "description": "【Claude Code】Agent Teams（エージェントチーム）機能とは",
+      "name": "【世界初】OOD検出 ≅ NEITHER ≅ 龍樹の空 — 機械学習と中観仏教の構造的同型 (PyOD 20アルゴリズム実証)",
+      "owner": "fc0web",
+      "url": "https://qiita.com/fc0web/items/5193208c7403b871126b",
+      "description": "【世界初】OOD検出 ≅ NEITHER ≅ 龍樹の空 — 機械学習と中観仏教の構造的同型 (PyOD 20アルゴリズム実証)",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-08T11:04:03.353346"
+      "fetched_at": "2026-04-08T22:49:38.653078"
     },
     {
       "source": "qiita",
-      "name": "LLM推論の電力の99.8%は計算に使われていない",
-      "owner": "plasmon",
-      "url": "https://qiita.com/plasmon/items/a210ef2e51f3604fe9e6",
-      "description": "LLM推論の電力の99.8%は計算に使われていない",
+      "name": "Haskell の数値計算ライブラリで logSumExp の実装を読む",
+      "owner": "ohikouta",
+      "url": "https://qiita.com/ohikouta/items/f9d28535fe7e35c39c74",
+      "description": "Haskell の数値計算ライブラリで logSumExp の実装を読む",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-04-08T11:04:03.765038"
-    },
-    {
-      "source": "qiita",
-      "name": "ベトナムオフショア開発の新潮流：2026年のAI人材戦略とその実践的アプローチ",
-      "owner": "NKKTechGlobal",
-      "url": "https://qiita.com/NKKTechGlobal/items/d2a6b56cc72e073d92e7",
-      "description": "ベトナムオフショア開発の新潮流：2026年のAI人材戦略とその実践的アプローチ",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-04-08T11:04:03.765050"
+      "fetched_at": "2026-04-08T22:49:38.653090"
     },
     {
       "source": "github",
@@ -490,10 +501,10 @@
       "owner": "goharbor",
       "url": "https://github.com/goharbor/harbor",
       "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
-      "stars": 27950,
+      "stars": 28094,
       "daily_stars": 23,
       "language": "all",
-      "fetched_at": "2026-04-08T11:03:54.137060"
+      "fetched_at": "2026-04-08T22:49:29.477211"
     }
   ],
   "x_hot_words": [
