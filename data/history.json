@@ -1,10 +1,5 @@
 [
   {
-    "name": "skills",
-    "url": "https://github.com/openai/skills",
-    "date": "2026-03-08T10:32:27.755783"
-  },
-  {
     "name": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
     "date": "2026-03-08T22:31:11.682443"
@@ -498,5 +493,10 @@
     "name": "DeepTutor",
     "url": "https://github.com/HKUDS/DeepTutor",
     "date": "2026-04-08T22:51:00.614979"
+  },
+  {
+    "name": "GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "date": "2026-04-09T05:17:56.011598"
   }
 ]
