@@ -1,10 +1,5 @@
 [
   {
-    "name": "JupyterLabへの使用仮想環境追加(忘備録)",
-    "url": "https://qiita.com/tkiyom2024/items/f62ef53e34cd670d7047",
-    "date": "2026-03-09T12:54:18.990323"
-  },
-  {
     "name": "agency-agents",
     "url": "https://github.com/msitarzewski/agency-agents",
     "date": "2026-03-09T12:55:33.771221"
@@ -498,5 +493,10 @@
     "name": "Instant 1.0, a backend for AI-coded apps",
     "url": "https://www.instantdb.com/essays/architecture",
     "date": "2026-04-10T11:03:39.970579"
+  },
+  {
+    "name": "multica",
+    "url": "https://github.com/multica-ai/multica",
+    "date": "2026-04-10T22:44:12.195514"
   }
 ]
