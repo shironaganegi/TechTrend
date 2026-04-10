@@ -1,10 +1,5 @@
 [
   {
-    "name": "Itchy",
-    "url": "https://www.producthunt.com/products/itchy-2",
-    "date": "2026-03-09T12:46:31.467690"
-  },
-  {
     "name": "初学者のAI学習day2",
     "url": "https://qiita.com/Mobu/items/8f1a5aed997a87d33f6a",
     "date": "2026-03-09T12:53:08.246175"
@@ -498,5 +493,10 @@
     "name": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
     "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
     "date": "2026-04-09T22:50:50.620285"
+  },
+  {
+    "name": "Claude mixes up who said what",
+    "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+    "date": "2026-04-10T05:32:12.155399"
   }
 ]
