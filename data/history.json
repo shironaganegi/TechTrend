@@ -1,10 +1,5 @@
 [
   {
-    "name": "Flowripple",
-    "url": "https://www.producthunt.com/products/flowripple-2",
-    "date": "2026-03-09T10:53:32.230408"
-  },
-  {
     "name": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
     "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
     "date": "2026-03-09T22:36:21.200242"
@@ -498,5 +493,10 @@
     "name": "AI assistance when contributing to the Linux kernel",
     "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
     "date": "2026-04-11T22:39:11.570992"
+  },
+  {
+    "name": "awesome-design-systems",
+    "url": "https://github.com/alexpate/awesome-design-systems",
+    "date": "2026-04-12T05:30:43.109898"
   }
 ]
