@@ -1,10 +1,5 @@
 [
   {
-    "name": "How we hacked McKinsey's AI platform",
-    "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-    "date": "2026-03-12T04:52:55.901829"
-  },
-  {
     "name": "TokenZip",
     "url": "https://www.producthunt.com/products/tokenzip",
     "date": "2026-03-12T10:48:28.905750"
@@ -498,5 +493,10 @@
     "name": "Recall 2.0",
     "url": "https://www.producthunt.com/products/recall-6",
     "date": "2026-04-14T11:09:48.483859"
+  },
+  {
+    "name": "Introspective Diffusion Language Models",
+    "url": "https://introspective-diffusion.github.io/",
+    "date": "2026-04-14T22:53:06.848936"
   }
 ]
