@@ -1,10 +1,5 @@
 [
   {
-    "name": "\"Unity MCP が Claude Code に繋がらないときに確認したい5つの落とし穴と2つの回避策\"",
-    "url": "https://qiita.com/MirabelleQuest/items/b8957889d38427e656bb",
-    "date": "2026-03-12T22:49:48.983327"
-  },
-  {
     "name": "IBM Bob にうっかり機密ファイルを渡していませんか？― ルール と MCP で\"渡す前に止める\"仕組みを作る",
     "url": "https://qiita.com/zhangzhenji228/items/5ffcfc2020082a3f6751",
     "date": "2026-03-13T04:50:23.223547"
@@ -498,5 +493,10 @@
     "name": "5NF and Database Design",
     "url": "https://kb.databasedesignbook.com/posts/5nf/",
     "date": "2026-04-15T05:30:29.467230"
+  },
+  {
+    "name": "andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "date": "2026-04-15T11:06:56.608609"
   }
 ]
