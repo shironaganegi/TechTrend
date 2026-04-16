@@ -1,10 +1,5 @@
 [
   {
-    "name": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-    "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-    "date": "2026-03-14T04:48:15.031024"
-  },
-  {
     "name": "Lingofable",
     "url": "https://www.producthunt.com/products/lingofable",
     "date": "2026-03-14T10:35:32.843404"
@@ -498,5 +493,10 @@
     "name": "The local LLM ecosystem doesn’t need Ollama",
     "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
     "date": "2026-04-16T11:10:46.198099"
+  },
+  {
+    "name": "pydantic-settings 2.7.1 で validation_alias を使ったテストが一斉に落ちる原因と1行修正",
+    "url": "https://qiita.com/yamashita_aidev/items/e9fa8d6b18dc010446c0",
+    "date": "2026-04-16T22:50:46.853456"
   }
 ]
