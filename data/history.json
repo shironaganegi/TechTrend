@@ -1,10 +1,5 @@
 [
   {
-    "name": "ChaosProof v1.1.0リリース — 3層可用性モデル・ベースライン回帰検出・1070テスト",
-    "url": "https://qiita.com/ymaeda_it/items/e346ae702caebc14b4a5",
-    "date": "2026-03-14T22:33:30.858372"
-  },
-  {
     "name": "MyNextBrowser",
     "url": "https://www.producthunt.com/products/mynextbrowser",
     "date": "2026-03-15T05:11:21.032586"
@@ -498,5 +493,10 @@
     "name": "Libertify.com",
     "url": "https://www.producthunt.com/products/libertify-com",
     "date": "2026-04-17T05:34:06.244512"
+  },
+  {
+    "name": "[Python] __name__属性とif __name__ == '__main__':てやつ",
+    "url": "https://qiita.com/mochi_541/items/29b2156db1a83353f734",
+    "date": "2026-04-17T11:03:36.828805"
   }
 ]
