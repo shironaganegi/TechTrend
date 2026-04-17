@@ -1,10 +1,5 @@
 [
   {
-    "name": "MyNextBrowser",
-    "url": "https://www.producthunt.com/products/mynextbrowser",
-    "date": "2026-03-15T05:11:21.032586"
-  },
-  {
     "name": "browser",
     "url": "https://github.com/lightpanda-io/browser",
     "date": "2026-03-15T10:38:06.129335"
@@ -498,5 +493,10 @@
     "name": "[Python] __name__属性とif __name__ == '__main__':てやつ",
     "url": "https://qiita.com/mochi_541/items/29b2156db1a83353f734",
     "date": "2026-04-17T11:03:36.828805"
+  },
+  {
+    "name": "微分方程式により定義される指数関数",
+    "url": "https://qiita.com/arairuca/items/69559923b3ddecfd8e3b",
+    "date": "2026-04-17T22:50:08.696534"
   }
 ]
