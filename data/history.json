@@ -1,10 +1,5 @@
 [
   {
-    "name": "Lingofable",
-    "url": "https://www.producthunt.com/products/lingofable",
-    "date": "2026-03-14T10:35:32.843404"
-  },
-  {
     "name": "ChaosProof v1.1.0リリース — 3層可用性モデル・ベースライン回帰検出・1070テスト",
     "url": "https://qiita.com/ymaeda_it/items/e346ae702caebc14b4a5",
     "date": "2026-03-14T22:33:30.858372"
@@ -498,5 +493,10 @@
     "name": "pydantic-settings 2.7.1 で validation_alias を使ったテストが一斉に落ちる原因と1行修正",
     "url": "https://qiita.com/yamashita_aidev/items/e9fa8d6b18dc010446c0",
     "date": "2026-04-16T22:50:46.853456"
+  },
+  {
+    "name": "Libertify.com",
+    "url": "https://www.producthunt.com/products/libertify-com",
+    "date": "2026-04-17T05:34:06.244512"
   }
 ]
