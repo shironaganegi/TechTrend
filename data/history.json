@@ -1,10 +1,5 @@
 [
   {
-    "name": "browser",
-    "url": "https://github.com/lightpanda-io/browser",
-    "date": "2026-03-15T10:38:06.129335"
-  },
-  {
     "name": "OpenViking",
     "url": "https://github.com/volcengine/OpenViking",
     "date": "2026-03-15T22:35:28.550636"
@@ -498,5 +493,10 @@
     "name": "微分方程式により定義される指数関数",
     "url": "https://qiita.com/arairuca/items/69559923b3ddecfd8e3b",
     "date": "2026-04-17T22:50:08.696534"
+  },
+  {
+    "name": "magika",
+    "url": "https://github.com/google/magika",
+    "date": "2026-04-18T05:13:19.691382"
   }
 ]
