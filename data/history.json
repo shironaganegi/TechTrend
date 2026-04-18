@@ -1,10 +1,5 @@
 [
   {
-    "name": "OpenViking",
-    "url": "https://github.com/volcengine/OpenViking",
-    "date": "2026-03-15T22:35:28.550636"
-  },
-  {
     "name": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
     "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
     "date": "2026-03-16T05:22:37.897379"
@@ -498,5 +493,10 @@
     "name": "magika",
     "url": "https://github.com/google/magika",
     "date": "2026-04-18T05:13:19.691382"
+  },
+  {
+    "name": "GenericAgent",
+    "url": "https://github.com/lsdefine/GenericAgent",
+    "date": "2026-04-18T10:49:40.446841"
   }
 ]
