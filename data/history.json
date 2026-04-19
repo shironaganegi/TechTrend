@@ -1,10 +1,5 @@
 [
   {
-    "name": "Canada's bill C-22 mandates mass metadata surveillance",
-    "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-    "date": "2026-03-16T11:00:09.909385"
-  },
-  {
     "name": "PythonのOOMキルを完全防御する：BytesIOの罠とD-MemFS「ハードクォータ」の設計思想",
     "url": "https://qiita.com/_D_/items/570f3c92781111340ddd",
     "date": "2026-03-16T22:40:58.416914"
@@ -498,5 +493,10 @@
     "name": "Claude Design",
     "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
     "date": "2026-04-18T22:42:26.119570"
+  },
+  {
+    "name": "evolver",
+    "url": "https://github.com/EvoMap/evolver",
+    "date": "2026-04-19T05:35:08.448808"
   }
 ]
