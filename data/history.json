@@ -1,10 +1,5 @@
 [
   {
-    "name": "老眼でも作れた——京商ミニッツ用3DプリントギヤのRPM・電流・騒音・歯形を同時計測する測定システム",
-    "url": "https://qiita.com/himajisan/items/193f8ffc466ee718ed1a",
-    "date": "2026-03-17T22:40:26.926102"
-  },
-  {
     "name": "Windowsの名前付きパイプをPythonで利用する",
     "url": "https://qiita.com/fumifumi0453/items/1025c60406d72b9a32c7",
     "date": "2026-03-18T05:02:30.658582"
@@ -498,5 +493,10 @@
     "name": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
     "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
     "date": "2026-04-20T05:47:10.967329"
+  },
+  {
+    "name": "番外篇：図解でわかるAgentic RAG — 「検索して満足せずに、確認もする」という発想",
+    "url": "https://qiita.com/bit-tanghao/items/6a8f75ebe0c9b8117c05",
+    "date": "2026-04-20T11:23:36.366029"
   }
 ]
