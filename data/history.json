@@ -1,10 +1,5 @@
 [
   {
-    "name": "deepagents",
-    "url": "https://github.com/langchain-ai/deepagents",
-    "date": "2026-03-18T10:58:03.237106"
-  },
-  {
     "name": "Mistral AI Releases Forge",
     "url": "https://mistral.ai/news/forge",
     "date": "2026-03-18T22:38:52.069081"
@@ -498,5 +493,10 @@
     "name": "CONA",
     "url": "https://www.producthunt.com/products/cona",
     "date": "2026-04-20T22:52:39.832991"
+  },
+  {
+    "name": "RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "date": "2026-04-21T05:33:32.275053"
   }
 ]
