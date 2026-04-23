@@ -1,10 +1,5 @@
 [
   {
-    "name": "arnis",
-    "url": "https://github.com/louis-e/arnis",
-    "date": "2026-03-21T04:42:50.122499"
-  },
-  {
     "name": "電子工作ガチ初心者がラズパイゼロでエアコン制御してみた　１",
     "url": "https://qiita.com/sowacoco/items/a9b3ed7098aa60e405c9",
     "date": "2026-03-21T10:34:39.968498"
@@ -498,5 +493,10 @@
     "name": "Over-editing refers to a model modifying code beyond what is necessary",
     "url": "https://nrehiew.github.io/blog/minimal_editing/",
     "date": "2026-04-23T11:15:08.965380"
+  },
+  {
+    "name": "OpenAI Agents SDK の「Sandbox Agents」を Mac で軽く試してみる（「uv」を使いつつ）",
+    "url": "https://qiita.com/youtoy/items/90d49c1f42642e39260e",
+    "date": "2026-04-23T22:54:37.954020"
   }
 ]
