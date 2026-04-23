@@ -1,10 +1,5 @@
 [
   {
-    "name": "Python を使用した Word 文書のテキストと段落の書式設定",
-    "url": "https://qiita.com/iceblue/items/7fa14f2f1b95c6cb3299",
-    "date": "2026-03-20T10:45:53.378540"
-  },
-  {
     "name": "HP trialed mandatory 15-minute support call wait times (2025)",
     "url": "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/",
     "date": "2026-03-20T22:35:56.497649"
@@ -498,5 +493,10 @@
     "name": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
     "url": "https://qwen.ai/blog?id=qwen3.6-27b",
     "date": "2026-04-22T22:54:17.537059"
+  },
+  {
+    "name": "【AIメモ】WSL + FastAPI + SQLite + Cloudflare Tunnel → watsonx OrchestrateでCSVを検索させる",
+    "url": "https://qiita.com/onoyu1012/items/dbed5f76f37c6cae59e5",
+    "date": "2026-04-23T05:36:27.640746"
   }
 ]
