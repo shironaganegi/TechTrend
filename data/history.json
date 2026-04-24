@@ -1,10 +1,5 @@
 [
   {
-    "name": "電子工作ガチ初心者がラズパイゼロでエアコン制御してみた　１",
-    "url": "https://qiita.com/sowacoco/items/a9b3ed7098aa60e405c9",
-    "date": "2026-03-21T10:34:39.968498"
-  },
-  {
     "name": "OpenCode – Open source AI coding agent",
     "url": "https://opencode.ai/",
     "date": "2026-03-21T22:32:25.181362"
@@ -498,5 +493,10 @@
     "name": "OpenAI Agents SDK の「Sandbox Agents」を Mac で軽く試してみる（「uv」を使いつつ）",
     "url": "https://qiita.com/youtoy/items/90d49c1f42642e39260e",
     "date": "2026-04-23T22:54:37.954020"
+  },
+  {
+    "name": "hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "date": "2026-04-24T05:41:32.259315"
   }
 ]
