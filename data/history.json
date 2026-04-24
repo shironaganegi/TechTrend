@@ -1,10 +1,5 @@
 [
   {
-    "name": "OpenCode – Open source AI coding agent",
-    "url": "https://opencode.ai/",
-    "date": "2026-03-21T22:32:25.181362"
-  },
-  {
     "name": "Tinybox – Offline AI device 120B parameters",
     "url": "https://tinygrad.org/#tinybox",
     "date": "2026-03-22T04:58:17.173125"
@@ -498,5 +493,10 @@
     "name": "hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "date": "2026-04-24T05:41:32.259315"
+  },
+  {
+    "name": "Python で Excel のセルコメントを追加・編集・削除",
+    "url": "https://qiita.com/iceblue/items/7580bc3257f8b5a9931d",
+    "date": "2026-04-24T11:12:31.491664"
   }
 ]
