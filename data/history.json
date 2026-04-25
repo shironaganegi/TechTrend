@@ -1,10 +1,5 @@
 [
   {
-    "name": "【まとめ】Python学習Day1〜5で学んだこと",
-    "url": "https://qiita.com/RITSU_UK/items/e5ecb90b6e97ab44f122",
-    "date": "2026-03-23T05:09:22.105167"
-  },
-  {
     "name": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
     "url": "https://github.com/danveloper/flash-moe",
     "date": "2026-03-23T10:58:35.491479"
@@ -498,5 +493,10 @@
     "name": "GPT-5.5",
     "url": "https://openai.com/index/introducing-gpt-5-5/",
     "date": "2026-04-25T10:51:25.839823"
+  },
+  {
+    "name": "Claude Code scheduled tasks で朝刊・日次レポートを全自動生成する",
+    "url": "https://qiita.com/Tadashi_Kudo/items/51a948ff7710627e9cad",
+    "date": "2026-04-25T22:43:59.040225"
   }
 ]
