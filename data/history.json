@@ -1,10 +1,5 @@
 [
   {
-    "name": "deer-flow",
-    "url": "https://github.com/bytedance/deer-flow",
-    "date": "2026-03-24T22:39:01.951848"
-  },
-  {
     "name": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
     "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
     "date": "2026-03-25T05:00:15.513741"
@@ -498,5 +493,10 @@
     "name": "build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "date": "2026-04-27T06:07:42.653664"
+  },
+  {
+    "name": "【Python × Claude API】非エンジニアでもできる！Claude を使った自動要約ツールの作り方",
+    "url": "https://qiita.com/hjvideocom/items/ffee301a582df8eaf422",
+    "date": "2026-04-27T11:50:01.204976"
   }
 ]
