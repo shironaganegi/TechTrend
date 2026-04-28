@@ -1,10 +1,5 @@
 [
   {
-    "name": "Flighty Airports",
-    "url": "https://flighty.com/airports",
-    "date": "2026-03-26T05:12:37.399338"
-  },
-  {
     "name": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
     "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
     "date": "2026-03-26T10:59:54.846824"
@@ -498,5 +493,10 @@
     "name": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
     "url": "https://app.oravys.com/blog/mercor-breach-2026",
     "date": "2026-04-28T11:50:52.187291"
+  },
+  {
+    "name": "skills",
+    "url": "https://github.com/mattpocock/skills",
+    "date": "2026-04-28T23:01:04.927802"
   }
 ]
