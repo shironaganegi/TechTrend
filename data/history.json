@@ -1,10 +1,5 @@
 [
   {
-    "name": "WordPress Studio CLI",
-    "url": "https://www.producthunt.com/products/wordpress-studio-cli",
-    "date": "2026-03-28T22:36:43.694492"
-  },
-  {
     "name": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
     "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
     "date": "2026-03-29T05:18:09.266456"
@@ -498,5 +493,10 @@
     "name": "Hera Launch",
     "url": "https://www.producthunt.com/products/hera-6",
     "date": "2026-05-01T06:20:55.194380"
+  },
+  {
+    "name": "PC教室で利用するVSCodeポータブル版の導入手順",
+    "url": "https://qiita.com/yokamak/items/c29a5b471bcb8eda24e6",
+    "date": "2026-05-01T11:12:45.973084"
   }
 ]
