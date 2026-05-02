@@ -1,10 +1,5 @@
 [
   {
-    "name": "superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "date": "2026-03-29T10:42:49.836406"
-  },
-  {
     "name": "last30days-skill",
     "url": "https://github.com/mvanhorn/last30days-skill",
     "date": "2026-03-29T22:38:47.950435"
@@ -498,5 +493,10 @@
     "name": "Can I disable all data collection from my vehicle?",
     "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
     "date": "2026-05-01T22:55:26.848611"
+  },
+  {
+    "name": "意外とシンプル！FastMCPでMCPサーバを解説",
+    "url": "https://qiita.com/DKTech/items/a8de62014e492d37c5ef",
+    "date": "2026-05-02T05:42:48.673914"
   }
 ]
