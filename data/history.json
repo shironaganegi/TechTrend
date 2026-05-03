@@ -1,10 +1,5 @@
 [
   {
-    "name": "Claude API Web Search Dynamic Filtering入門 — 精度11%向上・トークン24%削減の実装ガイド",
-    "url": "https://qiita.com/kai_kou/items/89ab96568b2ec6a37be1",
-    "date": "2026-03-30T11:10:06.556828"
-  },
-  {
     "name": "Bird brains (2023)",
     "url": "https://www.dhanishsemar.com/writing/bird-brains",
     "date": "2026-03-30T22:44:02.229274"
@@ -498,5 +493,10 @@
     "name": "NVIDIA Cosmos-Reason2をローカルで動かして動画推論する（transformers + vLLM)",
     "url": "https://qiita.com/lavellehatcherjr/items/d4dcab0bfc75d65e6718",
     "date": "2026-05-02T22:52:20.935639"
+  },
+  {
+    "name": "CSV の中身を一発で把握する Python CLI を作った - 妥協しない型推論",
+    "url": "https://qiita.com/sen-ltd/items/1f349844057b1b0f9626",
+    "date": "2026-05-03T06:09:57.525147"
   }
 ]
