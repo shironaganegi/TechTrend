@@ -1,10 +1,5 @@
 [
   {
-    "name": "claude-howto",
-    "url": "https://github.com/luongnv89/claude-howto",
-    "date": "2026-03-31T05:15:31.220242"
-  },
-  {
     "name": "VibeVoice",
     "url": "https://github.com/microsoft/VibeVoice",
     "date": "2026-03-31T11:24:20.005918"
@@ -498,5 +493,10 @@
     "name": "Huddle01 VMs",
     "url": "https://www.producthunt.com/products/huddle01-cloud-2",
     "date": "2026-05-03T10:58:41.987487"
+  },
+  {
+    "name": "TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "date": "2026-05-03T22:52:27.976592"
   }
 ]
