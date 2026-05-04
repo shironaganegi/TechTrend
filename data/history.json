@@ -1,10 +1,5 @@
 [
   {
-    "name": "VibeVoice",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "date": "2026-03-31T11:24:20.005918"
-  },
-  {
     "name": "claude-code-best-practice",
     "url": "https://github.com/shanraisshan/claude-code-best-practice",
     "date": "2026-03-31T22:41:10.292500"
@@ -498,5 +493,10 @@
     "name": "TradingAgents",
     "url": "https://github.com/TauricResearch/TradingAgents",
     "date": "2026-05-03T22:52:27.976592"
+  },
+  {
+    "name": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+    "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+    "date": "2026-05-04T06:18:45.175678"
   }
 ]
