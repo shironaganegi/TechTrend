@@ -1,10 +1,5 @@
 [
   {
-    "name": "claude-code-best-practice",
-    "url": "https://github.com/shanraisshan/claude-code-best-practice",
-    "date": "2026-03-31T22:41:10.292500"
-  },
-  {
     "name": "Djangoの基本 #3",
     "url": "https://qiita.com/toshimizu/items/d550e554128964288d64",
     "date": "2026-04-01T05:30:39.867765"
@@ -498,5 +493,10 @@
     "name": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
     "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
     "date": "2026-05-04T06:18:45.175678"
+  },
+  {
+    "name": "Flowly",
+    "url": "https://www.producthunt.com/products/flowly-6",
+    "date": "2026-05-04T11:55:32.291145"
   }
 ]
