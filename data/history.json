@@ -1,10 +1,5 @@
 [
   {
-    "name": "codex",
-    "url": "https://github.com/openai/codex",
-    "date": "2026-04-01T11:11:27.096725"
-  },
-  {
     "name": "Ray-Ban Meta G2 Blayzer & Scriber Optics",
     "url": "https://www.producthunt.com/products/ray-ban-meta-g2-blayzer-scriber-optics",
     "date": "2026-04-01T22:47:09.655798"
@@ -498,5 +493,10 @@
     "name": "Dropy",
     "url": "https://www.producthunt.com/products/dropy-price-tracker-price-history",
     "date": "2026-05-04T23:00:55.414206"
+  },
+  {
+    "name": "DeepSeek-TUI",
+    "url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "date": "2026-05-05T05:48:38.245503"
   }
 ]
