@@ -1,10 +1,5 @@
 [
   {
-    "name": "uvのexact syncing/inexact syncing",
-    "url": "https://qiita.com/mkiyokawa/items/d85358be438ab5318d87",
-    "date": "2026-04-03T10:53:45.706976"
-  },
-  {
     "name": "Google releases Gemma 4 open models",
     "url": "https://deepmind.google/models/gemma/gemma-4/",
     "date": "2026-04-03T22:41:25.233832"
@@ -498,5 +493,10 @@
     "name": "ruflo",
     "url": "https://github.com/ruvnet/ruflo",
     "date": "2026-05-06T22:57:35.461810"
+  },
+  {
+    "name": "Shadow 2.0",
+    "url": "https://www.producthunt.com/products/shadow-6",
+    "date": "2026-05-07T06:15:54.661456"
   }
 ]
