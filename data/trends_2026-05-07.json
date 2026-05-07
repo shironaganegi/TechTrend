@@ -6,21 +6,10 @@
       "owner": "Hmbown",
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "stars": 15667,
+      "stars": 17254,
       "daily_stars": 6175,
       "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.522495"
-    },
-    {
-      "source": "github",
-      "name": "ruflo",
-      "owner": "ruvnet",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "stars": 45513,
-      "daily_stars": 2192,
-      "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.526565"
+      "fetched_at": "2026-05-07T11:53:02.350472"
     },
     {
       "source": "hacker_news",
@@ -28,32 +17,21 @@
       "owner": "john-doe",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
       "description": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "stars": 1662,
-      "daily_stars": 1662,
+      "stars": 1678,
+      "daily_stars": 1678,
       "language": "tech",
-      "fetched_at": "2026-05-07T06:14:56.295604"
+      "fetched_at": "2026-05-07T11:53:08.583637"
     },
     {
       "source": "github",
-      "name": "Pixelle-Video",
-      "owner": "AIDC-AI",
-      "url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "stars": 12940,
-      "daily_stars": 1239,
-      "language": "python",
-      "fetched_at": "2026-05-07T06:14:53.219139"
-    },
-    {
-      "source": "github",
-      "name": "Scrapling",
-      "owner": "D4Vinci",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 46578,
-      "daily_stars": 1125,
+      "name": "PageIndex",
+      "owner": "VectifyAI",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 29180,
+      "daily_stars": 953,
       "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.537939"
+      "fetched_at": "2026-05-07T11:53:02.353274"
     },
     {
       "source": "github",
@@ -61,10 +39,10 @@
       "owner": "addyosmani",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 31306,
+      "stars": 32172,
       "daily_stars": 800,
       "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.522949"
+      "fetched_at": "2026-05-07T11:53:02.352675"
     },
     {
       "source": "github",
@@ -72,10 +50,10 @@
       "owner": "Arindam200",
       "url": "https://github.com/Arindam200/awesome-ai-apps",
       "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
-      "stars": 11827,
+      "stars": 11854,
       "daily_stars": 799,
       "language": "python",
-      "fetched_at": "2026-05-07T06:14:53.222173"
+      "fetched_at": "2026-05-07T11:53:03.615531"
     },
     {
       "source": "github",
@@ -83,32 +61,21 @@
       "owner": "docusealco",
       "url": "https://github.com/docusealco/docuseal",
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "stars": 15086,
+      "stars": 15271,
       "daily_stars": 774,
       "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.523785"
+      "fetched_at": "2026-05-07T11:53:02.354237"
     },
     {
       "source": "github",
-      "name": "dexter",
-      "owner": "virattt",
-      "url": "https://github.com/virattt/dexter",
-      "description": "An autonomous agent for deep financial research",
-      "stars": 24476,
-      "daily_stars": 666,
+      "name": "dflash",
+      "owner": "z-lab",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "stars": 3255,
+      "daily_stars": 654,
       "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.525677"
-    },
-    {
-      "source": "github",
-      "name": "public-apis",
-      "owner": "public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "stars": 432832,
-      "daily_stars": 661,
-      "language": "python",
-      "fetched_at": "2026-05-07T06:14:53.220394"
+      "fetched_at": "2026-05-07T11:53:02.350953"
     },
     {
       "source": "github",
@@ -116,10 +83,10 @@
       "owner": "anthropics",
       "url": "https://github.com/anthropics/financial-services",
       "description": "No description",
-      "stars": 9435,
+      "stars": 9817,
       "daily_stars": 641,
       "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.526145"
+      "fetched_at": "2026-05-07T11:53:02.349941"
     },
     {
       "source": "hacker_news",
@@ -127,10 +94,10 @@
       "owner": "rolph",
       "url": "https://blog.cloudflare.com/agents-stripe-projects/",
       "description": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "stars": 631,
-      "daily_stars": 631,
+      "stars": 635,
+      "daily_stars": 635,
       "language": "tech",
-      "fetched_at": "2026-05-07T06:14:55.838621"
+      "fetched_at": "2026-05-07T11:53:08.487360"
     },
     {
       "source": "github",
@@ -138,21 +105,10 @@
       "owner": "LearningCircuit",
       "url": "https://github.com/LearningCircuit/local-deep-research",
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-      "stars": 5811,
+      "stars": 5967,
       "daily_stars": 532,
       "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.524307"
-    },
-    {
-      "source": "github",
-      "name": "vscode-dark-islands",
-      "owner": "bwya77",
-      "url": "https://github.com/bwya77/vscode-dark-islands",
-      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 8270,
-      "daily_stars": 503,
-      "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.527927"
+      "fetched_at": "2026-05-07T11:53:02.352169"
     },
     {
       "source": "hacker_news",
@@ -160,43 +116,43 @@
       "owner": "meetpateltech",
       "url": "https://www.anthropic.com/news/higher-limits-spacex",
       "description": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "stars": 445,
-      "daily_stars": 445,
+      "stars": 469,
+      "daily_stars": 469,
       "language": "tech",
-      "fetched_at": "2026-05-07T06:14:55.639237"
+      "fetched_at": "2026-05-07T11:53:08.880215"
     },
     {
       "source": "github",
-      "name": "cocoindex",
-      "owner": "cocoindex-io",
-      "url": "https://github.com/cocoindex-io/cocoindex",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "stars": 8663,
-      "daily_stars": 364,
+      "name": "open-agents",
+      "owner": "vercel-labs",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "stars": 4881,
+      "daily_stars": 406,
+      "language": "all",
+      "fetched_at": "2026-05-07T11:53:02.353763"
+    },
+    {
+      "source": "github",
+      "name": "freemocap",
+      "owner": "freemocap",
+      "url": "https://github.com/freemocap/freemocap",
+      "description": "Free Motion Capture for Everyone 💀✨",
+      "stars": 7934,
+      "daily_stars": 293,
       "language": "python",
-      "fetched_at": "2026-05-07T06:14:53.220817"
+      "fetched_at": "2026-05-07T11:53:03.611376"
     },
     {
       "source": "github",
-      "name": "deer-flow",
-      "owner": "bytedance",
-      "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "stars": 65678,
-      "daily_stars": 337,
-      "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.528366"
-    },
-    {
-      "source": "github",
-      "name": "Kronos",
-      "owner": "shiyu-coder",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 23270,
-      "daily_stars": 234,
-      "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.527394"
+      "name": "spec-kit",
+      "owner": "github",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars": 93044,
+      "daily_stars": 236,
+      "language": "python",
+      "fetched_at": "2026-05-07T11:53:03.612350"
     },
     {
       "source": "github",
@@ -204,10 +160,10 @@
       "owner": "InsForge",
       "url": "https://github.com/InsForge/InsForge",
       "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
-      "stars": 8569,
+      "stars": 8675,
       "daily_stars": 230,
       "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.525258"
+      "fetched_at": "2026-05-07T11:53:02.351578"
     },
     {
       "source": "github",
@@ -215,32 +171,21 @@
       "owner": "PriorLabs",
       "url": "https://github.com/PriorLabs/TabPFN",
       "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
-      "stars": 6647,
+      "stars": 6702,
       "daily_stars": 218,
       "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.523364"
+      "fetched_at": "2026-05-07T11:53:02.355185"
     },
     {
       "source": "github",
-      "name": "Rapid-MLX",
-      "owner": "raullenchai",
-      "url": "https://github.com/raullenchai/Rapid-MLX",
-      "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
-      "stars": 1743,
-      "daily_stars": 216,
-      "language": "python",
-      "fetched_at": "2026-05-07T06:14:53.222588"
-    },
-    {
-      "source": "github",
-      "name": "awesome-llm-apps",
-      "owner": "Shubhamsaboo",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "stars": 109086,
-      "daily_stars": 200,
-      "language": "python",
-      "fetched_at": "2026-05-07T06:14:53.221228"
+      "name": "openreel-video",
+      "owner": "Augani",
+      "url": "https://github.com/Augani/openreel-video",
+      "description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
+      "stars": 1107,
+      "daily_stars": 208,
+      "language": "all",
+      "fetched_at": "2026-05-07T11:53:02.356124"
     },
     {
       "source": "github",
@@ -248,32 +193,10 @@
       "owner": "cheahjs",
       "url": "https://github.com/cheahjs/free-llm-api-resources",
       "description": "A list of free LLM inference resources accessible via API.",
-      "stars": 20654,
+      "stars": 20815,
       "daily_stars": 198,
-      "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.526984"
-    },
-    {
-      "source": "github",
-      "name": "ouroboros",
-      "owner": "Q00",
-      "url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 3560,
-      "daily_stars": 143,
       "language": "python",
-      "fetched_at": "2026-05-07T06:14:53.219551"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-      "owner": "oahmadov",
-      "url": "https://play.templatical.com",
-      "description": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-      "stars": 126,
-      "daily_stars": 126,
-      "language": "tech",
-      "fetched_at": "2026-05-07T06:14:55.439460"
+      "fetched_at": "2026-05-07T11:53:03.613327"
     },
     {
       "source": "hacker_news",
@@ -281,263 +204,274 @@
       "owner": "benanne",
       "url": "https://sander.ai/2026/05/06/flow-maps.html",
       "description": "Learning the Integral of a Diffusion Model",
-      "stars": 123,
-      "daily_stars": 123,
+      "stars": 143,
+      "daily_stars": 143,
       "language": "tech",
-      "fetched_at": "2026-05-07T06:14:54.863056"
+      "fetched_at": "2026-05-07T11:53:07.495967"
+    },
+    {
+      "source": "hacker_news",
+      "name": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "owner": "oahmadov",
+      "url": "https://play.templatical.com",
+      "description": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "stars": 137,
+      "daily_stars": 137,
+      "language": "tech",
+      "fetched_at": "2026-05-07T11:53:07.895810"
     },
     {
       "source": "github",
-      "name": "onyx",
-      "owner": "onyx-dot-app",
-      "url": "https://github.com/onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "stars": 29102,
-      "daily_stars": 116,
-      "language": "python",
-      "fetched_at": "2026-05-07T06:14:53.219983"
-    },
-    {
-      "source": "github",
-      "name": "TradingAgents-CN",
-      "owner": "hsliuping",
-      "url": "https://github.com/hsliuping/TradingAgents-CN",
-      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "stars": 25812,
-      "daily_stars": 116,
-      "language": "python",
-      "fetched_at": "2026-05-07T06:14:53.221648"
-    },
-    {
-      "source": "github",
-      "name": "ladybird",
-      "owner": "LadybirdBrowser",
-      "url": "https://github.com/LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
-      "stars": 63044,
-      "daily_stars": 113,
+      "name": "9router",
+      "owner": "decolua",
+      "url": "https://github.com/decolua/9router",
+      "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars": 4097,
+      "daily_stars": 130,
       "language": "all",
-      "fetched_at": "2026-05-07T06:14:51.524726"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Superset 2.0",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/superset-5",
-      "description": "\n            Run 100s of coding agents on any machine from anywhere\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-07T06:14:53.427771"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Shadow 2.0",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/shadow-6",
-      "description": "\n            The work your meetings create, done before they end\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-07T06:14:53.427964"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Magic Studio by Once UI",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/magic-studio-by-once-ui",
-      "description": "\n            Turn Once UI into a $10k agency\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-07T06:14:53.428144"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Custom Integrations by Databox",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/databox",
-      "description": "\n            Bring missing data into Databox without writing code\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-07T06:14:53.428317"
-    },
-    {
-      "source": "product_hunt",
-      "name": "pay.sh",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/solanafndn",
-      "description": "\n            Discover, access, and pay for any API autonomously\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-07T06:14:53.428488"
-    },
-    {
-      "source": "product_hunt",
-      "name": "WOZCODE",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/wozcode",
-      "description": "\n            Cut Claude Code costs by up to 50%\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-07T06:14:53.428663"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Kanwas",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/kanwas",
-      "description": "\n            An open-source brain for your team\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-07T06:14:53.428827"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Realtime TTS-2",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/inworld-ai",
-      "description": "\n            Voice AI that feels as good as it sounds\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-07T06:14:53.428996"
-    },
-    {
-      "source": "product_hunt",
-      "name": "DevAlly",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/devally",
-      "description": "\n            AI powered accessibility compliance for teams who ship fast \n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-07T06:14:53.429162"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Gas City 1.0",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/gas-city",
-      "description": "\n            build your own software factory\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-07T06:14:53.429328"
+      "fetched_at": "2026-05-07T11:53:02.354721"
     },
     {
       "source": "github",
-      "name": "pytorch",
-      "owner": "pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "stars": 99712,
-      "daily_stars": 49,
-      "language": "python",
-      "fetched_at": "2026-05-07T06:14:53.218727"
+      "name": "goose",
+      "owner": "aaif-goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 44266,
+      "daily_stars": 111,
+      "language": "all",
+      "fetched_at": "2026-05-07T11:53:02.355667"
+    },
+    {
+      "source": "product_hunt",
+      "name": "FlowMarket",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/flowmarket-2",
+      "description": "\n            A social network of AI agents generating B2B deals\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-07T11:53:03.858210"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Claude Agents for Financial Services",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/claude-code",
+      "description": "\n            Finance agent templates for pitches, KYC, and closing books\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-07T11:53:03.858449"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Memory Tags",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/memory-tags",
+      "description": "\n            Scan text to make flashcards and improve your memory\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-07T11:53:03.858642"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Lingo.dev v1",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/lingodotdev",
+      "description": "\n            Localization engineering platform for consistent translation\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-07T11:53:03.858828"
+    },
+    {
+      "source": "product_hunt",
+      "name": "reMarkable Paper Pure",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/remarkable-paper-pro",
+      "description": "\n            The reMarkable 2 successor goes back to basics\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-07T11:53:03.859015"
+    },
+    {
+      "source": "product_hunt",
+      "name": "GPT‑5.5 Instant",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/openai",
+      "description": "\n            Smarter, more personal answers as ChatGPT's new default\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-07T11:53:03.859201"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Google Pomelli Catalog",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/google",
+      "description": "\n            Turn a product catalog into branded campaign assets\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-07T11:53:03.859409"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Basedash MCP server",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/basedash",
+      "description": "\n            Your data analyst, in every AI tool you already use\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-07T11:53:03.859597"
+    },
+    {
+      "source": "product_hunt",
+      "name": "LikeTony.ai",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/liketony-ai",
+      "description": "\n            Make your landing sound like Elon, Jobs or Yoda\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-07T11:53:03.859781"
+    },
+    {
+      "source": "product_hunt",
+      "name": "GetThis",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/getthis",
+      "description": "\n            Turn voice, text, or screenshots into tasks.\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-07T11:53:03.860063"
     },
     {
       "source": "github",
-      "name": "pocket-tts",
-      "owner": "kyutai-labs",
-      "url": "https://github.com/kyutai-labs/pocket-tts",
-      "description": "A TTS that fits in your CPU (and pocket)",
-      "stars": 4236,
-      "daily_stars": 49,
+      "name": "mlx-vlm",
+      "owner": "Blaizzy",
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "stars": 4648,
+      "daily_stars": 51,
       "language": "python",
-      "fetched_at": "2026-05-07T06:14:53.223004"
+      "fetched_at": "2026-05-07T11:53:03.613941"
     },
     {
       "source": "qiita",
-      "name": "次元変換",
-      "owner": "beze1987",
-      "url": "https://qiita.com/beze1987/items/2330d670494d1f07dea5",
-      "description": "次元変換",
+      "name": "AMD Ryzen AI MAX+ 395 (gfx1151) で Depth Anything V2 をリアルタイム動作させる — ROCm + MIGraphX で USB カメラを Chrome にストリーミング",
+      "owner": "kotetsu_yama",
+      "url": "https://qiita.com/kotetsu_yama/items/6b9b4d6f075067290e32",
+      "description": "AMD Ryzen AI MAX+ 395 (gfx1151) で Depth Anything V2 をリアルタイム動作させる — ROCm + MIGraphX で USB カメラを Chrome にストリーミング",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:57.587458"
+      "fetched_at": "2026-05-07T11:53:10.103441"
     },
     {
       "source": "qiita",
-      "name": "FlaskとFastAPIの使い分け — どっちを選ぶか整理した",
-      "owner": "cozy_666_tech",
-      "url": "https://qiita.com/cozy_666_tech/items/4f8bd64c77ed88213794",
-      "description": "FlaskとFastAPIの使い分け — どっちを選ぶか整理した",
+      "name": "Gemini Interactions API 破壊的変更対応ガイド — stepsスキーマへの移行手順",
+      "owner": "kai_kou",
+      "url": "https://qiita.com/kai_kou/items/9ef460179de7bb40f3ce",
+      "description": "Gemini Interactions API 破壊的変更対応ガイド — stepsスキーマへの移行手順",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:57.587472"
+      "fetched_at": "2026-05-07T11:53:10.103456"
     },
     {
       "source": "qiita",
-      "name": "python0.2",
-      "owner": "puuuunick",
-      "url": "https://qiita.com/puuuunick/items/2002e59da3c6a0536525",
-      "description": "python0.2",
+      "name": "dnspythonで作成するサブドメインスキャナー：DNS解析の仕組みを学ぶ",
+      "owner": "nozomi2025",
+      "url": "https://qiita.com/nozomi2025/items/2d8bbe8060a53a1ce212",
+      "description": "dnspythonで作成するサブドメインスキャナー：DNS解析の仕組みを学ぶ",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:57.587478"
+      "fetched_at": "2026-05-07T11:53:10.103463"
     },
     {
       "source": "qiita",
-      "name": "python0.1",
-      "owner": "puuuunick",
-      "url": "https://qiita.com/puuuunick/items/0608e6e80c579646fdb5",
-      "description": "python0.1",
+      "name": "日米株スクリーナーを個人で作った話",
+      "owner": "Null_06",
+      "url": "https://qiita.com/Null_06/items/18d98527386caa5e089f",
+      "description": "日米株スクリーナーを個人で作った話",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:57.587484"
+      "fetched_at": "2026-05-07T11:53:10.103469"
     },
     {
       "source": "qiita",
-      "name": "生成AIでミュージックビデオを作ってみた",
-      "owner": "SugarRushmiCommet",
-      "url": "https://qiita.com/SugarRushmiCommet/items/d74ce6ee7e458f50d09c",
-      "description": "生成AIでミュージックビデオを作ってみた",
+      "name": "心が折れたり持ち直したりしている話",
+      "owner": "run-run-run",
+      "url": "https://qiita.com/run-run-run/items/dd4d9dc63af8e93bf17b",
+      "description": "心が折れたり持ち直したりしている話",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:57.835850"
+      "fetched_at": "2026-05-07T11:53:10.363630"
     },
     {
       "source": "qiita",
-      "name": "skillsに全振りしてdocs,rules,commandsを削るコスパ重視のハーネス実装案",
-      "owner": "artie",
-      "url": "https://qiita.com/artie/items/939ea8718a97cc83d7e1",
-      "description": "skillsに全振りしてdocs,rules,commandsを削るコスパ重視のハーネス実装案",
+      "name": "Vector Pool と INDEX_VECTOR_MEMORY_ADVISOR",
+      "owner": "jri_narita",
+      "url": "https://qiita.com/jri_narita/items/ca9a7cf95ded8d9d7022",
+      "description": "Vector Pool と INDEX_VECTOR_MEMORY_ADVISOR",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:57.835865"
+      "fetched_at": "2026-05-07T11:53:10.363644"
     },
     {
       "source": "qiita",
-      "name": "【GitHub日報】コーディング以外を担うマルチエージェント、レビュー特化のターミナルdiffビューア — 2026-05-07",
-      "owner": "GitKen-Daily",
-      "url": "https://qiita.com/GitKen-Daily/items/8a7dbbbd3f227ea1abb0",
-      "description": "【GitHub日報】コーディング以外を担うマルチエージェント、レビュー特化のターミナルdiffビューア — 2026-05-07",
+      "name": "Why API Testing Strategies Need End-to-End Testing to Truly Work",
+      "owner": "Keploy",
+      "url": "https://qiita.com/Keploy/items/5706e0c88b886c2c482b",
+      "description": "Why API Testing Strategies Need End-to-End Testing to Truly Work",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:57.835872"
+      "fetched_at": "2026-05-07T11:53:10.363651"
     },
     {
       "source": "qiita",
-      "name": "AI ブラウザは危険？──Comet / Atlas / Claude for Chrome / Gemini in Chrome の制限と注意点",
-      "owner": "yonaka15",
-      "url": "https://qiita.com/yonaka15/items/ebfe4b801a986ac43165",
-      "description": "AI ブラウザは危険？──Comet / Atlas / Claude for Chrome / Gemini in Chrome の制限と注意点",
+      "name": "Genspark Claw とは？できること・使い方・便利なポイントをやさしく整理してみた",
+      "owner": "AppTime-wada",
+      "url": "https://qiita.com/AppTime-wada/items/b2f577835d3ea2f9ebf6",
+      "description": "Genspark Claw とは？できること・使い方・便利なポイントをやさしく整理してみた",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:57.835877"
+      "fetched_at": "2026-05-07T11:53:10.363657"
+    },
+    {
+      "source": "qiita",
+      "name": "CursorとClaudeから考えるビジネスモデルと経済的合理性",
+      "owner": "toyama0919",
+      "url": "https://qiita.com/toyama0919/items/e4be40726a2ee4823b6d",
+      "description": "CursorとClaudeから考えるビジネスモデルと経済的合理性",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-05-07T11:53:10.624804"
+    },
+    {
+      "source": "qiita",
+      "name": "育児中にE資格へ一発合格した話 -専門実践教育訓練も使って負担を抑えたよ-",
+      "owner": "M_Noa",
+      "url": "https://qiita.com/M_Noa/items/38195e8233aa2f80c2a4",
+      "description": "育児中にE資格へ一発合格した話 -専門実践教育訓練も使って負担を抑えたよ-",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-05-07T11:53:10.624818"
     },
     {
       "source": "qiita",
@@ -548,7 +482,7 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:58.047058"
+      "fetched_at": "2026-05-07T11:53:10.624824"
     },
     {
       "source": "qiita",
@@ -559,29 +493,51 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:58.047072"
+      "fetched_at": "2026-05-07T11:53:10.624831"
     },
     {
-      "source": "qiita",
-      "name": "yt-dlpでYouTubeから音声を抽出してAI音源分離する完全ガイド：Python実装【2026年版】",
-      "owner": "stemsplit",
-      "url": "https://qiita.com/stemsplit/items/32cbe97c4b718e77bd18",
-      "description": "yt-dlpでYouTubeから音声を抽出してAI音源分離する完全ガイド：Python実装【2026年版】",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:58.047078"
+      "source": "github",
+      "name": "aidlc-workflows",
+      "owner": "awslabs",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "stars": 1564,
+      "daily_stars": 33,
+      "language": "python",
+      "fetched_at": "2026-05-07T11:53:03.614431"
     },
     {
-      "source": "qiita",
-      "name": "決定木（CHAID）で顧客を分類し、Streamlitでマーケティングの意思決定ダッシュボードを構築する",
-      "owner": "k1_1115",
-      "url": "https://qiita.com/k1_1115/items/889cff3438e6f20322e8",
-      "description": "決定木（CHAID）で顧客を分類し、Streamlitでマーケティングの意思決定ダッシュボードを構築する",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-05-07T06:14:58.047083"
+      "source": "github",
+      "name": "Open-LLM-VTuber",
+      "owner": "Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars": 7529,
+      "daily_stars": 28,
+      "language": "python",
+      "fetched_at": "2026-05-07T11:53:03.611851"
+    },
+    {
+      "source": "github",
+      "name": "WeClone",
+      "owner": "xming521",
+      "url": "https://github.com/xming521/WeClone",
+      "description": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案",
+      "stars": 17816,
+      "daily_stars": 26,
+      "language": "python",
+      "fetched_at": "2026-05-07T11:53:03.614908"
+    },
+    {
+      "source": "github",
+      "name": "plugins",
+      "owner": "openai",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "stars": 1018,
+      "daily_stars": 23,
+      "language": "python",
+      "fetched_at": "2026-05-07T11:53:03.612829"
     }
   ],
   "x_hot_words": [
