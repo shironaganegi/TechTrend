@@ -1,10 +1,5 @@
 [
   {
-    "name": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "date": "2026-04-04T22:37:22.944584"
-  },
-  {
     "name": "onyx",
     "url": "https://github.com/onyx-dot-app/onyx",
     "date": "2026-04-05T05:20:21.363998"
@@ -498,5 +493,10 @@
     "name": "agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "date": "2026-05-08T05:34:05.380698"
+  },
+  {
+    "name": "Monid 2.0",
+    "url": "https://www.producthunt.com/products/monid",
+    "date": "2026-05-08T11:23:48.837592"
   }
 ]
