@@ -1,10 +1,5 @@
 [
   {
-    "name": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-    "url": "https://news.ycombinator.com/item?id=47633396",
-    "date": "2026-04-04T10:41:51.988496"
-  },
-  {
     "name": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
     "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
     "date": "2026-04-04T22:37:22.944584"
@@ -498,5 +493,10 @@
     "name": "Phrony",
     "url": "https://www.producthunt.com/products/phrony",
     "date": "2026-05-07T23:05:08.534092"
+  },
+  {
+    "name": "agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "date": "2026-05-08T05:34:05.380698"
   }
 ]
