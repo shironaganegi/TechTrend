@@ -1,10 +1,5 @@
 [
   {
-    "name": "hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "date": "2026-04-06T05:31:58.308838"
-  },
-  {
     "name": "Eight years of wanting, three months of building with AI",
     "url": "https://lalitm.com/post/building-syntaqlite-ai/",
     "date": "2026-04-06T11:04:06.059533"
@@ -498,5 +493,10 @@
     "name": "9router",
     "url": "https://github.com/decolua/9router",
     "date": "2026-05-09T11:02:21.850645"
+  },
+  {
+    "name": "financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "date": "2026-05-09T22:54:19.231105"
   }
 ]
