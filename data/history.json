@@ -1,10 +1,5 @@
 [
   {
-    "name": "Claude API 1Mコンテキストベータ廃止ガイド — 4/30期限の移行チェックリスト",
-    "url": "https://qiita.com/kai_kou/items/cdeff88376b1c5941f5a",
-    "date": "2026-04-07T05:16:17.555802"
-  },
-  {
     "name": "Silkwave Voice",
     "url": "https://www.producthunt.com/products/silkwave-voice",
     "date": "2026-04-07T11:04:13.606215"
@@ -498,5 +493,10 @@
     "name": "CloakBrowser",
     "url": "https://github.com/CloakHQ/CloakBrowser",
     "date": "2026-05-10T11:03:49.067873"
+  },
+  {
+    "name": "LumiChats Offline(free)",
+    "url": "https://www.producthunt.com/products/lumichats-offline",
+    "date": "2026-05-10T22:55:09.037990"
   }
 ]
