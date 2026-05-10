@@ -1,10 +1,5 @@
 [
   {
-    "name": "30_OOF予測値でIsotonic Regressionを学習する",
-    "url": "https://qiita.com/keiba_ai_rui/items/1abccf5704b3695d2953",
-    "date": "2026-04-06T22:43:12.832984"
-  },
-  {
     "name": "Claude API 1Mコンテキストベータ廃止ガイド — 4/30期限の移行チェックリスト",
     "url": "https://qiita.com/kai_kou/items/cdeff88376b1c5941f5a",
     "date": "2026-04-07T05:16:17.555802"
@@ -498,5 +493,10 @@
     "name": "ExcelファイルをPower BIにアップロードして使う方法＋Python連携の基礎知識",
     "url": "https://qiita.com/maskot1977/items/b54fa0da4bef650c78e0",
     "date": "2026-05-10T06:20:33.564596"
+  },
+  {
+    "name": "CloakBrowser",
+    "url": "https://github.com/CloakHQ/CloakBrowser",
+    "date": "2026-05-10T11:03:49.067873"
   }
 ]
