@@ -1,10 +1,5 @@
 [
   {
-    "name": "「次のgitコマンドは何？」をAIに聞いて即実行 — Git Adviserでチーム開発を加速する",
-    "url": "https://qiita.com/rikiza1989/items/f65108b7514000b0059a",
-    "date": "2026-04-08T05:20:01.920841"
-  },
-  {
     "name": "Project Glasswing: Securing critical software for the AI era",
     "url": "https://www.anthropic.com/glasswing",
     "date": "2026-04-08T11:05:04.860081"
@@ -498,5 +493,10 @@
     "name": "Graphbit PRFlow - AI Code Review Agent",
     "url": "https://www.producthunt.com/products/graphbit",
     "date": "2026-05-11T12:43:09.077107"
+  },
+  {
+    "name": "「このラップはなぜ遅い？」をSHAPで分解する — Random Forestの予測根拠を秒単位で読む",
+    "url": "https://qiita.com/toolstudio22/items/361cc0a5d7bc1817fe97",
+    "date": "2026-05-11T23:00:03.972048"
   }
 ]
