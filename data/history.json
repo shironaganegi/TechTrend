@@ -1,10 +1,5 @@
 [
   {
-    "name": "lofi.town",
-    "url": "https://www.producthunt.com/products/lofi-town",
-    "date": "2026-04-07T22:45:57.725743"
-  },
-  {
     "name": "「次のgitコマンドは何？」をAIに聞いて即実行 — Git Adviserでチーム開発を加速する",
     "url": "https://qiita.com/rikiza1989/items/f65108b7514000b0059a",
     "date": "2026-04-08T05:20:01.920841"
@@ -498,5 +493,10 @@
     "name": "為替リターン分布を読む — USDJPY・EURUSD・AUDJPYの240分足で見るファットテール",
     "url": "https://qiita.com/tikeda123/items/8b5df68301088727ebef",
     "date": "2026-05-11T06:44:43.604070"
+  },
+  {
+    "name": "Graphbit PRFlow - AI Code Review Agent",
+    "url": "https://www.producthunt.com/products/graphbit",
+    "date": "2026-05-11T12:43:09.077107"
   }
 ]
