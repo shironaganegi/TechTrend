@@ -1,10 +1,5 @@
 [
   {
-    "name": "DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "date": "2026-04-08T22:51:00.614979"
-  },
-  {
     "name": "GitNexus",
     "url": "https://github.com/abhigyanpatwari/GitNexus",
     "date": "2026-04-09T05:17:56.011598"
@@ -498,5 +493,10 @@
     "name": "MiroMiro v2",
     "url": "https://www.producthunt.com/products/miromiro",
     "date": "2026-05-12T06:19:00.915475"
+  },
+  {
+    "name": "Local AI needs to be the norm",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "date": "2026-05-12T12:05:43.715615"
   }
 ]
