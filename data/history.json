@@ -1,10 +1,5 @@
 [
   {
-    "name": "Project Glasswing: Securing critical software for the AI era",
-    "url": "https://www.anthropic.com/glasswing",
-    "date": "2026-04-08T11:05:04.860081"
-  },
-  {
     "name": "DeepTutor",
     "url": "https://github.com/HKUDS/DeepTutor",
     "date": "2026-04-08T22:51:00.614979"
@@ -498,5 +493,10 @@
     "name": "「このラップはなぜ遅い？」をSHAPで分解する — Random Forestの予測根拠を秒単位で読む",
     "url": "https://qiita.com/toolstudio22/items/361cc0a5d7bc1817fe97",
     "date": "2026-05-11T23:00:03.972048"
+  },
+  {
+    "name": "MiroMiro v2",
+    "url": "https://www.producthunt.com/products/miromiro",
+    "date": "2026-05-12T06:19:00.915475"
   }
 ]
