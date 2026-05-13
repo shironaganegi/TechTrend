@@ -1,10 +1,5 @@
 [
   {
-    "name": "Claude mixes up who said what",
-    "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-    "date": "2026-04-10T05:32:12.155399"
-  },
-  {
     "name": "Instant 1.0, a backend for AI-coded apps",
     "url": "https://www.instantdb.com/essays/architecture",
     "date": "2026-04-10T11:03:39.970579"
@@ -498,5 +493,10 @@
     "name": "Why senior developers fail to communicate their expertise",
     "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
     "date": "2026-05-13T06:31:42.079949"
+  },
+  {
+    "name": "AWS MCP Server GA入門 — AIエージェントが300サービスを操作できるAPIの全貌",
+    "url": "https://qiita.com/kai_kou/items/46e04241395754f4fc65",
+    "date": "2026-05-13T12:09:21.452288"
   }
 ]
