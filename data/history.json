@@ -1,10 +1,5 @@
 [
   {
-    "name": "Capso",
-    "url": "https://www.producthunt.com/products/capso",
-    "date": "2026-04-11T10:43:03.705584"
-  },
-  {
     "name": "AI assistance when contributing to the Linux kernel",
     "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
     "date": "2026-04-11T22:39:11.570992"
@@ -498,5 +493,10 @@
     "name": "Setting up a free *.city.state.us locality domain (2025)",
     "url": "https://fredchan.org/blog/locality-domains-guide/",
     "date": "2026-05-14T11:56:49.980180"
+  },
+  {
+    "name": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "date": "2026-05-14T23:02:15.177313"
   }
 ]
