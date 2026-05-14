@@ -1,10 +1,5 @@
 [
   {
-    "name": "multica",
-    "url": "https://github.com/multica-ai/multica",
-    "date": "2026-04-10T22:44:12.195514"
-  },
-  {
     "name": "アメリカ上院の238年分の投票行動：動的ノンパラメトリック・ベイズ分析",
     "url": "https://qiita.com/Gotoubun_taiwan/items/46a8fee5ce9ae2c11c43",
     "date": "2026-04-11T05:01:21.838348"
@@ -498,5 +493,10 @@
     "name": "【Claude Code】7年前の自分に教えたい。1ヶ月かけたテレビゲーム売上分析、2026年は10分で終わる（が、落とし穴もあった）",
     "url": "https://qiita.com/hamham/items/b64e4e51d75b6b0525f3",
     "date": "2026-05-13T23:11:21.433865"
+  },
+  {
+    "name": "hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "date": "2026-05-14T06:34:58.564378"
   }
 ]
