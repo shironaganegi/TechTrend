@@ -1,10 +1,5 @@
 [
   {
-    "name": "awesome-design-systems",
-    "url": "https://github.com/alexpate/awesome-design-systems",
-    "date": "2026-04-12T05:30:43.109898"
-  },
-  {
     "name": "R0Y",
     "url": "https://www.producthunt.com/products/r0y-ai-financial-studio",
     "date": "2026-04-12T10:46:33.915670"
@@ -498,5 +493,10 @@
     "name": "LaTeX 文書 (Beamer スライド) の「今回の内容」を空にして「前回の内容」へスライドする Python スクリプト (定期的な報告資料に便利)",
     "url": "https://qiita.com/CookieBox26/items/4867eea25842b2605d57",
     "date": "2026-05-15T06:37:52.598946"
+  },
+  {
+    "name": "openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "date": "2026-05-15T12:01:01.881766"
   }
 ]
