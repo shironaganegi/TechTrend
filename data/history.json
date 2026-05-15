@@ -1,10 +1,5 @@
 [
   {
-    "name": "AI assistance when contributing to the Linux kernel",
-    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-    "date": "2026-04-11T22:39:11.570992"
-  },
-  {
     "name": "awesome-design-systems",
     "url": "https://github.com/alexpate/awesome-design-systems",
     "date": "2026-04-12T05:30:43.109898"
@@ -498,5 +493,10 @@
     "name": "RTX 5090 and M4 MacBook Air: Can It Game?",
     "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
     "date": "2026-05-14T23:02:15.177313"
+  },
+  {
+    "name": "LaTeX 文書 (Beamer スライド) の「今回の内容」を空にして「前回の内容」へスライドする Python スクリプト (定期的な報告資料に便利)",
+    "url": "https://qiita.com/CookieBox26/items/4867eea25842b2605d57",
+    "date": "2026-05-15T06:37:52.598946"
   }
 ]
