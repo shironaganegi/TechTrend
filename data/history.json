@@ -1,10 +1,5 @@
 [
   {
-    "name": "Servo is now available on crates.io",
-    "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-    "date": "2026-04-13T22:51:44.582350"
-  },
-  {
     "name": "【初心者向けNumpy全まとめ】Numpy基礎総まとめ - Part10",
     "url": "https://qiita.com/Ringojam/items/9e320da7f26117b4c486",
     "date": "2026-04-14T05:30:35.041926"
@@ -498,5 +493,10 @@
     "name": "Python の新定番パッケージマネージャ「uv」入門",
     "url": "https://qiita.com/umanari145/items/9770ed5cdb967007ca5b",
     "date": "2026-05-16T22:54:34.868280"
+  },
+  {
+    "name": "Pythonの整数をめぐる冒険",
+    "url": "https://qiita.com/quantum_for_ctf/items/20cdbc58bc0cdbd363e2",
+    "date": "2026-05-17T06:27:21.980708"
   }
 ]
