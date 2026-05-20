@@ -1,10 +1,5 @@
 [
   {
-    "name": "Libertify.com",
-    "url": "https://www.producthunt.com/products/libertify-com",
-    "date": "2026-04-17T05:34:06.244512"
-  },
-  {
     "name": "[Python] __name__属性とif __name__ == '__main__':てやつ",
     "url": "https://qiita.com/mochi_541/items/29b2156db1a83353f734",
     "date": "2026-04-17T11:03:36.828805"
@@ -498,5 +493,10 @@
     "name": "andrej-karpathy-skills",
     "url": "https://github.com/multica-ai/andrej-karpathy-skills",
     "date": "2026-05-20T06:58:21.323457"
+  },
+  {
+    "name": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "url": "https://github.com/antoinezambelli/forge",
+    "date": "2026-05-20T12:30:01.741929"
   }
 ]
