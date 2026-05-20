@@ -1,10 +1,5 @@
 [
   {
-    "name": "pydantic-settings 2.7.1 で validation_alias を使ったテストが一斉に落ちる原因と1行修正",
-    "url": "https://qiita.com/yamashita_aidev/items/e9fa8d6b18dc010446c0",
-    "date": "2026-04-16T22:50:46.853456"
-  },
-  {
     "name": "Libertify.com",
     "url": "https://www.producthunt.com/products/libertify-com",
     "date": "2026-04-17T05:34:06.244512"
@@ -498,5 +493,10 @@
     "name": "Gemini 3.5 Flash",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
     "date": "2026-05-19T23:09:49.786356"
+  },
+  {
+    "name": "andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "date": "2026-05-20T06:58:21.323457"
   }
 ]
