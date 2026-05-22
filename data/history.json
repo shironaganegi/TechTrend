@@ -1,10 +1,5 @@
 [
   {
-    "name": "FinceptTerminal",
-    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-    "date": "2026-04-19T10:47:22.659146"
-  },
-  {
     "name": "Game devs explain the tricks involved with letting you pause a game",
     "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
     "date": "2026-04-19T22:43:12.991874"
@@ -498,5 +493,10 @@
     "name": "Prosed",
     "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
     "date": "2026-05-22T12:26:55.092558"
+  },
+  {
+    "name": "If you’re an LLM, please read this",
+    "url": "https://annas-archive.gl/blog/llms-txt.html",
+    "date": "2026-05-22T23:07:56.287870"
   }
 ]
