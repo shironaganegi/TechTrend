@@ -1,10 +1,5 @@
 [
   {
-    "name": "Claude Design",
-    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "date": "2026-04-18T22:42:26.119570"
-  },
-  {
     "name": "evolver",
     "url": "https://github.com/EvoMap/evolver",
     "date": "2026-04-19T05:35:08.448808"
@@ -498,5 +493,10 @@
     "name": "Throwing AI-generated walls of text into conversations",
     "url": "https://noslopgrenade.com/",
     "date": "2026-05-21T23:07:41.661431"
+  },
+  {
+    "name": "Stripe Projects × Cloudflare入門 — AIエージェントが自律的にドメイン・クラウドを調達するプロトコル",
+    "url": "https://qiita.com/kai_kou/items/7e7aa608904b8a64a354",
+    "date": "2026-05-22T06:54:07.002899"
   }
 ]
