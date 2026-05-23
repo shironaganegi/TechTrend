@@ -1,10 +1,5 @@
 [
   {
-    "name": "Game devs explain the tricks involved with letting you pause a game",
-    "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-    "date": "2026-04-19T22:43:12.991874"
-  },
-  {
     "name": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
     "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
     "date": "2026-04-20T05:47:10.967329"
@@ -498,5 +493,10 @@
     "name": "If you’re an LLM, please read this",
     "url": "https://annas-archive.gl/blog/llms-txt.html",
     "date": "2026-05-22T23:07:56.287870"
+  },
+  {
+    "name": "AI Coding Tools Start Breaking Differently as Projects Scale",
+    "url": "https://qiita.com/tuanpk1977/items/c0152c681ca362747d74",
+    "date": "2026-05-23T06:16:32.804142"
   }
 ]
