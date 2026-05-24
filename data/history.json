@@ -1,10 +1,5 @@
 [
   {
-    "name": "CONA",
-    "url": "https://www.producthunt.com/products/cona",
-    "date": "2026-04-20T22:52:39.832991"
-  },
-  {
     "name": "RuView",
     "url": "https://github.com/ruvnet/RuView",
     "date": "2026-04-21T05:33:32.275053"
@@ -498,5 +493,10 @@
     "name": "codegraph",
     "url": "https://github.com/colbymchenry/codegraph",
     "date": "2026-05-23T22:58:05.150471"
+  },
+  {
+    "name": "claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "date": "2026-05-24T06:41:37.561403"
   }
 ]
