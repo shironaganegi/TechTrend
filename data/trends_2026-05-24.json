@@ -6,10 +6,10 @@
       "owner": "multica-ai",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 150207,
+      "stars": 150727,
       "daily_stars": 3507,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.557113"
+      "fetched_at": "2026-05-24T11:19:43.106836"
     },
     {
       "source": "github",
@@ -17,10 +17,10 @@
       "owner": "colbymchenry",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "stars": 20266,
+      "stars": 20819,
       "daily_stars": 2456,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.555581"
+      "fetched_at": "2026-05-24T11:19:43.108139"
     },
     {
       "source": "github",
@@ -28,10 +28,10 @@
       "owner": "Lum1104",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "stars": 22555,
+      "stars": 23459,
       "daily_stars": 2299,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.554683"
+      "fetched_at": "2026-05-24T11:19:43.104938"
     },
     {
       "source": "github",
@@ -39,10 +39,10 @@
       "owner": "anthropics",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 26761,
+      "stars": 26989,
       "daily_stars": 2193,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.555143"
+      "fetched_at": "2026-05-24T11:19:43.105989"
     },
     {
       "source": "github",
@@ -50,21 +50,10 @@
       "owner": "rohitg00",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": 14145,
+      "stars": 14490,
       "daily_stars": 1521,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.556141"
-    },
-    {
-      "source": "github",
-      "name": "hermes-agent",
-      "owner": "NousResearch",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 164737,
-      "daily_stars": 1331,
-      "language": "python",
-      "fetched_at": "2026-05-24T06:40:33.745917"
+      "fetched_at": "2026-05-24T11:19:43.105537"
     },
     {
       "source": "github",
@@ -72,21 +61,21 @@
       "owner": "yt-dlp",
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
-      "stars": 165095,
+      "stars": 165204,
       "daily_stars": 759,
-      "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.561188"
+      "language": "python",
+      "fetched_at": "2026-05-24T11:19:44.266359"
     },
     {
       "source": "github",
-      "name": "the-book-of-secret-knowledge",
-      "owner": "trimstray",
-      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-      "stars": 223988,
-      "daily_stars": 628,
+      "name": "build-your-own-x",
+      "owner": "codecrafters-io",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": 503932,
+      "daily_stars": 590,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.559918"
+      "fetched_at": "2026-05-24T11:19:43.110299"
     },
     {
       "source": "github",
@@ -94,10 +83,21 @@
       "owner": "Alishahryar1",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
-      "stars": 28709,
+      "stars": 28818,
       "daily_stars": 565,
-      "language": "python",
-      "fetched_at": "2026-05-24T06:40:33.746335"
+      "language": "all",
+      "fetched_at": "2026-05-24T11:19:43.107692"
+    },
+    {
+      "source": "github",
+      "name": "cmux",
+      "owner": "manaflow-ai",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "stars": 18691,
+      "daily_stars": 560,
+      "language": "all",
+      "fetched_at": "2026-05-24T11:19:43.109448"
     },
     {
       "source": "github",
@@ -105,21 +105,32 @@
       "owner": "Fincept-Corporation",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "stars": 23232,
+      "stars": 23346,
       "daily_stars": 545,
-      "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.556717"
+      "language": "python",
+      "fetched_at": "2026-05-24T11:19:44.263310"
     },
     {
       "source": "github",
-      "name": "chrome-devtools-mcp",
-      "owner": "ChromeDevTools",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "stars": 41414,
-      "daily_stars": 435,
+      "name": "knowledge-work-plugins",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 13073,
+      "daily_stars": 486,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.557966"
+      "fetched_at": "2026-05-24T11:19:43.106425"
+    },
+    {
+      "source": "github",
+      "name": "pi",
+      "owner": "earendil-works",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "stars": 53576,
+      "daily_stars": 444,
+      "language": "all",
+      "fetched_at": "2026-05-24T11:19:43.107265"
     },
     {
       "source": "github",
@@ -127,21 +138,32 @@
       "owner": "multica-ai",
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "stars": 32068,
+      "stars": 32180,
       "daily_stars": 410,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.559520"
+      "fetched_at": "2026-05-24T11:19:43.108566"
     },
     {
       "source": "github",
-      "name": "odoo",
-      "owner": "odoo",
-      "url": "https://github.com/odoo/odoo",
-      "description": "Odoo. Open Source Apps To Grow Your Business.",
-      "stars": 51555,
-      "daily_stars": 386,
+      "name": "Scrapling",
+      "owner": "D4Vinci",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars": 53804,
+      "daily_stars": 373,
+      "language": "python",
+      "fetched_at": "2026-05-24T11:19:44.261878"
+    },
+    {
+      "source": "github",
+      "name": "frigate",
+      "owner": "blakeblackshear",
+      "url": "https://github.com/blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "stars": 32643,
+      "daily_stars": 355,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.560338"
+      "fetched_at": "2026-05-24T11:19:43.111292"
     },
     {
       "source": "github",
@@ -149,21 +171,10 @@
       "owner": "mukul975",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "stars": 7635,
+      "stars": 7793,
       "daily_stars": 281,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.558516"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Oura says it gets government demands for user data",
-      "owner": "donohoe",
-      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-      "description": "Oura says it gets government demands for user data",
-      "stars": 268,
-      "daily_stars": 268,
-      "language": "tech",
-      "fetched_at": "2026-05-24T06:40:37.686283"
+      "fetched_at": "2026-05-24T11:19:43.111849"
     },
     {
       "source": "github",
@@ -171,10 +182,10 @@
       "owner": "dotnet",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
-      "stars": 2793,
+      "stars": 2827,
       "daily_stars": 266,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.557533"
+      "fetched_at": "2026-05-24T11:19:43.110727"
     },
     {
       "source": "hacker_news",
@@ -182,21 +193,32 @@
       "owner": "embedding-shape",
       "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
       "description": "Italy moves to Airbus A330 tankers",
-      "stars": 247,
-      "daily_stars": 247,
+      "stars": 260,
+      "daily_stars": 260,
       "language": "tech",
-      "fetched_at": "2026-05-24T06:40:37.178930"
+      "fetched_at": "2026-05-24T11:19:49.226815"
     },
     {
       "source": "github",
-      "name": "presenton",
-      "owner": "presenton",
-      "url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 6539,
-      "daily_stars": 241,
+      "name": "MiroFish",
+      "owner": "666ghj",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars": 61858,
+      "daily_stars": 179,
       "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.559091"
+      "fetched_at": "2026-05-24T11:19:43.109877"
+    },
+    {
+      "source": "github",
+      "name": "bleachbit",
+      "owner": "bleachbit",
+      "url": "https://github.com/bleachbit/bleachbit",
+      "description": "BleachBit system cleaner for Windows and Linux",
+      "stars": 5486,
+      "daily_stars": 115,
+      "language": "python",
+      "fetched_at": "2026-05-24T11:19:44.264191"
     },
     {
       "source": "github",
@@ -204,65 +226,120 @@
       "owner": "plastic-labs",
       "url": "https://github.com/plastic-labs/honcho",
       "description": "Memory library for building stateful agents",
-      "stars": 4124,
+      "stars": 4137,
       "daily_stars": 112,
       "language": "python",
-      "fetched_at": "2026-05-24T06:40:33.747177"
+      "fetched_at": "2026-05-24T11:19:44.264621"
+    },
+    {
+      "source": "hacker_news",
+      "name": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "owner": "baal80spam",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "description": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "stars": 102,
+      "daily_stars": 102,
+      "language": "tech",
+      "fetched_at": "2026-05-24T11:19:48.298121"
     },
     {
       "source": "product_hunt",
-      "name": "note.md",
+      "name": "Runway Agent",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/note-md",
-      "description": "\n            Local-first markdown based workspace for research writings\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/runway-agent",
+      "description": "\n            Generate edited, sound-designed videos via chat\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-05-24T06:40:33.871502"
+      "fetched_at": "2026-05-24T11:19:44.381985"
     },
     {
       "source": "product_hunt",
-      "name": "Memdex",
+      "name": "Stitch 3.0 by Google",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/memdex",
-      "description": "\n            Turn every AI conversation into reusable local memory\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/stitch-by-google",
+      "description": "\n            Generate and iterate UI screens with AI on a live canvas\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-05-24T06:40:33.871709"
+      "fetched_at": "2026-05-24T11:19:44.382175"
     },
     {
       "source": "product_hunt",
-      "name": "RetroMac",
+      "name": "Freu AI",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/retromac",
-      "description": "\n            Turn your Mac into a time machine.\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/freu-cli",
+      "description": "\n            Automate any Mac app with $0 recurring run cost\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-05-24T06:40:33.871871"
+      "fetched_at": "2026-05-24T11:19:44.382335"
     },
     {
       "source": "product_hunt",
-      "name": "Google Antigravity CLI",
+      "name": "Edgee Fallback Models",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/google-antigravity",
-      "description": "\n            Run coding agents directly from your terminal\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/edgee",
+      "description": "\n            Claude Code that never stops\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-05-24T06:40:33.872020"
+      "fetched_at": "2026-05-24T11:19:44.382496"
     },
     {
       "source": "product_hunt",
-      "name": "Spantop",
+      "name": "WhatCable",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/spantop",
-      "description": "\n            Turn any Mac into a real second monitor\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/whatcable",
+      "description": "\n            Know what your USB-C cable can really do\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-05-24T06:40:33.872163"
+      "fetched_at": "2026-05-24T11:19:44.382648"
+    },
+    {
+      "source": "product_hunt",
+      "name": "ModelHub",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/modelhub",
+      "description": "\n            The missing menu bar app for local LLMs on Mac.\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-24T11:19:44.382812"
+    },
+    {
+      "source": "product_hunt",
+      "name": "DynamicNotch",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/dynamicnotch",
+      "description": "\n            Dynamic island for macOS\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-24T11:19:44.382965"
+    },
+    {
+      "source": "product_hunt",
+      "name": "DockFlow",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/dockflow",
+      "description": "\n            Save, switch, and automate Dock layouts for every workflow\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-24T11:19:44.383111"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Command A+",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/cohere-2",
+      "description": "\n            Cohere’s open enterprise workhorse\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-05-24T11:19:44.383283"
     },
     {
       "source": "product_hunt",
@@ -273,51 +350,18 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-05-24T06:40:33.872318"
+      "fetched_at": "2026-05-24T11:19:44.383430"
     },
     {
-      "source": "product_hunt",
-      "name": "Vibedock",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/vibedock",
-      "description": "\n            Toggle Claude Code MCP servers from your menu bar\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-24T06:40:33.872461"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Finderlock",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/finderlock",
-      "description": "\n            Lock Mac files in Finder with Touch ID & AES-256\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-24T06:40:33.872620"
-    },
-    {
-      "source": "product_hunt",
-      "name": "Coca 2.0",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/coca-2-0",
-      "description": "\n            Keep Your Mac and Apps Awake!\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-24T06:40:33.872768"
-    },
-    {
-      "source": "product_hunt",
-      "name": "SignalLEMO - Ai Outreach Made Simple",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
-      "description": "\n            AI-powered lead outreach for field service contractors\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-05-24T06:40:33.872913"
+      "source": "github",
+      "name": "Kronos",
+      "owner": "shiyu-coder",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 25672,
+      "daily_stars": 96,
+      "language": "all",
+      "fetched_at": "2026-05-24T11:19:43.109013"
     },
     {
       "source": "github",
@@ -325,21 +369,21 @@
       "owner": "NVlabs",
       "url": "https://github.com/NVlabs/LongLive",
       "description": "LongLive 2.0: Infra - Long Video Gen",
-      "stars": 1889,
+      "stars": 1935,
       "daily_stars": 94,
-      "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.560768"
+      "language": "python",
+      "fetched_at": "2026-05-24T11:19:44.262308"
     },
     {
       "source": "github",
-      "name": "magic-trace",
-      "owner": "janestreet",
-      "url": "https://github.com/janestreet/magic-trace",
-      "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
-      "stars": 5946,
-      "daily_stars": 68,
-      "language": "all",
-      "fetched_at": "2026-05-24T06:40:32.561623"
+      "name": "free-llm-api-resources",
+      "owner": "cheahjs",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "stars": 22164,
+      "daily_stars": 89,
+      "language": "python",
+      "fetched_at": "2026-05-24T11:19:44.263748"
     },
     {
       "source": "github",
@@ -347,109 +391,120 @@
       "owner": "google-research",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 20086,
+      "stars": 20095,
       "daily_stars": 63,
       "language": "python",
-      "fetched_at": "2026-05-24T06:40:33.747592"
+      "fetched_at": "2026-05-24T11:19:44.265065"
     },
     {
       "source": "github",
-      "name": "crewAI",
-      "owner": "crewAIInc",
-      "url": "https://github.com/crewAIInc/crewAI",
-      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-      "stars": 52056,
-      "daily_stars": 53,
+      "name": "OBLITERATUS",
+      "owner": "elder-plinius",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "stars": 5670,
+      "daily_stars": 43,
       "language": "python",
-      "fetched_at": "2026-05-24T06:40:33.748015"
+      "fetched_at": "2026-05-24T11:19:44.265929"
     },
     {
       "source": "github",
-      "name": "ART",
-      "owner": "OpenPipe",
-      "url": "https://github.com/OpenPipe/ART",
-      "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!",
-      "stars": 9810,
-      "daily_stars": 44,
+      "name": "aider",
+      "owner": "Aider-AI",
+      "url": "https://github.com/Aider-AI/aider",
+      "description": "aider is AI pair programming in your terminal",
+      "stars": 45230,
+      "daily_stars": 40,
       "language": "python",
-      "fetched_at": "2026-05-24T06:40:33.748983"
+      "fetched_at": "2026-05-24T11:19:44.265500"
     },
     {
       "source": "qiita",
-      "name": "Pythonで〇×ゲームのAIを一から作成する　その229　大数の弱法則の証明とその解説",
-      "owner": "ysgeso",
-      "url": "https://qiita.com/ysgeso/items/d41a70cd8add7223912f",
-      "description": "Pythonで〇×ゲームのAIを一から作成する　その229　大数の弱法則の証明とその解説",
+      "name": "【MCP自作入門】Notion API × AIエージェントで英語学習の単語登録を全自動化してみた",
+      "owner": "WakoRintaro",
+      "url": "https://qiita.com/WakoRintaro/items/072d1e713aa57ea1a326",
+      "description": "【MCP自作入門】Notion API × AIエージェントで英語学習の単語登録を全自動化してみた",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-24T06:40:38.944321"
+      "fetched_at": "2026-05-24T11:19:50.783711"
     },
     {
       "source": "qiita",
-      "name": "背景を引いたカウントはポアソン分布なのか？：X線天文学で見る Skellam 分布",
-      "owner": "sakaimaging",
-      "url": "https://qiita.com/sakaimaging/items/12a69b6a90c2ff44ec11",
-      "description": "背景を引いたカウントはポアソン分布なのか？：X線天文学で見る Skellam 分布",
+      "name": "家の洗濯機をPSD解析したら、脱水時の振動がヤバかった【WaveAxis Pro】",
+      "owner": "G3O5",
+      "url": "https://qiita.com/G3O5/items/f8ec6a6936834b591818",
+      "description": "家の洗濯機をPSD解析したら、脱水時の振動がヤバかった【WaveAxis Pro】",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-24T06:40:38.944336"
+      "fetched_at": "2026-05-24T11:19:50.783727"
     },
     {
       "source": "qiita",
-      "name": "【完全自動化】Excelを操作するPythonライブラリopenpyxl",
-      "owner": "masatamago",
-      "url": "https://qiita.com/masatamago/items/6a8b421b9e9331b5bbb5",
-      "description": "【完全自動化】Excelを操作するPythonライブラリopenpyxl",
+      "name": "AIコーディングツールは「大規模プロジェクト」で違いが出る",
+      "owner": "tuanpk1977",
+      "url": "https://qiita.com/tuanpk1977/items/4d30e26651f727764045",
+      "description": "AIコーディングツールは「大規模プロジェクト」で違いが出る",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-24T06:40:38.944343"
+      "fetched_at": "2026-05-24T11:19:50.783734"
     },
     {
       "source": "qiita",
-      "name": "PyTorchで顔のキーポイント座標回帰を最初から組んでKaggle提出までやってみた",
-      "owner": "MY_1217",
-      "url": "https://qiita.com/MY_1217/items/db2877073b1477d4d672",
-      "description": "PyTorchで顔のキーポイント座標回帰を最初から組んでKaggle提出までやってみた",
+      "name": "「仕組み化を評価する会社で、個人開発をどこまで会社に見せるべきか悩んだ話」",
+      "owner": "ikhm-design",
+      "url": "https://qiita.com/ikhm-design/items/79ca4560c57ee4ef45db",
+      "description": "「仕組み化を評価する会社で、個人開発をどこまで会社に見せるべきか悩んだ話」",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-24T06:40:38.944349"
+      "fetched_at": "2026-05-24T11:19:50.783740"
     },
     {
       "source": "qiita",
-      "name": "Claude CodeのCLAUDE.mdを@importで分割してトピック別ルールに整理した",
-      "owner": "harnesswinner",
-      "url": "https://qiita.com/harnesswinner/items/6678320489deec25113a",
-      "description": "Claude CodeのCLAUDE.mdを@importで分割してトピック別ルールに整理した",
+      "name": "会社員が「空き時間」だけで、SI見積もり1.8億円のシステムをAIと作った話",
+      "owner": "engineer-trade",
+      "url": "https://qiita.com/engineer-trade/items/1b1f12e74f7451ab8a08",
+      "description": "会社員が「空き時間」だけで、SI見積もり1.8億円のシステムをAIと作った話",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-24T06:40:39.194967"
+      "fetched_at": "2026-05-24T11:19:51.027659"
     },
     {
       "source": "qiita",
-      "name": "Claude Skills──OpenAIが先回り実装していたSKILL.md極小標準",
-      "owner": "Yushi88",
-      "url": "https://qiita.com/Yushi88/items/7ca07c8f2ae59f818428",
-      "description": "Claude Skills──OpenAIが先回り実装していたSKILL.md極小標準",
+      "name": "AI Skill手書きガイド：Claude Codeで再利用可能な能力モジュール",
+      "owner": "lumichy",
+      "url": "https://qiita.com/lumichy/items/f46c0e9a2dc06720471f",
+      "description": "AI Skill手書きガイド：Claude Codeで再利用可能な能力モジュール",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-24T06:40:39.194973"
+      "fetched_at": "2026-05-24T11:19:51.027682"
     },
     {
       "source": "qiita",
-      "name": "セイト先生の特別勉強会に参加しました③ーAIの活用法を学ぶことで、最近の不安を解消したい！ー",
-      "owner": "picky07",
-      "url": "https://qiita.com/picky07/items/2089e6a1ac1e9b2e7a68",
-      "description": "セイト先生の特別勉強会に参加しました③ーAIの活用法を学ぶことで、最近の不安を解消したい！ー",
+      "name": "Tryhackmeの HealthGPTのラブについて記録",
+      "owner": "nozomi2025",
+      "url": "https://qiita.com/nozomi2025/items/b3d2c17aa13ffe6065ce",
+      "description": "Tryhackmeの HealthGPTのラブについて記録",
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-24T06:40:39.194979"
+      "fetched_at": "2026-05-24T11:19:51.027688"
+    },
+    {
+      "source": "qiita",
+      "name": "【競馬AI検証記録】260524：オークス（東京11R）的中！",
+      "owner": "kataashijushin",
+      "url": "https://qiita.com/kataashijushin/items/0d3709238758fd5bc2ed",
+      "description": "【競馬AI検証記録】260524：オークス（東京11R）的中！",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-05-24T11:19:51.255780"
     },
     {
       "source": "qiita",
@@ -460,7 +515,18 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-24T06:40:39.446412"
+      "fetched_at": "2026-05-24T11:19:51.255816"
+    },
+    {
+      "source": "qiita",
+      "name": "PyTorchで顔のキーポイント座標回帰を最初から組んでKaggle提出までやってみた",
+      "owner": "MY_1217",
+      "url": "https://qiita.com/MY_1217/items/db2877073b1477d4d672",
+      "description": "PyTorchで顔のキーポイント座標回帰を最初から組んでKaggle提出までやってみた",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-05-24T11:19:51.255823"
     },
     {
       "source": "qiita",
@@ -471,40 +537,18 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-05-24T06:40:39.446434"
-    },
-    {
-      "source": "qiita",
-      "name": "高校数学の前提知識で「金融工学の全体地図」を全部つなげてみる ── SDE・VaR・コピュラ・HFTはどうつながるのか？",
-      "owner": "etale_cohomology",
-      "url": "https://qiita.com/etale_cohomology/items/e5fde88c5bd2d5ca50e6",
-      "description": "高校数学の前提知識で「金融工学の全体地図」を全部つなげてみる ── SDE・VaR・コピュラ・HFTはどうつながるのか？",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-05-24T06:40:39.446440"
+      "fetched_at": "2026-05-24T11:19:51.255829"
     },
     {
       "source": "github",
-      "name": "pydantic-ai",
-      "owner": "pydantic",
-      "url": "https://github.com/pydantic/pydantic-ai",
-      "description": "AI Agent Framework, the Pydantic way",
-      "stars": 17248,
-      "daily_stars": 19,
+      "name": "onyx",
+      "owner": "onyx-dot-app",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "stars": 29654,
+      "daily_stars": 28,
       "language": "python",
-      "fetched_at": "2026-05-24T06:40:33.748556"
-    },
-    {
-      "source": "github",
-      "name": "ai-dev-kit",
-      "owner": "databricks-solutions",
-      "url": "https://github.com/databricks-solutions/ai-dev-kit",
-      "description": "Databricks Toolkit for Coding Agents provided by Field Engineering",
-      "stars": 1559,
-      "daily_stars": 4,
-      "language": "python",
-      "fetched_at": "2026-05-24T06:40:33.746762"
+      "fetched_at": "2026-05-24T11:19:44.262738"
     }
   ],
   "x_hot_words": [
