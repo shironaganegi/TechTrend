@@ -1,10 +1,5 @@
 [
   {
-    "name": "【AIメモ】WSL + FastAPI + SQLite + Cloudflare Tunnel → watsonx OrchestrateでCSVを検索させる",
-    "url": "https://qiita.com/onoyu1012/items/dbed5f76f37c6cae59e5",
-    "date": "2026-04-23T05:36:27.640746"
-  },
-  {
     "name": "Over-editing refers to a model modifying code beyond what is necessary",
     "url": "https://nrehiew.github.io/blog/minimal_editing/",
     "date": "2026-04-23T11:15:08.965380"
@@ -498,5 +493,10 @@
     "name": "RAGとは何か？仕組みをわかりやすく解説!",
     "url": "https://qiita.com/myatkhinelin/items/f5965d67fd203d9d64be",
     "date": "2026-05-26T06:52:50.301317"
+  },
+  {
+    "name": "MiniCPM5-1B",
+    "url": "https://www.producthunt.com/products/minicpm-4-0",
+    "date": "2026-05-26T23:15:05.504501"
   }
 ]
