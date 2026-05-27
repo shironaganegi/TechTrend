@@ -1,10 +1,5 @@
 [
   {
-    "name": "Over-editing refers to a model modifying code beyond what is necessary",
-    "url": "https://nrehiew.github.io/blog/minimal_editing/",
-    "date": "2026-04-23T11:15:08.965380"
-  },
-  {
     "name": "OpenAI Agents SDK の「Sandbox Agents」を Mac で軽く試してみる（「uv」を使いつつ）",
     "url": "https://qiita.com/youtoy/items/90d49c1f42642e39260e",
     "date": "2026-04-23T22:54:37.954020"
@@ -498,5 +493,10 @@
     "name": "MiniCPM5-1B",
     "url": "https://www.producthunt.com/products/minicpm-4-0",
     "date": "2026-05-26T23:15:05.504501"
+  },
+  {
+    "name": "ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "date": "2026-05-27T07:08:58.236354"
   }
 ]
