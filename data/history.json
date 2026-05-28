@@ -1,10 +1,5 @@
 [
   {
-    "name": "Universal Gas Framework (UGF)",
-    "url": "https://www.producthunt.com/products/universal-gas-framework-ugf",
-    "date": "2026-04-25T05:19:45.820202"
-  },
-  {
     "name": "GPT-5.5",
     "url": "https://openai.com/index/introducing-gpt-5-5/",
     "date": "2026-04-25T10:51:25.839823"
@@ -498,5 +493,10 @@
     "name": "YouTube to automatically label AI-generated videos",
     "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
     "date": "2026-05-28T13:57:27.208560"
+  },
+  {
+    "name": "Disagreement among frontier LLMs on real-world fact-checks",
+    "url": "https://lenz.io/research/llm-disagreement",
+    "date": "2026-05-28T23:22:55.826406"
   }
 ]
