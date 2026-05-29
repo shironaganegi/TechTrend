@@ -1,10 +1,5 @@
 [
   {
-    "name": "GPT-5.5",
-    "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "date": "2026-04-25T10:51:25.839823"
-  },
-  {
     "name": "Claude Code scheduled tasks で朝刊・日次レポートを全自動生成する",
     "url": "https://qiita.com/Tadashi_Kudo/items/51a948ff7710627e9cad",
     "date": "2026-04-25T22:43:59.040225"
@@ -498,5 +493,10 @@
     "name": "Disagreement among frontier LLMs on real-world fact-checks",
     "url": "https://lenz.io/research/llm-disagreement",
     "date": "2026-05-28T23:22:55.826406"
+  },
+  {
+    "name": "AIにコードを丸投げせず、自力実装とAIレビューでPython CLIを作った記録",
+    "url": "https://qiita.com/Sonnerie-9695/items/51b967cf6f0eb5b1cb3d",
+    "date": "2026-05-29T06:59:55.468038"
   }
 ]
