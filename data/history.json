@@ -1,10 +1,5 @@
 [
   {
-    "name": "free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "date": "2026-04-26T22:46:51.738428"
-  },
-  {
     "name": "build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "date": "2026-04-27T06:07:42.653664"
@@ -498,5 +493,10 @@
     "name": "VoxCPM",
     "url": "https://github.com/OpenBMB/VoxCPM",
     "date": "2026-05-30T06:27:55.979034"
+  },
+  {
+    "name": "FreeDomain",
+    "url": "https://github.com/DigitalPlatDev/FreeDomain",
+    "date": "2026-05-30T11:26:38.145816"
   }
 ]
