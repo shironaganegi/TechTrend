@@ -1,10 +1,5 @@
 [
   {
-    "name": "Vibe Codingの終焉。AIの暴走を物理的に封殺する「ハーネスエンジニアリング」とHeadless自律QAの泥臭い実践",
-    "url": "https://qiita.com/derac-begin/items/8bf1d07526fd63f62845",
-    "date": "2026-04-26T10:52:47.887473"
-  },
-  {
     "name": "free-claude-code",
     "url": "https://github.com/Alishahryar1/free-claude-code",
     "date": "2026-04-26T22:46:51.738428"
@@ -498,5 +493,10 @@
     "name": "English-level-up-tips",
     "url": "https://github.com/byoungd/English-level-up-tips",
     "date": "2026-05-29T23:19:20.531328"
+  },
+  {
+    "name": "VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "date": "2026-05-30T06:27:55.979034"
   }
 ]
