@@ -1,10 +1,5 @@
 [
   {
-    "name": "【Python × Claude API】非エンジニアでもできる！Claude を使った自動要約ツールの作り方",
-    "url": "https://qiita.com/hjvideocom/items/ffee301a582df8eaf422",
-    "date": "2026-04-27T11:50:01.204976"
-  },
-  {
     "name": "Brew Finder",
     "url": "https://www.producthunt.com/products/brew-finder",
     "date": "2026-04-27T22:58:56.348709"
@@ -498,5 +493,10 @@
     "name": "liteparse",
     "url": "https://github.com/run-llama/liteparse",
     "date": "2026-05-30T23:04:40.574830"
+  },
+  {
+    "name": "markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "date": "2026-05-31T07:02:17.987191"
   }
 ]
