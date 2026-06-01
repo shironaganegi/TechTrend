@@ -1,10 +1,5 @@
 [
   {
-    "name": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "date": "2026-04-28T23:01:04.927802"
-  },
-  {
     "name": "【Busy Beaver】Pythonで停止性問題を「見て」理解する",
     "url": "https://qiita.com/ken_aizawa/items/ea1220eb5a3842826332",
     "date": "2026-04-29T05:58:40.100477"
@@ -498,5 +493,10 @@
     "name": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
     "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
     "date": "2026-06-01T16:12:44.728858"
+  },
+  {
+    "name": "Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "date": "2026-06-01T23:40:24.241092"
   }
 ]
