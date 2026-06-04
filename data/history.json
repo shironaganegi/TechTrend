@@ -1,10 +1,5 @@
 [
   {
-    "name": "Hera Launch",
-    "url": "https://www.producthunt.com/products/hera-6",
-    "date": "2026-05-01T06:20:55.194380"
-  },
-  {
     "name": "PC教室で利用するVSCodeポータブル版の導入手順",
     "url": "https://qiita.com/yokamak/items/c29a5b471bcb8eda24e6",
     "date": "2026-05-01T11:12:45.973084"
@@ -498,5 +493,10 @@
     "name": "Franz 6",
     "url": "https://www.producthunt.com/products/franz-messenger",
     "date": "2026-06-03T23:49:46.346616"
+  },
+  {
+    "name": "GPT Image 2入門 — DALL-E 3後継モデルのAPI実装と移行ガイド",
+    "url": "https://qiita.com/kai_kou/items/03da0c018bcbecc72c5e",
+    "date": "2026-06-04T07:29:02.199522"
   }
 ]
