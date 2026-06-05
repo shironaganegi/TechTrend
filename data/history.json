@@ -1,10 +1,5 @@
 [
   {
-    "name": "Scholé",
-    "url": "https://www.producthunt.com/products/schole-2",
-    "date": "2026-05-02T10:58:10.319576"
-  },
-  {
     "name": "NVIDIA Cosmos-Reason2をローカルで動かして動画推論する（transformers + vLLM)",
     "url": "https://qiita.com/lavellehatcherjr/items/d4dcab0bfc75d65e6718",
     "date": "2026-05-02T22:52:20.935639"
@@ -498,5 +493,10 @@
     "name": "VisionSync",
     "url": "https://www.producthunt.com/products/visionsync",
     "date": "2026-06-05T07:13:54.225029"
+  },
+  {
+    "name": "hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "date": "2026-06-05T12:44:40.297203"
   }
 ]
