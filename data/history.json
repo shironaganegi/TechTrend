@@ -1,10 +1,5 @@
 [
   {
-    "name": "Huddle01 VMs",
-    "url": "https://www.producthunt.com/products/huddle01-cloud-2",
-    "date": "2026-05-03T10:58:41.987487"
-  },
-  {
     "name": "TradingAgents",
     "url": "https://github.com/TauricResearch/TradingAgents",
     "date": "2026-05-03T22:52:27.976592"
@@ -498,5 +493,10 @@
     "name": "Moodloom",
     "url": "https://www.producthunt.com/products/moodloom",
     "date": "2026-06-06T06:34:42.926314"
+  },
+  {
+    "name": "open-notebook",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "date": "2026-06-06T11:39:09.964065"
   }
 ]
