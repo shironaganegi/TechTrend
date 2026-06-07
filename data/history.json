@@ -1,10 +1,5 @@
 [
   {
-    "name": "Dropy",
-    "url": "https://www.producthunt.com/products/dropy-price-tracker-price-history",
-    "date": "2026-05-04T23:00:55.414206"
-  },
-  {
     "name": "DeepSeek-TUI",
     "url": "https://github.com/Hmbown/DeepSeek-TUI",
     "date": "2026-05-05T05:48:38.245503"
@@ -498,5 +493,10 @@
     "name": "turbovec",
     "url": "https://github.com/RyanCodrai/turbovec",
     "date": "2026-06-07T11:54:07.319235"
+  },
+  {
+    "name": "Pythonのmatplotlib",
+    "url": "https://qiita.com/Tomomitsu_Keruma/items/874870afe17abccf1728",
+    "date": "2026-06-07T23:12:30.851995"
   }
 ]
