@@ -1,10 +1,5 @@
 [
   {
-    "name": "DeepSeek-TUI",
-    "url": "https://github.com/Hmbown/DeepSeek-TUI",
-    "date": "2026-05-05T05:48:38.245503"
-  },
-  {
     "name": "Intuned Agent",
     "url": "https://www.producthunt.com/products/intuned",
     "date": "2026-05-05T11:20:24.938037"
@@ -498,5 +493,10 @@
     "name": "Pythonのmatplotlib",
     "url": "https://qiita.com/Tomomitsu_Keruma/items/874870afe17abccf1728",
     "date": "2026-06-07T23:12:30.851995"
+  },
+  {
+    "name": "Anthropic, please ship an official Claude Desktop for Linux",
+    "url": "https://github.com/anthropics/claude-code/issues/65697",
+    "date": "2026-06-08T08:16:49.396224"
   }
 ]
