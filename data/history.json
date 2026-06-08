@@ -1,10 +1,5 @@
 [
   {
-    "name": "andrej-karpathy-skills",
-    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-    "date": "2026-05-05T23:01:30.008449"
-  },
-  {
     "name": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
     "date": "2026-05-06T06:10:30.915793"
@@ -498,5 +493,10 @@
     "name": "Agent-Reach",
     "url": "https://github.com/Panniantong/Agent-Reach",
     "date": "2026-06-08T14:14:53.798982"
+  },
+  {
+    "name": "子プロセスに同じログファイルを開かせる前に考えること",
+    "url": "https://qiita.com/_D_/items/74fc11b05af188889268",
+    "date": "2026-06-08T23:16:42.614058"
   }
 ]
