@@ -1,10 +1,5 @@
 [
   {
-    "name": "FlowMarket",
-    "url": "https://www.producthunt.com/products/flowmarket-2",
-    "date": "2026-05-07T11:54:00.337565"
-  },
-  {
     "name": "Phrony",
     "url": "https://www.producthunt.com/products/phrony",
     "date": "2026-05-07T23:05:08.534092"
@@ -498,5 +493,10 @@
     "name": "SeaTicket",
     "url": "https://www.producthunt.com/products/seaticket",
     "date": "2026-06-10T13:40:00.333242"
+  },
+  {
+    "name": "`main.py` に全てを書き込んだ「3000行の神ファイル」を、依存性の注入（DI）で分割したら世界が変わった話",
+    "url": "https://qiita.com/fe1ix/items/a8a5147b78b13a202129",
+    "date": "2026-06-10T23:41:15.464067"
   }
 ]
