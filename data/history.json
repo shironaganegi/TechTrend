@@ -1,10 +1,5 @@
 [
   {
-    "name": "Monid 2.0",
-    "url": "https://www.producthunt.com/products/monid",
-    "date": "2026-05-08T11:23:48.837592"
-  },
-  {
     "name": "Sendly",
     "url": "https://www.producthunt.com/products/sendly-2",
     "date": "2026-05-08T23:01:17.360374"
@@ -498,5 +493,10 @@
     "name": "Juno",
     "url": "https://www.producthunt.com/products/juno-13",
     "date": "2026-06-11T14:07:06.530715"
+  },
+  {
+    "name": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "date": "2026-06-11T23:41:27.119733"
   }
 ]
