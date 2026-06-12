@@ -1,10 +1,5 @@
 [
   {
-    "name": "Sendly",
-    "url": "https://www.producthunt.com/products/sendly-2",
-    "date": "2026-05-08T23:01:17.360374"
-  },
-  {
     "name": "Pythonの辞書・Lambdaと、Lua言語のテーブルを比較する",
     "url": "https://qiita.com/yokamak/items/3c2d9019fc1a79dacf5b",
     "date": "2026-05-09T05:52:40.325205"
@@ -498,5 +493,10 @@
     "name": "Anthropic apologizes for invisible Claude Fable guardrails",
     "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
     "date": "2026-06-11T23:41:27.119733"
+  },
+  {
+    "name": "Optical Flowで流れを読む 〜鳴門の渦潮から超新星まで〜",
+    "url": "https://qiita.com/ken_aizawa/items/6d03eeca3697a7e7a139",
+    "date": "2026-06-12T07:27:56.983798"
   }
 ]
