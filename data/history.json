@@ -1,10 +1,5 @@
 [
   {
-    "name": "9router",
-    "url": "https://github.com/decolua/9router",
-    "date": "2026-05-09T11:02:21.850645"
-  },
-  {
     "name": "financial-services",
     "url": "https://github.com/anthropics/financial-services",
     "date": "2026-05-09T22:54:19.231105"
@@ -498,5 +493,10 @@
     "name": "container",
     "url": "https://github.com/apple/container",
     "date": "2026-06-12T23:24:02.306462"
+  },
+  {
+    "name": "AI agent bankrupted their operator while trying to scan DN42",
+    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "date": "2026-06-13T07:03:35.184161"
   }
 ]
