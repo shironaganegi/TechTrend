@@ -1,10 +1,5 @@
 [
   {
-    "name": "ExcelファイルをPower BIにアップロードして使う方法＋Python連携の基礎知識",
-    "url": "https://qiita.com/maskot1977/items/b54fa0da4bef650c78e0",
-    "date": "2026-05-10T06:20:33.564596"
-  },
-  {
     "name": "CloakBrowser",
     "url": "https://github.com/CloakHQ/CloakBrowser",
     "date": "2026-05-10T11:03:49.067873"
@@ -498,5 +493,10 @@
     "name": "agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "date": "2026-06-13T11:57:52.094418"
+  },
+  {
+    "name": "圏論で学習を組み立て直す ── Compositional Learning 入門：Backprop as Functor と「学習を部品から組み立てる」世界へ",
+    "url": "https://qiita.com/etale_cohomology/items/bd3d618233da937aac2e",
+    "date": "2026-06-13T23:12:38.952918"
   }
 ]
