@@ -1,10 +1,5 @@
 [
   {
-    "name": "CloakBrowser",
-    "url": "https://github.com/CloakHQ/CloakBrowser",
-    "date": "2026-05-10T11:03:49.067873"
-  },
-  {
     "name": "LumiChats Offline(free)",
     "url": "https://www.producthunt.com/products/lumichats-offline",
     "date": "2026-05-10T22:55:09.037990"
@@ -498,5 +493,10 @@
     "name": "圏論で学習を組み立て直す ── Compositional Learning 入門：Backprop as Functor と「学習を部品から組み立てる」世界へ",
     "url": "https://qiita.com/etale_cohomology/items/bd3d618233da937aac2e",
     "date": "2026-06-13T23:12:38.952918"
+  },
+  {
+    "name": "SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "date": "2026-06-14T07:27:29.207112"
   }
 ]
