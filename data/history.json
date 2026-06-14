@@ -1,10 +1,5 @@
 [
   {
-    "name": "為替リターン分布を読む — USDJPY・EURUSD・AUDJPYの240分足で見るファットテール",
-    "url": "https://qiita.com/tikeda123/items/8b5df68301088727ebef",
-    "date": "2026-05-11T06:44:43.604070"
-  },
-  {
     "name": "Graphbit PRFlow - AI Code Review Agent",
     "url": "https://www.producthunt.com/products/graphbit",
     "date": "2026-05-11T12:43:09.077107"
@@ -498,5 +493,10 @@
     "name": "Police officer investigated for using AI to 'create evidence' in multiple cases",
     "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
     "date": "2026-06-14T12:05:05.080054"
+  },
+  {
+    "name": "Claude Code に自作 MCP サーバー (Python) を繋ぐ最小手順 — stdio 接続と3つのハマりどころ (2026年6月版)",
+    "url": "https://qiita.com/yureki_lab/items/f44545debf63045835fc",
+    "date": "2026-06-14T23:14:23.897794"
   }
 ]
