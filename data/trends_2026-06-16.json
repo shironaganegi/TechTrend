@@ -6,10 +6,10 @@
       "owner": "Panniantong",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 31671,
+      "stars": 31993,
       "daily_stars": 2150,
       "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.978350"
+      "fetched_at": "2026-06-16T23:26:18.891144"
     },
     {
       "source": "github",
@@ -17,54 +17,21 @@
       "owner": "iptv-org",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "stars": 123712,
+      "stars": 124002,
       "daily_stars": 1196,
       "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.628238"
+      "fetched_at": "2026-06-16T23:26:17.662619"
     },
     {
       "source": "hacker_news",
-      "name": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "owner": "cloudking",
-      "url": "https://news.ycombinator.com/item?id=48542100",
-      "description": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "stars": 1188,
-      "daily_stars": 1188,
+      "name": "Running local models is good now",
+      "owner": "jfb",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "description": "Running local models is good now",
+      "stars": 928,
+      "daily_stars": 928,
       "language": "tech",
-      "fetched_at": "2026-06-16T15:12:49.972563"
-    },
-    {
-      "source": "hacker_news",
-      "name": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "owner": "tinywind",
-      "url": "https://tinywind.io",
-      "description": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "stars": 935,
-      "daily_stars": 935,
-      "language": "tech",
-      "fetched_at": "2026-06-16T15:12:50.172488"
-    },
-    {
-      "source": "github",
-      "name": "ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 33591,
-      "daily_stars": 833,
-      "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.978890"
-    },
-    {
-      "source": "github",
-      "name": "freeCodeCamp",
-      "owner": "freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 448323,
-      "daily_stars": 640,
-      "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.617193"
+      "fetched_at": "2026-06-16T23:26:19.331507"
     },
     {
       "source": "hacker_news",
@@ -72,10 +39,43 @@
       "owner": "apitman",
       "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
       "description": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-      "stars": 587,
-      "daily_stars": 587,
+      "stars": 845,
+      "daily_stars": 845,
       "language": "tech",
-      "fetched_at": "2026-06-16T15:12:48.867200"
+      "fetched_at": "2026-06-16T23:26:22.092416"
+    },
+    {
+      "source": "github",
+      "name": "ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 33679,
+      "daily_stars": 833,
+      "language": "python",
+      "fetched_at": "2026-06-16T23:26:18.891753"
+    },
+    {
+      "source": "github",
+      "name": "freeCodeCamp",
+      "owner": "freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 448521,
+      "daily_stars": 640,
+      "language": "all",
+      "fetched_at": "2026-06-16T23:26:17.650515"
+    },
+    {
+      "source": "hacker_news",
+      "name": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+      "owner": "_tk_",
+      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "description": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+      "stars": 534,
+      "daily_stars": 534,
+      "language": "tech",
+      "fetched_at": "2026-06-16T23:26:22.746788"
     },
     {
       "source": "github",
@@ -83,32 +83,21 @@
       "owner": "OpenBMB",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": 30007,
+      "stars": 30112,
       "daily_stars": 413,
       "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.630922"
+      "fetched_at": "2026-06-16T23:26:17.665601"
     },
     {
       "source": "hacker_news",
-      "name": "My Homelab AI Dev Platform",
-      "owner": "rsgm",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "description": "My Homelab AI Dev Platform",
-      "stars": 347,
-      "daily_stars": 347,
+      "name": "Apple is about to make Hide My Email useless",
+      "owner": "SXX",
+      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "description": "Apple is about to make Hide My Email useless",
+      "stars": 340,
+      "daily_stars": 340,
       "language": "tech",
-      "fetched_at": "2026-06-16T15:12:51.270562"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
-      "owner": "_tk_",
-      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "description": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
-      "stars": 346,
-      "daily_stars": 346,
-      "language": "tech",
-      "fetched_at": "2026-06-16T15:12:49.869954"
+      "fetched_at": "2026-06-16T23:26:20.448149"
     },
     {
       "source": "github",
@@ -116,10 +105,10 @@
       "owner": "n0-computer",
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "stars": 9117,
+      "stars": 9263,
       "daily_stars": 326,
       "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.632188"
+      "fetched_at": "2026-06-16T23:26:17.667017"
     },
     {
       "source": "github",
@@ -127,10 +116,10 @@
       "owner": "Free-TV",
       "url": "https://github.com/Free-TV/IPTV",
       "description": "M3U Playlist for free TV channels",
-      "stars": 17427,
+      "stars": 17438,
       "daily_stars": 297,
       "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.977912"
+      "fetched_at": "2026-06-16T23:26:18.890670"
     },
     {
       "source": "github",
@@ -138,21 +127,10 @@
       "owner": "datawhalechina",
       "url": "https://github.com/datawhalechina/hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": 59697,
+      "stars": 59725,
       "daily_stars": 283,
       "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.980294"
-    },
-    {
-      "source": "github",
-      "name": "aisuite",
-      "owner": "andrewyng",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "stars": 14632,
-      "daily_stars": 255,
-      "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.979862"
+      "fetched_at": "2026-06-16T23:26:18.893286"
     },
     {
       "source": "github",
@@ -160,10 +138,10 @@
       "owner": "meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
-      "stars": 10774,
+      "stars": 10834,
       "daily_stars": 229,
       "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.629089"
+      "fetched_at": "2026-06-16T23:26:17.663556"
     },
     {
       "source": "github",
@@ -171,10 +149,10 @@
       "owner": "karpathy",
       "url": "https://github.com/karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 87131,
+      "stars": 87183,
       "daily_stars": 227,
       "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.981271"
+      "fetched_at": "2026-06-16T23:26:18.894383"
     },
     {
       "source": "github",
@@ -182,21 +160,10 @@
       "owner": "teslamate-org",
       "url": "https://github.com/teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "stars": 8369,
+      "stars": 8395,
       "daily_stars": 214,
       "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.627783"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Why I email complete strangers",
-      "owner": "karakoram",
-      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-      "description": "Why I email complete strangers",
-      "stars": 197,
-      "daily_stars": 197,
-      "language": "tech",
-      "fetched_at": "2026-06-16T15:12:51.473763"
+      "fetched_at": "2026-06-16T23:26:17.662132"
     },
     {
       "source": "github",
@@ -204,10 +171,10 @@
       "owner": "alibaba",
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 10312,
+      "stars": 10427,
       "daily_stars": 188,
       "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.631347"
+      "fetched_at": "2026-06-16T23:26:17.666065"
     },
     {
       "source": "github",
@@ -215,43 +182,10 @@
       "owner": "rmyndharis",
       "url": "https://github.com/rmyndharis/OpenWA",
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-      "stars": 8915,
+      "stars": 9061,
       "daily_stars": 185,
       "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.631768"
-    },
-    {
-      "source": "github",
-      "name": "puppeteer",
-      "owner": "puppeteer",
-      "url": "https://github.com/puppeteer/puppeteer",
-      "description": "JavaScript API for Chrome and Firefox",
-      "stars": 94819,
-      "daily_stars": 171,
-      "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.628670"
-    },
-    {
-      "source": "github",
-      "name": "pytest",
-      "owner": "pytest-dev",
-      "url": "https://github.com/pytest-dev/pytest",
-      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
-      "stars": 14148,
-      "daily_stars": 164,
-      "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.979442"
-    },
-    {
-      "source": "hacker_news",
-      "name": "How TimescaleDB compresses time-series data",
-      "owner": "lkanwoqwp",
-      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-      "description": "How TimescaleDB compresses time-series data",
-      "stars": 164,
-      "daily_stars": 164,
-      "language": "tech",
-      "fetched_at": "2026-06-16T15:12:52.372669"
+      "fetched_at": "2026-06-16T23:26:17.666540"
     },
     {
       "source": "github",
@@ -259,21 +193,10 @@
       "owner": "music-assistant",
       "url": "https://github.com/music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "stars": 2497,
+      "stars": 2552,
       "daily_stars": 157,
       "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.630060"
-    },
-    {
-      "source": "hacker_news",
-      "name": "Claude Corps",
-      "owner": "Mustan",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "description": "Claude Corps",
-      "stars": 151,
-      "daily_stars": 151,
-      "language": "tech",
-      "fetched_at": "2026-06-16T15:12:52.473518"
+      "fetched_at": "2026-06-16T23:26:17.664651"
     },
     {
       "source": "github",
@@ -281,10 +204,10 @@
       "owner": "Asabeneh",
       "url": "https://github.com/Asabeneh/30-Days-Of-Python",
       "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
-      "stars": 65117,
+      "stars": 65175,
       "daily_stars": 150,
       "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.980841"
+      "fetched_at": "2026-06-16T23:26:18.893907"
     },
     {
       "source": "github",
@@ -292,10 +215,10 @@
       "owner": "Universal-Debloater-Alliance",
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "stars": 7138,
+      "stars": 7275,
       "daily_stars": 146,
       "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.630498"
+      "fetched_at": "2026-06-16T23:26:17.665118"
     },
     {
       "source": "github",
@@ -303,32 +226,43 @@
       "owner": "vllm-project",
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "stars": 83051,
+      "stars": 83085,
       "daily_stars": 127,
       "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.982238"
+      "fetched_at": "2026-06-16T23:26:18.895492"
     },
     {
       "source": "hacker_news",
-      "name": "Cohere's First Model for Developers",
-      "owner": "hmokiguess",
-      "url": "https://cohere.com/blog/north-mini-code",
-      "description": "Cohere's First Model for Developers",
-      "stars": 127,
-      "daily_stars": 127,
+      "name": "GPT‑NL: a sovereign language model for the Netherlands",
+      "owner": "root-parent",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "description": "GPT‑NL: a sovereign language model for the Netherlands",
+      "stars": 120,
+      "daily_stars": 120,
       "language": "tech",
-      "fetched_at": "2026-06-16T15:12:51.880484"
+      "fetched_at": "2026-06-16T23:26:19.687920"
     },
     {
       "source": "hacker_news",
-      "name": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-      "owner": "djoume",
-      "url": "https://fata.dev",
-      "description": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-      "stars": 105,
-      "daily_stars": 105,
+      "name": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+      "owner": "ilreb",
+      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+      "description": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+      "stars": 111,
+      "daily_stars": 111,
       "language": "tech",
-      "fetched_at": "2026-06-16T15:12:52.968420"
+      "fetched_at": "2026-06-16T23:26:21.193252"
+    },
+    {
+      "source": "hacker_news",
+      "name": "Has AI already killed self-help nonfiction books?",
+      "owner": "imakwana",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "description": "Has AI already killed self-help nonfiction books?",
+      "stars": 110,
+      "daily_stars": 110,
+      "language": "tech",
+      "fetched_at": "2026-06-16T23:26:20.100763"
     },
     {
       "source": "github",
@@ -336,43 +270,54 @@
       "owner": "microsoft",
       "url": "https://github.com/microsoft/fara",
       "description": "Fara-7B: An Efficient Agentic Model for Computer Use",
-      "stars": 5791,
+      "stars": 5817,
       "daily_stars": 101,
       "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.983637"
+      "fetched_at": "2026-06-16T23:26:18.897103"
     },
     {
       "source": "product_hunt",
-      "name": "Goldfish",
+      "name": "looquee",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/goldfish-early-access",
-      "description": "\n            Press Option. It knows your work and replies like you\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/looquee",
+      "description": "\n            Copilot for college applications\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-06-16T15:12:48.231293"
+      "fetched_at": "2026-06-16T23:26:19.026291"
     },
     {
       "source": "product_hunt",
-      "name": "PeakRoutine",
+      "name": "Ledgerly",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/peak-routine",
-      "description": "\n            Personalized health coaching powered by your biomarkers\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/github-224",
+      "description": "\n            Available on the App Store\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-06-16T15:12:48.231479"
+      "fetched_at": "2026-06-16T23:26:19.026508"
     },
     {
       "source": "product_hunt",
-      "name": "Voice Calls in Chatwoot",
+      "name": "Fluxmail",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/chatwoot",
-      "description": "\n            Calls, chats, and emails all in one support inbox\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/fluxmail",
+      "description": "\n            AI email inbox and assistant\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-06-16T15:12:48.231636"
+      "fetched_at": "2026-06-16T23:26:19.026732"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Botme",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/botme-io",
+      "description": "\n            AI customer support agent, live on your website in 5 minutes\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-06-16T23:26:19.026926"
     },
     {
       "source": "product_hunt",
@@ -383,18 +328,29 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-06-16T15:12:48.231783"
+      "fetched_at": "2026-06-16T23:26:19.027125"
     },
     {
       "source": "product_hunt",
-      "name": "Kraina",
+      "name": "Obotiq",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/kraina",
-      "description": "\n            Turn your outdoor activities into a territory game.\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/obotiq",
+      "description": "\n            Autonomous care robots that give caregivers time back\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-06-16T15:12:48.231927"
+      "fetched_at": "2026-06-16T23:26:19.027318"
+    },
+    {
+      "source": "product_hunt",
+      "name": "Getusefeed",
+      "owner": "ProductHunt",
+      "url": "https://www.producthunt.com/products/getusefeed-voting-public-roadmap",
+      "description": "\n            Feature voting & public roadmap for small SaaS teams.\n          \n\nDiscussion\n            |\n            Link\n",
+      "stars": 0,
+      "daily_stars": 100,
+      "language": "saas",
+      "fetched_at": "2026-06-16T23:26:19.027509"
     },
     {
       "source": "product_hunt",
@@ -405,51 +361,51 @@
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-06-16T15:12:48.232071"
+      "fetched_at": "2026-06-16T23:26:19.027728"
     },
     {
       "source": "product_hunt",
-      "name": "MindReader v1",
+      "name": "Goldfish",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/mindreader-v1",
-      "description": "\n            Read minds (simulated fMRI data, channeled to neuro-metrics)\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/goldfish-early-access",
+      "description": "\n            Press Option. It knows your work and replies like you\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-06-16T15:12:48.232209"
+      "fetched_at": "2026-06-16T23:26:19.027923"
     },
     {
       "source": "product_hunt",
-      "name": "whoburnedmore",
+      "name": "Agata",
       "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/whoburnedmore",
-      "description": "\n            Spotify Wrapped for Claude, Codex & a Public leaderboard.\n          \n\nDiscussion\n            |\n            Link\n",
+      "url": "https://www.producthunt.com/products/agata",
+      "description": "\n            AI text correction & translation via keyboard shortcuts.\n          \n\nDiscussion\n            |\n            Link\n",
       "stars": 0,
       "daily_stars": 100,
       "language": "saas",
-      "fetched_at": "2026-06-16T15:12:48.232369"
+      "fetched_at": "2026-06-16T23:26:19.028118"
     },
     {
-      "source": "product_hunt",
-      "name": "How Hueman Are You?",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/how-hueman-are-you",
-      "description": "\n            Find the odd tile before the clock runs out\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-06-16T15:12:48.232512"
+      "source": "github",
+      "name": "aisuite",
+      "owner": "andrewyng",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "stars": 14666,
+      "daily_stars": 86,
+      "language": "python",
+      "fetched_at": "2026-06-16T23:26:18.892820"
     },
     {
-      "source": "product_hunt",
-      "name": "SocialKit",
-      "owner": "ProductHunt",
-      "url": "https://www.producthunt.com/products/socialkit-2",
-      "description": "\n            Post to 11 social platforms in seconds, on one flat plan\n          \n\nDiscussion\n            |\n            Link\n",
-      "stars": 0,
-      "daily_stars": 100,
-      "language": "saas",
-      "fetched_at": "2026-06-16T15:12:48.232650"
+      "source": "github",
+      "name": "puppeteer",
+      "owner": "puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "stars": 94872,
+      "daily_stars": 80,
+      "language": "all",
+      "fetched_at": "2026-06-16T23:26:17.663091"
     },
     {
       "source": "github",
@@ -457,10 +413,10 @@
       "owner": "google-research",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 20932,
+      "stars": 21082,
       "daily_stars": 79,
       "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.984052"
+      "fetched_at": "2026-06-16T23:26:18.897594"
     },
     {
       "source": "github",
@@ -468,10 +424,131 @@
       "owner": "moorcheh-ai",
       "url": "https://github.com/moorcheh-ai/memanto",
       "description": "Memory that AI Agents Love!",
-      "stars": 896,
+      "stars": 909,
       "daily_stars": 47,
       "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.982660"
+      "fetched_at": "2026-06-16T23:26:18.895999"
+    },
+    {
+      "source": "qiita",
+      "name": "ログライブラリのベンチマークを「速い順」で読んではいけない",
+      "owner": "_D_",
+      "url": "https://qiita.com/_D_/items/236da00b773f8a1e4e39",
+      "description": "ログライブラリのベンチマークを「速い順」で読んではいけない",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-06-16T23:26:24.126918"
+    },
+    {
+      "source": "qiita",
+      "name": "【総集編】季節を決めているのは誰か──気温・桜・アイス、3つのデータが語ったこと",
+      "owner": "d94231",
+      "url": "https://qiita.com/d94231/items/6df699576fa848dfeab0",
+      "description": "【総集編】季節を決めているのは誰か──気温・桜・アイス、3つのデータが語ったこと",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-06-16T23:26:24.126932"
+    },
+    {
+      "source": "qiita",
+      "name": "Pythoneでif文　(C6の人は、Pyhoneを理解した(完了))",
+      "owner": "caa45040",
+      "url": "https://qiita.com/caa45040/items/b0a0178a34f721c2bc22",
+      "description": "Pythoneでif文　(C6の人は、Pyhoneを理解した(完了))",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-06-16T23:26:24.126938"
+    },
+    {
+      "source": "qiita",
+      "name": "Pythoneで10回ループ　(while)　(スタックチャンのイベントあるよ)",
+      "owner": "caa45040",
+      "url": "https://qiita.com/caa45040/items/9ba22d110b29c8e591a1",
+      "description": "Pythoneで10回ループ　(while)　(スタックチャンのイベントあるよ)",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-06-16T23:26:24.126944"
+    },
+    {
+      "source": "qiita",
+      "name": "Claude Code v2.1.178〜v2.1.179｜Tool(param:value) でパラメータ単位の権限制御｜毎日Changelog解説",
+      "owner": "moha0918_",
+      "url": "https://qiita.com/moha0918_/items/aa08e8d2c5cf5aa0e731",
+      "description": "Claude Code v2.1.178〜v2.1.179｜Tool(param:value) でパラメータ単位の権限制御｜毎日Changelog解説",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-06-16T23:26:24.401999"
+    },
+    {
+      "source": "qiita",
+      "name": "Claude Code の許可プロンプトを9割減らす settings.json 最適化レシピ — allow / deny の優先順位と Bash パターン記法のハマりどころ【2026】",
+      "owner": "yureki_lab",
+      "url": "https://qiita.com/yureki_lab/items/d3faece85a5361e890c7",
+      "description": "Claude Code の許可プロンプトを9割減らす settings.json 最適化レシピ — allow / deny の優先順位と Bash パターン記法のハマりどころ【2026】",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-06-16T23:26:24.402013"
+    },
+    {
+      "source": "qiita",
+      "name": "【文系合格者が厳選】G検定 頻出例題10問にチャレンジ｜解説付きでサクッと実力チェック",
+      "owner": "mrmrmr",
+      "url": "https://qiita.com/mrmrmr/items/26950e96508f937742b9",
+      "description": "【文系合格者が厳選】G検定 頻出例題10問にチャレンジ｜解説付きでサクッと実力チェック",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-06-16T23:26:24.402020"
+    },
+    {
+      "source": "qiita",
+      "name": "【初心者向け】AIってどうやって作られてるの？",
+      "owner": "chuandujiusi",
+      "url": "https://qiita.com/chuandujiusi/items/744de90a2bcd7ccdfa8b",
+      "description": "【初心者向け】AIってどうやって作られてるの？",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-06-16T23:26:24.402026"
+    },
+    {
+      "source": "qiita",
+      "name": "Claude/GPTをローカルLLMに置き換えてコーディングできるか？実用比較",
+      "owner": "picnic",
+      "url": "https://qiita.com/picnic/items/e7fa3654f4567bb9c238",
+      "description": "Claude/GPTをローカルLLMに置き換えてコーディングできるか？実用比較",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-06-16T23:26:24.641738"
+    },
+    {
+      "source": "qiita",
+      "name": "ニューラルネットワークの数学的原理",
+      "owner": "tailup7",
+      "url": "https://qiita.com/tailup7/items/bf5a0825540cad3592c7",
+      "description": "ニューラルネットワークの数学的原理",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-06-16T23:26:24.641752"
+    },
+    {
+      "source": "qiita",
+      "name": "金融データサイエンスが一般的なMLと違う7つのこと",
+      "owner": "gksrlf3552",
+      "url": "https://qiita.com/gksrlf3552/items/4517ebc6bdfcd92b7c0a",
+      "description": "金融データサイエンスが一般的なMLと違う7つのこと",
+      "stars": 40,
+      "daily_stars": 40,
+      "language": "japanese",
+      "fetched_at": "2026-06-16T23:26:24.641759"
     },
     {
       "source": "qiita",
@@ -482,106 +559,7 @@
       "stars": 40,
       "daily_stars": 40,
       "language": "japanese",
-      "fetched_at": "2026-06-16T15:12:54.152291"
-    },
-    {
-      "source": "qiita",
-      "name": "顔を見れば「こいつは速さが伸びそう」がAIにも分かるのか？ FEキャラ239人で試した実験ノート",
-      "owner": "bacbac",
-      "url": "https://qiita.com/bacbac/items/93f502ea13af0e2945cd",
-      "description": "顔を見れば「こいつは速さが伸びそう」がAIにも分かるのか？ FEキャラ239人で試した実験ノート",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-06-16T15:12:54.152307"
-    },
-    {
-      "source": "qiita",
-      "name": "AIに「このコード速くして」と頼んでも速くならない理由 — 推測をやめて、計測（プロファイリング）でボトルネックをAIと潰す実践ガイド",
-      "owner": "akira_papa_AI",
-      "url": "https://qiita.com/akira_papa_AI/items/909392bf9f880623f800",
-      "description": "AIに「このコード速くして」と頼んでも速くならない理由 — 推測をやめて、計測（プロファイリング）でボトルネックをAIと潰す実践ガイド",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-06-16T15:12:54.152313"
-    },
-    {
-      "source": "qiita",
-      "name": "2021年、気象庁は季節の観測を縮小した──その前に集めたデータが語ること",
-      "owner": "d94231",
-      "url": "https://qiita.com/d94231/items/bfa542dbe1e46dbea781",
-      "description": "2021年、気象庁は季節の観測を縮小した──その前に集めたデータが語ること",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-06-16T15:12:54.152319"
-    },
-    {
-      "source": "qiita",
-      "name": "Claude Code × Codex × Obsidian Vault ― AI 二刀流で作る「何でも相談」環境の全設定公開",
-      "owner": "htani0817",
-      "url": "https://qiita.com/htani0817/items/5c5bffcbb53241ed5b54",
-      "description": "Claude Code × Codex × Obsidian Vault ― AI 二刀流で作る「何でも相談」環境の全設定公開",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-06-16T15:12:54.423641"
-    },
-    {
-      "source": "qiita",
-      "name": "Discordの読み上げBOT「Vocalis」で作業用VCを最高にする方法【導入・使い方】",
-      "owner": "Vocalisapp",
-      "url": "https://qiita.com/Vocalisapp/items/7c54b881da024c8fb890",
-      "description": "Discordの読み上げBOT「Vocalis」で作業用VCを最高にする方法【導入・使い方】",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-06-16T15:12:54.423657"
-    },
-    {
-      "source": "qiita",
-      "name": "WordPress のチャットボットを Gemini の無料枠で動かす（クレジットカード不要・データの扱いも開示）",
-      "owner": "Rapls",
-      "url": "https://qiita.com/Rapls/items/d3a0e7d8f25e89c9bbaa",
-      "description": "WordPress のチャットボットを Gemini の無料枠で動かす（クレジットカード不要・データの扱いも開示）",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-06-16T15:12:54.423663"
-    },
-    {
-      "source": "qiita",
-      "name": "Microsoft Foundry on Windowsとは？WindowsアプリでローカルAIを扱うための基盤をざっくり整理する",
-      "owner": "Tadataka_Takahashi",
-      "url": "https://qiita.com/Tadataka_Takahashi/items/65e55552e2ef69a1c9d3",
-      "description": "Microsoft Foundry on Windowsとは？WindowsアプリでローカルAIを扱うための基盤をざっくり整理する",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-06-16T15:12:54.423669"
-    },
-    {
-      "source": "qiita",
-      "name": "深層学習の数式まとめ（E資格対策にも）",
-      "owner": "tomo_account",
-      "url": "https://qiita.com/tomo_account/items/03e4e8754cd021d1f0d9",
-      "description": "深層学習の数式まとめ（E資格対策にも）",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-06-16T15:12:54.699369"
-    },
-    {
-      "source": "qiita",
-      "name": "文系学生に機械学習をどう説明し、見せればよかったのか？",
-      "owner": "oec-shunsuke-nakamichi",
-      "url": "https://qiita.com/oec-shunsuke-nakamichi/items/6b1f81d5cd010a1b8dee",
-      "description": "文系学生に機械学習をどう説明し、見せればよかったのか？",
-      "stars": 40,
-      "daily_stars": 40,
-      "language": "japanese",
-      "fetched_at": "2026-06-16T15:12:54.699381"
+      "fetched_at": "2026-06-16T23:26:24.641765"
     },
     {
       "source": "github",
@@ -589,10 +567,10 @@
       "owner": "swc-project",
       "url": "https://github.com/swc-project/swc",
       "description": "Rust-based platform for the Web",
-      "stars": 33915,
+      "stars": 33960,
       "daily_stars": 21,
       "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.627287"
+      "fetched_at": "2026-06-16T23:26:17.661596"
     },
     {
       "source": "github",
@@ -600,10 +578,21 @@
       "owner": "python",
       "url": "https://github.com/python/cpython",
       "description": "The Python programming language",
-      "stars": 73273,
+      "stars": 73285,
       "daily_stars": 21,
       "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.983204"
+      "fetched_at": "2026-06-16T23:26:18.896622"
+    },
+    {
+      "source": "github",
+      "name": "pytest",
+      "owner": "pytest-dev",
+      "url": "https://github.com/pytest-dev/pytest",
+      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "stars": 14154,
+      "daily_stars": 17,
+      "language": "python",
+      "fetched_at": "2026-06-16T23:26:18.892341"
     },
     {
       "source": "github",
@@ -611,10 +600,10 @@
       "owner": "cypress-io",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "stars": 50122,
+      "stars": 50193,
       "daily_stars": 11,
       "language": "all",
-      "fetched_at": "2026-06-16T15:12:46.629520"
+      "fetched_at": "2026-06-16T23:26:17.664045"
     },
     {
       "source": "github",
@@ -622,10 +611,10 @@
       "owner": "mouredev",
       "url": "https://github.com/mouredev/roadmap-retos-programacion",
       "description": "Ruta de estudio basada en ejercicios de código de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.",
-      "stars": 8397,
+      "stars": 8404,
       "daily_stars": 8,
       "language": "python",
-      "fetched_at": "2026-06-16T15:12:47.981689"
+      "fetched_at": "2026-06-16T23:26:18.894880"
     }
   ],
   "x_hot_words": [

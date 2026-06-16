@@ -1,10 +1,5 @@
 [
   {
-    "name": "If AI writes your code, why use Python?",
-    "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-    "date": "2026-05-12T23:07:25.420816"
-  },
-  {
     "name": "Why senior developers fail to communicate their expertise",
     "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
     "date": "2026-05-13T06:31:42.079949"
@@ -498,5 +493,10 @@
     "name": "Goldfish",
     "url": "https://www.producthunt.com/products/goldfish-early-access",
     "date": "2026-06-16T15:13:54.875847"
+  },
+  {
+    "name": "ログライブラリのベンチマークを「速い順」で読んではいけない",
+    "url": "https://qiita.com/_D_/items/236da00b773f8a1e4e39",
+    "date": "2026-06-16T23:27:30.298728"
   }
 ]
