@@ -1,10 +1,5 @@
 [
   {
-    "name": "Local AI needs to be the norm",
-    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-    "date": "2026-05-12T12:05:43.715615"
-  },
-  {
     "name": "If AI writes your code, why use Python?",
     "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
     "date": "2026-05-12T23:07:25.420816"
@@ -498,5 +493,10 @@
     "name": "My Homelab AI Dev Platform",
     "url": "https://rsgm.dev/post/ai-dev-platform/",
     "date": "2026-06-16T08:51:00.096713"
+  },
+  {
+    "name": "Goldfish",
+    "url": "https://www.producthunt.com/products/goldfish-early-access",
+    "date": "2026-06-16T15:13:54.875847"
   }
 ]
