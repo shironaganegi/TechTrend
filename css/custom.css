@@ -186,3 +186,44 @@ body {
         text-align: center;
     }
 }
+/* === 関連記事（内部リンク・回遊率向上） === */
+.related-posts {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border, #e2e8f0);
+}
+.related-heading {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+.related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1rem;
+}
+.related-card {
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
+    padding: 1rem;
+    border: 1px solid var(--border, #e2e8f0);
+    border-radius: 10px;
+    text-decoration: none;
+    background: var(--bg-card, #fff);
+    transition: transform .15s ease, box-shadow .15s ease;
+}
+.related-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(0,0,0,.08);
+    border-color: var(--primary, #3366ff);
+}
+.related-title {
+    font-weight: 700;
+    color: var(--text-main, #2c3e50);
+    line-height: 1.4;
+}
+.related-desc {
+    font-size: .85rem;
+    color: var(--secondary, #718096);
+    line-height: 1.5;
+}
