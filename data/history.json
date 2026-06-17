@@ -1,10 +1,5 @@
 [
   {
-    "name": "Why senior developers fail to communicate their expertise",
-    "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-    "date": "2026-05-13T06:31:42.079949"
-  },
-  {
     "name": "AWS MCP Server GA入門 — AIエージェントが300サービスを操作できるAPIの全貌",
     "url": "https://qiita.com/kai_kou/items/46e04241395754f4fc65",
     "date": "2026-05-13T12:09:21.452288"
@@ -498,5 +493,10 @@
     "name": "ログライブラリのベンチマークを「速い順」で読んではいけない",
     "url": "https://qiita.com/_D_/items/236da00b773f8a1e4e39",
     "date": "2026-06-16T23:27:30.298728"
+  },
+  {
+    "name": "ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "date": "2026-06-17T08:33:44.951877"
   }
 ]
