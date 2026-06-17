@@ -2,11 +2,9 @@ name: Daily AI Affiliate Agent
 
 on:
   schedule:
-    # Run 3 times a day:
-    # 07:00 JST (22:00 UTC prev day) - Morning Catch-up
-    # 12:00 JST (03:00 UTC)          - Lunch Time
-    # 19:00 JST (10:00 UTC)          - Evening Prime Time
-    - cron: '0 22,3,10 * * *'
+    # 1日1回に抑制（大量自動生成シグナルを下げAdSense審査リスクを低減）
+    # 07:00 JST (22:00 UTC prev day) - Morning
+    - cron: '0 22 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
