@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# [Breaking] OpenRouter Raises $113M (Approx. ¥17 Billion) — The Tectonic Shift in System Architecture Brought by LLM Aggregators
 
 ## 1. Introduction: Why OpenRouter's $113M Funding Round is a Turning Point for "All Developers"
 
@@ -86,7 +85,6 @@ Since requests physically pass through an additional layer (OpenRouter's proxy s
 
 ---
 
-## 6. Frequently Asked Questions (FAQ)
 
 ### Q1. Does using OpenRouter cost more than directly calling the native APIs?
 **A1.** No. In fact, in many cases, it is cheaper. OpenRouter secures volume discounts from various providers due to their high transaction volumes and passes these savings back to users. Since their pricing structure minimizes intermediary margins, you do not need to worry about increased costs due to transaction fees.

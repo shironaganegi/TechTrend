@@ -72,18 +72,3 @@ A: 会計士は「仕訳の代行者」から「戦略的な財務アドバイ�
 テクノロジーの進化が目指す究極の形は、その存在を感じさせない「透明化」である。CONAのようなツールが普及することで、バックオフィス業務はあたかもインフラのように、意識せずとも機能する「空気」のような存在へと変わっていく。
 
 事業者が向き合うべきは、帳簿の数字ではなく、顧客の体験とプロダクトの未来である。会計を「回す」フェーズから、AIが「回している」のを俯瞰するフェーズへ。EC運営の在り方は、いま大きな転換点を迎えている。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[スッキリわかるPython入門 第2版 (楽天ブックス)](https://rpx.a8.net/svt/ejp?a8mat=4AX38F+LFMK2+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eac8dc2.9a477d4e.0eac8dc3.0aa56a48%2Fa26020474676_4AX38F_LFMK2_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703%26m%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703)
-![](https://www16.a8.net/0.gif?a8mat=4AX38F+LFMK2+2HOM+BW8O1)
-
-:::
-
-
-
-
-
-

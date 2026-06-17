@@ -22,7 +22,6 @@ DeepSeek-TUI is purpose-built to maximize the expansive 1-million-token context 
 The true core of DeepSeek-TUI lies in its architectural philosophy, which goes far beyond being a "thin wrapper." A standout feature is its parallel fan-out capability (child agent deployment) to up to 16 Flash models using "RLM (rlm_query)." This distinguishes it from the sequential processing found in tools like Aider or Cline. By analyzing code from multiple perspectives simultaneously, it structurally eliminates the "logical blind spots" often encountered by AI in large repositories. It truly delivers an experience akin to having an elite development team permanently stationed within your terminal.
 </div>
 
-## Sophisticated Features Accelerating Development
 
 ### 1. Visualization of the "Thinking Process" and Context Control
 DeepSeek-TUI provides real-time streaming of "Thinking-mode (Chain-of-Thought)," the hallmark feature of DeepSeek V4. By observing the "internal reflection process" and the logical steps the AI takes to reach a conclusion, users can instantly judge the reliability of the generated code. Furthermore, it is designed to minimize latency and costs while handling massive token counts through intelligent context compression that leverages DeepSeek's "Prefix Cache."

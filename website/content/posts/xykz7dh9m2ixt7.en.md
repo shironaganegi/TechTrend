@@ -29,7 +29,6 @@ The true strength of Open Notebook lies in its backend flexibility and assurance
 
 ---
 
-## 🛠️ 4 Key Technical Advantages of Open Notebook
 
 ### 1. Choose from Over 18 AI Models (Support for Hybrid Configurations)
 While the original NotebookLM is locked into Gemini, Open Notebook is extremely flexible. You can freely choose from over 18 providers and models—ranging from top-tier commercial APIs like OpenAI and Anthropic (Claude 3.5 Sonnet) to local LLMs (such as Llama 3 and DeepSeek) via Ollama or LM Studio. This enables intelligent routing: using local LLMs for routine, cost-sensitive tasks, and routing highly complex logical reasoning tasks to Claude.

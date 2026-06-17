@@ -65,12 +65,6 @@ Let's be honest: DeerFlow 2.0 is not a "toy" for everyone.
 - **Pros (The Best Parts)**: The architectural robustness expected from a giant like ByteDance. Incredible extensibility thanks to MCP (Model Context Protocol) support. The limitless potential of being open-source.
 - **Cons (The Challenges)**: Because the degree of freedom is so high, it requires a corresponding level of engineering literacy to master. Also, if you run agents in parallel at full capacity, your heart might ache a little when the API bill arrives (lol).
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 As a side note, to extract 120% of DeerFlow's potential, systematic knowledge of things like "LLM Agent Practical Guides" and a deep understanding of container technology are essential. A weapon only shows its true value in the hands of the right user.
 

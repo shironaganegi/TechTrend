@@ -8,8 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/xz80yngj9t7bwn/"
 +++
 
 
-# The Essence of RAG to Break Through LLM Limitations: From Comparisons with Fine-Tuning and Long-Context to a Production Deployment Roadmap
-
 ## 1. Introduction: Why We Must Redefine "RAG" Today
 
 Large Language Models (LLMs) represented by ChatGPT and Claude have fundamentally transformed enterprise business processes and product development. However, when developers attempt to integrate these models into actual enterprise systems or products that handle specialized documentation, they invariably run into a massive wall. This obstacle manifests as "hallucination"—where the model plausibly outputs incorrect information—and the inherent limitations of training data, as models do not possess confidential internal data or real-time, up-to-date information.
@@ -84,7 +82,6 @@ Relying solely on string cosine similarity for search looks elegant on paper but
 
 ---
 
-## 6. FAQ in RAG Practical Application (Frequently Asked Questions & Actionable Answers)
 
 ### Q1. How should we select a vector database for production use?
 

@@ -70,12 +70,6 @@ Of course, it窶冱 not all sunshine and roses.
 However, the fact that OpenAI has moved toward "standardization" is significant. They are trying to turn "execution power"窶背hich lies beyond "intelligence"窶琶nto a package that anyone can handle.
 
 
-
-### 燥 Recommended Services for Engineers 燥
-[**倹 Get your custom domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ## Conclusion: Start "Outfitting" Your AI Agents
 
 In the future of AI development, writing excellent prompts will no longer be an "artisan craft." What will be required is the perspective of an architect: **"Which skills should be combined, and how can a robust agent be configured?"**
@@ -90,4 +84,3 @@ Start by giving it a Star, reading the documentation, and installing an experime
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/iw3nhcwr89hfx2/).
-

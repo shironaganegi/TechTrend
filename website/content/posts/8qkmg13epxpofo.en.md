@@ -73,7 +73,6 @@ When actually implementing the code from Chapter 6 of *Deep Learning from Scratc
 
 ---
 
-## 5. FAQ to Solidify Theory
 
 ### Q1. In the current golden age of Transformers, why spend time learning LSTM?
 **A.** Because it teaches you the design philosophy of an extremely efficient dynamic system: "compressing and maintaining state within a fixed-size memory." Furthermore, in domains with strict resource and power constraints like edge AI or real-time time-series analysis (sensor data, embedded speech recognition, etc.), lightweight and computationally cheap architectures like LSTMs or GRUs are still frequently the optimal solution. Developing a foundational understanding is essential for cultivating the judgment needed to choose the right technology for the right job.

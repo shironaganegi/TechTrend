@@ -75,17 +75,3 @@ multica daemon start
 「AIエージェントを試用する」フェーズは、既に終わりを迎えました。これからの開発リーダーに求められるのは、彼らをいかにチームの正規メンバーとして組み込み、その知見を組織の資産へと変えていくかという「マネジメントの再定義」です。
 
 multicaが提供するのは、単なる自動化ツールではありません。それは、人間とAIがそれぞれの得意領域を最大限に発揮するための、新しい時代のワークフローそのものである。翌朝、自身のプロジェクトを開いたときに、AIという「同僚」がリファクタリングの提案を完璧にまとめ上げている——。そんな未来をいち早く体験したいのであれば、multicaは今、最も注目すべき選択肢となるはずです。
-
-
-> **おすすめのサービス (PR)**
-> 
-> 
-> [スッキリわかるPython入門 第2版 (楽天ブックス)](https://rpx.a8.net/svt/ejp?a8mat=4AX38F+LFMK2+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eac8dc2.9a477d4e.0eac8dc3.0aa56a48%2Fa26020474676_4AX38F_LFMK2_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703%26m%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703)
-> ![](https://www16.a8.net/0.gif?a8mat=4AX38F+LFMK2+2HOM+BW8O1)
-
-
-
-
-
-
-

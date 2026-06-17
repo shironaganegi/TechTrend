@@ -8,8 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/xrvn8b93nk7wnv/"
 +++
 
 
-# Building a "Next-Generation Autonomous Summarization System" with Python and Claude API
-
 ## Introduction: "Information Filtering" to Survive the Era of Information Explosion
 
 In the modern business landscape, the flood of information has become a daily reality. Constant tech news updates, lengthy press releases, and endless meeting minutes—consuming all of this to extract the essence constantly robs humans of the time they should be spending on "creative thinking."

@@ -82,7 +82,6 @@ In an incredibly complex system like the ISS, minor temperature fluctuations and
 
 ---
 
-## FAQ: Q&A from a System Design Perspective
 
 ### Q1. How do you apply a "patch" to a leak in space?
 **A1.** For physical micro-cracks, they apply high-performance films like Kapton tape or special epoxy-based sealants that can cure in a vacuum and withstand extreme temperature ranges (from below -100°C to over +100°C).

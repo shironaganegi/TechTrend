@@ -59,12 +59,6 @@ Of course, not everything is perfect.
 - **Cons**: Requires a minimum level of knowledge for the initial Docker setup. Also, if you demand the best results locally, a decent GPU is required as an "offering" to the system.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com." TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ## 🚀 Conclusion: The Joy of "Owning" Your Search Engine
 
 Perplexity's polished UI is wonderful. However, as an engineer, don't you feel a slight resistance to remaining dependent on a "black box" where you don't know how the internals operate?
@@ -80,4 +74,3 @@ If this article sparked your intellectual curiosity, please share that energy on
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/yjw79g7o0ja01j/).
-

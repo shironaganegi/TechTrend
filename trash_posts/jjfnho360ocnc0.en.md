@@ -8,8 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/jjfnho360ocnc0/"
 +++
 
 
-# Escape the Labyrinth of 0s and 1s: Visualizing the "AI Mind" with Iris Classification窶尿 Weapon for Python Beginners
-
 ### Introduction: Why "Iris," and Why Now?
 "I want to dive into AI and machine learning, but I'm not ready to drown in a storm of mathematical formulas."
 If that sounds like you, you窶决e on the right track. What we seek isn't math for the sake of academia, but the "wisdom" to solve real-world problems.
@@ -58,12 +56,6 @@ Of course, it isn't an omnipotent god. Decision Trees have a trap called "Overfi
 This is why engineers must hold the "reins"窶杯he `max_depth` parameter窶杯o keep the AI's logic from running wild.
 
 
-
-### 燥 Recommended Services for Engineers 燥
-[**倹 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ### Closing: Classify the World with Your Own Hands
 "AI is still too advanced for me."
 Are you suppressing your intellectual curiosity with those words? Running a Decision Tree and watching how it classifies an Iris transforms you from a "consumer of technology" into a "creator" who analyzes the world.
@@ -74,4 +66,3 @@ Start by throwing the code above into Google Colab. That accuracy score appearin
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/jjfnho360ocnc0/).
-

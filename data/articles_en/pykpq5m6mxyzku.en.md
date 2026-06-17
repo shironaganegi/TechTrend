@@ -20,7 +20,6 @@ In recent years, the trend for data analysis tools has been to prioritize develo
 Furthermore, it is impossible to ignore the capability to run 37+ AI agents—mimicking the logic of legendary investors like Warren Buffett and Charlie Munger—within a local LLM environment. This brings about not just the "democratization of data," but the "democratization of advanced judgment." It transforms a home workstation into a hedge fund analysis desk while ensuring complete privacy. This is true innovation.
 </div>
 
-## The Three Core Technologies Behind FinceptTerminal
 
 ### 1. Data Connectivity Across 100+ Systems
 FinceptTerminal’s greatest strength lies in its "comprehensiveness." It natively supports macro data from sources like Yahoo Finance and FRED (Federal Reserve Economic Data), as well as IMF and World Bank data. Furthermore, it handles WebSockets for crypto markets such as Kraken and HyperLiquid.

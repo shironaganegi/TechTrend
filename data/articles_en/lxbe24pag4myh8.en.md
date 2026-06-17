@@ -64,12 +64,6 @@ While I want to offer nothing but praise, let me add a slightly critical perspec
 - **Pros**: The pinnacle of visual understanding. Perfect Colab compatibility. Modern library selection that can be used directly in the field.
 - **Cons**: The entire content is in English. However, considering that the diagrams are the main content, the value of deciphering it with a translation tool by your side is more than enough. In fact, the habit of consuming this level of information in English will likely become a survival strategy as an engineer.
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 For original domain acquisition, visit "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ## 🏁 Conclusion: Star It Now. Update Your "Knowledge."
 

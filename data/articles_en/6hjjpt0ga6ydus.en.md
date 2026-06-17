@@ -59,7 +59,6 @@ Without specific instructions, AIs tend to output the "safest statistical averag
 
 ---
 
-## 💾 Hands-on! "taste-skill" Setup and Pitfalls
 
 ### Installation Takes Just One Command
 If you are using Vercel's `agent-skills` CLI, you can easily complete the installation by running the following command in your terminal:

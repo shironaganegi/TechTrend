@@ -64,18 +64,3 @@ GenericAgentが我々に示したのは、単なる自動化の手段ではな�
 「AIを利用する」段階から、独自の進化を遂げる「AIを育てる」段階へ。GenericAgentは、エンジニアとAIの関係性をより深く、より創造的なものへと変革させる力を持っている。この驚異的なポテンシャルを秘めたコードベースを、ぜひ自身の環境で体感していただきたい。
 
 [GitHub: lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[1時間2円から、国内最速・高性能レンタルサーバー【ConoHa WING】](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SJACI)
-![](https://www17.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SJACI)
-
-:::
-
-
-
-
-
-

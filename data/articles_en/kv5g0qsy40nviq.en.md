@@ -64,12 +64,6 @@ Since APIs are also provided, it is extremely easy to integrate "Inference-based
 **Cons:**
 - Because the LLM performs iterative inference during each search, token costs and response times tend to increase compared to traditional vector search. It shows its true strength in situations where accuracy is prioritized over speed.
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ### Conclusion: RAG is Moving from the Era of "Search" to "Inference"
 

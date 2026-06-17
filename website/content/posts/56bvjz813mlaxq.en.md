@@ -22,7 +22,6 @@ To address this structural challenge, a new player has emerged with the ambitiou
 The biggest bottleneck in current AI development—particularly in agent development using libraries like "Browser-use"—is the browser runtime cost. The fact that launching a single Chrome instance occupies hundreds of megabytes of memory and introduces seconds of latency is fatal for large-scale parallel execution. What Lightpanda provides isn't just "optimization." By re-implementing from the low-level up using the Zig language and optimizing Web APIs specifically for "headless-first" environments, it represents a paradigm shift in browser engineering that pushes AI agent scalability to its physical limits.
 </div>
 
-## 🚀 Three Major Advantages of Lightpanda That Defy Conventional Wisdom
 
 ### 1. Maximized Memory Efficiency: Compression from 0.9GB to 0.1GB
 In benchmarks, even for workloads where Chrome occupies approximately 1GB of memory, Lightpanda completes the task using only around 100MB. This means you can achieve "9x the concurrency" on a server with the same resources. It allows for an exponential increase in agent processing power while dramatically reducing infrastructure costs.

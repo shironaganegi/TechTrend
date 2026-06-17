@@ -50,12 +50,6 @@ claude
 - **Challenges**: It is necessary for humans to manage API costs and perform final validations of the scientific validity of the generated analysis code.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ### 💡 Summary: AI Agents are Changing Science
 
 The combination of Claude Code and NetworkX offers data scientists and researchers an experience akin to having a "specialized assistant" right by their side. By delegating complex network analysis to AI, you can dedicate more time to high-level conceptual thinking. We encourage everyone to experience this new style of development and research.
@@ -66,4 +60,3 @@ We recommend checking the repositories and starting with a small dataset first. 
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/s94z1qp1fwyyvg/).
-

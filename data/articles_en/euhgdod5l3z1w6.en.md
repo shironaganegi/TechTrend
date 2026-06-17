@@ -32,7 +32,6 @@ Without this folder, settings and extensions are saved in the user profile area 
 ### 3. Build and Deploy the Master Environment
 Launch `Code.exe` and apply necessary configurations, such as language packs, programming language-specific extensions, and editor settings via `settings.json`. Once complete, simply compress the entire folder and distribute it. The exact same development environment can be instantly reproduced on any PC.
 
-## 💡 3 Reasons Why Portable Mode is the "Optimal Solution" for Shared PC Environments
 
 ### 1. Bypassing the Administrative Privilege Barrier
 In many educational institutions and corporate shared PCs, software installation requires administrative rights. Portable Mode operates within the user permissions of the file system, allowing for rapid deployment without changing system settings.

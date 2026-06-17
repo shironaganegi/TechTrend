@@ -36,12 +36,6 @@ In terms of the specific "methodology," the following workflow is typically adop
 *   **Pros**: The ability to present "mathematical and physical evidence" that does not rely on subjectivity. It is incredibly powerful.
 *   **Cons**: It becomes a battle against data tampering (Deepfakes, etc.). How to guarantee the reliability of the technology is a challenge for the future.
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Register your custom domain with "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ### 🏁 Summary: What Engineers Can Do
 

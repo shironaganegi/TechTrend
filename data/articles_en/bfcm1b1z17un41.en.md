@@ -101,7 +101,6 @@ When integrating SkillSpector into production systems, the following two points 
 
 ---
 
-## Frequently Asked Questions (FAQ)
 
 ### Q1. Is this tool exclusive to specific clients like Claude Code or Gemini CLI?
 **A.** No. Any custom skills used by AI agents, MCP (Model Context Protocol) servers, or Python scripts autonomously executed by agents—essentially any software asset operating at the boundary between the AI and the system—can be scanned.

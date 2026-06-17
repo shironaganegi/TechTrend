@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# New Trends in Local LLMs: Gemma 4 and Qwen 3.5 Mark the "Critical Point" of Japanese Reasoning
 
 ## 1. Introduction: Local LLMs Shift from "Substitutes" to "Primary Choices"
 

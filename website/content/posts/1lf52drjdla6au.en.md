@@ -8,8 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/1lf52drjdla6au/"
 +++
 
 
-# New Trends in Local LLMs: Gemma 4 and Qwen 3.5 Mark the "Critical Point" of Japanese Reasoning
-
 ## 1. Introduction: Local LLMs Shift from "Substitutes" to "Primary Choices"
 
 Over the past few months, the landscape surrounding local LLMs (Large Language Models) has entered a "paradigm shift" that goes beyond mere technical progress. Previously, local models were often seen as mere "substitutes"—compromises accepted for the sake of privacy or cost reduction when cloud-based AI performance was out of reach.

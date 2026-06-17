@@ -60,8 +60,6 @@ While this curriculum is incredibly compelling, taking it on requires serious co
 * **Local Development Environment Requirements**: The curriculum assumes you are working on a local machine. While the foundational phases can be run on a CPU, you will eventually need access to adequate hardware (such as a GPU-enabled environment) as you progress.
 
 
-## Frequently Asked Questions (FAQ)
-
 ### Q1: Can beginners with no programming experience take this on?
 **A: Not recommended.** This curriculum assumes you already understand basic data structures, algorithms, and the syntax of at least one programming language. It is not designed for beginners, but rather as professional-grade material for existing software engineers looking to level up into "top-tier AI engineers."
 

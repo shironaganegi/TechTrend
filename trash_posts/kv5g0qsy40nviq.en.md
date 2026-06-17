@@ -67,12 +67,6 @@ Since APIs are also provided, it is extremely easy to integrate "Inference-based
 - Because the LLM performs iterative inference during each search, token costs and response times tend to increase compared to traditional vector search. It shows its true strength in situations where accuracy is prioritized over speed.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ### Conclusion: RAG is Moving from the Era of "Search" to "Inference"
 
 For engineers who have lamented that "RAG accuracy isn't high enough" and spent their days in the mud of manual tuning, PageIndex is a ray of light in the dark.
@@ -87,4 +81,3 @@ Start by starring the GitHub repository and experience that "intelligence" for y
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/kv5g0qsy40nviq/).
-

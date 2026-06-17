@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# Overcoming the "Over-editing" Trap: The Essence of "Minimal Editing," a New Concept Defining Development Quality
 
 ### Introduction: AI Coding's "Excessive Kindness" Stalls Development
 

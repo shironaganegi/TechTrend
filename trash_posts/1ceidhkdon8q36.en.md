@@ -80,14 +80,6 @@ Finally, just hit `make run`. With that, your smartphone transforms into the sma
 - A small cost to keep a server running 24/7 (or the electricity cost of a home server).
 - Large-scale refactoring involving over 1,000 lines is still something you'll want to review on a large screen (but perhaps that's asking too much).
 
-## 🎁 Recommended Tools for Learning & Productivity
-
-
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your own domain with "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
 
 ## Conclusion: Star the Repo Now and Install the Future
 
@@ -105,4 +97,3 @@ Now, what tool shall we use next to push past our limits? The future is right th
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/1ceidhkdon8q36/).
-

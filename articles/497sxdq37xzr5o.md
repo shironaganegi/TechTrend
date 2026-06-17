@@ -75,13 +75,6 @@ docker-compose up --build
 - **APIコストへの目配り**: 強力なLLMを回し続けるため、スキャン範囲に応じたコスト管理は必要だ。
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
 おすすめ：[Webセキュリティの教科書]、[体系的に学ぶ 安全なWebアプリケーションの作り方]
 
 ## 🚀 結論：今すぐStarを押し、自分のアプリを「攻撃」せよ
@@ -93,18 +86,3 @@ docker-compose up --build
 AIに急所を突かれるあのヒリつくような感覚。それこそが、あなたのエンジニアとしての直感を研ぎ澄まし、より堅牢なプロダクトを生む原動力になるはずだ。
 
 [GitHubリポジトリはこちら](https://github.com/KeygraphHQ/shannon)
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[DifyでAIアプリを開発するなら『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-![](https://www15.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-
-:::
-
-
-
-
-
-

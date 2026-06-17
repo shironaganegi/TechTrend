@@ -42,7 +42,6 @@ Implementing PersonaPlex follows a logical series of steps rather than waving a 
 # Pull PersonaPlex-related images from the NVIDIA Container Registry (Example)
 docker pull nvcr.io/nvidia/personaplex:latest
 
-# Request specifying persona and voice via API
 # (Hypothetical request example where persona and voice are defined as a set)
 POST /v1/chat/completions
 {
@@ -67,12 +66,6 @@ How will the world change when PersonaPlex is unleashed?
 
 Of course, it’s not all sunshine and roses. Running high-resolution processing for "personality" requires significant GPU resources—essentially, powerful "muscles for thought." Furthermore, for those of us in Japan, a major focus moving forward will be how deeply the system can reproduce the delicate nuances and honorific expressions unique to the Japanese language.
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your unique domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ### Editor's Closing Thoughts: The Journey to Find "Heart" in AI
 

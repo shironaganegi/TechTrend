@@ -92,17 +92,3 @@ canonicalUrl = "https://techtrend-watch.com/posts/xy7ttsjc10t3a5/"
 「なぜ動くのかはわからないが、精度が出た」という幸運に依存する時代は、終わりを告げようとしています。Compositional Learningは、ディープラーニングを経験則に基づく「錬金術」から、予測可能で信頼性の高い「真の工学」へと昇華させるためのミッシングリンクです。
 
 手探りでコードを「書く」開発から、数学的保証を備えたコンポーネントを「組み立てる」開発へ。AIをシステムとして厳密に設計するための共通言語として、圏論は今後ますます存在感を強めていくでしょう。
-
-
-> **おすすめのサービス (PR)**
-> 
-> 
-> [DifyでAIアプリを開発するなら『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-> ![](https://www15.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-
-
-
-
-
-
-

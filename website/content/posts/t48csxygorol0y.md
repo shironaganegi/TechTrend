@@ -77,17 +77,3 @@ AIの未来は、もはやデータセンターの中だけに閉じ込められ
 
 ---
 **GitHub Repository**: [danveloper/flash-moe](https://github.com/danveloper/flash-moe)
-
-
-> **おすすめのサービス (PR)**
-> 
-> 
-> Minecraftマルチプレイするなら[『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)
-> ![](https://www19.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)
-
-
-
-
-
-
-

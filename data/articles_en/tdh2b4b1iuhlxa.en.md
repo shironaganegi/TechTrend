@@ -23,7 +23,6 @@ There is deep meaning in Mistral AI naming its tool "Forge." It implies a proces
 While many tools aim for "easy for everyone," Mistral Forge specializes in "allowing professional engineers to extract uncompromising performance at minimum cost." Mistral’s characteristic European rigor regarding data privacy and its pursuit of extreme computational efficiency serves as a powerful antithesis to OpenAI’s closed ecosystem. Honestly, there’s no reason not to use it.
 </div>
 
-## Three Core Innovations Defining Mistral Forge
 
 ### 1. Training Efficiency Optimized for Native Architecture
 Traditional methods like LoRA (Low-Rank Adaptation) and QLoRA often rely on general-purpose libraries. However, Forge was designed directly by the development team that knows Mistral's model structures inside out. This makes it possible to inject domain-specific knowledge—such as legal, medical, financial, or specialized code generation—with incredible efficiency, without compromising the model's intrinsic reasoning capabilities.

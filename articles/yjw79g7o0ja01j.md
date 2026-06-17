@@ -64,14 +64,6 @@ docker run -d -p 3000:3000 -v perplexica-data:/home/perplexica/data --name perpl
 - **デメリット**: 最初のDocker構築に最低限の知識が必要なこと。そして、ローカルで最高の結果を求めるなら、それなりのGPUスペックという「供物」が要求されることだ。
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 ## 🚀 結び：検索エンジンを「所有」する喜び
 
 Perplexityの洗練されたUIは素晴らしい。しかし、エンジニアとして「中身がどう動いているか分からないブラックボックス」に依存し続けることに、微かな抵抗を感じてはいないだろうか？
@@ -82,18 +74,3 @@ Perplexicaを触るという体験は、単なるツールの乗り換えでは�
 👉 [GitHub: ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
 
 この記事があなたの知的好奇心に火をつけたなら、ぜひXでその熱量をシェアしてほしい。共に、新しいAIの地平を語り合おう。✌️
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[国内シェアNo.1のエックスサーバーが提供するVPSサーバー『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-![](https://www11.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-
-:::
-
-
-
-
-
-

@@ -74,7 +74,6 @@ If you are using the clipped text as a source for programming studies or trouble
 
 ---
 
-## 🙋 Frequently Asked Questions (FAQ)
 
 ### Q1. Are there security concerns regarding sensitive data being sent to external servers?
 **A1.** No. This extension runs locally within your browser and processes text extraction entirely client-side. Since your data never passes through unnecessary third-party external servers, you can safely use it for research involving highly confidential text data, such as internal company documents.

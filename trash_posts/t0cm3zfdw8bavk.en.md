@@ -66,12 +66,6 @@ I wouldn't be living up to the "White Leek Tech" name if I only gave praise. Her
 - Since it is still an early-stage project, the analysis occasionally stumbles. However, given the enthusiasm of the community, it’s only a matter of time before these issues are resolved.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ## Conclusion: Gain the "New Eyesight" of an AI Engineer
 
 GitNexus is not just a handy tool. It is infrastructure designed to grant AI agents the "eyesight" of context, ending the era of developing in the dark. Continuing AI-assisted programming without this might be like sprinting through a maze blindfolded.
@@ -88,4 +82,3 @@ Let’s rewrite the future of the development experience with our own hands.
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/t0cm3zfdw8bavk/).
-

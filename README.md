@@ -1,6 +1,6 @@
-# TechTrend Watch 🚀 (Automated AI Affiliate Bot)
+# TechTrend Watch 🚀 (Automated Tech Media)
 
-[![Daily AI Affiliate Agent](https://github.com/shironaganegi/ai-affiliate-bot-1/actions/workflows/daily_report.yml/badge.svg)](https://github.com/shironaganegi/ai-affiliate-bot-1/actions/workflows/daily_report.yml)
+[![Daily AI Affiliate Agent](https://github.com/shironaganegi/TechTrend/actions/workflows/daily_report.yml/badge.svg)](https://github.com/shironaganegi/TechTrend/actions/workflows/daily_report.yml)
 ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
 ![Hugo](https://img.shields.io/badge/hugo-%23FD0E35.svg?style=flat&logo=hugo&logoColor=white)
 
@@ -13,14 +13,14 @@
 1.  **トレンド収集**: GitHub, HackerNews, ProductHunt, Qiita, Zenn, X(Twitter) から話題のツールや記事を収集。
 2.  **選定・執筆**: Gemini 2.0 Flash がトレンドデータを分析し、最もバズる可能性の高いトピックを選定。エンジニア向けの解説記事を執筆。
 3.  **多言語対応**: 日本語記事に加え、英語翻訳版も自動生成。
-4.  **収益化**: 記事内容に関連する技術書やガジェットのアフィリエイトリンクを自動挿入。
+4.  **収益化**: Google AdSense による広告収益（※アフィリエイトは廃止し、コンテンツ価値とAdSense一本に集中）。
 5.  **マルチ配信**:
     *   **Zenn**: 日本語記事をドラフト投稿（自動公開可）。
     *   **Official Website**: Hugoで構築された自社サイトへ日英両方の記事をデプロイ。
     *   **Qiita/BlueSky/X(Twitter)**: 各プラットフォームへ拡散。
     *   **Discord**: 運営者へ通知。
 
-🔗 **Official Website**: [TechTrend Watch](https://shironaganegi.github.io/ai-affiliate-bot-1/)
+🔗 **Official Website**: [TechTrend Watch](https://techtrend-watch.com/)
 
 ## 🏗 アーキテクチャ (Architecture)
 
@@ -34,7 +34,7 @@ graph TD
     subgraph "Phase 2: Analyst Agent 🧠"
         B --> D{Content Generator}
         D -->|Gemini 2.0| E[Draft Article .md]
-        E -->|Product Recommender| F[Affiliate Injection]
+        E -->|Editor| F[Refined Article]
         E -->|Translator| G[English Draft .en.md]
     end
     
@@ -56,7 +56,7 @@ graph TD
 *   **Triple-Daily Update**: 1日3回（朝・昼・夜）の高頻度更新で、最新トレンドを逃さずキャッチ。
 *   **Smart Trend Mining**: 過去の投稿履歴を参照し、重複を避けつつ、今最も熱い「旬」のネタをピックアップ。
 *   **Global Reach**: 日本語記事だけでなく、英語版記事も生成しグローバルなSEO需要に対応。
-*   **Engineer-First Affiliate**: 記事内容から「Python」「AWS」などの技術ワードを検出し、エンジニアに刺さる関連書籍を自動推薦。
+*   **Quality-First Content**: E-E-A-Tを重視し、独自の解説・比較・FAQ・実装上の注意点を含む高品質記事を生成（Google AdSense 基準準拠）。
 *   **Zero-Cost Operation**: GitHub Actions と GitHub Pages を活用し、**サーバー代・ドメイン代・運用費すべて0円**で稼働。
 *   **SEO Optimized**: Hugo + PaperMod テーマによる高速な自社サイト構築。
 
@@ -88,8 +88,8 @@ graph TD
 
 ### 1. インストール
 ```bash
-git clone https://github.com/shironaganegi/ai-affiliate-bot-1.git
-cd ai-affiliate-bot-1
+git clone https://github.com/shironaganegi/TechTrend.git
+cd TechTrend
 pip install -r requirements.txt
 ```
 
@@ -97,8 +97,6 @@ pip install -r requirements.txt
 以下の変数を設定してください。
 ```ini
 GEMINI_API_KEY=your_key
-RAKUTEN_APP_ID=your_id
-RAKUTEN_AFFILIATE_ID=your_id
 QIITA_ACCESS_TOKEN=your_token
 BLUESKY_HANDLE=your_handle
 BLUESKY_PASSWORD=your_password
@@ -111,5 +109,5 @@ ZENN_AUTO_PUBLISH=false
 ```
 
 ---
-Author: **TechTrend Observer**
-Powered by Gemini 2.0 & GitHub Actions
+Author: **TechTrend Watch 編集部**
+Powered by Gemini & GitHub Actions

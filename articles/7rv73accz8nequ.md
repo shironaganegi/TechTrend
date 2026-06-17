@@ -4,12 +4,10 @@ emoji: "📈"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AI", "OpenSource", "Tech", "Programming"]
 published: false
-x_viral_post: "【まじで狂気】M4 MacBook Airに「RTX 5090」を繋いでゲームはできるのか？検証してみた結果がヤバすぎる…🚀\n\n結論：ロマンの塊。だけど技術的な壁が厚すぎる。 \n\n・RTX 5090の性能をTB帯域が殺す\n・macOSでNVIDIAを動かす「禁断の手法」\n・電源1000W超えの魔改造が必要\n\n正直、普通の人にはおすすめしないけど、エンジニアならこのワクワク感わかるはず。Apple Siliconの限界に挑む全記録をブログにまとめました。これ知らずにeGPU買うと後悔するかも…？\n\n詳細はブログで👇\n#RTX5090 #M4MacBookAir #eGPU #自作PC"
 note_intro: "2026年最強の組み合わせ？！RTX 5090とM4 MacBook Airという「水と油」のような構成でゲーミングに挑む検証レポート。技術的な限界から、Asahi Linuxを用いた禁断の接続方法まで、テックウォッチが鋭く切り込みます。"
 image_prompt: "A futuristic high-tech setup featuring a slim silver M4 MacBook Air connected via a glowing fiber-optic cable to a massive, glowing NVIDIA RTX 5090 GPU housed in a transparent, liquid-cooled eGPU enclosure. The background is a dark, minimalist developer's desk with neon blue and purple accents. Hyper-realistic 8k render, cinematic lighting, tech enthusiast aesthetic."
 ---
 
-# 【検証】RTX 5090 × M4 MacBook Air：究極のモバイルと最強のGPUが交差する時。eGPUが直面する「帯域の壁」とその真価
 
 ### はじめに：夢の構成がもたらす技術的衝撃
 2026年、コンピューティングの世界は二つの極致を迎えました。NVIDIAが放つ次世代の怪物GPU「RTX 5090」と、Appleが誇る驚異的なワットパフォーマンスの結晶「M4 MacBook Air」の登場です。
@@ -63,18 +61,3 @@ Apple Silicon搭載Macにおいて、macOS上でNVIDIA製GPUをネイティブ�
 RTX 5090とM4 MacBook Airの邂逅は、現時点では実用的なゲーミング環境というよりは、極めて高度な「技術的スタント」の域を出ません。しかし、この挑戦には大きな意義があります。
 
 Apple Siliconという閉鎖的かつ強力なアーキテクチャが、外部の圧倒的な演算リソースと出会ったとき、どのような化学反応が起きるのか。そのフロンティアを切り拓く行為そのものが、次世代のコンピューティングの形を示唆しています。エンジニア諸氏には、実用性の有無を超えた、この「限界突破」のプロセスそのものを楽しんでいただきたい。日本からも、この荒野を征服する猛者が現れることを切に願っています。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[国内シェアNo.1のエックスサーバーが提供するVPSサーバー『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-![](https://www11.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-
-:::
-
-
-
-
-
-

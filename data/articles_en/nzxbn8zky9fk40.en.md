@@ -36,7 +36,6 @@ python -m venv my_env
 
 # Enter the sanctuary (Mac/Linux)
 source my_env/bin/activate
-# For Windows
 # .\my_env\Scripts\activate
 ```
 
@@ -69,12 +68,6 @@ This environment management proves its worth in "battlefield" situations like th
 - **Benefits**: Your base environment stays clean. You minimize the risk of your PC becoming unstable and gain peace of mind.
 - **Housekeeping**: As virtual environments proliferate, they will eventually start eating up storage. When an environment has served its purpose, let it go with gratitude using `jupyter kernelspec uninstall <env_name>`.
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your unique domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ### 🏁 Conclusion: Stop Wasting Energy on the Base Environment
 

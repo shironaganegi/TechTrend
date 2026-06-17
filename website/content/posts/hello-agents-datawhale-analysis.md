@@ -39,7 +39,3 @@ AIに仕事を奪われることを恐れる必要はありません。恐れる
 『hello-agents』は、あなたを「プロンプトを打ち込む人」から「システムを指揮する建築家」へと引き上げてくれる確かな羅針盤です。まずはGitHubのスターを押し、最初の一行を読み始めてみてください。
 
 🔧 **リポジトリ**: [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
-
-> **おすすめのサービス (PR)**
-> [DifyでAIアプリを開発するなら『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-> ![](https://www15.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)

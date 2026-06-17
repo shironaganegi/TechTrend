@@ -67,12 +67,6 @@ Once the setup is complete, simply provide the source code path and target URL, 
 - **White-Box Focus**: Without access to source code (Black-Box), it cannot yet realize its full 100% potential.
 - **API Cost Management**: Since it runs powerful LLMs continuously, you’ll need to manage costs based on the scope of the scan.
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com." TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 Recommended: [The Textbook of Web Security], [Systematic Guide to Building Secure Web Applications]
 

@@ -25,7 +25,6 @@ While AI agents possess incredible information processing capabilities, they suf
 
 Matt Pocock’s "skills" addresses these challenges by granting AI an "atomic, composable skill set." This is essentially the act of installing "high-level protocols for performing specific tasks" into the AI's "brain."
 
-## 2. Two Killer Skills That Dramatically Change the Developer Experience (DX)
 
 ### ① `/grill-me`: "Reverse Requirement Definition" to Expose Design Vulnerabilities
 Normally, AI takes user instructions at face value. However, by executing `/grill-me` (or `/grill-with-docs`), the AI switches from "executor" mode to "reviewer" mode.
@@ -41,7 +40,6 @@ Currently, frameworks like "GSD (Get Stuff Done)" are gaining attention for AI a
 
 In contrast, "skills" remains committed to being a **"toolbox that supports human decision-making."** The developer maintains leadership while calling upon necessary skills at the right timing. This design, predicated on "Human-in-the-loop," is the primary reason "skills" is supported in professional environments.
 
-## 4. Strategic Advice for Implementation
 
 ### Best Practices for Adoption
 -  **Incremental Introduction**: Don't try to use every skill from the start. We recommend beginning with requirement clarification via `/grill-me`.

@@ -67,17 +67,3 @@ Metaが公開したSAMも強力ですが、それはあくまで「見えてい�
 See-throughのような技術が一般化すれば、個人のクリエイターが一人で高品質なVTuberモデルを爆速で量産できる時代が来ます。これは、アニメーション制作の民主化です。技術の進歩を恐れるのではなく、いかに自分のワークフローに取り込んで「自分にしか作れない価値」に集中するか。今、その姿勢が問われています。
 
 今後、この技術がOSSとして公開されるか、あるいは各種イラストソフトのプラグインとして実装されるかをテックウォッチでは注視していきます！
-
-
-> **おすすめのサービス (PR)**
-> 
-> 
-> [スッキリわかるPython入門 第2版 (楽天ブックス)](https://rpx.a8.net/svt/ejp?a8mat=4AX38F+LFMK2+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eac8dc2.9a477d4e.0eac8dc3.0aa56a48%2Fa26020474676_4AX38F_LFMK2_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703%26m%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703)
-> ![](https://www16.a8.net/0.gif?a8mat=4AX38F+LFMK2+2HOM+BW8O1)
-
-
-
-
-
-
-

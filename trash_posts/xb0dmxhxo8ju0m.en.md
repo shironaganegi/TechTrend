@@ -8,8 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/xb0dmxhxo8ju0m/"
 +++
 
 
-# From "Tool" to "Colleague": Imbue窶冱 Vision for Autonomous AI and the Evolution of True Reasoning
-
 ### 1. Introduction: Are You Tired of "Smart Search Boxes"?
 
 "I'm exhausted from constantly massaging prompts just to get a decent output from an AI."
@@ -39,9 +37,6 @@ Though still in the research phase, the implementation flow they envision will f
 # Asking an Imbue-style agent to "Deploy a new service"...
 agent = ImbueAgent(objective="Deploy a Next.js app to AWS and complete the monitoring setup")
 
-# 1. AI designs the infrastructure architecture
-# 2. Automatically generates Terraform code
-# 3. Reads logs and self-corrects code if errors occur
 # 4. Generates completion reports and documentation
 agent.run()
 ```
@@ -66,13 +61,8 @@ Of course, it窶冱 not all a bed of roses.
     *   Powerful reasoning requires massive computational resources (and thus, cost).
     *   New security and governance issues will emerge窶罵ike an AI spinning up cloud resources on its own, leading to a shocking bill.
 
-### 6. Recommended Items
-
-
 
 ### 燥 Recommended Services for Engineers 燥
-[**倹 Get your unique domain at "Onamae.com." TechTrend Watch uses it too!**](https://www.onamae.com/)
-
 
 
 (*When building your own AI agent, the first thing you'll need is your own stage. While learning the theory through resources like "A Practical Guide to AI Agent Development," get ready to publish your results on your own domain.*)
@@ -93,4 +83,3 @@ Start by visiting the official Imbue website and experience their overwhelming p
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/xb0dmxhxo8ju0m/).
-

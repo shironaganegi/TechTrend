@@ -97,18 +97,3 @@ image_prompt: "A conceptual highly-detailed 3D rendering of digital justice in t
 しかし、表現の自由という権利は、無制限に認められるものではない。その自由を真に享受し、守り続けるためには、表現者自身が**「法律というルールの限界線」を正確に理解し、テクノロジーを制御する高度なリテラシー**を身に付けることが不可欠である。
 
 今回の1.2億円の和解劇は、不当な国家権力に対する表現の自由の勝利を示す灯火であると同時に、これからのデジタル社会を生きるすべてのクリエイターに対して、自らの表現が持つ破壊力と法的責任を自覚せよという、厳粛な警告でもある。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[スッキリわかるPython入門 第2版 (楽天ブックス)](https://rpx.a8.net/svt/ejp?a8mat=4AX38F+LFMK2+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eac8dc2.9a477d4e.0eac8dc3.0aa56a48%2Fa26020474676_4AX38F_LFMK2_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703%26m%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703)
-![](https://www16.a8.net/0.gif?a8mat=4AX38F+LFMK2+2HOM+BW8O1)
-
-:::
-
-
-
-
-
-

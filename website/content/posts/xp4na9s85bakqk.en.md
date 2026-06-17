@@ -8,8 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/xp4na9s85bakqk/"
 +++
 
 
-# Supply Chain Attack Hits LiteLLM, a Cornerstone of AI Development: Risks Facing Engineers and True Defenses
-
 ## 1. Introduction: A Shadow Lurking in the "Heart" of the AI Ecosystem
 
 In modern AI application development, **LiteLLM** has become so essential it is practically part of the infrastructure. This library, which allows developers to control over 100 different LLMs—including OpenAI, Anthropic, Google Vertex AI, and AWS Bedrock—through a unified interface, has reigned as the "abstraction layer" that dramatically improves development efficiency.
@@ -40,7 +38,6 @@ With LiteLLM, you can switch models instantly simply by writing `completion(mode
 
 The more convenient a tool is, the more its security must be managed from a "Zero Trust" perspective rather than "Implicit Trust."
 
-## 4. Practical Action Guide: Steps for Damage Minimization and Prevention
 
 ### Step 1: Immediate Environment Audit and Version Pinning
 First, immediately check the version in your current environment.

@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# The Silent Evolution from Claude Opus 4.6 to 4.7: A "Deep Anatomy" of System Prompts Revealing Next-Gen AI Design Philosophy
 
 ## Introduction: Rewriting the "AI Constitution" Hidden Within a Subtle Version Up
 

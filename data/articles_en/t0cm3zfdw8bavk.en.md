@@ -63,12 +63,6 @@ I wouldn't be living up to the "White Leek Tech" name if I only gave praise. Her
 - The browser version is memory-hungry. For ultra-large repositories exceeding 5,000 files, operating via the CLI (command line) version will be a prerequisite.
 - Since it is still an early-stage project, the analysis occasionally stumbles. However, given the enthusiasm of the community, it’s only a matter of time before these issues are resolved.
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ## Conclusion: Gain the "New Eyesight" of an AI Engineer
 

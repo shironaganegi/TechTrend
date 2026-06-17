@@ -50,12 +50,6 @@ Once configured, all you have to do is say, "Extract the key points from this PD
 - **Cons**: The ecosystem is still in its infancy. Advanced implementation via API will require paying the "tuition fee" of trial and error.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ## 🚀 Conclusion: Touch the Future of AI Today.
 
 "Agent Skills" isn't just a repository. It is set to become a standard for AI agents to evolve from "tools" into "autonomous partners."
@@ -68,4 +62,3 @@ Falling behind this wave is like stepping onto a battlefield without a weapon in
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/6dhlogkzb1yzmv/).
-

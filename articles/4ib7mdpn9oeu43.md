@@ -72,14 +72,6 @@ note_intro: "AIエージェントをただの「コード生成機」で終わ�
 - **デメリット**: 最初の手順（設計確認など）が多いため、数行の修正には向かない。Claudeのトークン消費量もそれなりに覚悟が必要。
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 おすすめ：『テスト駆動開発』(Kent Beck 著) を読んでおくと、このツールの凄さがより理解できます。
 
 ## 結びに
@@ -88,16 +80,3 @@ AIを「便利なチャットボット」として使う時代は終わりまし
 
 リポジトリをチェックして、今すぐStarを付けにいこう！👇
 [GitHub - obra/superpowers](https://github.com/obra/superpowers)
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[【早い者勝ち！】 あなたのお名前、残ってる？](https://px.a8.net/svt/ejp?a8mat=4AX38F+M125U+50+2HCY6Q)
-![](https://www15.a8.net/0.gif?a8mat=4AX38F+M125U+50+2HCY6Q)
-
-:::
-
-
-
-

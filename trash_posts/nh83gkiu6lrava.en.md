@@ -68,12 +68,6 @@ Of course, it’s not all sunshine and rainbows. These are "gifts," not "infinit
 - **Know Where Your Data Goes**: Especially with free tiers, input data may be used for model training. Never input secret keys or sensitive customer information.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your unique domain with "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ## Conclusion: Give it a Star and Stand on the Shoulders of Giants
 
 "free-llm-api-resources" is the crystallization of a passionate will to open the doors of AI development to everyone.
@@ -88,4 +82,3 @@ Start by getting just one API key. World-changing applications are always born f
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/nh83gkiu6lrava/).
-

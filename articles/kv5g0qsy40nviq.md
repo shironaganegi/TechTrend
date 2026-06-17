@@ -72,14 +72,6 @@ APIも提供されているため、既存の自社サービスへ「推論型RA
 - 探索のたびにLLMが推論を繰り返すため、従来のベクトル検索と比較してトークンコストと応答時間は増える傾向にある。速度よりも精度を重視する局面でこそ、その牙を剥く。
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 ### 結言：RAGは「検索」から「推論」の時代へ
 
 これまで「RAGの精度が出ない」と嘆き、泥臭いチューニングに明け暮れていたエンジニアにとって、PageIndexは暗闇に差し込む一筋の光だ。
@@ -89,18 +81,3 @@ APIも提供されているため、既存の自社サービスへ「推論型RA
 まずはGitHubのリポジトリをスターして、PageIndex Chatでその「知能」を試してみてほしい。💡
 
 [GitHub: VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[DifyでAIアプリを開発するなら『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-![](https://www15.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-
-:::
-
-
-
-
-
-

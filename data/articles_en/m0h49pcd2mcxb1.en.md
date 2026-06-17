@@ -67,12 +67,6 @@ However, beyond this "slight hurdle" lies a level of freedom that ready-made pro
 
 ## Shironagi Tech Recommended Items
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 To run your personal AI environment stably 24/7, a robust network and your own digital base are essential. It might be interesting to start by acquiring your own "domain" and building a personal server.
 

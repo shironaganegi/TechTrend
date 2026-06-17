@@ -23,7 +23,6 @@ DataSieve 2.0 is not merely a text extraction tool. It is, so to speak, a data c
 While many engineers oscillate between excitement and anxiety over the performance of GPT-4o or Claude 3.5 Sonnet, the truth remains: if the input data is "mud" (garbage), the output will be "mud" (the GIGO principle). The brilliance of DataSieve 2.0 lies not in simple text extraction, but in its ability to understand context and precisely extract only the necessary items—into formats like JSON. This drastically improves the search accuracy of vector databases, leading to a massive surge in LLM response quality. This is, in fact, the smartest cost-reduction strategy available.
 </div>
 
-## Three Core Values of DataSieve 2.0 for Maximizing Development Efficiency and Accuracy
 
 ### 1. "Seamless Access" to Archive Files
 Conventionally, analyzing large volumes of documents stored within ZIP or TAR files required writing custom scripts to extract them locally and traverse directories. DataSieve 2.0 makes this process a thing of the past. By directly "sieving" through archives, it is possible to batch-structure information spanning hundreds or thousands of files. This simplification of the pipeline will significantly enhance maintainability during the operational phase.

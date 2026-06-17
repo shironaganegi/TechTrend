@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# Mastering Word Document Control with Python: Technical Insights into Achieving "Full Automation" of Text and Paragraph Formatting
 
 ### Introduction: Why Word Automation is Gaining Renewed Attention
 

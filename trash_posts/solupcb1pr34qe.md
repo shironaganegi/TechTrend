@@ -53,7 +53,6 @@ heretic --model google/gemma-3-12b-it --evaluate-model p-e-w/gemma-3-12b-it-here
 2. **極限のセキュリティ検証**: レッドチーム演習において、モデルがどのように悪用され得るかを検証するには、クリーンな環境が必要だ。防御を知るために、まず「無防備」を知る。
 3. **ノイズレスな特化型学習**: 特定ドメインへのファインチューニングを行う際、元のモデルに組み込まれた汎用的なガードレールが、学習の邪魔（ノイズ）になることがある。hereticは、そのノイズを事前に取り除く「洗剤」としても機能する。
 
-## ⚖️ 知的な批評：メリットと、避けては通れないリスク
 
 ### メリット
 - **圧倒的なタイパ**: 数日かかっていた調整が、コーヒーを飲んでいる間に終わる。
@@ -66,14 +65,6 @@ heretic --model google/gemma-3-12b-it --evaluate-model p-e-w/gemma-3-12b-it-here
 - **アーキテクチャの制限**: SSM（状態空間モデル）など、極めて特殊な構造にはまだ対応しきれていない。
 
 
-
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-
-
-
 ## 結びに：AIの「本音」と向き合う覚悟はあるか
 
 『heretic』は、単なるツールではない。それは、AIという鏡から「制作者の意図」という曇りを取り除き、モデル本来の姿を映し出すための試みだ。
@@ -83,16 +74,3 @@ heretic --model google/gemma-3-12b-it --evaluate-model p-e-w/gemma-3-12b-it-here
 真の自由を手に入れたAIが、あなたに何を語りかけるのか。その答えは、あなたのローカルマシンの中にしかない。
 
 [GitHub - p-e-w/heretic](https://github.com/p-e-w/heretic)
-
-
-> **おすすめのサービス (PR)**
-> 
-> 
-> [DifyでAIアプリを開発するなら『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-> ![](https://www15.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-
-
-
-
-
-

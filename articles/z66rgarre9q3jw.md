@@ -75,18 +75,3 @@ Ubuntu Proの真骨頂は、その「摩擦のなさ」にある。複雑な登�
 `sudo pro attach <your_token>`
 
 この一行のコマンドが、あなたの開発環境を単なるLinuxから、プロフェッショナルな信頼を担保するプラットフォームへと昇華させる。10年間の安心を、今こそ手に入れてほしい。🔧🔥
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[国内シェアNo.1のエックスサーバーが提供するVPSサーバー『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-![](https://www11.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-
-:::
-
-
-
-
-
-

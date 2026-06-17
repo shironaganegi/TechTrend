@@ -60,18 +60,3 @@ image_prompt: "A futuristic high-tech financial dashboard showing USD/JPY exchan
 ドル円の変動は、複雑な世界情勢と我々のテクノロジー消費が編み上げた「巨大な仕様書」のようなものである。その仕様を理解せず、ただ結果に一喜一憂するのは、ソースコードを読まずにバグに怯えるデバッグ作業と同義だ。
 
 エンジニアには、コードとデータによって不確実性を飼いならす力がある。Jupyter Notebookを展開し、APIからデータを叩く。その一歩が、ノイズに満ちた世界をロジカルに読み解き、真の自由を手にするための第一歩となるのだ。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[スッキリわかるPython入門 第2版 (楽天ブックス)](https://rpx.a8.net/svt/ejp?a8mat=4AX38F+LFMK2+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eac8dc2.9a477d4e.0eac8dc3.0aa56a48%2Fa26020474676_4AX38F_LFMK2_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703%26m%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703)
-![](https://www16.a8.net/0.gif?a8mat=4AX38F+LFMK2+2HOM+BW8O1)
-
-:::
-
-
-
-
-
-

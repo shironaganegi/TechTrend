@@ -9,7 +9,6 @@ note_intro: "話題のローカルLLM、Gemma 4とQwen 3.5を徹底比較。日�
 image_prompt: "Cinematic 3D render of a futuristic tech battle between two luminous neural networks, one glowing with Google's color palette (blue, red, yellow, green) and the other with a sleek silver and violet Alibaba aesthetic. Translucent data streams and Japanese characters flowing in the background. Hyper-realistic, volumetric lighting, 8k resolution, Unreal Engine 5 style, depth of field."
 ---
 
-# ローカルLLMの新潮流：Gemma 4とQwen 3.5が示す「日本語推論」の臨界点
 
 ## 1. はじめに：ローカルLLMは「代替品」から「選択肢」へ
 
@@ -79,18 +78,3 @@ Gemma 4が示した「圧倒的な対話の質」と、Qwen 3.5が提示した�
 日常的なテキスト処理やクリエイティブなライティングはGemma 4に任せ、厳密なロジックが要求されるエンジニアリング・ワークはQwen 3.5で思考を共にする。こうした「モデルの使い分け」こそが、これからのテック・リテラシーの核となるだろう。
 
 もはや、強力なAIを利用するためにクラウドへデータを差し出す必要はない。今すぐOllamaを立ち上げ、あなたのローカル環境で「知能の爆発」を体感してほしい。その先には、誰にも縛られない自由な創造性が待っている。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[国内最速・高安定の高性能レンタルサーバー【ConoHa WING】](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SI01U)
-![](https://www11.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SI01U)
-
-:::
-
-
-
-
-
-

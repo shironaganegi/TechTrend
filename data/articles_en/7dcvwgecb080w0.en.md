@@ -28,7 +28,6 @@ The latest "TurboQuant" algorithm from Google Research—utilized by turbovec—
 
 ---
 
-## 🛠️ Four Technical Breakthroughs Delivered by turbovec
 
 ### 1. Training-Free "Online Ingestion"
 Absolutely no pre-training or complex hyperparameter tuning is required. Simply add new vector data in real time, and the quantized index updates instantly. This completely frees engineers from the hassle of scheduling batch jobs to rebuild indexes as data scales up.
@@ -117,7 +116,6 @@ index.remove(1002) # Instantly remove data with the specified ID from the index
 
 ---
 
-## 🙋‍♂️ Frequently Asked Questions (FAQ)
 
 ### Q1: Can it be integrated with major LLM orchestrators like LangChain or LlamaIndex?
 **A1:** Yes. Integration wrapper packages are available. For example, by installing `pip install turbovec[langchain]`, you can replace existing in-memory vector stores with turbovec with minimal migration overhead.

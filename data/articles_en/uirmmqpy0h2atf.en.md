@@ -23,7 +23,6 @@ When this agent completes a complex task, it abstracts the steps and saves them 
 Until now, agents depended on specific platforms, and data resided on "their" servers. However, Hermes Agent can run on an inexpensive $5 VPS or serverless platforms like Modal, and can be invoked from anywhere via Telegram. In other words, you can keep the extension of your "brain"—including the infrastructure—under your own control. This is a definitive step toward the "personalization of AI."
 </div>
 
-## 2. Four Innovative Features Meeting Professional Demands
 
 ### ① Autonomous Skill Acquisition (Skill Creation)
 Hermes Agent has the ability to self-author and save the logic of executed code or data processing as Python scripts. For example, if you instruct it once to perform the complex process of fetching data from a specific API and graphing it, next time you only need to give an abstract command like "visualize the latest data," and the optimized script will run in the background. The more you use it, the more it transforms into a "dedicated OS" specialized for your specific workflow.

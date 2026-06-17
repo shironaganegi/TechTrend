@@ -9,7 +9,6 @@ note_intro: "【Python × Claude API】で情報の洪水から抜け出す！�
 image_prompt: "A futuristic and clean 3D isometric workspace illustration featuring a glowing Claude AI logo and a Python snake mascot collaborating to summarize a vast digital library of documents. High-tech interface with glowing data streams, soft violet and white ambient lighting, 8k resolution, cinematic lighting, trendy tech blog aesthetic."
 ---
 
-# Python × Claude APIで構築する「次世代・自律型要約システム」のすゝめ
 
 ## はじめに：情報爆発時代を生き抜くための「情報の取捨選択」
 
@@ -77,18 +76,3 @@ PythonとClaude APIの組み合わせは、もはやエンジニアだけの特�
 
 --- 
 *TechTrend Watch - AI時代の羅針盤として、技術の真髄を伝える。*
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[世界にたった一つ、あなただけのドメインを登録しよう！](https://px.a8.net/svt/ejp?a8mat=4AX38F+M125U+50+2HE0RM)
-![](https://www15.a8.net/0.gif?a8mat=4AX38F+M125U+50+2HE0RM)
-
-:::
-
-
-
-
-
-

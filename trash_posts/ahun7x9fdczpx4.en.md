@@ -39,12 +39,6 @@ In terms of the specific "methodology," the following workflow is typically adop
 *   **Cons**: It becomes a battle against data tampering (Deepfakes, etc.). How to guarantee the reliability of the technology is a challenge for the future.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Register your custom domain with "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ### 🏁 Summary: What Engineers Can Do
 
 There’s a saying, "Write code to change the world," and I think this case is the ultimate realization of that. Technology can be the strongest weapon for saving someone. It makes us rethink how we use our own skills.
@@ -55,4 +49,3 @@ If you want to know more, check out Forensic Architecture's official website or 
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/ahun7x9fdczpx4/).
-

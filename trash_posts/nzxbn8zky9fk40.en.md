@@ -38,7 +38,6 @@ python -m venv my_env
 
 # Enter the sanctuary (Mac/Linux)
 source my_env/bin/activate
-# For Windows
 # .\my_env\Scripts\activate
 ```
 
@@ -72,12 +71,6 @@ This environment management proves its worth in "battlefield" situations like th
 - **Housekeeping**: As virtual environments proliferate, they will eventually start eating up storage. When an environment has served its purpose, let it go with gratitude using `jupyter kernelspec uninstall <env_name>`.
 
 
-
-### 燥 Recommended Services for Engineers 燥
-[**倹 Get your unique domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ### 潤 Conclusion: Stop Wasting Energy on the Base Environment
 
 If you think of JupyterLab as just a "notebook where you can write code," you're missing out. It is an "external brain" for engineers, capable of parallel processing by instantly switching between multiple brains (kernels).
@@ -91,4 +84,3 @@ That single step will push your development efficiency into another dimension. W
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/nzxbn8zky9fk40/).
-

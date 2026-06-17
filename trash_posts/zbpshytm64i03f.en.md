@@ -62,12 +62,6 @@ The primary content is in Chinese or English. However, it would be a huge waste 
 Today, you have browser translation tools, and more importantly, you have an "AI partner." Diving into the sea of code snippets and deciphering them while having an LLM explain them—that process itself is the ultimate training for agent development. Don't you agree?
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your own domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ### 🚀 Conclusion: From "Using LLMs" to "Commanding AI"
 
 There is no need to fear that AI will steal your job. What you should fear is "stagnation of thought"—using the massive power of AI as nothing more than a convenient search box.
@@ -82,4 +76,3 @@ Give the AI a "will" with your own hands.
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/zbpshytm64i03f/).
-

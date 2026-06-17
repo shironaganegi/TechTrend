@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# 2/3 of AI Chip Costs Now Go to "Memory"? The Shocking Impact of Skyrocketing HBM Prices on Development Roadmaps
 
 ## 1. Introduction: The Leading Role in AI Semiconductors Shifts from "Compute Cores" to "Memory"
 In modern AI development, securing state-of-the-art GPUs—starting with NVIDIA's—is a decisive factor in the success or failure of a project. However, behind the raw computing performance (FLOPs) that we typically focus on as "GPU performance," we must not overlook a historic paradigm shift occurring in the cost structure of semiconductors.
@@ -78,7 +77,6 @@ Deploying models at their native precision (e.g., FP16) inflates the required VR
 
 ---
 
-## 5. Frequently Asked Questions (FAQ)
 
 ### Q1. Why can't foundries like TSMC lower memory costs?
 HBM is not a single silicon die; it requires advanced manufacturing processes using state-of-the-art 3D packaging technologies (such as TSMC's CoWoS) to integrate multiple stacked DRAM dies and the logic GPU with extreme precision on an interposer. The technical difficulty of this packaging step is extremely high, and global manufacturing capacity is severely constrained, preventing prices from dropping easily.

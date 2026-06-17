@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# Giving AI Agents a "Physical Voice": How Sendly Transforms Real-World AI Implementation via SMS
 
 ### 1. Introduction: AI Breaks Out of the "Browser Cage" and Into the User's Daily Life
 

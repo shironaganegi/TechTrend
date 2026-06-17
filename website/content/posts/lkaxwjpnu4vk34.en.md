@@ -24,7 +24,6 @@ Flighty's true value lies in the fact that it is not merely a wrapper for extern
 The launch of this web version is an attempt to redefine the "Live Activities" UX, nurtured on mobile apps, onto the vast canvas of a browser. In particular, the color design for each airport's "Delay Index" and the animation processing that smoothly expresses state transitions can be called the golden rule of modern dashboard development.
 </div>
 
-## Three Technical Highlights Supporting Overwhelming Functional Beauty
 
 ### 1. Manifestation of a Real-Time Digital Twin
 Weather, delay status, and ground stop statuses for major airports worldwide are consolidated into a dark-mode UI that eliminates all noise. The data, which fluctuates moment by moment without requiring a refresh, is the embodiment of a "digital twin"—replicating the vital signs of a physical airport in digital space.

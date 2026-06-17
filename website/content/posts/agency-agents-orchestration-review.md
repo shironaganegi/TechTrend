@@ -30,10 +30,3 @@ canonicalUrl = "https://techtrend-watch.com/posts/agency-agents-orchestration-re
 ## 結論：AIを「使う」から「指揮する」時代へ
 
 もはや、ソースコードを1行ずつ手動で記述する時代は終焉を迎えつつある。これからのエンジニアに求められるのは、優れたコードを書く能力以上に、**「どの専門家（AI）を、どのタイミングで、どう連携させるか」**というオーケストレーション能力に集約されていくだろう。
-
-:::message
-**おすすめのサービス (PR)**
-
-[国内シェアNo.1のエックスサーバーが提供するVPSサーバー『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-![](https://www11.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-:::

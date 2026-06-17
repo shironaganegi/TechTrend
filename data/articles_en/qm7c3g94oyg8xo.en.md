@@ -25,7 +25,6 @@ Previous AI agents (such as AutoGPT or standard CrewAI) suffered from structural
 
 ---
 
-## 🛠️ The 4 Technical Paradigm Shifts Defining Hermes Agent
 
 ### 1. Self-Sufficient Evolution: "Closed-loop Learning"
 At the core of Hermes Agent's architecture is a cycle of reflecting on its own code and actions after task completion and saving them as new skills.

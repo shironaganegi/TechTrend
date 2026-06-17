@@ -107,7 +107,6 @@ After building a prototype in Python (NumPy/SciPy), you must optimize the mathem
 
 ---
 
-## 5. Financial Engineering × Data Science FAQ
 
 ### Q1. Does learning financial engineering require a complete understanding of measure-theoretic probability (such as Lebesgue integration)?
 **A1. No. To apply and extend models in practice, mastering rigorous measure theory is not necessarily a prerequisite.**

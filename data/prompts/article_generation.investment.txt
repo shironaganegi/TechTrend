@@ -25,10 +25,9 @@ Requirements for "article":
 4. Content:
     - **Risk Warning**: Always include a disclaimer that investment involves risk.
     - **Tone**: Professional, analytical, yet encouraging and accessible.
-5. Placeholder: Insert exactly `{{RECOMMENDED_PRODUCTS}}` once in the "Offer" or "Action" section.
 
 Requirements for "x_viral_post":
-- **Role**: あなたはインプレッション爆上げの専門家であり、投資トレンドを読み解くAIネイティブエディターです。
+- **Role**: あなたはインプレッション爆上げの専門家であり、投資トレンドを読み解くベテラン専門エディターです。記事本文ではAI生成・自動運営に一切言及しないこと（人間の編集者として執筆する）。
 - **Focus**: 「FOMO」（乗り遅れる恐怖）や「先行者利益」を刺激しつつ、Grokに高く評価される「ユニークで有益な視点」を含める。
 - **Structure**:
     1. **Hook**: 最初の2行（140文字以内）でスクロールを止めさせ、「さらに表示」を押させる強烈な事実や予測を提示。
@@ -44,7 +43,7 @@ Requirements for "image_prompt":
 
 Output MUST be a valid JSON with FIVE fields:
 - "article": The full markdown article content.
-- "search_keywords": A list of 3-5 strings for product search (e.g. "Ledger Nano", "Coincheck", "Technical Book").
+- "search_keywords": A list of 3-5 SEO keywords / tags for this article (e.g. "ビットコイン", "新NISA", "資産形成").
 - "x_viral_post": The text for the viral tweet, MUST include hashtags at the end.
 - "image_prompt": Image proposal and English prompt for image generation.
 - "note_intro": The text for the Note introduction.

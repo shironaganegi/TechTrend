@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# Supply Chain Attack Hits LiteLLM, a Cornerstone of AI Development: Risks Facing Engineers and True Defenses
 
 ## 1. Introduction: A Shadow Lurking in the "Heart" of the AI Ecosystem
 
@@ -38,7 +37,6 @@ With LiteLLM, you can switch models instantly simply by writing `completion(mode
 
 The more convenient a tool is, the more its security must be managed from a "Zero Trust" perspective rather than "Implicit Trust."
 
-## 4. Practical Action Guide: Steps for Damage Minimization and Prevention
 
 ### Step 1: Immediate Environment Audit and Version Pinning
 First, immediately check the version in your current environment.
@@ -73,5 +71,3 @@ pip-audit
 The situation surrounding LiteLLM highlights the inherent risks of "excessive dependence on external libraries" in AI development. In engineering, convenience and security are always in a trade-off relationship.
 
 The true lesson we must learn is not to blindly trust specific libraries, but to apply our imagination to the dependencies and distribution processes behind them. Check your `pip list` right now. Those few seconds of work could be the decisive step that protects your product and your company's credibility. 🚀
-
----

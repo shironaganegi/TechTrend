@@ -14,11 +14,7 @@ class Config:
     # BlueSky
     BLUESKY_HANDLE: str = os.getenv("BLUESKY_HANDLE", "")
     BLUESKY_PASSWORD: str = os.getenv("BLUESKY_PASSWORD", "")
-    
-    # Rakuten
-    RAKUTEN_APP_ID: str = os.getenv("RAKUTEN_APP_ID", "")
-    RAKUTEN_AFFILIATE_ID: str = os.getenv("RAKUTEN_AFFILIATE_ID", "")
-    
+
     # X (Twitter) - Optional
     X_API_KEY: str = os.getenv("X_API_KEY", "")
     X_API_SECRET: str = os.getenv("X_API_SECRET", "")
@@ -35,8 +31,7 @@ class Config:
     EN_ARTICLES_DIR: str = os.path.join(DATA_DIR, "articles_en")
     WEBSITE_CONTENT_DIR: str = os.path.join(BASE_DIR, "website", "content", "posts")
     PROMPTS_DIR: str = os.path.join(DATA_DIR, "prompts")
-    ADS_FILE: str = os.path.join(DATA_DIR, "ads.json")
-    
+
     # Constants
     USER_AGENT: str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 

@@ -23,7 +23,6 @@ In contrast, Odyssey-2 Max is more than just a video generation tool. It is the 
 While conventional video AI learned the "connection between images," Odyssey-2 Max attempts to incorporate "dynamic causal relationships" into the model. This is not merely an improvement in visual experience. It means that for autonomous driving simulations, robot reinforcement learning, and the construction of digital twins, virtual environments with physical behaviors indistinguishable from reality can be "generated with a single prompt." This leap toward "physical accuracy" is the key to a true industrial revolution.
 </div>
 
-## Three Technical Breakthroughs of Odyssey-2 Max
 
 ### 1. Deepening Physical Accuracy
 The greatest evolution in Odyssey-2 Max lies in its accurate interpretation of physical parameters such as "collision detection," "fluid dynamics," and "gravitational acceleration." Expressions where conventional "plausibility" reached its limits—such as the behavior of splashes when water is poured into a glass or the complex sagging of fabric—have been sublimated into "accurate simulations" that feel as though they are based on raw calculation.

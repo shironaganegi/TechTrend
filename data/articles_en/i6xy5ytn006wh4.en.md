@@ -82,7 +82,6 @@ To succeed in this challenge, you must face three realities from the outset:
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
 
 ### Q1. I have a strong aversion to math. Can I still complete it?
 **A.** While a basic understanding of high-school-level math (linear algebra and calculus) is desirable, you don't need to give up. Phase 1 focuses strictly on rebuilding the mathematical foundations "truly necessary for AI." Rather than memorizing equations, you will go through the process of "converting formulas into code and actually running them," making the design highly intuitive even for abstract concepts.

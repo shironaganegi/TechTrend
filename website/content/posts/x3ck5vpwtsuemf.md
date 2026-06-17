@@ -8,8 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/x3ck5vpwtsuemf/"
 +++
 
 
-# AIエージェントを「道具」から「熟練のパートナー」へ。Matt Pocock氏が公開した『skills』の衝撃
-
 ## 序論：2026年、我々は「雰囲気」でコードを書き続けるのか
 
 「AIに指示を出したが、期待通りのコードが返ってこない」――これは、現代のエンジニアが直面する最も普遍的な課題の一つである。現状、多くのAI活用は**「Vibe Coding（バイブス・コーディング）」**、すなわち曖昧なプロンプトを投げ、幸運な出力を祈るという不確実なプロセスに留まっている。
@@ -66,17 +64,3 @@ Matt Pocock氏の『skills』は、AIを使いこなしたいと願うすべて�
 AIを単なる省力化ツールと見なすか、それとも自身のエンジニアリング能力を拡張するサイボーグ・パーツと見なすか。このリポジトリを自身の環境に取り入れた瞬間、あなたの開発プロセスは新たな次元へと突入するはずである。
 
 🚀 **[mattpocock/skills をチェックする](https://github.com/mattpocock/skills)**
-
-
-> **おすすめのサービス (PR)**
-> 
-> 
-> [1時間2円から、国内最速・高性能レンタルサーバー【ConoHa WING】](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SJACI)
-> ![](https://www17.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SJACI)
-
-
-
-
-
-
-

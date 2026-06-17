@@ -35,13 +35,6 @@ Traditional DAST (Dynamic Application Security Testing) tools often flag "potent
 
 Shannon analyzes the application's source code to intelligently guide its attack strategies. It integrates existing security tools like Nmap and Subfinder while performing live tests against the running application. This is an advanced form of penetration testing made possible precisely because the tool understands the source code.
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your unique domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
 
 ## 3. The Engineer's Perspective: Shannon's True Value in the Age of AI
 
@@ -59,7 +52,6 @@ While typical SAST (Static Analysis) tools report "potential bugs," Shannon prov
 
 Shannon Lite is a "white-box" tester, meaning it requires access to source code. In strict Japanese enterprise environments with rigid security policies, permitting this source code access might pose a barrier to adoption. However, for organizations adopting modern DevOps and pushing security shift-left, enhancing code visibility and resolving issues early is an indispensable step.
 
-## 4. Deployment and Usage
 
 ### 4.1 Product Lineup
 
@@ -75,7 +67,6 @@ Shannon Lite is publicly available on the GitHub repository. Basic usage involve
 
 [Shannon GitHub Repository](https://github.com/KeygraphHQ/shannon)
 
-## 5. Summary
 
 ### Pros (Advantages)
 *   High success rate of 96.15% and elimination of false positives

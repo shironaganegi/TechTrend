@@ -85,14 +85,6 @@ ALLOWED_USERS=あなたのTelegramID
 - サーバーを常時稼働させるための、ささやかなコスト（あるいは自宅サーバの電気代）。
 - 1000行を超えるような大規模なリファクタリングは、やはり大画面で眺めたくなる（それは欲張りというものだろう）。
 
-## 🎁 おすすめの学習・活用ツール
-
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ## 結論：今すぐスターを投げ、未来をインストールせよ
 
@@ -105,18 +97,3 @@ Claude Codeの真価は、PCの前にいる時だけ発揮されるものでは�
 [GitHub Repo: RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram)
 
 さあ、次はどんなツールで僕らの限界を超えていこうか？ 未来はすぐそこだ。🔥
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[1時間2円から、国内最速・高性能レンタルサーバー【ConoHa WING】](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SJACI)
-![](https://www17.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SJACI)
-
-:::
-
-
-
-
-
-

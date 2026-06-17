@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# From "Writing" Frameworks to "Governing" Them: Why the Django MTV Model is Indispensable for AI-Era Engineers
 
 ## Introduction: Redefining "Design Philosophy" in the Age of AI
 

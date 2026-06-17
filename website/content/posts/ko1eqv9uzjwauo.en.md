@@ -8,8 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/ko1eqv9uzjwauo/"
 +++
 
 
-# Redefining "Consent": A Recent US Ruling Highlights the Critical Importance of "Notification Infrastructure" for SaaS and AI Development
-
 ## 1. Introduction: Rewriting the Boundary Between UX and Legal
 
 In modern product development, enhancing User Experience (UX) and mitigating legal risks often exist in a state of conflicting trade-offs. Specifically, mandatory pop-ups and consent buttons displayed during Terms of Service (TOS) updates—commonly known as "Clickwrap"—have long been a major barrier that disrupts the user flow.

@@ -115,7 +115,6 @@ When a user switches browser tabs or minimizes the window, the browser pauses or
 
 ---
 
-## FAQ: Frequently Asked Questions about TinyWind
 
 ### Q1. Is TinyWind completely free to play?
 **A.** Yes, it is entirely free. There is no need to go through an app store, nor is there any account registration required. Simply open the URL, and you can play instantly on both desktop and mobile.

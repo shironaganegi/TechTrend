@@ -53,12 +53,6 @@ Before you put a domain in your cart, take a moment to stop. Get into the habit 
 - **Cons**: Low deliverability, blocked access, and heavy costs from the second year onwards.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your custom domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ### 💾 Conclusion: Buying Trust is the Best ROI
 
 "Saving money on a domain only to throw away your service's credibility."
@@ -72,4 +66,3 @@ Now that you’ve finished this article, is your project’s domain really okay 
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/49okae8mb6i4cs/).
-

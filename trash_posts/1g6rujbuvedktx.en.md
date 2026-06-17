@@ -44,7 +44,6 @@ Implementing PersonaPlex follows a logical series of steps rather than waving a 
 # Pull PersonaPlex-related images from the NVIDIA Container Registry (Example)
 docker pull nvcr.io/nvidia/personaplex:latest
 
-# Request specifying persona and voice via API
 # (Hypothetical request example where persona and voice are defined as a set)
 POST /v1/chat/completions
 {
@@ -70,12 +69,6 @@ How will the world change when PersonaPlex is unleashed?
 Of course, it’s not all sunshine and roses. Running high-resolution processing for "personality" requires significant GPU resources—essentially, powerful "muscles for thought." Furthermore, for those of us in Japan, a major focus moving forward will be how deeply the system can reproduce the delicate nuances and honorific expressions unique to the Japanese language.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your unique domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ### Editor's Closing Thoughts: The Journey to Find "Heart" in AI
 
 NVIDIA PersonaPlex pushes AI to break away from being a "mere convenient calculator" and elevates it into a "neighbor with a personality" that blends into our daily lives.
@@ -90,4 +83,3 @@ It is not that the AI possesses a heart. Rather, our imagination gives the AI a 
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/1g6rujbuvedktx/).
-

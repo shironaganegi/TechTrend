@@ -27,7 +27,6 @@ AI coding tools excel at "local optimization" but are desperately poor at mainta
 
 ---
 
-## 🚨 The "Three Silent Collapses" That Occur as Project Scale Increases
 
 ### 1. Context Fragmentation and the "Trap of Local Optimization"
 No matter how much the context windows of LLMs expand, it is physically impossible to perfectly grasp an entire codebase of tens or hundreds of thousands of lines in a single inference process. AI tools extract relevant code using RAG (Retrieval-Augmented Generation) and allocate it to the context, but even the slightest misalignment in this selection causes issues. The AI fails to detect the existence of existing common utilities, custom hooks, or domain models, and begins writing the identical logic from scratch. As a result, "similar but subtly different" code is mass-produced within the codebase, severely degrading maintainability.

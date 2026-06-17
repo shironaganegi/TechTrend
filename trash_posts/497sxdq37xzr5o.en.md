@@ -70,10 +70,7 @@ Once the setup is complete, simply provide the source code path and target URL, 
 - **API Cost Management**: Since it runs powerful LLMs continuously, you’ll need to manage costs based on the scope of the scan.
 
 
-
 ### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com." TechTrend Watch uses it too!**](https://www.onamae.com/)
-
 
 
 Recommended: [The Textbook of Web Security], [Systematic Guide to Building Secure Web Applications]
@@ -92,4 +89,3 @@ That stinging sensation of having an AI find your jugular—that is exactly what
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/497sxdq37xzr5o/).
-

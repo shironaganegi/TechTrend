@@ -29,7 +29,6 @@ Until now, agent improvement has been little more than makeshift "symptomatic tr
 
 ---
 
-## Three Core Features of 'evolver'
 
 ### 1. Disciplined Evolution via GEP (Genome Evolution Protocol)
 Self-rewriting by AI always carries the risk of system collapse (regression). By introducing GEP, evolver defines a clear framework of "constraints" and "evaluation" for the evolutionary process. It achieves high-reliability self-evolution by applying Git mechanisms, such as performing immediate rollbacks if a change fails.

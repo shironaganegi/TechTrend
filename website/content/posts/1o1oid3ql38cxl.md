@@ -67,17 +67,3 @@ A: 日本モデルロケット協会が主催する公式の打ち上げ会に�
 「1万円強でロケットを自律制御する」――。これは、個人の情熱と技術力が、かつては国家や巨大企業の専売特許であった領域を侵食し始めた証左である。
 
 実機を製作せずとも、GitHubに公開された設計思想を紐解くだけで、制御理論やシステム設計の深い学びを得ることができるはずだ。高度な技術が、手のひらの上で民主化されていく。さあ、このオープンソース宇宙開発の最前線を、あなたならどう読み解くだけだろうか。🚀---
-
-
-> **おすすめのサービス (PR)**
-> 
-> 
-> [スッキリわかるPython入門 第2版 (楽天ブックス)](https://rpx.a8.net/svt/ejp?a8mat=4AX38F+LFMK2+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eac8dc2.9a477d4e.0eac8dc3.0aa56a48%2Fa26020474676_4AX38F_LFMK2_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703%26m%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703)
-> ![](https://www16.a8.net/0.gif?a8mat=4AX38F+LFMK2+2HOM+BW8O1)
-
-
-
-
-
-
-

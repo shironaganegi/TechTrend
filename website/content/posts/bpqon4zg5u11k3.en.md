@@ -83,7 +83,6 @@ To unlock the full potential of ECC, it is crucial to understand the following t
 
 ---
 
-## ❓ FAQ (Frequently Asked Questions)
 
 ### Q1. Is there any benefit to implementing ECC in solo development?
 **A1.** Yes, absolutely. Managing API costs is a make-or-break issue for individual developers. ECC's memory compression minimizes token consumption, directly lowering development costs. Additionally, AgentShield's secure, automated execution environment serves as a reliable guardrail to support you when developing without peer reviews.

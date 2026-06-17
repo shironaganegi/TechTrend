@@ -60,7 +60,6 @@ In future system designs, a paradigm shift toward a "Zero-Trust Data" design phi
 
 ---
 
-## FAQ: Real-World Questions and Approaches
 
 ### Q1. Can't AI-generated evidence be easily detected in court or through forensics?
 **A.** While sophisticated digital forensics might detect unnatural metadata or specific noise patterns, it is practically impossible to allocate expert analytical resources to every minor daily case or the massive volume of investigation reports. Consequently, the vast majority of fakes would go unnoticed, posing an extremely high risk of triggering false accusations or wrongful convictions.

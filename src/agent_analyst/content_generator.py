@@ -10,10 +10,8 @@ import logging
 from typing import List, Dict, Any, Optional
 
 from src.agent_analyst.failure_miner import mine_failures
-from src.agent_analyst.product_recommender import search_related_items
 from src.agent_analyst.editor import refine_article
 from src.agent_analyst.llm import llm_client
-from src.agent_analyst.affiliate_manager import affiliate_manager
 from src.shared.config import config
 from src.shared.utils import setup_logging, safe_requests_get
 
@@ -47,14 +45,6 @@ def get_readme_content(github_url):
         logger.error(f"Failed to fetch README: {e}")
     
     return "No detailed documentation found."
-
-def load_ads():
-    try:
-        with open(config.ADS_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception as e:
-        logger.error(f"Failed to load ads from {config.ADS_FILE}: {e}")
-        return []
 
 def generate_article(tool_data: Dict[str, Any], x_hot_words: Optional[List[str]] = None) -> str:
     """
@@ -94,7 +84,7 @@ def generate_article(tool_data: Dict[str, Any], x_hot_words: Optional[List[str]]
 
 
     if not config.GEMINI_API_KEY:
-        return f"# {name}\n:::message\n本記事はプロモーションを含みます\n:::\nMock content.\n{{{{RECOMMENDED_PRODUCTS}}}}"
+        return f"# {name}\n\nMock content."
 
     # 2. Call Gemini
     # Force JSON mode to prevent preamble text
@@ -157,8 +147,8 @@ def generate_article(tool_data: Dict[str, Any], x_hot_words: Optional[List[str]]
                  draft = re.sub(r'^[\s\S]*?"article"\s*:\s*"', '', draft)
                  draft = re.sub(r'",\s*"\w+"[\s\S]*$', '', draft)
 
-    # 4. Inject Affiliate Products
-    final_article = inject_products(draft, keywords)
+    # 4. アフィリエイト機能は廃止。残存するプレースホルダーのみ除去する。
+    final_article = draft.replace("{{RECOMMENDED_PRODUCTS}}", "").replace("{RECOMMENDED_PRODUCTS}", "")
 
     # 5. Refine with Editor Personality
     try:
@@ -217,24 +207,7 @@ def clean_json_text(text):
     # 3. Fallback to original cleanup
     return text.strip()
 
-def inject_products(draft, keywords):
-    if isinstance(keywords, str): keywords = [keywords]
-    
-    # Use AffiliateManager to get recommendations (Books -> Rakuten -> Gadgets)
-    products_html = affiliate_manager.get_recommendations(draft, keywords)
-    
-    return draft.replace("{{RECOMMENDED_PRODUCTS}}", products_html).replace("{RECOMMENDED_PRODUCTS}", products_html)
-
 def append_footer_content(article, x_post, note_intro="", image_prompt=""):
-    # Add Affiliate Campaign
-    ads = load_ads()
-    try:
-        ad = random.choice(ads)
-        # Use Zenn message block for cleaner ad separation
-        article += f"\n\n:::message\n**おすすめのサービス (PR)**\n\n{ad['html']}\n:::\n"
-    except (IndexError, KeyError):
-        pass
-
     # Add Hidden X Post
     if x_post:
         article += f"\n\n---X_POST_START---\n{x_post}\n---X_POST_END---\n"
@@ -413,25 +386,8 @@ if __name__ == "__main__":
             article_title = line.replace("# ", "").replace('"', '\\"')
             break
             
-    # Extract metadata from body_content if still present (legacy fallback) or pass directly
-    # In this refactor, we pass them directly from generate_article return if possible,
-    # but generate_article currently returns a single string.
-    # To avoid changing return signature too much, we will extract them from the returned string specific blocks
-    # OR better, change generate_article to return a dict.
-    # But for minimal disruption, let's parse them out from the blocks before we remove them.
-    
-    # Wait, generate_article calls append_footer_content which appends them.
-    # We should change generate_article to return (body, metadata)
-    # OR we can just pass them to frontmatter generation locally inside generate_article?
-    # generate_article returns a string.
-    
-    # Let's change generate_article to return a tuple: (content, metadata)
-    # But that breaks the signature.
-    
-    # Alternative:
-    # 1. generate_article returns the full string with blocks (as before).
-    # 2. main() extracts blocks, puts them in frontmatter, and REMOVES them from body.
-    
+    # generate_article() は本文末尾に隠しブロック(X投稿/note導入/画像プロンプト)を
+    # 付加して返すため、ここで抽出してfrontmatterへ移し、本文からは取り除く。
     x_post_match = re.search(r'---X_POST_START---([\s\S]*?)---X_POST_END---', body_content)
     x_viral_post = x_post_match.group(1).strip() if x_post_match else ""
     

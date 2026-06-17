@@ -37,7 +37,6 @@ Until now, RAG (Retrieval-Augmented Generation) was, in a sense, a "superior ind
 import google.generativeai as genai
 
 model = genai.GenerativeModel('gemini-1.5-pro')
-# Include a large document context in the prompt, 
 # or generate an answer in coordination with a RAG system.
 response = model.generate_content([
     "Based on the documents, please summarize the key relationships between individuals.", 
@@ -63,12 +62,6 @@ Of course, this technology is not a magic wand. To master the overwhelming power
 The fate of AI—hallucinations (plausible lies)—and the management of privacy for confidential information remain challenges. Only after establishing a rigorous verification process for these issues can we truly grasp this "God's-eye view."
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 For custom domain registration, use "Onamae.com." TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ### Editor's Note: Unorganized Data is Now a "Resource"
 
 What "Jemini" has proven is that with a modern weapon like Gemini, a massive, unorganized dataset is not a "pile of trash," but a valuable "information mine."
@@ -83,4 +76,3 @@ First, experience that response speed and the resolution of thought for yourself
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/6bi4hezm41wjag/).
-

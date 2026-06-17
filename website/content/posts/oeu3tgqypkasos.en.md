@@ -133,7 +133,6 @@ Thus, "Self-Implementation × AI Review" stands out as the most rational and sus
 
 ---
 
-## 4. Practical Pitfalls and Mitigation Strategies
 
 ### ① Controlling AI "Over-Engineering"
 AI often tries to anticipate your needs by proposing unnecessary libraries or overly complex architectures.
@@ -145,7 +144,6 @@ Instead of outsourcing the decision of "which is best" to an AI, you should comp
 
 ---
 
-## 5. Frequently Asked Questions (FAQ)
 
 ### Q1. Is AI code review reliable enough for production-level development?
 **A.** In short, yes, it is highly reliable. AI is incredibly effective at pointing out things hard to catch with traditional static analysis tools (Linters/Formatters), such as unnatural naming conventions, missing exception handling, or tight coupling that could be resolved with refactoring. That being said, because AI can occasionally suffer from hallucinations (suggesting non-existent APIs or incorrect specifications), you must always include a fact-checking step to verify library specifications in the official documentation.

@@ -114,18 +114,3 @@ with suppress(FileNotFoundError):
 「美しいコードは、正しい挙動を強制する」。
 
 泥臭い手動管理から脱却し、`contextlib`による洗練されたリソース管理を取り入れることで、あなたのコードはより堅牢に、そしてよりPythonicな高みへと進化するだろう。本質的なロジックに集中できる環境を、自らの手で構築してほしい。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[国内シェアNo.1のエックスサーバーが提供するVPSサーバー『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-![](https://www11.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-
-:::
-
-
-
-
-
-

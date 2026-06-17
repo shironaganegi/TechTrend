@@ -59,12 +59,6 @@ The primary content is in Chinese or English. However, it would be a huge waste 
 
 Today, you have browser translation tools, and more importantly, you have an "AI partner." Diving into the sea of code snippets and deciphering them while having an LLM explain them窶杯hat process itself is the ultimate training for agent development. Don't you agree?
 
-<!-- AFFILIATE_START -->
-
-### 燥 Recommended Services for Engineers 燥
-[**倹 Get your own domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ### 噫 Conclusion: From "Using LLMs" to "Commanding AI"
 
@@ -75,5 +69,3 @@ There is no need to fear that AI will steal your job. What you should fear is "s
 Give the AI a "will" with your own hands.
 
 肌 **Repository**: [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
-
-

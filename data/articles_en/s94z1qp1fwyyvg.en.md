@@ -47,12 +47,6 @@ claude
 - **Benefits**: Researchers can focus on the essence of their work—"data interpretation"—without being bogged down by the granular details of programming syntax.
 - **Challenges**: It is necessary for humans to manage API costs and perform final validations of the scientific validity of the generated analysis code.
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ### 💡 Summary: AI Agents are Changing Science
 

@@ -91,18 +91,3 @@ image_prompt: "A clean, modern workspace of a futuristic developer. On the desk,
 毎日何気なく繰り返しているルーティンワークを数行のスクリプトに代替させる。これだけで、年間を通じて生み出される時間は計り知れない。
 
 「自分の書いたコードがWebの世界と連携し、自律的に機能する」という快感は、開発者としての視野を大きく広げてくれるはずだ。本書を通じて、単なる知識のインプットを超えた、自身のエンジニアリングをシステムとして実社会に組み込む興奮を、ぜひ体験してほしい。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[国内シェアNo.1のエックスサーバーが提供するVPSサーバー『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-![](https://www11.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-
-:::
-
-
-
-
-
-

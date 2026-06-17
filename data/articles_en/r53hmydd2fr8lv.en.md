@@ -81,7 +81,6 @@ Before entering the implementation phase of your system, we recommend using the 
 
 ---
 
-## FAQ: Common Questions in Log Design
 
 ### Q1. What if I still want to adopt the logger with the fastest benchmark?
 **A.** Adopting it is not inherently wrong, but you must run load tests that simulate hardware limits and sudden traffic spikes. Particularly when introducing asynchronous logging, you must strictly ensure via code review that buffer sizes are properly configured, and that a `Flush()` (or `Sync()`) operation is reliably executed to force-flush logs from memory when the application terminates.

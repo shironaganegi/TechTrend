@@ -85,7 +85,6 @@ While CodeGraph is incredibly powerful, it is important to keep the following po
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
 
 ### Q1. What are the specific setup steps for Cursor?
 Running the `codegraph init -i` command in your project folder launches an interactive configuration console. Simply answer "Yes" to the prompt asking "Do you want to register this MCP server with Cursor?" and it will automatically write the correct path and startup arguments to your Cursor configuration file (such as `cursor.json`). There is no need to edit configuration files manually.

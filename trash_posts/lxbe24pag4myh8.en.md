@@ -67,12 +67,6 @@ While I want to offer nothing but praise, let me add a slightly critical perspec
 - **Cons**: The entire content is in English. However, considering that the diagrams are the main content, the value of deciphering it with a translation tool by your side is more than enough. In fact, the habit of consuming this level of information in English will likely become a survival strategy as an engineer.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 For original domain acquisition, visit "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ## 🏁 Conclusion: Star It Now. Update Your "Knowledge."
 
 The LLM is one of the most complex and exciting black boxes in human history. I know of no other repository that pries open that lid and organizes the contents so beautifully and practically.
@@ -87,4 +81,3 @@ Go ahead, take a look at the GitHub now. You should find a magnificent landscape
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/lxbe24pag4myh8/).
-

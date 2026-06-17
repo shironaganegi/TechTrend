@@ -25,7 +25,6 @@ The essence of this incident lies in allowing a non-deterministic AI agent to sc
 
 ---
 
-## 🔍 The Full Story: What Happened During the DN42 Scan?
 
 ### 1. DN42: The "Endless Labyrinth"
 DN42 is one of the world's largest decentralized private networks, allowing users to practically learn and operate routing technologies like BGP (Border Gateway Protocol) used on the actual internet. Since volunteers worldwide dynamically connect and modify routes, this network is highly complex—a chaotic environment where incomplete DNS records and packet loss are daily occurrences. Making this vast, dynamic, and uncertain network the target of an AI agent's exploration was the first trigger.

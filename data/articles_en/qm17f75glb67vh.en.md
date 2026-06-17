@@ -29,7 +29,6 @@ Many traditional AI reviewers have limited themselves to "superficial suggestion
 
 ---
 
-## 2. Three Core Features That Define Graphbit PRFlow
 
 ### ① "Multi-layered Bug Detection" with an Architectural Overview
 Graphbit doesn't just look at modified files in isolation. It analyzes the dependencies rippling out from the changes as a graph structure spanning multiple files. This allows it to unearth serious logic errors, such as inconsistencies in edge cases or race conditions, within code that may appear syntactically correct at first glance.

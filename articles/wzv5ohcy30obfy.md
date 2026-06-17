@@ -72,14 +72,6 @@ Qwen-Agentを手に入れたあなたは、何から着手すべきか。白ネ�
 - **言葉の壁**: 公式ドキュメントは英語と中国語がメイン。しかし、コードを読み解く力があるエンジニアなら、むしろその「荒削りな最新感」にワクワクするはず。
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 ## まとめ：Starを押し、未来を実装せよ
 
 AIエージェントは、もはや「未来の技術」ではありません。Qwen-Agentの登場によって、それは「今日、今すぐ実装できる現実」へと降りてきました。
@@ -89,18 +81,3 @@ AIエージェントは、もはや「未来の技術」ではありません。
 今すぐGitHubへ飛び、そのリポジトリにStarを刻みましょう。あなたの手で、AIの可能性を解き放つ時間は、今この瞬間から始まっています。🔥
 
 [GitHub - QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[ConoHa Pencil でブログ運営を超効率化](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SXFLU)
-![](https://www12.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SXFLU)
-
-:::
-
-
-
-
-
-

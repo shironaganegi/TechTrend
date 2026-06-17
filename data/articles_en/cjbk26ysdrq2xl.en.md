@@ -36,8 +36,6 @@ This allows us to dramatically slim down the cost known as "tokens" without sacr
 The beauty of Edgee lies in its ease of implementation. There is no need to rebuild complex logic. While using existing SDKs, simply pointing your endpoint to Edgee activates the "intelligent optimization" in the background.
 
 ```python
-# Traditional direct call
-# client = OpenAI(api_key="...")
 
 # Call via Edgee's "intelligence" (conceptual example)
 client = OpenAI(
@@ -62,7 +60,6 @@ Change the results without changing the coding style. This refined UX is exactly
 3. **Startup API Budget Defense**: 
    In the event of an unexpected traffic spike, the gateway acts as a "smart breakwater" to ensure specific projects do not bleed tokens.
 
-## ⚖️ Expectations and a Few "Candid Concerns"
 
 ### Pros
 - Needless to say, it directly slashes LLM running costs.
@@ -72,12 +69,6 @@ Change the results without changing the coding style. This refined UX is exactly
 - Since it involves a summarization process, the risk of losing that 1% of niche, detailed information cannot be ruled out.
 - The documentation and ecosystem are still evolving. Production deployment will require the "ritual" of thorough validation.
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your custom domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ## Finally: For Sustainable AI Development
 

@@ -71,7 +71,6 @@ The fastest route to growth for modern engineers lies in establishing a clear di
 
 ---
 
-## ⚠️ Two Major Bottlenecks to Avoid During Implementation
 
 ### 1. The Trap of Time Limit Exceeded (TLE)
 This is a phenomenon where code runs perfectly fine on a small set of local test cases, but exceeds the time limit (typically 2.0 seconds) when submitted to an online judge. This is particularly noticeable in interpreted languages like Python.
@@ -87,7 +86,6 @@ This refers to unexpected behavior triggered by "boundary conditions," such as w
 
 ---
 
-## 💬 FAQ: Bridging the Gap Between Competitive Programming and Real-World Development
 
 ### Q1. Are there scenarios in real-world web development where competitive programming knowledge is directly useful?
 **A.** Absolutely. For instance, filtering and sorting thousands of items on the frontend without lag, or designing batch sizes and database indexes to minimize load—your "intuition for computational complexity" comes into play in almost every everyday scenario. Learning competitive programming enables you to write clean code designed with performance in mind from the very start.

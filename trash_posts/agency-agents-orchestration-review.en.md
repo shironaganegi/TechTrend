@@ -72,5 +72,3 @@ The era of manually writing source code line by line is nearing its end. The ski
 
 ---
 *TechTrend Watch - Illuminating next-generation standards from the depths of technology.*
-
-

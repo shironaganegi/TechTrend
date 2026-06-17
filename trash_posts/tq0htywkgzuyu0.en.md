@@ -23,7 +23,6 @@ In the past, the choice was usually between a "feature-rich IDE (JetBrains)" or 
 - **Redefining Collaboration**: Zed’s "multi-buffer" and collaborative editing features have the potential to fundamentally change the concept of remote development.
 - **Ecosystem Philosophy**: A clash of philosophies—focusing on polishing core features to perfection rather than relying solely on a massive library of third-party extensions.
 
-## 🛠️ First Steps for Adoption
 
 ### Trying Out Zed (Instant for Mac users!)
 ```bash
@@ -49,14 +48,6 @@ Simply install the "AI Assistant" plugin from the settings of any JetBrains IDE 
   - ❌ **Cons**: Can feel heavy at times, requires a paid subscription.
 
 
-
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your custom domain with "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
-
 ## 🏁 Summary: Which one is actually better?
 
 In conclusion, the **"hybrid approach"** is the most powerful. I personally use Zed for quick code reviews and fast builds, and switch to JetBrains when I'm doing deep, heavy lifting. For an engineer, an editor is like a "sword." Take this opportunity to find the one that fits you best! Go ahead and try Zed today, or turn on the AI features in JetBrains. 🔥
@@ -67,4 +58,3 @@ If you enjoyed this post, don't forget to star the repository! 🌟
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/tq0htywkgzuyu0/).
-

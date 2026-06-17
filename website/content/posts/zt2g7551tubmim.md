@@ -65,17 +65,3 @@ OSINT（公開情報調査）、SQLインジェクション、ワイヤレス攻
 
 ---
 *※本記事は教育およびセキュリティ意識向上を目的としています。ツールの使用は常に倫理的かつ法的な枠組みの中で、自己責任において行ってください。*
-
-
-> **おすすめのサービス (PR)**
-> 
-> 
-> Minecraftマルチプレイするなら[『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)
-> ![](https://www19.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)
-
-
-
-
-
-
-

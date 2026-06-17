@@ -28,7 +28,6 @@ Users who only use Claude Code as an "advanced search tool" typically face three
 
 "claude-howto" is designed to solve these challenges structurally. More than just a collection of tips, its greatest features are its visualized tutorials and **production-grade templates** that engineers can intuitively grasp and implement immediately.
 
-## Three Core Values Transforming the Development Paradigm
 
 ### 1. A Systematic Roadmap Comprising 10 Modules
 The repository presents a curriculum covering everything from basics to advanced applications in approximately 11 to 13 hours. A standout feature is the instruction to run the `/self-assessment` command within Claude Code, allowing the AI to diagnose your skill level. This automatically generates the most efficient learning path optimized for each individual engineer.

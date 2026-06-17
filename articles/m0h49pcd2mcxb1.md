@@ -74,14 +74,6 @@ openclaw onboard --install-daemon
 ## 白ネギ・テック 推奨アイテム
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 自分専用のAI環境を24時間安定して稼働させるなら、堅牢なネットワークと独自の拠点が不可欠。まずは自分だけの「ドメイン」を手に入れ、パーソナルサーバーの構築から始めてみるのも一興です。
 
 ## まとめ：AIを「ツール」から「相棒」へ昇華させよう
@@ -93,16 +85,3 @@ OpenClawは、単なる便利ツールではありません。それは、AIと�
 もしあなたが、AIの真のポテンシャルを「自分の領地」で発揮させたいと願うなら、迷わずこのロブスターの門を叩いてみてください。
 
 [GitHubリポジトリで詳細をチェックする](https://github.com/openclaw/openclaw)
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[国内シェアNo.1のエックスサーバーが提供するVPSサーバー『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-![](https://www11.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25F7IA)
-
-:::
-
-
-
-

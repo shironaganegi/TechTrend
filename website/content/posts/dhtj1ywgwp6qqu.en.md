@@ -64,7 +64,6 @@ To unlock the maximum potential of this excellent model, you must adhere to a fe
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
 
 ### Q1. How difficult is it to migrate from Gemini 1.5 Flash?
 **A.** Since complete backward compatibility is maintained for the API, you can migrate instantly simply by changing the model name (`model_name`) in your SDK configuration file or request parameters. No large-scale code refactoring is necessary.

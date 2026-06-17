@@ -65,14 +65,6 @@ To maintain editorial integrity, I cannot just offer praise. Let’s look at the
 - **The Language Barrier**: The official documentation is primarily in English and Chinese. However, any engineer with the ability to read code will likely find that "unrefined, cutting-edge feel" exciting.
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your own domain at "Onamae.com." TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 ## Conclusion: Star the Repo, Implement the Future
 
 AI agents are no longer "technology of the future." With the arrival of Qwen-Agent, they have become a "reality you can implement today, right now."

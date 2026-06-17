@@ -83,14 +83,6 @@ pub fn add_user(ctx: ReducerContext, name: String) {
 もちろん、代償はある。Rustという「鋭すぎる剣」を扱う技術が求められるし、まだエコシステムは若葉の段階だ。既存の膨大なライブラリ群との付き合い方には、多少の工夫と覚悟が必要になるだろう。
 
 
-
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-
-
-
 ## まとめ：今、この「衝撃」に触れておく意味
 
 SpacetimeDBは、単なる新しいデータベースではない。それは「サーバーサイド開発とは、かくあるべし」という古い常識に対する、エレガントな反逆だ。
@@ -100,18 +92,3 @@ SpacetimeDBは、単なる新しいデータベースではない。それは「
 バックエンド開発の「新しい夜明け」は、すぐそこまで来ている。
 
 [SpacetimeDB GitHubはこちら](https://github.com/clockworklabs/spacetimedb)
-
-
-> **おすすめのサービス (PR)**
-> 
-> 
-> [お名前.com](https://px.a8.net/svt/ejp?a8mat=4AX38F+M125U+50+2HHVNM)
-> ![](https://www11.a8.net/0.gif?a8mat=4AX38F+M125U+50+2HHVNM)
-
-
-
-
-
-
-
-

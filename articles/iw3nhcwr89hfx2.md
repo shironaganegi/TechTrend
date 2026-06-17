@@ -76,12 +76,6 @@ $skill-installer install https://github.com/openai/skills/tree/main/skills/.expe
 
 しかし、OpenAIが「標準化」に動いたという事実は重い。彼らは「知能」の先にある「実行力」を、誰にでも扱えるパッケージに変えようとしているのだ。
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ## 結論：AIエージェントの「艤装」を始めよう
 
@@ -92,18 +86,3 @@ OpenAIの「skills」は、その未来へと続く扉の鍵である。
 まずはStarを付け、ドキュメントを読み、実験的なスキルを一つインストールしてみてほしい。あなたのAIが、あなたの想像を超えて「動き出す」瞬間を、その目で確かめるために。
 
 [GitHub - openai/skills](https://github.com/openai/skills)
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[国内最速・高安定の高性能レンタルサーバー【ConoHa WING】](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SI01U)
-![](https://www11.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SI01U)
-
-:::
-
-
-
-
-
-

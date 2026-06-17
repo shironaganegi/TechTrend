@@ -63,12 +63,6 @@ We should not hand over the inner workings of our thoughts to a system simply be
 Now, there are those attempting to trample into that sanctuary with muddy boots. Whether or not you are aware of this fact will become the borderline of literacy for surviving the coming era.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ### 🏁 Summary: To Us Standing at the Crossroads
 OpenAI, the government, and Persona.
 The ecosystem these three are constructing may appear, at first glance, to promise a "safe and clean future." However, that cleanliness may be a suffocatingly sterile room built upon exhaustive exclusion and surveillance.
@@ -82,4 +76,3 @@ Freedom is not something you win once; it is something you must defend continuou
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/wmt1ajvktt64c2/).
-

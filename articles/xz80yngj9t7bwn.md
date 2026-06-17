@@ -9,7 +9,6 @@ note_intro: "LLM（大規模言語モデル）の真価を実務で120%発揮さ
 image_prompt: "A highly detailed, professional 3D infographic diagram illustrating the RAG (Retrieval-Augmented Generation) process. In the center, a powerful glowing futuristic AI brain processing data. On the left side, organized business documents and database icons emitting digital data streams (representing Vector Database retrieval). On the right side, an elegant UI chat application interface displaying accurate, contextual real-time responses with footnotes and sources. Bright holographic accents, futuristic, clean tech style, octane rendering quality, white and cyan-blue lighting, minimalist workspace background."
 ---
 
-# LLMの限界を突破する「RAG」の本質：ファインチューニング、長文コンテキストとの比較からプロダクション導入のロードマップまで
 
 ## 1. はじめに：なぜ今、改めて「RAG」を再定義すべきなのか
 
@@ -85,7 +84,6 @@ RAGシステムは「検証環境（PoC）での動作は容易だが、本番�
 
 ---
 
-## 6. RAGの実務適用におけるFAQ（よくある質問と実践的回答）
 
 ### Q1. 本番運用を想定した場合、ベクトルデータベースはどのように選定すべきか？
 
@@ -115,18 +113,3 @@ RAGシステムは「検証環境（PoC）での動作は容易だが、本番�
 これからのRAGは、ユーザーの入力に対して「一度検索して、一度答えて終わり」という単純な構造から脱却しつつある。現在、技術の最前線は、LLM自身が「検索クエリが適切か」を評価し、必要であれば検索ワードを再構築して何度もデータベースにアクセスする、あるいは不足している情報をWeb検索で補完する「**Agentic RAG（エージェント型RAG）**」へと移行している。
 
 RAGは単なる過渡期の技術ではない。LLMという脳に、無限の知識を整理して提供するための「基盤インフラ」である。この基本設計と最適化手法を高い解像度でマスターしておくことは、高度なAIアプリケーションを社会実装していくエンジニアにとって、これ以上ない強力な武器となるはずだ。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[世界にたった一つ、あなただけのドメインを登録しよう！](https://px.a8.net/svt/ejp?a8mat=4AX38F+M125U+50+2HE0RM)
-![](https://www15.a8.net/0.gif?a8mat=4AX38F+M125U+50+2HE0RM)
-
-:::
-
-
-
-
-
-

@@ -35,7 +35,6 @@ Until now, RAG (Retrieval-Augmented Generation) was, in a sense, a "superior ind
 import google.generativeai as genai
 
 model = genai.GenerativeModel('gemini-1.5-pro')
-# Include a large document context in the prompt, 
 # or generate an answer in coordination with a RAG system.
 response = model.generate_content([
     "Based on the documents, please summarize the key relationships between individuals.", 
@@ -60,12 +59,6 @@ Of course, this technology is not a magic wand. To master the overwhelming power
 
 The fate of AI—hallucinations (plausible lies)—and the management of privacy for confidential information remain challenges. Only after establishing a rigorous verification process for these issues can we truly grasp this "God's-eye view."
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 For custom domain registration, use "Onamae.com." TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ### Editor's Note: Unorganized Data is Now a "Resource"
 

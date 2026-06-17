@@ -71,12 +71,6 @@ print(response.json())
 - **レート制限との付き合い方**: 1分間に投げられるリクエストには限りがある。高負荷な処理をさせるなら、それは「課金」という名の対価を払うべきフェーズに入った合図だ。
 - **データの行方を知る**: 特に無料枠では、入力データがモデルの学習に利用されるケースがある。秘密鍵や顧客情報を流し込むような真似は、厳禁である。
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ## 結論：スターを贈り、巨人の肩に乗れ
 
@@ -87,16 +81,3 @@ print(response.json())
 まずは一つ、APIキーを取得することから始めよう。世界を変えるアプリケーションは、いつだってそんな「小さな、無料の試行」から生まれるのだから。
 
 🔧 **GitHub Repo**: [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
-
-:::message
-**おすすめのサービス (PR)**
-
-
-Minecraftマルチプレイするなら[『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)
-![](https://www19.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)
-
-:::
-
-
-
-

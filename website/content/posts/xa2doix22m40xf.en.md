@@ -22,7 +22,6 @@ In this article, we dive into the beauty and the abyss of uncomputability throug
 To many engineers, the "Halting Problem" might sound like a dry theory from a college lecture. However, when you face the reality of the Busy Beaver problem—where a process is guaranteed to end in a finite number of steps, yet that upper bound is uncomputable—you truly feel the abyss of algorithms for the first time. This isn't just theory; it's a "fundamental literacy" for modern developers, directly linked to the limits of code optimization and the impossibility of perfect security static analysis. I believe having this perspective fundamentally changes your "intuition" as a senior engineer.
 </div>
 
-## 1. The Halting Problem and the Busy Beaver: Defining the "End" of Computation
 
 ### The Paradox of the Halting Problem
 The Halting Problem asks: Does a universal program (H) exist that can correctly determine if any given program (P), when provided with a specific input (I), will halt within a finite amount of time? Using proof by contradiction, Turing demonstrated that if such a decider (H) existed, it would lead to a self-contradiction. This was a historical turning point, proving that there are problems computers simply cannot solve in principle.

@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# OpenAI Solves Longstanding Open Conjecture in Discrete Geometry — A New Paradigm of Scientific Discovery Unlocked by "Reasoning Models"
 
 ## Introduction: AI Finally Steps into the Realm of "Creative and Mathematical Thinking"
 
@@ -62,7 +61,6 @@ Witnessing this groundbreaking achievement, many engineers are likely eager to a
 
 ---
 
-## Frequently Asked Questions (FAQ)
 
 ### Q1: How does the problem solved by AI this time translate back to our business and daily lives?
 **A1:** Advancements in discrete geometry and sphere-packing problems translate directly to highly practical technologies. Examples include optimizing data encoding (improving the efficiency of error-correcting codes) in 5G and next-generation 6G communications, developing new battery materials through crystal structure simulations, or automatically optimizing nanometer-scale routing layouts in semiconductor chips. Expanding the frontiers of seemingly abstract mathematics ultimately pushes the physical limits of our infrastructural technology.

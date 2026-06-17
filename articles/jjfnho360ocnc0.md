@@ -63,31 +63,8 @@ print(f"正解率: {clf.score(X_test, y_test):.2f}")
 だからこそ、エンジニアは `max_depth` という名の「手綱」を握り、AIの暴走をコントロールする必要があるのです。
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 ### 結びに：まずはその手で、世界を分類してみよう
 「AIなんて、自分にはまだ早い」
 そんな言葉で、自らの知的好奇心に蓋をしていませんか？ 決定木を動かし、アヤメが分類される様子を眺める。その瞬間、あなたは単なる「技術の消費者」から、世界を解析する「創造者」へと脱皮します。
 
 まずは上記のコードをGoogle Colabに放り込んでみてください。画面に表示される「正解率」の数字こそが、あなたがAIエンジニアとして歩み始めた、確かな第一歩の足音なのですから。🚀
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[スッキリわかるPython入門 第2版 (楽天ブックス)](https://rpx.a8.net/svt/ejp?a8mat=4AX38F+LFMK2+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eac8dc2.9a477d4e.0eac8dc3.0aa56a48%2Fa26020474676_4AX38F_LFMK2_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703%26m%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703)
-![](https://www16.a8.net/0.gif?a8mat=4AX38F+LFMK2+2HOM+BW8O1)
-
-:::
-
-
-
-
-
-

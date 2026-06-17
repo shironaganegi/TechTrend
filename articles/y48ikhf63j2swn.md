@@ -73,18 +73,3 @@ image_prompt: "A high-quality 3D isometric rendering of a Raspberry Pi Zero W co
 Raspberry Pi Zeroを手にするということは、単なる安価なPCを手に入れることではない。それは、ビットの世界に閉じこもっていたエンジニアが、物理法則という制約が存在する現実世界をハックするための「鍵」を手に入れることを意味する。
 
 自作のコードが、空気を冷やし、生活環境を最適化する。その手応えは、Webアプリケーションをデプロイした時のそれとは全く質の異なる、根源的な喜びである。さあ、今こそキーボードを叩き、物理世界の温度を書き換えよう。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[国内最速・高安定の高性能レンタルサーバー【ConoHa WING】](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SI01U)
-![](https://www11.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SI01U)
-
-:::
-
-
-
-
-
-

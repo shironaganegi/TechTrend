@@ -18,7 +18,6 @@ Most conventional AI agents have been little more than "highly functional tools,
 Tech Watch Perspective: The fundamental innovation of this project lies in its implementation of a true "Closed Learning Loop." While traditional RAG (Retrieval-Augmented Generation) is limited to "referencing" existing information, hermes-agent automates the process of "writing and saving new solutions as code based on experience." Once a problem is solved, it is immediately elevated into a "permanent skill." This is not merely an extension of task automation; it is a definitive step toward personalized AGI (Artificial General Intelligence).
 </div>
 
-## 1. The "Four Technical Innovations" Defining hermes-agent
 
 ### ① Autonomous Skill Synthesis: Turning Experience into Assets
 As hermes-agent completes complex tasks, it judges for itself whether the execution steps are reusable in the future. Steps deemed useful are transformed into Python code and added to a library (as a "skill"). For future instructions, instead of reasoning from scratch, it calls upon these refined "existing skills." It is a self-evolving engine where precision and speed improve the more it is used.

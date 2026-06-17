@@ -72,7 +72,6 @@ For developers building autonomous control systems, this provides an incredibly 
 
 ---
 
-## System Design for Ensuring Reliability: FAQ
 
 ### Q1. Why is Italy migrating from its existing country-specific aircraft to the A330 MRTT?
 **A:** The main reasons are "reducing Total Life-Cycle Costs (LCC)" and "maximizing interoperability." Dedicated custom aircraft (like the KC-767) require unique handling for maintenance parts procurement and software updates, which incurs massive costs. Unifying the platform around the A330 MRTT—widely adopted by many NATO member states—allows Italy to share supply chains and operational data, thereby optimizing the overall operational efficiency of the system.

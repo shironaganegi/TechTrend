@@ -56,12 +56,6 @@ With just these steps, a sophisticated agent management screen will launch in yo
 - **Cons**: Documentation is still sparse, so a certain level of OpenClaw knowledge is required. Looking forward to future updates!
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your custom domain at "Onamae.com." TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ## Summary: Give it a Star and Try it Now!
 
 AI agents are moving from the era of "building" to the era of "mastering." As a first step, adopting a management tool like AgentCenter is a truly wise choice. If you're interested, be sure to check out the repository!
@@ -72,4 +66,3 @@ AI agents are moving from the era of "building" to the era of "mastering." As a 
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/too8bocxmiserp/).
-

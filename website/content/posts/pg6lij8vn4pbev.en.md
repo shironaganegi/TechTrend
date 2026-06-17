@@ -31,7 +31,6 @@ Traditional automated testing was, so to speak, "a train running on fixed rails.
 
 ---
 
-## Core Features of Rova AI: Three Breakthroughs Enabled by Autonomous Testing
 
 ### 1. Goal-Oriented Autonomous Exploration
 All developers need to do is provide instructions (goal setting) in natural language, such as: "After logging in, update the profile and verify that the changes are reflected." Based on Large Language Models (LLMs), Rova AI analyzes the DOM structure and understands the meaning of buttons and the roles of input forms much like a human. Even for products in the prototype stage with unorganized documentation, the AI finds its own path and completes the verification.

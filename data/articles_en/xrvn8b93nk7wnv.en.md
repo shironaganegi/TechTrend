@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# Building a "Next-Generation Autonomous Summarization System" with Python and Claude API
 
 ## Introduction: "Information Filtering" to Survive the Era of Information Explosion
 

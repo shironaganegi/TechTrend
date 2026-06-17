@@ -31,11 +31,6 @@ Biology, chemistry, finance, physics... areas where we previously gave up, think
 This repository complies with the [Agent Skills](https://agentskills.io/) standard. The moment you load these skills into your Cursor (via MCP features) or Claude Code, the AI begins to master these "tools" autonomously.
 
 ```python
-# For example, suppose you request an analysis of a complex protein structure.
-# The AI, now equipped with skills, no longer hesitates.
-# 1. Scans the latest relevant papers from PubMed at high speed.
-# 2. Directly retrieves accurate sequence information from UniProt.
-# 3. Visualizes the analysis results and submits them with detailed observations.
 # —— All of this is completed with a single instruction.
 ```
 
@@ -45,7 +40,6 @@ This repository complies with the [Agent Skills](https://agentskills.io/) standa
 2.  **Probing the Depths of Financial Markets**: Analyze vast amounts of U.S. SEC filings cross-sectionally and generate investment decision materials backed by supporting data. You no longer need to drown in a sea of information.
 3.  **Boosting Research Paper Writing**: Extract trends from massive paper databases and construct drafts that include accurate citation lists. The AI blossoms not just as a "writer," but as a "researcher."
 
-## ✅ Editor’s View: Is this a "Magic Wand" or Something More?
 
 ### Pro: Acquiring Overwhelming "Specialization"
 The era of AI giving "answers that sound somewhat plausible" is over. Using tools correctly and speaking based on data—this "integrity" is exactly what professionals have been seeking in AI.
@@ -53,12 +47,6 @@ The era of AI giving "answers that sound somewhat plausible" is over. Using tool
 ### Note: Tools Sometimes Require "Keys"
 Naturally, integration with external services may require individual API keys in some cases. While not everything is completely free, considering the returns, it can be viewed as an appropriate cost for a "professional tool."
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 For domain registration, visit "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ## 💾 Summary: Put "Wisdom" into Your Editor Now.
 

@@ -74,7 +74,6 @@ For daily Exploratory Data Analysis (EDA), use **Seaborn** to quickly gain insig
 
 ---
 
-## 3. Practical Tips: Avoiding Common Pitfalls & Optimization Techniques
 
 ### ① Robust and Smart Japanese Font Support (No More Garbled Text)
 Since matplotlib's default configuration is tailored for Western fonts, plotting Japanese characters often leads to encoding errors, resulting in square "tofu (□)" blocks. While you could manually specify system fonts, the smartest, environment-independent solution is to use the `japanize-matplotlib` library.

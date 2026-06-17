@@ -33,12 +33,6 @@ Felsius, as its name suggests, is a tool refined like a razor, dedicated solely 
 The stress of "not intuitively grasping the temperature represented by Fahrenheit" is a common pain point for globally operating engineers. Felsius functions as a bridge, instantly transforming the foreign entity of "°F" into the familiar units of "°C" while your brain is operating in °C mode.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your custom domain with "Onamae.com." TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ## The Engineer's Perspective: Impact on Productivity
 
 The adoption of Felsius is not merely a matter of calculation efficiency. It is a strategic decision to protect the engineer's most valuable asset: "cognitive resources."
@@ -93,4 +87,3 @@ Felsius is a crucial step toward lowering the unit conversion barrier and boosti
 ---
 
 > This article was originally published on [Zenn](https://zenn.dev/shironaganegi/articles/jadwtkcnijybdt) (Japanese).
-

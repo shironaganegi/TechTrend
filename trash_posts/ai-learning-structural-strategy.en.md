@@ -71,5 +71,3 @@ Here are some common traps for beginners, organized from a technical perspective
 The confusion that hits in the early stages of learning AI is proof that your existing knowledge base is colliding with a new paradigm. What clears this "fog" is not a massive pile of theory books, but a minimal amount of code and a solid understanding of data structures.
 
 Beyond the wall of Day 2 lies a world where AI is not just a chat partner, but the "ultimate component" you manipulate to expand your own creativity. It would be a shame to stop walking on the second day. The day you create an extraordinary product is just around the corner. Let窶冱 dive deeper into the abyss of this exciting technology together. 噫
-
-

@@ -70,14 +70,6 @@ freemocap
 - **セットアップの「壁」**: ターミナルに拒絶反応を示す完全な初心者にとって、Python環境の構築は少しばかり高い山に見えるかもしれない。だが、その山を越えた先には、絶景が待っている。
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 ## 結論：今すぐStarを押し、未来に触れろ
 
 これほど完成度の高いツールが、オープンソースという形で提供される。そんな「美しい時代」に私たちは生きている。
@@ -87,18 +79,3 @@ freemocap
 👉 [GitHub - freemocap/freemocap](https://github.com/freemocap/freemocap)
 
 テクノロジーは、常に好奇心を持つ者の味方だ。白ネギ・テックは、これからもあなたの挑戦を全力で応援していく。💾
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[ConoHa Pencil でブログ運営を超効率化](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SXFLU)
-![](https://www12.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SXFLU)
-
-:::
-
-
-
-
-
-

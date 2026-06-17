@@ -8,7 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/nh83gkiu6lrava/"
 +++
 
 
-
 > 本記事はプロモーションを含みます
 
 
@@ -72,12 +71,6 @@ print(response.json())
 - **データの行方を知る**: 特に無料枠では、入力データがモデルの学習に利用されるケースがある。秘密鍵や顧客情報を流し込むような真似は、厳禁である。
 
 
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-
-
 ## 結論：スターを贈り、巨人の肩に乗れ
 
 「free-llm-api-resources」は、AI開発の門戸をすべての人に開放しようとする、熱い意志の結晶だ。
@@ -87,16 +80,3 @@ print(response.json())
 まずは一つ、APIキーを取得することから始めよう。世界を変えるアプリケーションは、いつだってそんな「小さな、無料の試行」から生まれるのだから。
 
 🔧 **GitHub Repo**: [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
-
-
-> **おすすめのサービス (PR)**
-> 
-> 
-> Minecraftマルチプレイするなら[『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)
-> ![](https://www19.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)
-
-
-
-
-
-

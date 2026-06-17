@@ -83,7 +83,6 @@ In pursuit of a beautiful, flawless design, you might spend the entire day doing
 
 ---
 
-## ❓ FAQ (Frequently Asked Questions)
 
 ### Q1. Should I apply Slow Development even to projects with extremely tight deadlines?
 **A.** Absolutely. In fact, tight deadlines are precisely when you should adopt this approach. Code hurriedly copy-pasted under tight schedules has a high probability of backfiring during integration tests or in production. The cost of fixing those issues (debugging, refactoring, re-testing) will balloon to several—or even dozens of—times the hours you would have invested in Slow Development during the design phase. We highly recommend utilizing thorough AI dialogue for at least the most critical and complex core logic.

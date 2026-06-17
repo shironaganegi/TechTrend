@@ -8,8 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/q5k5p3t67xcpkm/"
 +++
 
 
-# Automate Your Thinking: The Impact of the Unmanned, AI-Hosted Radio Station
-
 ### Introduction: Escaping the "Gravity" of Content Creation
 "I know I need to put myself out there, but I just don't have the time to write."
 
@@ -41,12 +39,6 @@ Supporting this project is a masterclass in "Prompt Engineering" combined with t
     Dealing with difficult kanji and unique intonations. The trial and error involved in seeing how AI overcomes the barriers of the Japanese language to behave "human-like" is where the true thrill of the technology lies.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Secure your own domain with "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ### Roadmap to Implementation: Building Your Private "Broadcasting Station"
 The steps to construction are surprisingly simple. First, assign ChatGPT (LLM) the role of a "Director" and have it draft a production plan. Next, feed that script into an API like VITS, VOICEVOX, or ElevenLabs, which boasts incredible quality.
 
@@ -73,4 +65,3 @@ The answer is clear. Start by writing a small script and launch your own "fully 
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/q5k5p3t67xcpkm/).
-

@@ -55,7 +55,6 @@ The "debugging of life"—tasks like importing Live2D models or tuning TTS (Text
 2. **The End of "Solo Play"**: As a partner for game streaming. Having your brilliant plays (or clumsy mistakes) narrated and commented on in real-time. A game played alone instantly transforms into a "lively experience."
 3. **"Taming" the Frontlines of LLMs**: RAG (Retrieval-Augmented Generation) and long-term memory systems. Testing the latest technologies you've read about in papers using AIRI as a "vessel." This becomes the ultimate playground to test your technical prowess.
 
-## Shiranegi-Tech's "Honest Critique": Light and Shadow
 
 ### ⭕ What’s Brilliant
 - **Modular Aesthetics**: The Live2D management and memory systems are decoupled, leaving the perfect amount of "margin" for engineers to tinker to their heart's content.
@@ -64,12 +63,6 @@ The "debugging of life"—tasks like importing Live2D models or tuning TTS (Text
 ### ❌ Challenges to Overcome
 - **Environmental Setup Hurdles**: It’s not quite "one-click" for beginners. However, for those who know the joy of hitting the terminal, this is an "attraction" rather than an obstacle.
 - **The Cost of APIs**: The more high-performance the "brain" (LLM) you install, the higher the "food costs" (token fees). This is where you let your love cover the expenses.
-
-
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your unique domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
 
 
 ## Closing: Leave Your "Star" on the Repository Now
@@ -86,4 +79,3 @@ If your fingertips are even slightly tingling, head to GitHub without hesitation
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/tmp86g0frca6eb/).
-

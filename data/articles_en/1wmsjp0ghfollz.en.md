@@ -88,7 +88,6 @@ If you are using modern Static Site Generators (SSGs) or web frameworks like Doc
 
 ---
 
-## Frequently Asked Questions (FAQ) about llms.txt
 
 ### Q1. Does it conflict with robots.txt?
 Not at all. In fact, they have a powerful complementary relationship. The optimal solution in modern, AI-friendly website design is to first allow access to trusted AI crawlers in `robots.txt`, and then place `llms.txt` to present the "most efficient crawling route."

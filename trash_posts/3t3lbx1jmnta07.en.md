@@ -68,10 +68,7 @@ Let's be honest: DeerFlow 2.0 is not a "toy" for everyone.
 - **Cons (The Challenges)**: Because the degree of freedom is so high, it requires a corresponding level of engineering literacy to master. Also, if you run agents in parallel at full capacity, your heart might ache a little when the API bill arrives (lol).
 
 
-
 ### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
 
 
 As a side note, to extract 120% of DeerFlow's potential, systematic knowledge of things like "LLM Agent Practical Guides" and a deep understanding of container technology are essential. A weapon only shows its true value in the hands of the right user.
@@ -88,4 +85,3 @@ GitHub: [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/3t3lbx1jmnta07/).
-

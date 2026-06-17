@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# Redefining "Consent": A Recent US Ruling Highlights the Critical Importance of "Notification Infrastructure" for SaaS and AI Development
 
 ## 1. Introduction: Rewriting the Boundary Between UX and Legal
 

@@ -41,7 +41,6 @@ note_intro: "膨大な公開資料をAI（Gemini）で解析する「Jemini」�
 import google.generativeai as genai
 
 model = genai.GenerativeModel('gemini-1.5-pro')
-# 大規模なドキュメントコンテキストをプロンプトに含める、
 # またはRAGシステムと連携して回答を生成
 response = model.generate_content(["資料に基づいて、主要な人物関係を要約してください。", document_context])
 print(response.text)
@@ -63,12 +62,6 @@ print(response.text)
 
 ハルシネーション（もっともらしい嘘）というAIの宿命、そして機密情報のプライバシー管理。これらに対する厳格な検証プロセスを構築できて初めて、我々はこの「神の視点」を手にすることができるのだ。
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ### 編集長の一言：未整理のデータは、もはや「資源」である
 
@@ -79,16 +72,3 @@ print(response.text)
 まずはそのレスポンスの速さと、思考の解像度を体感してほしい。未来の検索は、もうここにある。
 
 [Jemini 公式サイト](https://jmail.world/jemini)
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[ConoHa Pencil でブログ運営を超効率化](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SXFLU)
-![](https://www12.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SXFLU)
-
-:::
-
-
-
-

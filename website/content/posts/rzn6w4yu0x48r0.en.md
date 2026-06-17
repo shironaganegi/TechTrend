@@ -26,7 +26,6 @@ The greatest bottleneck in traditional local container environments has been the
 
 The newly introduced `container` is built from scratch in Swift, leveraging the `Containerization` package—a system service framework developed by Apple. In essence, it establishes a "direct dedicated line" positioned as close to the hardware and OS as possible.
 
-### Three Technical Advantages
 
 #### ① Perfect Harmony with Virtualization.framework
 By directly calling the hardware-level virtualization assistance features of the M-series chips, it completely eliminates any redundant processing associated with emulation. This dramatically improves container startup speeds during a cold start.

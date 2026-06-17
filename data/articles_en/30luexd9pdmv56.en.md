@@ -20,7 +20,6 @@ The essence of this update lies in the improvement of the AI's "reasoning abilit
 Tech Watch Perspective: The true brilliance of this update lies less in the "generation quality" itself and more in its "seamless integration with the Canvas feature" and "maintenance of consistency." Conventional image generation was a "one-shot gamble" (gacha), but in 2.0, modifying specific areas of a generated image or increasing variations while maintaining the tone of previous results is handled entirely within a natural conversational flow. This is not just a tool update; it is a "redefinition of the creative workflow" by AI.
 </div>
 
-## Three Innovative Features Experts Are Watching
 
 ### 1. The Perfection of Semantic "Typography"
 Accurate text placement, long considered a weakness of image-generation AI, has finally reached a practical level in Images 2.0. Whether creating logo designs or UI mockups, the specified text is generated without distortion, using fonts and placements that harmonize with the overall design. This is a "production-level" evolution that will dramatically shorten lead times for prototyping.

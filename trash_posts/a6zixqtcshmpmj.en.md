@@ -33,12 +33,6 @@ The benefit of adopting ProseMirror lies in its ability to generate highly struc
 In the Japanese engineering ecosystem, the need for content migration and backup is increasing, yet official APIs are often nonexistent or highly restricted. This implementation offers extremely high utility for side projects requiring clean HTML or for integration with data analysis platforms. Specifically for backend engineers who need to save rich text content directly into an external database and keep it in a reusable format, this custom parser is key to significantly saving time and effort. The critical design requirement was the accurate processing of Note-specific complex nesting structures, which are difficult to handle with existing general-purpose JSON parsers.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your own domain with "Onamae.com". TechTrend Watch uses them too!**](https://www.onamae.com/)
-
-
-
 ## Installation and Usage
 
 For the specific implementation details, please refer to the original article (Creating an HTML Converter for Note's ProseMirror | Discovery of the Eye-Catch Image API). The core conversion logic is written in TypeScript and runs in a Node.js environment. The basic usage involves fetching the Note article JSON and then passing it to the custom parser.
@@ -68,4 +62,3 @@ The endeavor to generate HTML from Note's ProseMirror data was more than a mere 
 ---
 
 > This article was originally published on [Zenn](https://zenn.dev/shironaganegi/articles/a6zixqtcshmpmj) (Japanese).
-

@@ -23,7 +23,6 @@ Unsloth solved these structural challenges with staggering performance metrics: 
 The true brilliance of Unsloth lies beyond being a mere "efficiency tool." Its speed in supporting cutting-edge techniques like **GRPO** (the reinforcement learning method used in DeepSeek-R1) is exceptional. Pipelines that used to require "craftsman-level" assembly of various Hugging Face libraries have now been integrated into the single Unsloth ecosystem. It is no exaggeration to say that Unsloth is aiming to become the "Adobe Creative Cloud" of the local LLM world.
 </div>
 
-## 2. Three Core Benefits Provided by Unsloth Studio
 
 ### ① Advanced Inference and "Auto-healing Tool Calling"
 Unsloth Studio is more than just a chat UI; it supports direct loading of GGUF formats and LoRA adapters. Of particular note is the **"Auto-healing tool calling"** feature. When a model attempts to call an external tool and fails (e.g., due to syntax errors), the AI autonomously detects the error, corrects it, and retries. This mechanism significantly improves the reliability of even small local models acting as agents.

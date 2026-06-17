@@ -53,12 +53,6 @@ With just these steps, a sophisticated agent management screen will launch in yo
 - **Pros**: The UI is simply beautiful. You won't get confused even as the number of agents increases. Development efficiency skyrockets. 🔥
 - **Cons**: Documentation is still sparse, so a certain level of OpenClaw knowledge is required. Looking forward to future updates!
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your custom domain at "Onamae.com." TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ## Summary: Give it a Star and Try it Now!
 

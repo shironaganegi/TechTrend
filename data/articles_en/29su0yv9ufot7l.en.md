@@ -71,7 +71,6 @@ Adoption itself is as simple as placing `CLAUDE.md` (or the corresponding Cursor
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
 
 ### Q1. Can I get the same effect with Cursor?
 **A.** Yes, highly effective. This project includes a ruleset optimized specifically for Cursor (`.cursor/rules/karpathy-guidelines.mdc`), allowing you to apply the same discipline in Cursor's "Agent mode" and other features once configured.

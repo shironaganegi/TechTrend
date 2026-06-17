@@ -63,7 +63,6 @@ We compare and evaluate three representative approaches for balancing integrity 
 
 ---
 
-## 3. Practical Pitfalls Developers Fall Into and Their Solutions
 
 ### Python: Logger Pitfalls in the `multiprocessing` Module
 Python’s standard `logging` module is designed to be thread-safe, but **it is not process-safe**. Reusing the same `FileHandler` across child processes leads to file offset contention and buffering interference, causing log loss or interleaving with high probability.
@@ -81,7 +80,6 @@ However, when **the write size per entry exceeds 4KB**—such as with exception 
 
 ---
 
-## 4. FAQ on Multi-Process Logging
 
 ### Q1: Even in containerized environments, should logs be written directly to local files?
 **A1:** It is not recommended. In modern container platforms like Kubernetes or ECS, the best practice is to output all logs as streams to standard output (`stdout`) and standard error (`stderr`). This shifts low-level issues like file-writing contention outside the container, leaving collection and aggregation to dedicated agents like Fluent Bit or Vector.

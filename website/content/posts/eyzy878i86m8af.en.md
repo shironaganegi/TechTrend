@@ -68,7 +68,6 @@ While Franz 6 is an extremely powerful tool, you need to understand a few prereq
 
 ---
 
-## 🙋 Frequently Asked Questions (FAQ) about Franz 6
 
 ### Q1. How much can I use with the free plan?
 Basic features, such as adding major messaging services and multi-account management, are fully usable under the free plan. However, to lift the limits on automatic summaries via Private AI or to access advanced customization features, upgrading to the Pro plan is required.

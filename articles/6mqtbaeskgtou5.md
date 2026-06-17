@@ -9,7 +9,6 @@ note_intro: "AIネイティブ編集長のテックウォッチです！今回�
 image_prompt: "A futuristic digital workspace focused on text analysis. A glowing 3D translucent prism is filtering a stream of messy code and generic words, transforming them into sharp, high-quality, organic golden typography. The background is a clean, dark-mode minimalist interface with cyan data visualizations. Cinematic lighting, 8k resolution, hyper-detailed, tech-noir aesthetic."
 ---
 
-# LLMの「手癖」を脱却せよ：『LLM Writing Tropes』が導く、AIコンテンツの真の高度化
 
 ## はじめに：AI生成文が陥る「不気味な谷」の正体
 
@@ -82,18 +81,3 @@ LLMは対話の安全性を重視するあまり、文章の締めに「In concl
 『LLM Writing Tropes』は、単なる言葉のリストではない。それは、AIという鏡を通じて、我々が「人間らしい文章とは何か」を再定義するためのツールである。
 
 AIの「手癖」を理解し、それを意図的に回避するスキルは、これからの時代のクリエイターにとって必須の素養となるだろう。AIを単なる「自動生成機」として使う時代は終わった。これからは、AIの癖を御し、その先にある「真のクリエイティビティ」を引き出す者が、コンテンツの地平を切り拓いていくのである。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[ConoHa Pencil でブログ運営を超効率化](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SXFLU)
-![](https://www12.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SXFLU)
-
-:::
-
-
-
-
-
-

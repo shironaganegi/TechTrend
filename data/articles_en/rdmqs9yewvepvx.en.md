@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# Paradigm Shift in AI Development — The Essence of Disciplined Automation Enabled by the "Superpowers" Autonomous Agent Framework
 
 ## Introduction: AI Coding Evolves from "Generation" to "Workflow"
 

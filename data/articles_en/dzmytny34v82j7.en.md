@@ -104,7 +104,6 @@ Even if you keep the script running in the background, it is pointless if you ca
 
 ---
 
-## 🙋‍♂️ Frequently Asked Questions (FAQ)
 
 ### Q1. Does running Python constantly in the background affect PC performance?
 **A.** If you insert appropriate sleep calls (like `time.sleep(5)`) into your loops, CPU usage will remain well below 0.1%. As long as you avoid busy loops (infinite loops that consume 100% CPU power), it will have absolutely no impact on your game's frame rate (FPS).

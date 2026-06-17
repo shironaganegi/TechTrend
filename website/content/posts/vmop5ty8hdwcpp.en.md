@@ -8,8 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/vmop5ty8hdwcpp/"
 +++
 
 
-# Overcoming the "Over-editing" Trap: The Essence of "Minimal Editing," a New Concept Defining Development Quality
-
 ### Introduction: AI Coding's "Excessive Kindness" Stalls Development
 
 "I only asked for a one-line logic fix, but the AI changed unrelated variable names and caused a compiler error in an unexpected location." Any engineer who uses AI as a development partner has likely faced this "despair" at least once. While Large Language Models (LLMs) possess extraordinary generative capabilities, their high reasoning power can sometimes backfire, leading them to alter code extensively beyond the scope of the instructions.

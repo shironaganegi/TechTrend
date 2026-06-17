@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# From "Tool" to "Expert Partner": The Impact of Matt Pocock's "skills" for AI Agents
 
 ## Introduction: In 2026, Will We Still Be Writing Code Based on "Vibes"?
 

@@ -51,7 +51,6 @@ for item in products:
 2.  **External Knowledge Acquisition for AI Agents**: Link with LLMs via MCP to automatically collect and summarize the latest news or research papers.
 3.  **Large-scale Dataset Creation**: Safely crawl tens of thousands of records using the proxy rotation feature.
 
-## ⚖️ Honest Pros & Cons
 
 ### Pros
 *   You can write scraping code that is, above all, "hard to break."
@@ -62,13 +61,6 @@ for item in products:
 *   The library size is somewhat large when using advanced features.
 *   For dynamic, JavaScript-heavy sites, you need a bit of a knack for choosing the right Fetcher.
 
-
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your original domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 Recommended learning resources:
 - *Python Crawling & Scraping - A Practical Guide for Data Collection and Analysis*

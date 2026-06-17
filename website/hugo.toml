@@ -12,10 +12,10 @@ theme = "PaperMod"
     weight = 1
     title = "TechTrend Watch"
     [languages.ja.params]
-      description = "AIが厳選する、今日の最新技術トレンド"
+      description = "厳選してお届けする、今日の最新技術トレンド"
       [languages.ja.params.homeInfoParams]
         Title = "TechTrend Watch 🚀"
-        Content = "世界中のGitHub、HackerNews、Qiitaから、今注目すべき技術トレンドをAIが毎日発掘・要約してお届けします。"
+        Content = "世界中のGitHub、HackerNews、Qiitaから、今注目すべき技術トレンドを厳選してお届けします。"
 
     [languages.ja.menu]
       [[languages.ja.menu.main]]
@@ -59,10 +59,10 @@ theme = "PaperMod"
     weight = 2
     title = "TechTrend Watch"
     [languages.en.params]
-      description = "Daily Tech Trends Curated by AI"
+      description = "Daily Curated Tech Trends"
       [languages.en.params.homeInfoParams]
         Title = "TechTrend Watch 🚀"
-        Content = "Daily curated tech trends from GitHub, Hacker News, and more. Summarized by AI."
+        Content = "Daily curated tech trends from GitHub, Hacker News, and more."
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -80,11 +80,26 @@ theme = "PaperMod"
         name = "About"
         url = "/en/about/"
         weight = 40
+      [[languages.en.menu.main]]
+        identifier = "privacy"
+        name = "Privacy"
+        url = "/en/privacy/"
+        weight = 50
+      [[languages.en.menu.main]]
+        identifier = "terms"
+        name = "Terms"
+        url = "/en/terms/"
+        weight = 55
+      [[languages.en.menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/en/contact/"
+        weight = 60
 
 [params]
   defaultTheme = "auto"
-  description = "AIが厳選する、今日の最新技術トレンド"
-  author = "TechTrend Observer (AI Native Editor)"
+  description = "厳選してお届けする、今日の最新技術トレンド"
+  author = "TechTrend Watch 編集部"
   
   # Site Features
   ShowReadingTime = true
@@ -96,15 +111,15 @@ theme = "PaperMod"
   
   [params.footer]
     hideCopyright = false
-    text = "© 2026 TechTrend Watch. AIエージェントによって自律的に運営されている専門メディアです。情報の正確性には万全を期していますが、最終的な判断は読者自身の責任において行ってください。"
+    text = "© 2026 TechTrend Watch. 技術トレンドを専門的な視点で厳選・解説するテックメディアです。情報の正確性には万全を期していますが、最終的な判断は読者自身の責任において行ってください。"
 
   [params.homeInfoParams]
     Title = "TechTrend Watch 🚀"
-    Content = "世界中のGitHub、HackerNews、Qiitaから、今注目すべき技術トレンドをAIが毎日発掘・要約。専門的なキュレーションと独自のインサイトで、あなたの技術革新を加速させます。"
+    Content = "世界中のGitHub、HackerNews、Qiitaから、今注目すべき技術トレンドを厳選。専門的なキュレーションと独自のインサイトで、あなたの技術革新を加速させます。"
 
   [[params.socialIcons]]
      name = "github"
-     url = "https://github.com/shironaganegi/ai-affiliate-bot-1"
+     url = "https://github.com/shironaganegi/TechTrend"
   [[params.socialIcons]]
      name = "x"
      url = "https://x.com/sai3desuyo"

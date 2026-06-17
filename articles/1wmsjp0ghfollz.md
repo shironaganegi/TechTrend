@@ -91,7 +91,6 @@ Docusaurus、MkDocs、Astro、Next.jsなどのモダンな静的サイトジェ�
 
 ---
 
-## llms.txtに関するよくある質問（FAQ）
 
 ### Q1. robots.txtと競合しませんか？
 全く競合しません。むしろ強力な補完関係にあります。まず`robots.txt`で信頼できるAIクローラーのアクセスを許可（Allow）した上で、`llms.txt`を配置して「最も効率的な巡回ルート」を提示するのが、現代のAI-FriendlyなWebサイト設計における最適解です。
@@ -113,18 +112,3 @@ Docusaurus、MkDocs、Astro、Next.jsなどのモダンな静的サイトジェ�
 「AIの巡回を拒絶し、ドアを閉ざす」という選択肢もあるでしょう。しかし、情報のオープンな循環を信じ、技術の可能性を最大限に活かすのであれば、**「AI大歓迎」と書いた`llms.txt`という名のマットを玄関に敷く**。これこそが、これからのWebサバイバル戦略における最大の武器になるはずです。
 
 さあ、あなたのサイトにも今すぐ設置してみませんか？
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[スッキリわかるPython入門 第2版 (楽天ブックス)](https://rpx.a8.net/svt/ejp?a8mat=4AX38F+LFMK2+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eac8dc2.9a477d4e.0eac8dc3.0aa56a48%2Fa26020474676_4AX38F_LFMK2_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703%26m%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F17608703%252F%253FvariantId%253D17608703)
-![](https://www16.a8.net/0.gif?a8mat=4AX38F+LFMK2+2HOM+BW8O1)
-
-:::
-
-
-
-
-
-

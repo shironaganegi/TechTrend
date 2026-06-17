@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# The Era of AI Agents with "Wallets" and "Servers": The Frontier of Autonomous Infrastructure Built with Stripe Projects × Cloudflare
 
 ## 1. Introduction: A Future Where AI Becomes an Autonomous Economic Agent
 

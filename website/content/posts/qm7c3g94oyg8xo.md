@@ -27,7 +27,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/qm7c3g94oyg8xo/"
 
 ---
 
-## 🛠️ Hermes Agentを定義づける4つの技術的パラダイムシフト
 
 ### 1. 進化を自給自足する「クローズドループ学習」
 Hermes Agentのアーキテクチャの核となるのが、タスク完了後に自己のコードやアクションを振り返り、新たなスキルとして保存するサイクルである。
@@ -90,17 +89,3 @@ Hermes Agentの登場は、単なる「便利な自動化ツールの追加」�
 ```bash
 curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash
 ```
-
-
-> **おすすめのサービス (PR)**
-> 
-> 
-> [ConoHa Pencil でブログ運営を超効率化](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SXFLU)
-> ![](https://www12.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SXFLU)
-
-
-
-
-
-
-

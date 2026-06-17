@@ -22,7 +22,6 @@ MiroMiro v2 allows you to intuitively inspect any element on a browser, edit it 
 TechTrend Watch Editor-in-Chief's View: The true value of MiroMiro v2 lies in breaking down the "communication wall" between roles. Directors and PMs can simulate "ideal micro-adjustments" on the browser without writing a single line of code and share the results with engineers as design data. The adoption of this "prototyping on the browser" will fundamentally redefine the frontend development workflow.
 </div>
 
-## Three Core Features That Dramatically Improve Production Efficiency
 
 ### 1. Intuitive Live Visual Editing
 There is no need to be overwhelmed by the cryptic code hierarchies of developer tools. Simply select the target element and operate sliders or color pickers to change font sizes, margins, and colors in real time. This user experience is akin to transforming a web browser into a design tool like Figma or Webflow.

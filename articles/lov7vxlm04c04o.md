@@ -68,14 +68,6 @@ vector_store = AzureSqlVectorStore.from_documents(
 - **Cons**: 信頼の拠り所であるはずの「公式ドキュメント」ですら、法務的ミスは起こりうる。僕たちに必要なのは、盲信ではなく健全な懐疑心だ。
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 ## 💾 まとめ：データ選びも立派な「エンジニアリング」だ
 
 「MSでもこんな初歩的なミスをするんだな」と冷笑するのは簡単だ。しかし、僕たちが本当にすべきなのは、AI開発における**「データの出所」への意識**を、コードのバグ取りと同じレベルまで引き上げることではないだろうか。
@@ -85,16 +77,3 @@ vector_store = AzureSqlVectorStore.from_documents(
 次にRAGを組む時は、デモデータに好きな小説の一節をコピペしたくなっていないか、一度手を止めて考えてみてほしい。
 
 この記事が、あなたのプロダクトを守る一助になれば幸いだ。面白かったら、ぜひ周りのエンジニアにもシェアしてくれ。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[お名前.com](https://px.a8.net/svt/ejp?a8mat=4AX38F+M125U+50+2HHVNM)
-![](https://www11.a8.net/0.gif?a8mat=4AX38F+M125U+50+2HHVNM)
-
-:::
-
-
-
-

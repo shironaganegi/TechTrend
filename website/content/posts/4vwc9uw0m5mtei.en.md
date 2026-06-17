@@ -67,7 +67,6 @@ The most prudent approach is a **hybrid strategy**: minimize costs by offloading
 
 ---
 
-## ⚠️ Technical Bottlenecks and Practical Approaches in Implementation
 
 ### 1. The Physical Barrier of VRAM (Video RAM)
 In LLM inference, the performance bottleneck is not the CPU or SSD, but the GPU's VRAM capacity and bandwidth.  
@@ -79,7 +78,6 @@ As a countermeasure, ensure that your Docker containers strictly release resourc
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
 
 ### Q1. Should I buy dedicated hardware specifically for a home server?
 **A.** You don't need to purchase expensive hardware right away. If you have an unused, older gaming PC (equipped with an NVIDIA GTX 1080 or newer), we recommend repurposing it as a server to start small. Once you have validated its utility, you can consider combinations like a power-efficient mini PC with an external GPU (eGPU) or a refurbished enterprise workstation.

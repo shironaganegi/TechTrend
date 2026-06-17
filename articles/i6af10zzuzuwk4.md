@@ -78,18 +78,3 @@ A: MITライセンスの下で公開されており、商用利用における�
 
 **デプロイは、以下の1コマンドから開始できる：**
 `curl -fsSL https://onyx.app/install_onyx.sh | bash`
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[DifyでAIアプリを開発するなら『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-![](https://www15.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-
-:::
-
-
-
-
-
-

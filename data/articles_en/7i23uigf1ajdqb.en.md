@@ -21,7 +21,6 @@ The current LLM trend is clearly shifting from mere "gigantism" in parameter cou
 
 Until now, the choice for AI coding assistants was a binary one: "cloud-dependent ultra-high performance" or "local-capable compromised performance." Qwen3.6-27B destroys this trade-off. A 27B model can run with extremely practical response times on a local machine equipped with a high-end consumer GPU (such as an RTX 3090/4090). This "tangible flagship performance" is the greatest blessing for modern engineers handling sensitive information.
 
-## Three Technical Breakthroughs of Qwen3.6-27B
 
 ### 1. Overwhelming "Problem-Solving Power" That Renders Existing Benchmarks Obsolete
 In major coding benchmarks like HumanEval and MBPP, Qwen3.6-27B has recorded scores that surpass the previous generation's 70B-class models. Notably, its improvement goes beyond simple syntactic accuracy; its ability to implement complex algorithms and perform advanced debugging across multiple libraries has leaped forward.

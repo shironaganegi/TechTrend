@@ -22,7 +22,6 @@ Shadow 2.0 aims to eliminate this bottleneck through the power of autonomous age
 Tech Watch Perspective: Until now, AI has been a passive "Recorder." In contrast, Shadow 2.0 embodies an evolution into an active "Doer." Its architecture, which extracts context from live dialogue and predicts/executes next steps in real-time, represents the beginning of "autonomous workflows" that go beyond simple API integration. Once you experience this level of automation, you will likely feel an irreversible shift, making manual task management feel archaic.
 </div>
 
-## The Three Core Competencies of Shadow 2.0
 
 ### 1. Real-Time Action Engineering
 The standout feature of Shadow 2.0 is its ability to generate tasks in the background, synchronized with the meeting’s progress. The AI dynamically identifies commitments—who needs to do what, and by when. Before the meeting even concludes, it prepares Slack post drafts, Notion outlines, and even GitHub Issue templates. This shifts the focus of time management from "post-processing" to "decision-making."

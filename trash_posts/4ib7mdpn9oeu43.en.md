@@ -68,12 +68,7 @@ With just that, your AI agent is endowed with "Superpowers."
 - **Cons**: Because the initial overhead is high (design confirmations, etc.), it's not suited for quick, one-line fixes. You also need to be prepared for substantial Claude token consumption.
 
 
-
-
 ### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your custom domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
 
 
 *Recommendation: Reading "Test-Driven Development" (by Kent Beck) will help you appreciate the true brilliance of this tool.*
@@ -89,4 +84,3 @@ Check out the repository and go give it a Star! 👇
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/4ib7mdpn9oeu43/).
-

@@ -67,14 +67,6 @@ To maintain editorial integrity, I cannot just offer praise. Let窶冱 look at t
 - **The Language Barrier**: The official documentation is primarily in English and Chinese. However, any engineer with the ability to read code will likely find that "unrefined, cutting-edge feel" exciting.
 
 
-
-
-### 燥 Recommended Services for Engineers 燥
-[**倹 Get your own domain at "Onamae.com." TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
-
 ## Conclusion: Star the Repo, Implement the Future
 
 AI agents are no longer "technology of the future." With the arrival of Qwen-Agent, they have become a "reality you can implement today, right now."
@@ -89,4 +81,3 @@ Go to GitHub now and leave a Star on the repository. The time to unlock the pote
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/wzv5ohcy30obfy/).
-

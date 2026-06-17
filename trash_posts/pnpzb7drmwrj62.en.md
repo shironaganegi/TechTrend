@@ -79,12 +79,6 @@ You can focus entirely on the "joy of writing." For a Rust engineer, being liber
 Of course, there is a price. You need the skill to wield the "razor-sharp sword" that is Rust, and the ecosystem is still in its infancy. Dealing with the vast existing library landscape will require some ingenuity and resolve.
 
 
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your unique domain at "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-
-
 ## Summary: The Significance of Touching the "Shockwave" Now
 
 SpacetimeDB is not just another database. It is an elegant rebellion against the old common sense of "how server-side development should be."
@@ -99,4 +93,3 @@ The "new dawn" of backend development is just around the corner.
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/pnpzb7drmwrj62/).
-

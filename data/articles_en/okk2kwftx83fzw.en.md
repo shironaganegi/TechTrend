@@ -6,7 +6,6 @@ topics: []
 published: false
 ---
 
-# Software Development Evolves from "Craftsmanship" to "Industry": The Impact of the "Software Factory" Presented by Gas City 1.0
 
 ### Introduction: Paradigm Shift in the AI-Native Era
 In 2026, the field of software development is reaching a dramatic turning point. Historically, a developer's value was rooted in "artisan-like precision"—the meticulous stacking of code line by line. Today, however, that fundamental premise is on the verge of collapse.

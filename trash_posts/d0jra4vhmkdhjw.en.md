@@ -37,7 +37,6 @@ Security measures must be based on "distrust" (the assumption of malice), not "t
 
 By leveraging [Firecracker](https://github.com/firecracker-microvm/firecracker) and macOS's Virtualization.framework, Matchlock can boot MicroVMs in under one second. This makes it possible to launch the environment only when needed and destroy the entire environment (Ephemeral) immediately upon completion. This ensures no residual data is left behind, maintaining a clean state.
 
-## Engineer's Perspective Analysis: Advantages as a Sandboxing Technology
 
 ### Comparison with Existing Technologies and Niche
 
@@ -56,7 +55,6 @@ Given the characteristic of AI agents running "unknown, untrusted code," Matchlo
 
 Matchlock is available not only as a CLI tool but also provides Go and Python SDKs. This allows organizations to directly embed sandboxing features into their own AI platforms or services. It functions highly effectively, for instance, as a backend for safely executing custom agent code uploaded by users, or for ensuring the security of AI tools developed for side projects.
 
-{RECOMMENDED_PRODUCTS}
 
 ### Challenges in Japan's DX Promotion and Matchlock
 
@@ -100,7 +98,6 @@ matchlock run --image python:3.12-alpine \
 
 This feature allows developers to use API keys with the same feeling as using environment variables, but the actual key is always protected by the host-side proxy.
 
-## Summary: Pros and Cons
 
 ### Pros
 
@@ -122,4 +119,3 @@ The utilization of AI agents brings immense innovation to us engineers, but mana
 ---
 
 > This article is also available in [Japanese](https://techtrend-watch.com/posts/d0jra4vhmkdhjw/).
-

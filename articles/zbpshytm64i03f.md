@@ -65,12 +65,6 @@ while not task_completed:
 
 今のあなたには、ブラウザの翻訳機能があり、何より「AIという相棒」がいるはずです。コードスニペットの海を泳ぎ、LLMに解説させながら読み解く。そのプロセス自体が、最強のエージェント開発トレーニングになる。そう思いませんか？
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ### 🚀 結論：LLMを「使う側」から、AIを「指揮する側」へ
 
@@ -81,16 +75,3 @@ AIに仕事を奪われることを恐れる必要はありません。恐れる
 あなたの手で、AIに「意志」を。
 
 🔧 **リポジトリ**: [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[DifyでAIアプリを開発するなら『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-![](https://www15.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-
-:::
-
-
-
-

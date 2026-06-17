@@ -82,7 +82,6 @@ To prevent this through system design, implement an agent orchestrator that dyna
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
 
 ### Q1. Will expanding the LLM's context window resolve Constraint Decay?
 **A.** No, it will not be a fundamental solution. Expanding the context window merely increases "memory capacity" and does not optimize the "allocation of importance (attention)." In fact, as the volume of inputs grows longer, attention to local, critical rules is more easily diluted, often increasing the risk of constraint decay instead.

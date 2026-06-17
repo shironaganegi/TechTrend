@@ -29,7 +29,6 @@ The tool introduced here utilizes the extremely lightweight channel of a CLI (Co
 <div class="expert-opinion">
 Tech Watch Perspective: The intrinsic power of this tool lies in its "depth of inference." It doesn't take the easy route of sampling the first few rows; instead, it performs "strict type determination" based on an overview of the entire dataset. This serves as the last line of defense in the pre-processing stage of EDA (Exploratory Data Analysis) to ensure no impurities are overlooked. The developer's obsession is particularly evident in how the tool handles "numeric columns containing Nulls" and "non-standard date formats."</div>
 
-## 2. Three Technical Paradigms Brought by "No-Compromise Type Inference"
 
 ### ① High-Precision Type Detection Algorithms that Read Context
 This CLI tool goes beyond simple regular expression matching. It identifies Integers (Int), Floating-point numbers (Float), Booleans (Bool), Datetimes, and Null values through multi-layered patterns. For example, should the value "00123" be treated as the number 123, or maintained as a string for an ID? It incorporates sophisticated criteria to prevent "information loss" that could be fatal in practical applications.

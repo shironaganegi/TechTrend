@@ -28,14 +28,6 @@ AI（LLM）が自らコードを書き、それを実行して問題を解決す
 *   **型チェックの統合**: [ty](https://docs.astral.sh/ty/)を内蔵しており、実行前にモダンなPythonの型ヒントに基づいたチェックが可能です。
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 ### エンジニアの視点：なぜ今「monty」が必要なのか？
 
 プロフェッショナルなエンジニアの視点で見ると、montyの真価は**「Programmatic Tool Calling（プログラムによるツール呼び出し）」**の民主化にあります。
@@ -67,7 +59,6 @@ result = pydantic_monty.run(code, func="sum_list", args=[[1, 2, 3]])
 print(result) # 6
 ```
 
-### メリットとデメリット
 
 #### メリット
 *   **パフォーマンス**: CPythonと同等の実行速度を維持しつつ、圧倒的な低レイテンシ。
@@ -83,16 +74,3 @@ print(result) # 6
 `monty` は、AIエージェントに「安全な脳」を与えるためのミッシングピースです。Pydantic AIへの統合も予定されており、今後AI開発のスタンダードになる可能性があります。フル機能のPythonは不要だが、LLMの推論を補完するための「実行環境」が欲しい――そんなエンジニアは、今のうちに[公式リポジトリ](https://github.com/pydantic/monty)をスターして、動向を追っておくべきでしょう。
 
 [CloudflareのCodemode](https://blog.cloudflare.com/code-mode/)のような、エッジでのコード実行という文脈でも非常に強力な武器になりそうです。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[1時間2円から、国内最速・高性能レンタルサーバー【ConoHa WING】](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SJACI)
-![](https://www17.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SJACI)
-
-:::
-
-
-
-

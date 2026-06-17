@@ -74,7 +74,6 @@ image_prompt: "A modern, highly detailed infographic showcasing AI coding optimi
 
 ---
 
-## ❓ よくある質問（FAQ）
 
 ### Q1. Cursorでも同様の効果は得られますか？
 **A.** 極めて高い効果が得られます。本プロジェクトには、Cursor専用に最適化されたルールファイル（`.cursor/rules/karpathy-guidelines.mdc`）も同梱されており、設定することでCursorの「Agent mode」などで同様の規律を適用可能です。
@@ -94,18 +93,3 @@ AIコーディングツールの進化に伴い、開発の主眼は「いかに
 Andrej Karpathy氏の観察眼から生まれたこのルールセットは、AIの生産性を最大化しつつ、人間のコントロール下に置き続けるための極めて合理的な「手綱」だ。
 
 AIによるコードの肥大化や、原因不明のデグレーションに悩まされている開発チームは、今すぐこの『CLAUDE.md』をプロジェクトに組み込み、規律あるAI共同開発の快適さを体感してほしい。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[1時間2円から、国内最速・高性能レンタルサーバー【ConoHa WING】](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SJACI)
-![](https://www17.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SJACI)
-
-:::
-
-
-
-
-
-

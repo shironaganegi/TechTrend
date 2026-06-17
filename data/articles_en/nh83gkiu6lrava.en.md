@@ -65,12 +65,6 @@ Of course, it’s not all sunshine and rainbows. These are "gifts," not "infinit
 - **Handling Rate Limits**: There’s a limit to how many requests you can send per minute. If you need high-load processing, that’s your signal to move into the "paid" phase.
 - **Know Where Your Data Goes**: Especially with free tiers, input data may be used for model training. Never input secret keys or sensitive customer information.
 
-<!-- AFFILIATE_START -->
-
-### 👇 Recommended Services for Engineers 👇
-[**🌐 Get your unique domain with "Onamae.com". TechTrend Watch uses it too!**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
 
 ## Conclusion: Give it a Star and Stand on the Shoulders of Giants
 

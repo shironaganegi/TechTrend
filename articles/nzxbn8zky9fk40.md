@@ -46,7 +46,6 @@ python -m venv my_env
 
 # 聖域の中に入る（Mac/Linux）
 source my_env/bin/activate
-# Windowsの場合はこちら
 # .\my_env\Scripts\activate
 ```
 
@@ -79,14 +78,6 @@ python -m ipykernel install --user --name=my_env --display-name="Python (My_Env)
 - **整理術**: 仮想環境を乱立させると、次第にストレージを圧迫し始める。役割を終えた環境は `jupyter kernelspec uninstall <環境名>` で、感謝とともに断捨離しよう。
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 ### 🏁 結論：ベース環境で消耗するのはもうやめよう
 
 JupyterLabを単なる「コードが書けるノート」だと思っているなら、それは勿体ない。それは、複数の脳（カーネル）を瞬時に切り替えて並列処理ができる、エンジニアのための「外部脳」なのだ。
@@ -95,18 +86,3 @@ JupyterLabを単なる「コードが書けるノート」だと思っている�
 今すぐターミナルを叩き、自分専用の「最強の特化環境」を構築してほしい。
 
 その一歩が、あなたの開発効率を別次元へと押し上げるはずだ。さあ、スマートな開発体験へ。💻✨
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[DifyでAIアプリを開発するなら『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-![](https://www15.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25HS3M)
-
-:::
-
-
-
-
-
-

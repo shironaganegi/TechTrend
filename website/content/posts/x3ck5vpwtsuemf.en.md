@@ -8,8 +8,6 @@ canonicalUrl = "https://techtrend-watch.com/posts/x3ck5vpwtsuemf/"
 +++
 
 
-# From "Tool" to "Expert Partner": The Impact of Matt Pocock's "skills" for AI Agents
-
 ## Introduction: In 2026, Will We Still Be Writing Code Based on "Vibes"?
 
 "I gave the AI instructions, but the code it returned wasn't what I expected." This remains one of the most universal challenges facing modern engineers. Currently, much of AI utilization stays within the realm of **"Vibe Coding"**—the uncertain process of throwing vague prompts at a model and praying for a lucky output.

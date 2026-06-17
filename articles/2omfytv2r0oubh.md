@@ -9,7 +9,6 @@ note_intro: "AIエージェントがあなたのスマホに直接連絡して�
 image_prompt: "A futuristic high-tech 3D rendering of a sleek smartphone floating in a void, glowing neon blue SMS message bubbles jumping out of the screen. In the background, a translucent robotic hand is interacting with a holographic code interface. Clean, minimalist aesthetic, cinematic lighting, 8k resolution, tech startup style."
 ---
 
-# AIエージェントに「物理的な声」を。Sendlyが変革する、SMSを介したAI×リアル実装の全貌
 
 ### 1. はじめに：AIは「ブラウザの檻」を抜け出し、ユーザーの日常へ
 
@@ -70,18 +69,3 @@ Sendlyは、AIエージェントを「画面の向こう側の知能」から「
 朝、AIがあなたに今日の重要事項をSMSで囁く。あるいは、システムに異常を検知したAIが、あなたがPCの前にいないことを察してスマートフォンの通知を鳴らす。こうした、デバイスの壁を越えたインターフェースの構築が、Sendlyによって容易になった。
 
 「APIを叩けば、物理世界が反応する」。このシンプルかつ根源的な体験を自らのプロダクトに取り入れ、AIエージェントの可能性を次のステージへと押し進めてほしい。
-
-:::message
-**おすすめのサービス (PR)**
-
-
-Minecraftマルチプレイするなら[『XServer VPS』](https://px.a8.net/svt/ejp?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)
-![](https://www19.a8.net/0.gif?a8mat=4AX40H+4EYRAQ+CO4+25FUNM)
-
-:::
-
-
-
-
-
-

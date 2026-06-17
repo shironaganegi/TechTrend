@@ -75,7 +75,6 @@ For example, in enclosed, mission-critical environments like an airplane cabin, 
 
 ---
 
-## ❓ FAQ (Frequently Asked Questions)
 
 ### Q1. Why does simply changing a Bluetooth name force an airplane to turn back?
 This is because aviation security protocols are governed by a strict fail-safe principle: *unless safety can be 100% verified, assume the worst-case scenario (terrorism or sabotage) and act accordingly.* Even if the crew understands that the broadcast is technically "just text data," they cannot immediately prove on-site that a physical threat does not exist within the cabin. Consequently, they must strictly follow procedures to ensure passenger safety, which often mandates turning back or executing an emergency landing.

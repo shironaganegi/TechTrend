@@ -75,14 +75,6 @@ docker-compose up -d
 - **デメリット**: AI特有の「迷走」もゼロではない。そして何より、この力は**諸刃の剣**だ。悪用すれば自分を滅ぼす。あくまで「ホワイトハッカー」の矜持を持って使ってほしい。
 
 
-<!-- AFFILIATE_START -->
-
-### 👇 エンジニアにおすすめのサービス 👇
-[**🌐 独自ドメイン取得なら「お名前.com」。TechTrend Watchも使っています！**](https://www.onamae.com/)
-
-<!-- AFFILIATE_END -->
-
-
 ## 🏁 結論：今すぐStarを付け、この進化の目撃者になれ
 
 セキュリティの世界では、常に「守る側」が不利だとされてきた。しかし、PentAGIのようなツールは、その均衡を崩す可能性を秘めている。
@@ -92,18 +84,3 @@ docker-compose up -d
 少しでも胸が高鳴ったのなら、今すぐGitHubのリポジトリへ飛び、その圧倒的な進化を自分の目で確かめてほしい。🌟
 
 [PentAGI GitHub Repository](https://github.com/vxcontrol/pentagi)
-
-:::message
-**おすすめのサービス (PR)**
-
-
-[国内最速・高安定の高性能レンタルサーバー【ConoHa WING】](https://px.a8.net/svt/ejp?a8mat=4AX40H+48EZN6+50+5SI01U)
-![](https://www11.a8.net/0.gif?a8mat=4AX40H+48EZN6+50+5SI01U)
-
-:::
-
-
-
-
-
-

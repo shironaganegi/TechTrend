@@ -52,7 +52,6 @@ In the worlds of C and Java, the language specification dictates that the progra
 
 Because of this high degree of freedom, the `__name__` mechanism for dynamically determining execution status became essential. This flexibility is Python's powerful weapon, but it is also the point where an engineer's discipline is tested.
 
-## 5. Practical Q&A: Avoiding Common Pitfalls in the Field
 
 ### Q1: Is it okay to write logic directly inside the conditional branch instead of creating a `main()` function?
 **A:** It may be acceptable for small-scale scripts, but it is not recommended. By defining a `main()` function, you limit the variable scope to within that function, preventing the accidental creation of global variables (and the bugs that stem from them).
