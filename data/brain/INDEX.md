@@ -8,15 +8,15 @@ AIエージェントは「ノートブックで調べて」等の指示があっ
 | ノートブック名 | URL | 内容・用途 |
 | :--- | :--- | :--- |
 | **AI_Analyst** | https://notebooklm.google.com/notebook/02dd598a-6a87-4944-8b4a-b3de626f38d9 | Antigravityのスキル、SNS自動化、最新AIトレンド、運用戦略 |
-| **X_ANALYSIS_POINTS.md** | `d:\progectA\brain\X_ANALYSIS_POINTS.md` | **(重要)** Xでの情報分析における着眼点・調査項目チェックリスト |
-| **RESEARCH_TARGETS.md** | `d:\progectA\brain\RESEARCH_TARGETS.md` | `progectA` 各プロジェクトへの具体的な活用・落とし込み案 |
-| **SOP_ADSENSE_APPROVAL.md** | `d:\progectA\brain\SOP_ADSENSE_APPROVAL.md` | **(重要)** Google AdSense 審査合格のためのブログ制作標準手順書 |
+| **X_ANALYSIS_POINTS.md** | `d:\ProjectA\brain\X_ANALYSIS_POINTS.md` | **(重要)** Xでの情報分析における着眼点・調査項目チェックリスト |
+| **RESEARCH_TARGETS.md** | `d:\ProjectA\brain\RESEARCH_TARGETS.md` | `ProjectA` 各プロジェクトへの具体的な活用・落とし込み案 |
+| **SOP_ADSENSE_APPROVAL.md** | `d:\ProjectA\brain\SOP_ADSENSE_APPROVAL.md` | **(重要)** Google AdSense 審査合格のためのブログ制作標準手順書 |
 
 ---
 
 ## 2. 実装済みグローバルスキル (Global Skills)
 `/` コマンドで呼び出し可能な共通ワークフローの一覧です。
-保存先: `d:\progectA\_agents\workflows\`
+保存先: `d:\ProjectA\_agents\workflows\`
 
 | コマンド | スキル名 | 概要 |
 | :--- | :--- | :--- |
