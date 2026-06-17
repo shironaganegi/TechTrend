@@ -1,0 +1,15 @@
+{{- /* 関連記事: タグ等の関連度で最大4件表示。内部リンク強化・回遊率向上のため */ -}}
+{{- $related := site.RegularPages.Related . | first 4 }}
+{{- with $related }}
+<div class="related-posts">
+  <h3 class="related-heading">{{ if eq site.Language.Lang "ja" }}関連記事{{ else }}Related Articles{{ end }}</h3>
+  <div class="related-grid">
+    {{- range . }}
+    <a class="related-card" href="{{ .Permalink }}">
+      <span class="related-title">{{ .Title }}</span>
+      {{- with .Description }}<span class="related-desc">{{ . | truncate 70 }}</span>{{ end }}
+    </a>
+    {{- end }}
+  </div>
+</div>
+{{- end }}

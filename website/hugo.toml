@@ -141,4 +141,19 @@ theme = "PaperMod"
     id = "G-T3QN96SJXT" # TechTrend Watch - Analytics & Ad Performance
 
 [markup.goldmark.renderer]
-  unsafe = true # Allow raw HTML (for affiliate links and expert-opinion boxes)
+  unsafe = true # Allow raw HTML (expert-opinion boxes など)
+
+# 関連記事（内部リンク強化・回遊率向上のため）
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "title"
+    weight = 30
+  [[related.indices]]
+    name = "date"
+    weight = 10
