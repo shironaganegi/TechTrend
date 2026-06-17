@@ -1,7 +1,7 @@
 +++
 title = "市場の非対称性を打破せよ。価格追跡ツール『Dropy』で実現する、データドリブンなガジェット調達戦略 (English)"
 date = "2026-05-04T23:01:12.898337"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "オープンソース"]
 draft = false
 description = "Introduction to 市場の非対称性を打破せよ。価格追跡ツール『Dropy』で実現する、データドリブンなガジェット調達戦略 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/u05z1ks2vkv98d/"

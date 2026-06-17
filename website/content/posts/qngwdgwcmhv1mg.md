@@ -1,7 +1,7 @@
 +++
 title = "境界線は消失する。Wine 11が導く「Linuxゲーミング」の新機軸と、カーネル刷新の衝撃"
 date = "2026-03-25T05:00:36.153393"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "オープンソース"]
 draft = false
 description = "AIツール「境界線は消失する。Wine 11が導く「Linuxゲーミング」の新機軸と、カーネル刷新の衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/qngwdgwcmhv1mg/"

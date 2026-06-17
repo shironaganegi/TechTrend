@@ -1,7 +1,7 @@
 +++
 title = "開発組織のOSを再定義する。AIエージェントを「自律した同僚」へと昇華させるオープンソース基盤『multica』の衝撃"
 date = "2026-04-10T22:44:34.515071"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "DevOps"]
 draft = false
 description = "AIツール「開発組織のOSを再定義する。AIエージェントを「自律した同僚」へと昇華させるオープンソース基盤『multica』の衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/h1lsu67ca41bwk/"

@@ -1,7 +1,7 @@
 +++
 title = "OpenAI「ChatGPT Images 2.0」がもたらすパラダイムシフト：画像生成は「呪文」から「共創」のフェーズへ (English)"
 date = "2026-04-22T11:14:54.896396"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "生成AI"]
 draft = false
 description = "Introduction to OpenAI「ChatGPT Images 2.0」がもたらすパラダイムシフト：画像生成は「呪文」から「共創」のフェーズへ (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/30luexd9pdmv56/"

@@ -1,7 +1,7 @@
 +++
 title = "3970億パラメーターをローカルで飼い慣らす。超巨大MoE推論の技術的特異点「Flash-MoE」の衝撃 (English)"
 date = "2026-03-23T10:58:57.820746"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "Python", "オープンソース"]
 draft = false
 description = "Introduction to 3970億パラメーターをローカルで飼い慣らす。超巨大MoE推論の技術的特異点「Flash-MoE」の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/t48csxygorol0y/"

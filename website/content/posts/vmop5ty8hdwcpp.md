@@ -1,7 +1,7 @@
 +++
 title = "AIによる「過剰な書き換え」という罠を突破する――開発の質を定義する新概念『Minimal Editing』の本質"
 date = "2026-04-23T11:15:29.993362"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM"]
 draft = false
 description = "AIツール「AIによる「過剰な書き換え」という罠を突破する――開発の質を定義する新概念『Minimal Editing』の本質」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/vmop5ty8hdwcpp/"

@@ -1,7 +1,7 @@
 +++
 title = "わずか3,000行で「自己進化」を遂げるAIエージェントの衝撃：『GenericAgent』が示す軽量アーキテクチャの極致 (English)"
 date = "2026-04-18T10:49:59.433283"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
 description = "Introduction to わずか3,000行で「自己進化」を遂げるAIエージェントの衝撃：『GenericAgent』が示す軽量アーキテクチャの極致 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/rkbdluevfp039o/"

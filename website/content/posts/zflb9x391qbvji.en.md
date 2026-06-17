@@ -1,7 +1,7 @@
 +++
 title = "「道具」の域を超えた、自律成長型AIエージェントの衝撃——『hermes-agent』が再定義する人間とAIの共生 (English)"
 date = "2026-05-14T06:35:18.227270"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
 description = "Introduction to 「道具」の域を超えた、自律成長型AIエージェントの衝撃——『hermes-agent』が再定義する人間とAIの共生 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/zflb9x391qbvji/"

@@ -1,7 +1,7 @@
 +++
 title = "ローカルLLMの限界を突破する：軽量8Bモデルで「Tool Calling成功率99%」を実現する堅牢化フレームワーク「Forge」の実力"
 date = "2026-05-20T12:30:40.059012"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "機械学習", "Python"]
 draft = false
 description = "AIツール「ローカルLLMの限界を突破する：軽量8Bモデルで「Tool Calling成功率99%」を実現する堅牢化フレームワーク「Forge」の実力」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/0kap3yyil7ahpv/"

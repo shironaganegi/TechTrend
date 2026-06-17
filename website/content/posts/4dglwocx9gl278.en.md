@@ -1,7 +1,7 @@
 +++
 title = "AIエージェントをPMFへ導く新星「Brief」の実力。開発の「自己満足」を脱し、ビジネス価値を定量化する評価プラットフォームの全貌 (English)"
 date = "2026-06-02T14:11:32.250232"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
 description = "Introduction to AIエージェントをPMFへ導く新星「Brief」の実力。開発の「自己満足」を脱し、ビジネス価値を定量化する評価プラットフォームの全貌 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/4dglwocx9gl278/"

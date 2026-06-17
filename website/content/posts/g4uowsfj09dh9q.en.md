@@ -1,7 +1,7 @@
 +++
 title = "Python「整数型」の深淵：抽象化の極致がもたらすトレードオフと実装の妙 (English)"
 date = "2026-05-17T06:27:43.117561"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "RAG", "Python", "Rust"]
 draft = false
 description = "Introduction to Python「整数型」の深淵：抽象化の極致がもたらすトレードオフと実装の妙 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/g4uowsfj09dh9q/"

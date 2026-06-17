@@ -1,7 +1,7 @@
 +++
 title = "AIエージェントが自律暴走して破産！？DN42スキャンで起きた悲劇から学ぶ「API破産」を防ぐ絶対ルール (English)"
 date = "2026-06-13T07:04:15.725960"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "Python"]
 draft = false
 description = "Introduction to AIエージェントが自律暴走して破産！？DN42スキャンで起きた悲劇から学ぶ「API破産」を防ぐ絶対ルール (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/8q1mnoef6u84eb/"

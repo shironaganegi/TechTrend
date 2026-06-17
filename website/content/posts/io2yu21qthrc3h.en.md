@@ -1,7 +1,7 @@
 +++
 title = "AI実装の成否を分かつ「機械学習プロジェクト・ロードマップ」完全詳解：実戦で勝ち抜くための5つのフェーズ (English)"
 date = "2026-04-03T05:12:29.359633"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "機械学習", "DevOps", "オープンソース"]
 draft = false
 description = "Introduction to AI実装の成否を分かつ「機械学習プロジェクト・ロードマップ」完全詳解：実戦で勝ち抜くための5つのフェーズ (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/io2yu21qthrc3h/"

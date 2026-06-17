@@ -1,7 +1,7 @@
 +++
 title = "広告ノイズから解放される知的生産空間：Pinterest代替の急先鋒『Moodloom』が示す、AI時代のビジュアル・キュレーション"
 date = "2026-06-06T06:35:19.969795"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "機械学習"]
 draft = false
 description = "AIツール「広告ノイズから解放される知的生産空間：Pinterest代替の急先鋒『Moodloom』が示す、AI時代のビジュアル・キュレーション」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/h86wzhwc4p5ww7/"

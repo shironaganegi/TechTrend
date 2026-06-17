@@ -1,7 +1,7 @@
 +++
 title = "音声AIのパラダイムシフト：Microsoft「VibeVoice」が長尺処理と効率性の壁を打ち破る理由"
 date = "2026-03-31T11:25:09.568371"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "生成AI", "機械学習", "オープンソース"]
 draft = false
 description = "AIツール「音声AIのパラダイムシフト：Microsoft「VibeVoice」が長尺処理と効率性の壁を打ち破る理由」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/sqvoi5mphmr2ym/"

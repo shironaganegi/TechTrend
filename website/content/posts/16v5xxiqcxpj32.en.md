@@ -1,7 +1,7 @@
 +++
 title = "摩擦ゼロの視覚的コミュニケーションを。SwiftUIネイティブが生む、次世代スクリーンショット・エディタ『SnapEdit』の真価 (English)"
 date = "2026-04-15T22:50:42.876443"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "オープンソース"]
 draft = false
 description = "Introduction to 摩擦ゼロの視覚的コミュニケーションを。SwiftUIネイティブが生む、次世代スクリーンショット・エディタ『SnapEdit』の真価 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/16v5xxiqcxpj32/"

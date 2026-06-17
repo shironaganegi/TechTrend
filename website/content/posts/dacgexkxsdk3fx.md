@@ -1,7 +1,7 @@
 +++
 title = "プロダクトの「顔」をAIで再定義する——ローンチ動画生成の劇的転換点『Hera』の実力"
 date = "2026-05-01T06:21:19.749806"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "生成AI", "クラウド"]
 draft = false
 description = "AIツール「プロダクトの「顔」をAIで再定義する——ローンチ動画生成の劇的転換点『Hera』の実力」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/dacgexkxsdk3fx/"

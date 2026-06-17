@@ -1,7 +1,7 @@
 +++
 title = "AIエージェント開発の「運用地獄」を終わらせる救世主。Phronyが変える次世代のデプロイ戦略 (English)"
 date = "2026-05-07T23:05:27.792384"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "クラウド", "フロントエンド"]
 draft = false
 description = "Introduction to AIエージェント開発の「運用地獄」を終わらせる救世主。Phronyが変える次世代のデプロイ戦略 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/oh77rfyjkg7jyy/"

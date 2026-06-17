@@ -1,7 +1,7 @@
 +++
 title = "自律型AIエージェント「Zeus」がもたらすパラダイムシフト——「指示」から「委任」へ、開発現場の変革と実装の要諦"
 date = "2026-03-26T22:38:02.541744"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "DevOps"]
 draft = false
 description = "AIツール「自律型AIエージェント「Zeus」がもたらすパラダイムシフト——「指示」から「委任」へ、開発現場の変革と実装の要諦」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/ys62vgyldtpcat/"

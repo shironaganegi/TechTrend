@@ -1,7 +1,7 @@
 +++
 title = "オプティカルフローが紡ぐ数理の美――鳴門の渦潮から宇宙の超新星まで、森羅万象の「動き」を定量化する技術"
 date = "2026-06-12T07:29:15.141670"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "生成AI", "機械学習", "Python"]
 draft = false
 description = "AIツール「オプティカルフローが紡ぐ数理の美――鳴門の渦潮から宇宙の超新星まで、森羅万象の「動き」を定量化する技術」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/eqw2f9xzmbyi86/"

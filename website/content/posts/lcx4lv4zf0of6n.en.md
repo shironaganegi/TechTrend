@@ -1,7 +1,7 @@
 +++
 title = "Claude CodeのAPIコストを35%削減：ローカルMCP「CodeGraph」がもたらすAIコーディングの構造改革 (English)"
 date = "2026-05-23T22:58:40.957640"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "Python"]
 draft = false
 description = "Introduction to Claude CodeのAPIコストを35%削減：ローカルMCP「CodeGraph」がもたらすAIコーディングの構造改革 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/lcx4lv4zf0of6n/"

@@ -1,7 +1,7 @@
 +++
 title = "🧬 自律型AIは「調整」から「進化」の領域へ。GEP搭載エンジン『evolver』が塗り替えるエージェント開発のパラダイム"
 date = "2026-04-19T05:35:32.852298"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "オープンソース"]
 draft = false
 description = "AIツール「🧬 自律型AIは「調整」から「進化」の領域へ。GEP搭載エンジン『evolver』が塗り替えるエージェント開発のパラダイム」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/sin2fgpblbb25e/"

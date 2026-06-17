@@ -1,7 +1,7 @@
 +++
 title = "境界線が消失する：Anthropic「Claude Design」が再定義するUI開発の未来 (English)"
 date = "2026-04-18T22:42:45.071578"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "フロントエンド"]
 draft = false
 description = "Introduction to 境界線が消失する：Anthropic「Claude Design」が再定義するUI開発の未来 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/2zsujxa40tyq66/"

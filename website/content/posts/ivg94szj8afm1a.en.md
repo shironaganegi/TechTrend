@@ -1,7 +1,7 @@
 +++
 title = "「老眼」をエンジニアリングで凌駕する。京商ミニッツ用3Dプリントギヤ測定システムに見る、個人の「マイクロ・スマートファクトリー」という革新 (English)"
 date = "2026-03-17T22:40:47.627023"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to 「老眼」をエンジニアリングで凌駕する。京商ミニッツ用3Dプリントギヤ測定システムに見る、個人の「マイクロ・スマートファクトリー」という革新 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/ivg94szj8afm1a/"

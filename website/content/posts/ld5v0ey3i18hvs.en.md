@@ -1,7 +1,7 @@
 +++
 title = "【完全無料】数式からマルチエージェントまで自作する503講義の超硬派AIカリキュラム「ai-engineering-from-scratch」が示す、真の技術力への道標 (English)"
 date = "2026-06-17T08:34:27.472306"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
 description = "Introduction to 【完全無料】数式からマルチエージェントまで自作する503講義の超硬派AIカリキュラム「ai-engineering-from-scratch」が示す、真の技術力への道標 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/ld5v0ey3i18hvs/"

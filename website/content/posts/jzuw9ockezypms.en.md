@@ -1,7 +1,7 @@
 +++
 title = "市場の「静かなる転換」をコードで捉える：ソーサーボトム自動検知システムの構築と技術的考察 (English)"
 date = "2026-05-16T11:07:19.537825"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "RAG", "セキュリティ", "DevOps", "クラウド"]
 draft = false
 description = "Introduction to 市場の「静かなる転換」をコードで捉える：ソーサーボトム自動検知システムの構築と技術的考察 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/jzuw9ockezypms/"

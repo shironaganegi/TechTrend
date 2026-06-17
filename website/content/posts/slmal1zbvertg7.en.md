@@ -1,7 +1,7 @@
 +++
 title = "スマホで爆速動作：超軽量1Bモデル「MiniCPM5-1B」が切り拓くオンデバイスAIの未来 (English)"
 date = "2026-05-26T23:15:40.328604"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "機械学習", "オープンソース"]
 draft = false
 description = "Introduction to スマホで爆速動作：超軽量1Bモデル「MiniCPM5-1B」が切り拓くオンデバイスAIの未来 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/slmal1zbvertg7/"

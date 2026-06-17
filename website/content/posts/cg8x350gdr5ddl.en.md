@@ -1,7 +1,7 @@
 +++
 title = "OpenAI APIと個人情報保護法：LLM開発者が陥る「オプトアウトの罠」と実務的リスクの正体 (English)"
 date = "2026-03-25T10:55:42.683916"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to OpenAI APIと個人情報保護法：LLM開発者が陥る「オプトアウトの罠」と実務的リスクの正体 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/cg8x350gdr5ddl/"

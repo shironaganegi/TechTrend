@@ -1,7 +1,7 @@
 +++
 title = "Google「Gemini 3.5 Flash」が再定義する開発常識。圧倒的な低レイテンシと費用対効果を徹底解剖 (English)"
 date = "2026-05-19T23:10:10.427529"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "オープンソース"]
 draft = false
 description = "Introduction to Google「Gemini 3.5 Flash」が再定義する開発常識。圧倒的な低レイテンシと費用対効果を徹底解剖 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/dhtj1ywgwp6qqu/"

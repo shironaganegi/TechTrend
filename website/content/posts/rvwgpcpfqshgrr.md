@@ -1,7 +1,7 @@
 +++
 title = "Google Gemma 4が提示する「オープンウェイト」の新地平――エッジAIと高精度推論が融合する未来"
 date = "2026-04-03T22:41:50.787182"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "クラウド"]
 draft = false
 description = "AIツール「Google Gemma 4が提示する「オープンウェイト」の新地平――エッジAIと高精度推論が融合する未来」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/rvwgpcpfqshgrr/"

@@ -1,7 +1,7 @@
 +++
 title = "計算不可能性の深淵へ：Pythonで探る「停止性問題」とBusy Beaverが示す知の境界線 (English)"
 date = "2026-04-29T05:59:02.115859"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "クラウド", "Python", "オープンソース"]
 draft = false
 description = "Introduction to 計算不可能性の深淵へ：Pythonで探る「停止性問題」とBusy Beaverが示す知の境界線 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/xa2doix22m40xf/"

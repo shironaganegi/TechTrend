@@ -1,7 +1,7 @@
 +++
 title = "データサイエンティストのための「金融工学」再入門：SDEからコピュラ、HFTまでを繋ぐ数理の全体地図 (English)"
 date = "2026-05-23T11:19:06.264134"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "RAG", "生成AI", "機械学習", "Python"]
 draft = false
 description = "Introduction to データサイエンティストのための「金融工学」再入門：SDEからコピュラ、HFTまでを繋ぐ数理の全体地図 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/n53jv3h6qdulaz/"

@@ -1,7 +1,7 @@
 +++
 title = "ソフトウェア開発は「職人技」から「産業」へ。Gas City 1.0が提示する“ソフトウェア工場”の衝撃 (English)"
 date = "2026-05-06T11:54:57.448395"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "オープンソース"]
 draft = false
 description = "Introduction to ソフトウェア開発は「職人技」から「産業」へ。Gas City 1.0が提示する“ソフトウェア工場”の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/okk2kwftx83fzw/"

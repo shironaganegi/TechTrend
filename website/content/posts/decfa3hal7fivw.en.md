@@ -1,7 +1,7 @@
 +++
 title = "AIエージェントが「財布」と「サーバー」を持つ時代：Stripe Projects × Cloudflareで実現する自律型インフラ構築の最前線 (English)"
 date = "2026-05-22T06:54:49.550108"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "DevOps", "クラウド"]
 draft = false
 description = "Introduction to AIエージェントが「財布」と「サーバー」を持つ時代：Stripe Projects × Cloudflareで実現する自律型インフラ構築の最前線 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/decfa3hal7fivw/"

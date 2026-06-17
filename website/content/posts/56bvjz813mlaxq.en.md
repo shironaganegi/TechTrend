@@ -1,7 +1,7 @@
 +++
 title = "Chromeの9倍軽量、11倍高速。AIエージェント時代の「ブラウザ再定義」を担うLightpandaの衝撃 (English)"
 date = "2026-03-15T10:38:25.702266"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "DevOps", "フロントエンド"]
 draft = false
 description = "Introduction to Chromeの9倍軽量、11倍高速。AIエージェント時代の「ブラウザ再定義」を担うLightpandaの衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/56bvjz813mlaxq/"

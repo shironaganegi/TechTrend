@@ -1,7 +1,7 @@
 +++
 title = "週次報告の「儀式」を自動化する：LaTeX (Beamer) 更新を効率化するPythonスクリプトの技術的価値 (English)"
 date = "2026-05-15T06:38:21.462644"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "RAG", "DevOps", "Python", "オープンソース"]
 draft = false
 description = "Introduction to 週次報告の「儀式」を自動化する：LaTeX (Beamer) 更新を効率化するPythonスクリプトの技術的価値 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/8e6nacj6l4yccy/"

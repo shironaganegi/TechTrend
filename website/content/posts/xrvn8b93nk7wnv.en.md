@@ -1,7 +1,7 @@
 +++
 title = "Python × Claude APIで構築する「次世代・自律型要約システム」のすゝめ (English)"
 date = "2026-04-27T11:50:21.021748"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "Python", "オープンソース"]
 draft = false
 description = "Introduction to Python × Claude APIで構築する「次世代・自律型要約システム」のすゝめ (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/xrvn8b93nk7wnv/"

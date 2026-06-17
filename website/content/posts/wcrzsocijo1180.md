@@ -1,7 +1,7 @@
 +++
 title = "GitHubで星を集める『離譜的英語学習指南』に学ぶ：マルチLLMを「オーケストレーション」する2026年版・次世代英語学習ハック"
 date = "2026-05-29T23:19:57.805932"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "DevOps", "データベース"]
 draft = false
 description = "AIツール「GitHubで星を集める『離譜的英語学習指南』に学ぶ：マルチLLMを「オーケストレーション」する2026年版・次世代英語学習ハック」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/wcrzsocijo1180/"

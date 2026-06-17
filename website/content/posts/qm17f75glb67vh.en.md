@@ -1,7 +1,7 @@
 +++
 title = "「レビュー待ち」という停滞を打破する。次世代AIコードエージェント『Graphbit PRFlow』がもたらす開発サイクルの革新 (English)"
 date = "2026-05-11T12:43:29.629340"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
 description = "Introduction to 「レビュー待ち」という停滞を打破する。次世代AIコードエージェント『Graphbit PRFlow』がもたらす開発サイクルの革新 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/qm17f75glb67vh/"

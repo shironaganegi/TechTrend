@@ -1,7 +1,7 @@
 +++
 title = "Appleが描くローカルコンテナ環境の未来──Swift製ネイティブ仮想化ツール「container」の実力と技術的本質"
 date = "2026-06-12T23:24:35.951749"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "DevOps", "フロントエンド", "オープンソース"]
 draft = false
 description = "AIツール「Appleが描くローカルコンテナ環境の未来──Swift製ネイティブ仮想化ツール「container」の実力と技術的本質」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/rzn6w4yu0x48r0/"

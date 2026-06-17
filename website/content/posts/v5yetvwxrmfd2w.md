@@ -1,7 +1,7 @@
 +++
 title = "【DALL-E 3後継】GPT Image 2 API移行完全ガイド：進化するDiTアーキテクチャの実力と実装アプローチ"
 date = "2026-06-04T07:29:39.610400"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "生成AI", "機械学習", "Python"]
 draft = false
 description = "AIツール「【DALL-E 3後継】GPT Image 2 API移行完全ガイド：進化するDiTアーキテクチャの実力と実装アプローチ」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/v5yetvwxrmfd2w/"

@@ -1,7 +1,7 @@
 +++
 title = "「見えない電波」で空間を解読する。WiFi信号を視覚化するAI『RuView』がもたらす空間知能の変革 (English)"
 date = "2026-04-21T05:33:51.038799"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "Rust", "オープンソース"]
 draft = false
 description = "Introduction to 「見えない電波」で空間を解読する。WiFi信号を視覚化するAI『RuView』がもたらす空間知能の変革 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/rm5urk9g2m9yas/"

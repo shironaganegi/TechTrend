@@ -1,7 +1,7 @@
 +++
 title = "「知能の密度」が再定義するAIの地平：小規模脳から学ぶ次世代アーキテクチャの真髄"
 date = "2026-03-30T22:44:36.165748"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "機械学習", "クラウド"]
 draft = false
 description = "AIツール「「知能の密度」が再定義するAIの地平：小規模脳から学ぶ次世代アーキテクチャの真髄」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/ycwwkhf1tso8sv/"

@@ -1,7 +1,7 @@
 +++
 title = "あらゆる窓口の問い合わせを自律解決！マルチチャネル型AIエージェント『SeaTicket』の衝撃と導入ロードマップ"
 date = "2026-06-10T13:41:25.688224"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
 description = "AIツール「あらゆる窓口の問い合わせを自律解決！マルチチャネル型AIエージェント『SeaTicket』の衝撃と導入ロードマップ」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/ygcigibv3kms06/"

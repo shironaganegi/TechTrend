@@ -1,7 +1,7 @@
 +++
 title = "自律型商談の衝撃：FlowMarketが切り拓く「A2A（Agent-to-Agent）」経済の全貌"
 date = "2026-05-07T11:54:19.499627"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ"]
 draft = false
 description = "AIツール「自律型商談の衝撃：FlowMarketが切り拓く「A2A（Agent-to-Agent）」経済の全貌」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/z26fb1ami2ozew/"

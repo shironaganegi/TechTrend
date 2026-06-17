@@ -1,7 +1,7 @@
 +++
 title = "Live2Dの歴史が変わる？「See-through」でイラストのパーツ分けを完全自動化する未来"
 date = "2026-04-02T05:09:16.139818"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "生成AI", "オープンソース"]
 draft = false
 description = "AIツール「Live2Dの歴史が変わる？「See-through」でイラストのパーツ分けを完全自動化する未来」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/wktlwwfnwklly8/"

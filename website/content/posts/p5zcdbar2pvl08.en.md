@@ -1,7 +1,7 @@
 +++
 title = "23年の時を超えて：Claude CodeがLinuxカーネルの「最古級」脆弱性を看破した意義 (English)"
 date = "2026-04-04T22:37:57.923516"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "オープンソース"]
 draft = false
 description = "Introduction to 23年の時を超えて：Claude CodeがLinuxカーネルの「最古級」脆弱性を看破した意義 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/p5zcdbar2pvl08/"

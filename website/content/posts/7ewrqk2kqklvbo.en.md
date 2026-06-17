@@ -1,7 +1,7 @@
 +++
 title = "AIエージェントの「ラストワンマイル」を突破する：Monid 2.0がもたらすツール接続の抽象化と標準化 (English)"
 date = "2026-05-08T11:24:07.204133"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "オープンソース"]
 draft = false
 description = "Introduction to AIエージェントの「ラストワンマイル」を突破する：Monid 2.0がもたらすツール接続の抽象化と標準化 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/7ewrqk2kqklvbo/"

@@ -1,7 +1,7 @@
 +++
 title = "ヤン・ルカンが描く「物理法則を解するAI」：10億ドルの巨額資金が照らすLLMの次の地平 (English)"
 date = "2026-03-11T10:50:52.815715"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "機械学習", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to ヤン・ルカンが描く「物理法則を解するAI」：10億ドルの巨額資金が照らすLLMの次の地平 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/4qttuga156oa40/"

@@ -1,0 +1,36 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}
+
+{{- /* 検索＋トピック別ブラウズ（特定技術を探しやすくするため） */ -}}
+{{- $isJa := eq site.Language.Lang "ja" }}
+<section class="home-discover">
+    <a class="home-search-link" href="{{ "search/" | relLangURL }}">
+        🔍 {{ if $isJa }}キーワードで技術を探す{{ else }}Search by keyword{{ end }}
+    </a>
+    {{- $base := slice "AI" "Tools" }}
+    {{- $tags := site.Taxonomies.tags }}
+    {{- if $tags }}
+    <h2 class="home-topic-heading">{{ if $isJa }}トピックから探す{{ else }}Browse by Topic{{ end }}</h2>
+    <div class="topic-grid">
+        {{- range first 14 $tags.ByCount }}
+        {{- if not (in $base .Name) }}
+        <a class="topic-card" href="{{ .Page.RelPermalink }}">
+            <span class="topic-name">{{ .Name }}</span>
+            <span class="topic-count">{{ .Count }}</span>
+        </a>
+        {{- end }}
+        {{- end }}
+    </div>
+    {{- end }}
+</section>

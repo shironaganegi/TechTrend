@@ -1,7 +1,7 @@
 +++
 title = "NotebookLMのポテンシャルを極限まで引き出す――「Web Clipper for NotebookLM」がもたらすセマンティックな知的生産技術 (English)"
 date = "2026-05-31T23:07:46.615101"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "オープンソース"]
 draft = false
 description = "Introduction to NotebookLMのポテンシャルを極限まで引き出す――「Web Clipper for NotebookLM」がもたらすセマンティックな知的生産技術 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/7zy2ndkrk211qn/"

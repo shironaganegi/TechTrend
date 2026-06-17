@@ -1,7 +1,7 @@
 +++
 title = "AIコーディングの限界点：プロジェクト肥大化で発生する「サイレント崩壊」の真実と実践的対策 (English)"
 date = "2026-05-23T06:17:08.613384"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "フロントエンド", "オープンソース"]
 draft = false
 description = "Introduction to AIコーディングの限界点：プロジェクト肥大化で発生する「サイレント崩壊」の真実と実践的対策 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/bmmm2sbqzt9eii/"

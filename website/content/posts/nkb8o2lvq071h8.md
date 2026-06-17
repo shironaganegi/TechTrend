@@ -1,7 +1,7 @@
 +++
 title = "ブラウザに「意志」を宿す——MyNextBrowserが切り拓く自律型オートメーションの分水嶺"
 date = "2026-03-15T05:11:39.675429"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "フロントエンド"]
 draft = false
 description = "AIツール「ブラウザに「意志」を宿す——MyNextBrowserが切り拓く自律型オートメーションの分水嶺」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/nkb8o2lvq071h8/"

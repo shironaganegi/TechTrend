@@ -1,7 +1,7 @@
 +++
 title = "集中力を「資産」に変える環境設計。エンジニア特化型カフェ探索ツール『Brew Finder』が提示する、ノマドワークの新たな最適解 (English)"
 date = "2026-04-27T22:59:22.596077"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "DevOps"]
 draft = false
 description = "Introduction to 集中力を「資産」に変える環境設計。エンジニア特化型カフェ探索ツール『Brew Finder』が提示する、ノマドワークの新たな最適解 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/4cpq4tzswywknb/"

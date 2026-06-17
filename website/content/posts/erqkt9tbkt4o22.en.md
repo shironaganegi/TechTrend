@@ -1,7 +1,7 @@
 +++
 title = "【徹底解説】Claude Codeが「開発の挫折」を終わらせる。Pythonパーサ実装を1日で完遂する新時代のワークフロー (English)"
 date = "2026-04-02T10:58:42.824617"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "Python"]
 draft = false
 description = "Introduction to 【徹底解説】Claude Codeが「開発の挫折」を終わらせる。Pythonパーサ実装を1日で完遂する新時代のワークフロー (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/erqkt9tbkt4o22/"

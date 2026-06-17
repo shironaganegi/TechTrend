@@ -1,7 +1,7 @@
 +++
 title = "AIの限界点を見極める——日本の「生データ」を扱うエンジニアがAPI回帰すべき3つの技術的理由 (English)"
 date = "2026-04-21T22:43:55.460098"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "DevOps", "オープンソース"]
 draft = false
 description = "Introduction to AIの限界点を見極める——日本の「生データ」を扱うエンジニアがAPI回帰すべき3つの技術的理由 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/yi9vreov5zd9l6/"

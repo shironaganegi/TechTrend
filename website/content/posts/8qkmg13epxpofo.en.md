@@ -1,7 +1,7 @@
 +++
 title = "LLM全盛期に『ゼロつく②』第6章を今こそ復習すべき理由：LSTMの構造をスクラッチで理解し、技術的優位性を築く (English)"
 date = "2026-06-03T14:59:15.435675"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "機械学習", "クラウド", "Python"]
 draft = false
 description = "Introduction to LLM全盛期に『ゼロつく②』第6章を今こそ復習すべき理由：LSTMの構造をスクラッチで理解し、技術的優位性を築く (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/8qkmg13epxpofo/"

@@ -1,7 +1,7 @@
 +++
 title = "185種以上のツールを統合したペネトレーションテスト・スイート「hackingtool v2.0」——モダン・エンジニアのためのセキュリティ要塞"
 date = "2026-04-24T05:42:02.192502"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "セキュリティ", "DevOps", "クラウド", "Python"]
 draft = false
 description = "AIツール「185種以上のツールを統合したペネトレーションテスト・スイート「hackingtool v2.0」——モダン・エンジニアのためのセキュリティ要塞」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/zt2g7551tubmim/"

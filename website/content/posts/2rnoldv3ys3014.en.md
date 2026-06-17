@@ -1,7 +1,7 @@
 +++
 title = "量子アニーリングと深層強化学習が導く「物流最適化」のパラダイムシフト：FSSPをQUBOで解破する技術的真髄 (English)"
 date = "2026-03-27T05:14:32.274278"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "Python", "オープンソース"]
 draft = false
 description = "Introduction to 量子アニーリングと深層強化学習が導く「物流最適化」のパラダイムシフト：FSSPをQUBOで解破する技術的真髄 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/2rnoldv3ys3014/"

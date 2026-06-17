@@ -1,7 +1,7 @@
 +++
 title = "AI開発の要石「LiteLLM」を襲ったサプライチェーン攻撃。エンジニアが直面するリスクと真の防衛策 (English)"
 date = "2026-03-25T22:43:46.566834"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "セキュリティ", "DevOps", "クラウド"]
 draft = false
 description = "Introduction to AI開発の要石「LiteLLM」を襲ったサプライチェーン攻撃。エンジニアが直面するリスクと真の防衛策 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/xp4na9s85bakqk/"

@@ -1,7 +1,7 @@
 +++
 title = "フレームワークに依存しない、数式とコードからLLMを再構築する超硬派カリキュラム「AI Engineering from Scratch」 (English)"
 date = "2026-05-27T07:09:34.041797"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "機械学習", "フロントエンド"]
 draft = false
 description = "Introduction to フレームワークに依存しない、数式とコードからLLMを再構築する超硬派カリキュラム「AI Engineering from Scratch」 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/i6xy5ytn006wh4/"

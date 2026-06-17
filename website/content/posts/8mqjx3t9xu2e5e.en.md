@@ -1,7 +1,7 @@
 +++
 title = "1万スターが示す「教育の再定義」——AIエージェント・ネイティブな個別指導ツール「DeepTutor v1.0.0」の衝撃 (English)"
 date = "2026-04-08T22:51:34.422410"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
 description = "Introduction to 1万スターが示す「教育の再定義」——AIエージェント・ネイティブな個別指導ツール「DeepTutor v1.0.0」の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/8mqjx3t9xu2e5e/"

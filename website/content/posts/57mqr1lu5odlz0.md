@@ -1,7 +1,7 @@
 +++
 title = "配信コンテンツを「書籍」へと昇華させるAI「Prosed」——ポッドキャストやニュースレターを無駄にしない、新時代のパブリッシング戦略"
 date = "2026-05-22T12:27:27.928619"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM"]
 draft = false
 description = "AIツール「配信コンテンツを「書籍」へと昇華させるAI「Prosed」——ポッドキャストやニュースレターを無駄にしない、新時代のパブリッシング戦略」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/57mqr1lu5odlz0/"

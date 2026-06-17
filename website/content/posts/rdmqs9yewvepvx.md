@@ -1,7 +1,7 @@
 +++
 title = "AI開発のパラダイムシフト——自律型エージェント基盤「Superpowers」がもたらす、規律ある自動化の正体"
 date = "2026-03-29T10:43:16.201155"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "機械学習"]
 draft = false
 description = "AIツール「AI開発のパラダイムシフト——自律型エージェント基盤「Superpowers」がもたらす、規律ある自動化の正体」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/rdmqs9yewvepvx/"

@@ -1,7 +1,7 @@
 +++
 title = "ローカルLLMの新潮流：Gemma 4とQwen 3.5が示す「日本語推論」の臨界点"
 date = "2026-04-05T22:39:15.472274"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "クラウド"]
 draft = false
 description = "AIツール「ローカルLLMの新潮流：Gemma 4とQwen 3.5が示す「日本語推論」の臨界点」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/1lf52drjdla6au/"

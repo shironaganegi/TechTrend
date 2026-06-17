@@ -1,7 +1,7 @@
 +++
 title = "AIは「製品」ではない、基盤となる「技術」である。Daring Fireballが警告する2026年の生存戦略 (English)"
 date = "2026-05-18T13:52:40.283845"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "オープンソース"]
 draft = false
 description = "Introduction to AIは「製品」ではない、基盤となる「技術」である。Daring Fireballが警告する2026年の生存戦略 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/3xk423vb6wqee9/"

@@ -1,7 +1,7 @@
 +++
 title = "238年間の米国政治をベイズで解剖する――動的ノンパラメトリック分析が可視化する「分断」の深層 (English)"
 date = "2026-04-11T05:01:44.288602"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "機械学習", "Python", "オープンソース"]
 draft = false
 description = "Introduction to 238年間の米国政治をベイズで解剖する――動的ノンパラメトリック分析が可視化する「分断」の深層 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/5w8jppyg42ywqs/"

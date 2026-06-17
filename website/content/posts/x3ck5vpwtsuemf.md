@@ -1,7 +1,7 @@
 +++
 title = "AIエージェントを「道具」から「熟練のパートナー」へ。Matt Pocock氏が公開した『skills』の衝撃"
 date = "2026-04-28T23:01:24.711018"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "フロントエンド"]
 draft = false
 description = "AIツール「AIエージェントを「道具」から「熟練のパートナー」へ。Matt Pocock氏が公開した『skills』の衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/x3ck5vpwtsuemf/"

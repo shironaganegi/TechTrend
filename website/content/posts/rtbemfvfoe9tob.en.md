@@ -1,7 +1,7 @@
 +++
 title = "【速報】OpenRouterが1.13億ドル（約170億円）を資金調達――LLMアグリゲーターがもたらすシステムアーキテクチャの地殻変動 (English)"
 date = "2026-05-31T11:44:36.228899"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "クラウド", "フロントエンド"]
 draft = false
 description = "Introduction to 【速報】OpenRouterが1.13億ドル（約170億円）を資金調達――LLMアグリゲーターがもたらすシステムアーキテクチャの地殻変動 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/rtbemfvfoe9tob/"

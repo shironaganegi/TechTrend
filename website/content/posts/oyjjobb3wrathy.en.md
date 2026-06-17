@@ -1,7 +1,7 @@
 +++
 title = "モバイル・エンジニアリングの再定義。KingCodingがもたらす「場所」と「思考」からの解放 (English)"
 date = "2026-04-21T11:15:25.444412"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG"]
 draft = false
 description = "Introduction to モバイル・エンジニアリングの再定義。KingCodingがもたらす「場所」と「思考」からの解放 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/oyjjobb3wrathy/"

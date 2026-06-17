@@ -1,7 +1,7 @@
 +++
 title = "Vibe Codingの終焉：AIの暴走を物理的に封殺する「ハーネスエンジニアリング」とHeadless自律QAの真価 (English)"
 date = "2026-04-26T10:53:10.183151"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "機械学習", "セキュリティ"]
 draft = false
 description = "Introduction to Vibe Codingの終焉：AIの暴走を物理的に封殺する「ハーネスエンジニアリング」とHeadless自律QAの真価 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/pt9zc72w403pzh/"

@@ -1,7 +1,7 @@
 +++
 title = "Macユーザーの最適解となるか。完全無料のOSS画面キャプチャ「Capso」が再定義するワークフローの極致"
 date = "2026-04-11T10:43:26.114966"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "セキュリティ", "クラウド", "オープンソース"]
 draft = false
 description = "AIツール「Macユーザーの最適解となるか。完全無料のOSS画面キャプチャ「Capso」が再定義するワークフローの極致」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/4zj7wqdnk6pbpj/"

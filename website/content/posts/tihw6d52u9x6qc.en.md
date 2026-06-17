@@ -1,7 +1,7 @@
 +++
 title = "最先端LLMでも意見が分かれる「不一致問題」——現実世界のファクトチェックにおける限界とエンジニアが取るべき解決策 (English)"
 date = "2026-05-28T23:23:34.999819"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "Python"]
 draft = false
 description = "Introduction to 最先端LLMでも意見が分かれる「不一致問題」——現実世界のファクトチェックにおける限界とエンジニアが取るべき解決策 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/tihw6d52u9x6qc/"

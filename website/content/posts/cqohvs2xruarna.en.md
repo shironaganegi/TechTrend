@@ -1,7 +1,7 @@
 +++
 title = "ゼロからシステムを構築する「究極の再発明」。GitHub 25万スター超の『build-your-own-x』がエンジニアの本質を呼び覚ます (English)"
 date = "2026-04-27T06:08:05.851582"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "DevOps", "フロントエンド", "Python"]
 draft = false
 description = "Introduction to ゼロからシステムを構築する「究極の再発明」。GitHub 25万スター超の『build-your-own-x』がエンジニアの本質を呼び覚ます (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/cqohvs2xruarna/"

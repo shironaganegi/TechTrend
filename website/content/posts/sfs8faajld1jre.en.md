@@ -1,7 +1,7 @@
 +++
 title = "Odyssey-2 Max：物理法則を完全理解する「ワールドモデル」の新次元。AI動画の域を超えたシミュレーションの衝撃 (English)"
 date = "2026-04-28T06:11:51.073685"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to Odyssey-2 Max：物理法則を完全理解する「ワールドモデル」の新次元。AI動画の域を超えたシミュレーションの衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/sfs8faajld1jre/"

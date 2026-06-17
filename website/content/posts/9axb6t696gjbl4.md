@@ -1,7 +1,7 @@
 +++
 title = "Oracle AI Database 26aiが拓く「自律型データ基盤」の新境地：Agent FactoryとMCPがもたらすアーキテクチャの転換"
 date = "2026-03-27T10:56:37.546613"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「Oracle AI Database 26aiが拓く「自律型データ基盤」の新境地：Agent FactoryとMCPがもたらすアーキテクチャの転換」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/9axb6t696gjbl4/"

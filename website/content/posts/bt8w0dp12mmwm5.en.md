@@ -1,7 +1,7 @@
 +++
 title = "バックエンド開発を脅かす「制約減衰（Constraint Decay）」の真実――AIエージェントの自壊を防ぐアーキテクチャ設計論 (English)"
 date = "2026-05-25T13:33:57.534726"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
 description = "Introduction to バックエンド開発を脅かす「制約減衰（Constraint Decay）」の真実――AIエージェントの自壊を防ぐアーキテクチャ設計論 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/bt8w0dp12mmwm5/"

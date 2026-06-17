@@ -1,7 +1,7 @@
 +++
 title = "Macを「声」で操る未来の幕開け――次世代音声AIエージェント『TaskGPT』がもたらすOS操作のパラダイムシフト"
 date = "2026-06-03T08:24:39.929068"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「Macを「声」で操る未来の幕開け――次世代音声AIエージェント『TaskGPT』がもたらすOS操作のパラダイムシフト」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/1eugdsx0q1m5p2/"

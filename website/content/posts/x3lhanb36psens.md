@@ -1,7 +1,7 @@
 +++
 title = "「伝わらない技術」の正体：AI時代のシニアエンジニアに求められる\"ナラティブ\"という生存戦略"
 date = "2026-05-13T06:32:04.358161"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "セキュリティ"]
 draft = false
 description = "AIツール「「伝わらない技術」の正体：AI時代のシニアエンジニアに求められる\"ナラティブ\"という生存戦略」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/x3lhanb36psens/"

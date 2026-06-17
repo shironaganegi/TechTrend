@@ -1,7 +1,7 @@
 +++
 title = "【技術解説】Googleの最新量子化アルゴリズムをRustで実装――「turbovec」がもたらす超軽量・高速RAGの未来 (English)"
 date = "2026-06-07T11:54:45.845891"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "セキュリティ", "Python"]
 draft = false
 description = "Introduction to 【技術解説】Googleの最新量子化アルゴリズムをRustで実装――「turbovec」がもたらす超軽量・高速RAGの未来 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/7dcvwgecb080w0/"

@@ -1,7 +1,7 @@
 +++
 title = "ブラウザエンジンの民主化：Servoのcrates.io解禁が、Web開発のパラダイムをどう変えるのか"
 date = "2026-04-13T22:52:04.990501"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "セキュリティ", "フロントエンド"]
 draft = false
 description = "AIツール「ブラウザエンジンの民主化：Servoのcrates.io解禁が、Web開発のパラダイムをどう変えるのか」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/v74xscnfsid1nd/"

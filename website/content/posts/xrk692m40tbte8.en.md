@@ -1,7 +1,7 @@
 +++
 title = "AIエージェントの「主権」を確立する分散型基盤——Huddle01 VMsが描くDePIN×AIの地平線 (English)"
 date = "2026-05-03T10:59:00.578736"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "クラウド"]
 draft = false
 description = "Introduction to AIエージェントの「主権」を確立する分散型基盤——Huddle01 VMsが描くDePIN×AIの地平線 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/xrk692m40tbte8/"

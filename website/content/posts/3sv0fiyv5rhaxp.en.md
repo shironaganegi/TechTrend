@@ -1,7 +1,7 @@
 +++
 title = "次世代SaaS連携の旗手「Flowripple」徹底解剖――イベント駆動型アーキテクチャがもたらす開発効率の「特異点」 (English)"
 date = "2026-03-09T10:53:52.724216"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to 次世代SaaS連携の旗手「Flowripple」徹底解剖――イベント駆動型アーキテクチャがもたらす開発効率の「特異点」 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/3sv0fiyv5rhaxp/"

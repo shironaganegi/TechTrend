@@ -1,7 +1,7 @@
 +++
 title = "【Unsloth Studio】ローカルLLM開発に「GUI革命」が到来。学習・推論を劇的に高速化する新時代の標準ツール"
 date = "2026-03-19T05:00:45.438603"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "機械学習", "Python"]
 draft = false
 description = "AIツール「【Unsloth Studio】ローカルLLM開発に「GUI革命」が到来。学習・推論を劇的に高速化する新時代の標準ツール」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/n3mgtz1e0ew9uc/"

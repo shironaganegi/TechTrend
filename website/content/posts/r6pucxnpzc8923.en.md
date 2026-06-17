@@ -1,7 +1,7 @@
 +++
 title = "Pythonによる「ダブルボトム」自動検知：テクニカル分析を自動化し、投資の規律をシステムで制御する (English)"
 date = "2026-04-26T05:45:43.204400"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "DevOps", "クラウド"]
 draft = false
 description = "Introduction to Pythonによる「ダブルボトム」自動検知：テクニカル分析を自動化し、投資の規律をシステムで制御する (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/r6pucxnpzc8923/"

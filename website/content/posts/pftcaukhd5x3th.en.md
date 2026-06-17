@@ -1,7 +1,7 @@
 +++
 title = "3000行の「神main.py」に終止符を。Pythonで実践する「依存性の注入（DI）」設計パターン (English)"
 date = "2026-06-10T23:42:09.754686"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "Python"]
 draft = false
 description = "Introduction to 3000行の「神main.py」に終止符を。Pythonで実践する「依存性の注入（DI）」設計パターン (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/pftcaukhd5x3th/"

@@ -1,7 +1,7 @@
 +++
 title = "SDVの心臓部を解剖する：事故車から回収したTesla Model 3「ICE」のデスクトップ起動に挑む (English)"
 date = "2026-03-26T11:00:17.630069"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "クラウド"]
 draft = false
 description = "Introduction to SDVの心臓部を解剖する：事故車から回収したTesla Model 3「ICE」のデスクトップ起動に挑む (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/te2s54cd4hmwmn/"

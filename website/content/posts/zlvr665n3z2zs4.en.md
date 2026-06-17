@@ -1,7 +1,7 @@
 +++
 title = "金融DXの転換点：Anthropicが放つ『Claude for Financial Services』の実像と、AIエージェントが書き換える業務の定義 (English)"
 date = "2026-05-09T22:54:44.851228"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
 description = "Introduction to 金融DXの転換点：Anthropicが放つ『Claude for Financial Services』の実像と、AIエージェントが書き換える業務の定義 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/zlvr665n3z2zs4/"

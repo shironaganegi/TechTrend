@@ -1,7 +1,7 @@
 +++
 title = "司法を揺るがす「AI証拠捏造」の衝撃。信頼崩壊の時代に開発者が実装すべき「データ来歴証明」の最前線"
 date = "2026-06-14T12:05:42.061235"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "生成AI", "セキュリティ", "オープンソース"]
 draft = false
 description = "AIツール「司法を揺るがす「AI証拠捏造」の衝撃。信頼崩壊の時代に開発者が実装すべき「データ来歴証明」の最前線」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/tvc7ru216ve8hv/"

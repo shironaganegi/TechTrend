@@ -1,7 +1,7 @@
 +++
 title = "論文執筆のパラダイムシフト。Claude Code専用プラグイン「academic-research-skills」が研究者の「思考の伴走者」となる理由 (English)"
 date = "2026-05-18T23:09:27.122201"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "オープンソース"]
 draft = false
 description = "Introduction to 論文執筆のパラダイムシフト。Claude Code専用プラグイン「academic-research-skills」が研究者の「思考の伴走者」となる理由 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/i4oba5dwxbf7jn/"

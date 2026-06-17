@@ -1,7 +1,7 @@
 +++
 title = "ウェアラブル開発の民主化：Open Wearablesが破壊する「垂直統合」の壁とデータ主権の未来 (English)"
 date = "2026-04-30T06:09:52.067889"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "オープンソース"]
 draft = false
 description = "Introduction to ウェアラブル開発の民主化：Open Wearablesが破壊する「垂直統合」の壁とデータ主権の未来 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/7foe39xmuse5oh/"

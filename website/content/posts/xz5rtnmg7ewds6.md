@@ -1,7 +1,7 @@
 +++
 title = "FBI長官の個人メールが突破？イラン系ハッカーの最新手口と、エンジニアが今すぐ見直すべき「究極の個人OPSEC」"
 date = "2026-03-28T10:41:14.347126"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "セキュリティ"]
 draft = false
 description = "AIツール「FBI長官の個人メールが突破？イラン系ハッカーの最新手口と、エンジニアが今すぐ見直すべき「究極の個人OPSEC」」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/xz5rtnmg7ewds6/"

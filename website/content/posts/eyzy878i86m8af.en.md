@@ -1,7 +1,7 @@
 +++
 title = "分散するコミュニケーションを統合・知能化する「Franz 6」の実力：プライベートAIがもたらす文脈管理のパラダイムシフト (English)"
 date = "2026-06-03T23:50:14.336355"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "オープンソース"]
 draft = false
 description = "Introduction to 分散するコミュニケーションを統合・知能化する「Franz 6」の実力：プライベートAIがもたらす文脈管理のパラダイムシフト (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/eyzy878i86m8af/"

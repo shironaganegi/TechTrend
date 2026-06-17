@@ -1,7 +1,7 @@
 +++
 title = "AI時代の知性をハックする：Python習得Day 1-5で築く「自動化と創造」の土台 (English)"
 date = "2026-03-23T05:09:41.636364"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "Python", "オープンソース"]
 draft = false
 description = "Introduction to AI時代の知性をハックする：Python習得Day 1-5で築く「自動化と創造」の土台 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/s4smm6y8qq59mo/"

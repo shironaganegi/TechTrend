@@ -1,7 +1,7 @@
 +++
 title = "カナダ法案C-22が突きつける「ポスト・プライバシー時代」の試練：メタデータ監視の脅威と開発者の防衛指針 (English)"
 date = "2026-03-16T11:00:30.643804"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "セキュリティ", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to カナダ法案C-22が突きつける「ポスト・プライバシー時代」の試練：メタデータ監視の脅威と開発者の防衛指針 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/2r5vb4pee19gvy/"

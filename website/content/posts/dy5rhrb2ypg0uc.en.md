@@ -1,7 +1,7 @@
 +++
 title = "NVIDIA Cosmos-Reason2が切り拓く「ローカル動画推論」の新境地――vLLM対応による高速化とその衝撃 (English)"
 date = "2026-05-02T22:52:39.425987"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to NVIDIA Cosmos-Reason2が切り拓く「ローカル動画推論」の新境地――vLLM対応による高速化とその衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/dy5rhrb2ypg0uc/"

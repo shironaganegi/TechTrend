@@ -1,7 +1,7 @@
 +++
 title = "記憶を繋ぎ、分身を創る。GitHub発の「OpenHuman」が提示するパーソナルAIの最終形態 (English)"
 date = "2026-05-15T12:01:50.270249"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "データベース"]
 draft = false
 description = "Introduction to 記憶を繋ぎ、分身を創る。GitHub発の「OpenHuman」が提示するパーソナルAIの最終形態 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/neiutstfja0jp3/"

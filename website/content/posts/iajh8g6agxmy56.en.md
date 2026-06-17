@@ -1,7 +1,7 @@
 +++
 title = "Claude Codeを「自律型開発組織」へと昇華させる。マルチエージェント基盤「ruflo」が切り拓く次世代開発の地平 (English)"
 date = "2026-05-06T22:57:53.547430"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "Python", "Rust"]
 draft = false
 description = "Introduction to Claude Codeを「自律型開発組織」へと昇華させる。マルチエージェント基盤「ruflo」が切り拓く次世代開発の地平 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/iajh8g6agxmy56/"

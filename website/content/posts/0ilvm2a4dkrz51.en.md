@@ -1,7 +1,7 @@
 +++
 title = "AIソフトウェア供給網の「聖域」を守る――Anthropicが提唱する「Project Glasswing」の真価と、開発環境のパラダイムシフト (English)"
 date = "2026-04-08T11:05:25.635288"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "セキュリティ", "DevOps"]
 draft = false
 description = "Introduction to AIソフトウェア供給網の「聖域」を守る――Anthropicが提唱する「Project Glasswing」の真価と、開発環境のパラダイムシフト (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/0ilvm2a4dkrz51/"

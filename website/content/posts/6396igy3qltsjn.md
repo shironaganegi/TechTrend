@@ -1,7 +1,7 @@
 +++
 title = "エンタープライズAIの「聖域」はなぜ破られたのか？マッキンゼー「Lilli」が突きつけた脆弱性と防衛の最前線"
 date = "2026-03-12T04:53:16.401882"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
 description = "AIツール「エンタープライズAIの「聖域」はなぜ破られたのか？マッキンゼー「Lilli」が突きつけた脆弱性と防衛の最前線」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/6396igy3qltsjn/"

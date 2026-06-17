@@ -1,7 +1,7 @@
 +++
 title = "【脱・初心者】Pythonのmatplotlibをモダンに使いこなす！オブジェクト指向描画と日本語化の完全攻略ロードマップ"
 date = "2026-06-07T23:13:22.603765"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "機械学習", "フロントエンド", "Python"]
 draft = false
 description = "AIツール「【脱・初心者】Pythonのmatplotlibをモダンに使いこなす！オブジェクト指向描画と日本語化の完全攻略ロードマップ」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/z9lcn906gybb1l/"

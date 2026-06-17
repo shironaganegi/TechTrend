@@ -1,7 +1,7 @@
 +++
 title = "動画編集は「作業」から「対話」へ。AIエージェント『Wideframe』がもたらすワークフローのパラダイムシフト (English)"
 date = "2026-03-10T04:47:16.623742"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "オープンソース"]
 draft = false
 description = "Introduction to 動画編集は「作業」から「対話」へ。AIエージェント『Wideframe』がもたらすワークフローのパラダイムシフト (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/9afmqpy8vy0i70/"

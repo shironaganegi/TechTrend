@@ -1,7 +1,7 @@
 +++
 title = "知識を「貯蔵」する時代は終わった――Recall 2.0がもたらす「共鳴型」ナレッジマネジメントの衝撃"
 date = "2026-04-14T11:10:09.069953"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
 description = "AIツール「知識を「貯蔵」する時代は終わった――Recall 2.0がもたらす「共鳴型」ナレッジマネジメントの衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/4crtj70pj5ybje/"

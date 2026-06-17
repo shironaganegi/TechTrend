@@ -1,7 +1,7 @@
 +++
 title = "「AIがコードを書く時代、なぜ我々はまだPythonを使っているのか？」——インフラコストと実行速度が変える、次世代の言語選定基準"
 date = "2026-05-12T23:07:44.969367"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "機械学習", "クラウド"]
 draft = false
 description = "AIツール「「AIがコードを書く時代、なぜ我々はまだPythonを使っているのか？」——インフラコストと実行速度が変える、次世代の言語選定基準」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/4c3jrkbya0aung/"

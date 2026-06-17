@@ -1,7 +1,7 @@
 +++
 title = "慢性疾患に特化したAIコンパニオン「Juno」が示す、LLMヘルスケア変革のロードマップ"
 date = "2026-06-11T14:09:48.589617"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "生成AI", "セキュリティ", "データベース"]
 draft = false
 description = "AIツール「慢性疾患に特化したAIコンパニオン「Juno」が示す、LLMヘルスケア変革のロードマップ」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/qfx0e4pn7lf78v/"

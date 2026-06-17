@@ -1,7 +1,7 @@
 +++
 title = "AI開発コストの最適解：Claudeサブスクを脱却し「Zed × OpenRouter」へと移行すべき論理的根拠 (English)"
 date = "2026-04-09T22:52:00.346301"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "Rust", "オープンソース"]
 draft = false
 description = "Introduction to AI開発コストの最適解：Claudeサブスクを脱却し「Zed × OpenRouter」へと移行すべき論理的根拠 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/vb2tnx3g6tjpk4/"

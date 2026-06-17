@@ -1,7 +1,7 @@
 +++
 title = "Raspberry Pi Zeroで挑む「空調の自律制御」——ソフトウェアエンジニアがハードウェアの深淵に触れる時"
 date = "2026-03-21T10:35:00.119319"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "AIエージェント", "機械学習", "セキュリティ", "Python"]
 draft = false
 description = "AIツール「Raspberry Pi Zeroで挑む「空調の自律制御」——ソフトウェアエンジニアがハードウェアの深淵に触れる時」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/y48ikhf63j2swn/"

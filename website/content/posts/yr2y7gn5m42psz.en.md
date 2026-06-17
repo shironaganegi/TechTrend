@@ -1,7 +1,7 @@
 +++
 title = "300のAWSサービスをAIが指揮する：AWS MCP ServerのGAがもたらす「自律型インフラ運用」の夜明け (English)"
 date = "2026-05-13T12:09:42.844816"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to 300のAWSサービスをAIが指揮する：AWS MCP ServerのGAがもたらす「自律型インフラ運用」の夜明け (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/yr2y7gn5m42psz/"

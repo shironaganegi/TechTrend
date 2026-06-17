@@ -4,6 +4,7 @@ import re
 from datetime import datetime
 from src.shared.config import config
 from src.shared.utils import setup_logging
+from src.shared.tagging import derive_tags
 
 logger = setup_logging(__name__)
 
@@ -14,9 +15,9 @@ class HugoPublisher:
         date_str = datetime.now().isoformat()
         target_filename = os.path.basename(original_filename)
 
-        tags = ["AI", "Tools"]
-        if "python" in body.lower(): tags.append("Python")
-        
+        # 内容に応じた具体的なトピックタグを導出（検索・回遊性向上）
+        tags = derive_tags(title, body)
+
         description = f"AIツール「{title}」の活用法を紹介" if lang == "ja" else f"Introduction to {title}"
         
         cover_yaml = ""

@@ -1,7 +1,7 @@
 +++
 title = "AI採用プラットフォーム「Mercor」で4TBの音声データが流出――バイオメトリクス漏洩が突きつける「生体資産」保護の転換点 (English)"
 date = "2026-04-28T11:51:12.089734"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "セキュリティ", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to AI採用プラットフォーム「Mercor」で4TBの音声データが流出――バイオメトリクス漏洩が突きつける「生体資産」保護の転換点 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/l9dhhz0wcf6z3e/"

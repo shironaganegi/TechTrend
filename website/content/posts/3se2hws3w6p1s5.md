@@ -1,7 +1,7 @@
 +++
 title = "Pythonicなリソース管理の極致：`contextlib`で実現する堅牢かつ美しいコード設計"
 date = "2026-03-27T22:40:27.120345"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "Python", "データベース"]
 draft = false
 description = "AIツール「Pythonicなリソース管理の極致：`contextlib`で実現する堅牢かつ美しいコード設計」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/3se2hws3w6p1s5/"

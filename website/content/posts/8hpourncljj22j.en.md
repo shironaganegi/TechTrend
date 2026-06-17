@@ -1,7 +1,7 @@
 +++
 title = "Claudeにおける「役割誤認（Speaker Confusion）」の脅威——AIエージェント構築者が直面する新たな壁 (English)"
 date = "2026-04-10T05:33:04.396808"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
 description = "Introduction to Claudeにおける「役割誤認（Speaker Confusion）」の脅威——AIエージェント構築者が直面する新たな壁 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/8hpourncljj22j/"

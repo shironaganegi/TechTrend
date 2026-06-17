@@ -1,7 +1,7 @@
 +++
 title = "OpenAIが離散幾何学の未解決予想を打倒――「推論モデル」が拓く、科学的発見の新たなパラダイム (English)"
 date = "2026-05-21T06:59:12.295500"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "オープンソース"]
 draft = false
 description = "Introduction to OpenAIが離散幾何学の未解決予想を打倒――「推論モデル」が拓く、科学的発見の新たなパラダイム (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/b4i3dxsxop4vag/"

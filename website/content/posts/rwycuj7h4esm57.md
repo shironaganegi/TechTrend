@@ -1,7 +1,7 @@
 +++
 title = "AIエージェントを「規律あるプロフェッショナル」へ。開発手法『superpowers』が定義する次世代のエンジニアリング"
 date = "2026-03-11T04:48:42.662777"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "フロントエンド", "Python"]
 draft = false
 description = "AIツール「AIエージェントを「規律あるプロフェッショナル」へ。開発手法『superpowers』が定義する次世代のエンジニアリング」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/rwycuj7h4esm57/"

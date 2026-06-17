@@ -1,7 +1,7 @@
 +++
 title = "高校数学からブラックショールズへ：データサイエンティストが測度論・伊藤積分を習得すべき真の理由 (English)"
 date = "2026-05-17T22:58:19.363280"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "生成AI", "Python"]
 draft = false
 description = "Introduction to 高校数学からブラックショールズへ：データサイエンティストが測度論・伊藤積分を習得すべき真の理由 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/6zb029e9x6bqjz/"

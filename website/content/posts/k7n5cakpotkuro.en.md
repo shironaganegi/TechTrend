@@ -1,7 +1,7 @@
 +++
 title = "【ISSデバッグ】宇宙の極限環境に学ぶ、システム保守と可観測性（Observability）の真髄 (English)"
 date = "2026-06-05T23:16:36.398097"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to 【ISSデバッグ】宇宙の極限環境に学ぶ、システム保守と可観測性（Observability）の真髄 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/k7n5cakpotkuro/"

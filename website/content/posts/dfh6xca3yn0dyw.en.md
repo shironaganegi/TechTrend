@@ -1,7 +1,7 @@
 +++
 title = "【Intuitが3,000人削減】AIシフトがもたらす開発者キャリアの地殻変動と生存戦略 (English)"
 date = "2026-05-21T12:53:01.201105"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
 description = "Introduction to 【Intuitが3,000人削減】AIシフトがもたらす開発者キャリアの地殻変動と生存戦略 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/dfh6xca3yn0dyw/"

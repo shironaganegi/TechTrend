@@ -1,7 +1,7 @@
 +++
 title = "データの主権を取り戻す。完全オフラインAI「LumiChats Offline」が拓く、開発者のプライバシー新基準 (English)"
 date = "2026-05-10T22:55:27.806076"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "セキュリティ", "オープンソース"]
 draft = false
 description = "Introduction to データの主権を取り戻す。完全オフラインAI「LumiChats Offline」が拓く、開発者のプライバシー新基準 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/8330oekqc1jh3e/"

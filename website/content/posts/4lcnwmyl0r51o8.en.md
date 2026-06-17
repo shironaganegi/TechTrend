@@ -1,7 +1,7 @@
 +++
 title = "泥臭い「名寄せ」の終焉：25万通りの比較をAIに委ね、データクレンジングの限界を突破した実録 (English)"
 date = "2026-04-30T22:58:41.094710"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to 泥臭い「名寄せ」の終焉：25万通りの比較をAIに委ね、データクレンジングの限界を突破した実録 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/4lcnwmyl0r51o8/"

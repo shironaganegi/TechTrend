@@ -1,7 +1,7 @@
 +++
 title = "OpenAI訴訟終結が告げる理想主義の終焉。開発者が直面する「知の囲い込み」への処方箋 (English)"
 date = "2026-05-19T12:46:45.513982"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "セキュリティ", "オープンソース"]
 draft = false
 description = "Introduction to OpenAI訴訟終結が告げる理想主義の終焉。開発者が直面する「知の囲い込み」への処方箋 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/xhln984z9eh1eu/"

@@ -1,7 +1,7 @@
 +++
 title = "Mistral Forgeが定義する「特化型LLM」の新時代——LLMカスタマイズをプロの領域へと押し上げる「鍛冶場」の実力"
 date = "2026-03-18T22:39:12.552680"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "セキュリティ"]
 draft = false
 description = "AIツール「Mistral Forgeが定義する「特化型LLM」の新時代——LLMカスタマイズをプロの領域へと押し上げる「鍛冶場」の実力」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/tdh2b4b1iuhlxa/"

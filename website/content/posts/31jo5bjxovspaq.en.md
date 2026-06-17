@@ -1,7 +1,7 @@
 +++
 title = "AI開発の深淵に触れる：NumPyが導く「高効率演算」の極意 (English)"
 date = "2026-04-14T05:30:55.964575"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "Python"]
 draft = false
 description = "Introduction to AI開発の深淵に触れる：NumPyが導く「高効率演算」の極意 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/31jo5bjxovspaq/"

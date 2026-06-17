@@ -1,7 +1,7 @@
 +++
 title = "自宅をAI開発の聖地に。「Homelab AI Dev Platform」構築ロードマップ：ローカルLLMとAPIのハイブリッド環境が導く最適解"
 date = "2026-06-16T08:51:29.621443"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
 description = "AIツール「自宅をAI開発の聖地に。「Homelab AI Dev Platform」構築ロードマップ：ローカルLLMとAPIのハイブリッド環境が導く最適解」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/4vwc9uw0m5mtei/"

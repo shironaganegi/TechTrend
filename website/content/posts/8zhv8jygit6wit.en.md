@@ -1,7 +1,7 @@
 +++
 title = "デジタルな「静かな連帯」が生産性を極限まで高める：lofi.townが再定義するリモートワークの聖域 (English)"
 date = "2026-04-07T22:47:07.815876"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "DevOps", "オープンソース"]
 draft = false
 description = "Introduction to デジタルな「静かな連帯」が生産性を極限まで高める：lofi.townが再定義するリモートワークの聖域 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/8zhv8jygit6wit/"

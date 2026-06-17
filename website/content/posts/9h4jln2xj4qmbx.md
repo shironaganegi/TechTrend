@@ -1,7 +1,7 @@
 +++
 title = "【深掘解説】Cohere「Tiny Aya」が示すSLMの新境地――多言語性能の常識を覆す“軽量AI”の衝撃"
 date = "2026-04-05T10:43:22.674798"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「【深掘解説】Cohere「Tiny Aya」が示すSLMの新境地――多言語性能の常識を覆す“軽量AI”の衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/9h4jln2xj4qmbx/"

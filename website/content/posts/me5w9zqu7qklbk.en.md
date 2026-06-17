@@ -1,7 +1,7 @@
 +++
 title = "ターミナルが「思考」を始める——OpenAI公式『Codex CLI』がもたらす開発パラダイムの転換 (English)"
 date = "2026-04-01T11:12:15.483491"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "オープンソース"]
 draft = false
 description = "Introduction to ターミナルが「思考」を始める——OpenAI公式『Codex CLI』がもたらす開発パラダイムの転換 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/me5w9zqu7qklbk/"

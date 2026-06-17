@@ -1,7 +1,7 @@
 +++
 title = "カタールのヘリウム供給停止：半導体サプライチェーンを揺るがす「物理レイヤー」の時限爆弾"
 date = "2026-03-14T04:48:34.484823"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「カタールのヘリウム供給停止：半導体サプライチェーンを揺るがす「物理レイヤー」の時限爆弾」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/ipofeq9k21sbar/"

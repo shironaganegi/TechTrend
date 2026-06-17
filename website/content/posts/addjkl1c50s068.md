@@ -1,7 +1,7 @@
 +++
 title = "1兆パラメータの衝撃：Xiaomi「MiMo-V2-Pro」が描くLLMの新たな地平とその技術的真価"
 date = "2026-03-22T10:35:24.577663"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "オープンソース"]
 draft = false
 description = "AIツール「1兆パラメータの衝撃：Xiaomi「MiMo-V2-Pro」が描くLLMの新たな地平とその技術的真価」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/addjkl1c50s068/"

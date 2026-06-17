@@ -1,7 +1,7 @@
 +++
 title = "Claude Codeの真価を引き出す公式プラグインエコシステム：MCPがもたらす開発環境の再定義"
 date = "2026-05-24T06:42:11.802579"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「Claude Codeの真価を引き出す公式プラグインエコシステム：MCPがもたらす開発環境の再定義」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/dgytcp5o8mcvpk/"

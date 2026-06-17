@@ -1,7 +1,7 @@
 +++
 title = "データの「なぜ」を可視化せよ。SHAPでRandom Forestのブラックボックスを解体する実戦的技術"
 date = "2026-05-11T23:00:24.204691"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "機械学習"]
 draft = false
 description = "AIツール「データの「なぜ」を可視化せよ。SHAPでRandom Forestのブラックボックスを解体する実戦的技術」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/g4mg1bbsdk3zc6/"

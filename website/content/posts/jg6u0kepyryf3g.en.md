@@ -1,7 +1,7 @@
 +++
 title = "AI音楽の「ラストワンマイル」を埋める——『SUN-to-Spotify』が提示する、生成と消費の不可分な未来 (English)"
 date = "2026-05-18T07:02:06.419035"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "DevOps", "オープンソース"]
 draft = false
 description = "Introduction to AI音楽の「ラストワンマイル」を埋める——『SUN-to-Spotify』が提示する、生成と消費の不可分な未来 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/jg6u0kepyryf3g/"

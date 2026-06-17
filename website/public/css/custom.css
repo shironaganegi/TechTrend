@@ -227,3 +227,53 @@ body {
     color: var(--secondary, #718096);
     line-height: 1.5;
 }
+
+/* === ホーム: 検索導線＋トピック別ブラウズ === */
+.home-discover {
+    margin: 1.5rem 0 2.5rem;
+}
+.home-search-link {
+    display: inline-block;
+    padding: .7rem 1.4rem;
+    background: var(--primary, #3366ff);
+    color: #fff !important;
+    border-radius: 999px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: opacity .15s ease;
+}
+.home-search-link:hover { opacity: .88; }
+.home-topic-heading {
+    font-size: 1.15rem;
+    margin: 1.8rem 0 .9rem;
+}
+.topic-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem;
+}
+.topic-card {
+    display: inline-flex;
+    align-items: center;
+    gap: .5rem;
+    padding: .5rem .9rem;
+    border: 1px solid var(--border, #e2e8f0);
+    border-radius: 999px;
+    background: var(--bg-card, #fff);
+    text-decoration: none;
+    color: var(--text-main, #2c3e50);
+    font-weight: 600;
+    transition: all .15s ease;
+}
+.topic-card:hover {
+    border-color: var(--primary, #3366ff);
+    color: var(--primary, #3366ff);
+    transform: translateY(-2px);
+}
+.topic-count {
+    font-size: .78rem;
+    background: var(--primary-light, #f0f4ff);
+    color: var(--primary, #3366ff);
+    padding: .1rem .5rem;
+    border-radius: 999px;
+}

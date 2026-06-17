@@ -1,7 +1,7 @@
 +++
 title = "LLMの限界を突破する「RAG」の本質：ファインチューニング、長文コンテキストとの比較からプロダクション導入のロードマップまで (English)"
 date = "2026-05-26T06:53:33.882515"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "DevOps"]
 draft = false
 description = "Introduction to LLMの限界を突破する「RAG」の本質：ファインチューニング、長文コンテキストとの比較からプロダクション導入のロードマップまで (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/xz80yngj9t7bwn/"

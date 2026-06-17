@@ -1,7 +1,7 @@
 +++
 title = "副業・リスキリング時代の生存戦略：現役エンジニアが実践すべき「休養」という名のシステムメンテ術"
 date = "2026-06-04T12:48:46.060581"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "DevOps", "クラウド", "データベース"]
 draft = false
 description = "AIツール「副業・リスキリング時代の生存戦略：現役エンジニアが実践すべき「休養」という名のシステムメンテ術」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/1dyep3xkpilyqp/"

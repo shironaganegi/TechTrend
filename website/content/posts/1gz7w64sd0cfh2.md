@@ -1,7 +1,7 @@
 +++
 title = "「効率化」という名の傲慢：HPの「15分待機」実験から学ぶ、AI時代のダークパターンと真のUX設計"
 date = "2026-03-20T22:36:17.012752"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント"]
 draft = false
 description = "AIツール「「効率化」という名の傲慢：HPの「15分待機」実験から学ぶ、AI時代のダークパターンと真のUX設計」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/1gz7w64sd0cfh2/"

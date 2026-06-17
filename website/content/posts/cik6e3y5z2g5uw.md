@@ -1,7 +1,7 @@
 +++
 title = "未来を「演算」する時代へ。群知能エンジン『MiroFish』が拓くデジタルツインの衝撃"
 date = "2026-03-10T22:35:41.130831"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
 description = "AIツール「未来を「演算」する時代へ。群知能エンジン『MiroFish』が拓くデジタルツインの衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/cik6e3y5z2g5uw/"

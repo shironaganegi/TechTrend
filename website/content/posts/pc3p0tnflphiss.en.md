@@ -1,7 +1,7 @@
 +++
 title = "わずか数MBが起こした奇跡。ピクセル帆船ゲーム『TinyWind』に学ぶ、極限の軽量Web物理シミュレーション開発 (English)"
 date = "2026-06-15T23:51:43.776523"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "フロントエンド", "オープンソース"]
 draft = false
 description = "Introduction to わずか数MBが起こした奇跡。ピクセル帆船ゲーム『TinyWind』に学ぶ、極限の軽量Web物理シミュレーション開発 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/pc3p0tnflphiss/"

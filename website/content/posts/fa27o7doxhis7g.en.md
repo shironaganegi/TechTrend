@@ -1,7 +1,7 @@
 +++
 title = "Claude Codeの真価を引き出すエンジニアの新・流儀：攻略リポジトリ「claude-howto」で自律型開発を実現する (English)"
 date = "2026-03-31T05:15:51.809703"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
 description = "Introduction to Claude Codeの真価を引き出すエンジニアの新・流儀：攻略リポジトリ「claude-howto」で自律型開発を実現する (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/fa27o7doxhis7g/"

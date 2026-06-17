@@ -1,7 +1,7 @@
 +++
 title = "デザインの「構造」を維持して動かす：次世代AI動画生成「iArt.ai」がもたらすクリエイティブのパラダイムシフト"
 date = "2026-06-10T07:14:39.747390"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "生成AI", "セキュリティ"]
 draft = false
 description = "AIツール「デザインの「構造」を維持して動かす：次世代AI動画生成「iArt.ai」がもたらすクリエイティブのパラダイムシフト」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/tajueil3wijbfd/"

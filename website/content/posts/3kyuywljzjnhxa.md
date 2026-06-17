@@ -1,7 +1,7 @@
 +++
 title = "AI時代の新パラダイム：あえてコードを「遅く」書き、堅牢性を極限まで高める「スロー開発」の思想"
 date = "2026-05-27T12:57:25.440220"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント"]
 draft = false
 description = "AIツール「AI時代の新パラダイム：あえてコードを「遅く」書き、堅牢性を極限まで高める「スロー開発」の思想」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/3kyuywljzjnhxa/"

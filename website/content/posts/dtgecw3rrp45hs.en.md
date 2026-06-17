@@ -1,7 +1,7 @@
 +++
 title = "静寂の裏に潜むカオス：ゲームの「一時停止」がいかに高度なステート管理の結晶であるか (English)"
 date = "2026-04-19T22:43:50.319502"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "AIエージェント", "オープンソース"]
 draft = false
 description = "Introduction to 静寂の裏に潜むカオス：ゲームの「一時停止」がいかに高度なステート管理の結晶であるか (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/dtgecw3rrp45hs/"

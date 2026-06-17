@@ -1,7 +1,7 @@
 +++
 title = "AI生成の「不毛な長文」からチームを守る：会話の密度を回復するオープンソース『NoSlopGrenade』の技術と思想"
 date = "2026-05-21T23:08:12.350888"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "セキュリティ", "DevOps", "クラウド"]
 draft = false
 description = "AIツール「AI生成の「不毛な長文」からチームを守る：会話の密度を回復するオープンソース『NoSlopGrenade』の技術と思想」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/xrqygu58oh0fpi/"

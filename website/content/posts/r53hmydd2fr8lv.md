@@ -1,7 +1,7 @@
 +++
 title = "ログベンチマークの罠：「最速」の選択がシステムを崩壊させる理由と、真の選定基準"
 date = "2026-06-16T23:28:13.799594"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "セキュリティ", "DevOps", "クラウド", "Go"]
 draft = false
 description = "AIツール「ログベンチマークの罠：「最速」の選択がシステムを崩壊させる理由と、真の選定基準」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/r53hmydd2fr8lv/"

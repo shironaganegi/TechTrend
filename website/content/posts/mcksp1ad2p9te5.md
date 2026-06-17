@@ -1,7 +1,7 @@
 +++
 title = "【徹底検証】Rivianに学ぶ「走るデータセンター」の光と影。プライバシー設定の裏側をエンジニア視点で解説"
 date = "2026-05-01T22:55:46.189371"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「【徹底検証】Rivianに学ぶ「走るデータセンター」の光と影。プライバシー設定の裏側をエンジニア視点で解説」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/mcksp1ad2p9te5/"

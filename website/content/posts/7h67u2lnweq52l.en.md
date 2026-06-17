@@ -1,7 +1,7 @@
 +++
 title = "Excelの限界を突破する：Power BI × Python連携で実現する「次世代データ分析」の最適解 (English)"
 date = "2026-05-10T06:20:54.194655"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "機械学習", "クラウド", "Python", "オープンソース"]
 draft = false
 description = "Introduction to Excelの限界を突破する：Power BI × Python連携で実現する「次世代データ分析」の最適解 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/7h67u2lnweq52l/"

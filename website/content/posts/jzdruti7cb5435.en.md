@@ -1,7 +1,7 @@
 +++
 title = "PythonによるWordドキュメント制御の真髄：テキスト・段落書式の「完全自動化」を実現する技術詳解 (English)"
 date = "2026-03-20T10:46:13.018462"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
 description = "Introduction to PythonによるWordドキュメント制御の真髄：テキスト・段落書式の「完全自動化」を実現する技術詳解 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/jzdruti7cb5435/"

@@ -1,7 +1,7 @@
 +++
 title = "「100万トークン」をターミナルで制す。次世代AIエージェント『DeepSeek-TUI』が変える開発の地平線"
 date = "2026-05-05T05:49:05.372743"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "生成AI", "フロントエンド"]
 draft = false
 description = "AIツール「「100万トークン」をターミナルで制す。次世代AIエージェント『DeepSeek-TUI』が変える開発の地平線」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/gx33l0uuteqldu/"

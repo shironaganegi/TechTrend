@@ -1,7 +1,7 @@
 +++
 title = "データベース設計の「真の終着点」——第5正規形（5NF）でデータ不整合の連鎖を断つ"
 date = "2026-04-15T05:30:51.288802"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "データベース"]
 draft = false
 description = "AIツール「データベース設計の「真の終着点」——第5正規形（5NF）でデータ不整合の連鎖を断つ」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/g5jhejtrd87d8b/"

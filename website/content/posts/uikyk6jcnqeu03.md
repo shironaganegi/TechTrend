@@ -1,7 +1,7 @@
 +++
 title = "Ray-Ban Meta G2が拓く「処方箋AI」の衝撃。スマートグラスがガジェットを脱ぎ捨て、日常の「OS」へと昇華する理由"
 date = "2026-04-01T22:47:48.058522"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools"]
 draft = false
 description = "AIツール「Ray-Ban Meta G2が拓く「処方箋AI」の衝撃。スマートグラスがガジェットを脱ぎ捨て、日常の「OS」へと昇華する理由」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/uikyk6jcnqeu03/"

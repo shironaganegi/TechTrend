@@ -1,7 +1,7 @@
 +++
 title = "OSと知能の「融解」。デスクトップ・ネイティブAI「Flowly」が変革する、知的生産の新たな地平"
 date = "2026-05-04T11:56:02.629639"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "セキュリティ", "DevOps"]
 draft = false
 description = "AIツール「OSと知能の「融解」。デスクトップ・ネイティブAI「Flowly」が変革する、知的生産の新たな地平」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/helgo1d4gbuxa0/"

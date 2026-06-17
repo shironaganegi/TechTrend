@@ -1,7 +1,7 @@
 +++
 title = "巨大CSVの深淵を「零秒」で解読する。妥協なき型推論Python CLIがデータエンジニアの救世主となる理由 (English)"
 date = "2026-05-03T06:10:18.450228"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "Python", "オープンソース"]
 draft = false
 description = "Introduction to 巨大CSVの深淵を「零秒」で解読する。妥協なき型推論Python CLIがデータエンジニアの救世主となる理由 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/3jymmj25mx702y/"

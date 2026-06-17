@@ -1,7 +1,7 @@
 +++
 title = "【Microsoftの至宝】次世代音声AI「VibeVoice」が示すオープンソースの極致——長尺TTSと構造化ASRがもたらすパラダイムシフト (English)"
 date = "2026-04-29T23:02:51.000116"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "生成AI"]
 draft = false
 description = "Introduction to 【Microsoftの至宝】次世代音声AI「VibeVoice」が示すオープンソースの極致——長尺TTSと構造化ASRがもたらすパラダイムシフト (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/ybbjzfcnhpe9fu/"

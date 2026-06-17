@@ -1,7 +1,7 @@
 +++
 title = "Webスクレイピングの新境地。Cloudflareの障壁を無効化するステルスブラウザ『CloakBrowser』の正体 (English)"
 date = "2026-05-10T11:04:10.164589"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "RAG", "DevOps", "クラウド", "フロントエンド"]
 draft = false
 description = "Introduction to Webスクレイピングの新境地。Cloudflareの障壁を無効化するステルスブラウザ『CloakBrowser』の正体 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/usybohhu0sseo3/"

@@ -1,7 +1,7 @@
 +++
 title = "LoL依存をコードでハック！エンジニアが本気で挑む「最強のゲーム強制終了システム」の開発設計論 (English)"
 date = "2026-06-11T08:12:47.734326"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "RAG", "セキュリティ", "Python", "オープンソース"]
 draft = false
 description = "Introduction to LoL依存をコードでハック！エンジニアが本気で挑む「最強のゲーム強制終了システム」の開発設計論 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/dzmytny34v82j7/"

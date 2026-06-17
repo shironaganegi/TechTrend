@@ -1,7 +1,7 @@
 +++
 title = "CPUで100Bモデルを駆動する「bitnet.cpp」の衝撃――1.58ビットLLMが切り拓く推論の新たな地平 (English)"
 date = "2026-03-13T22:34:52.808987"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "オープンソース"]
 draft = false
 description = "Introduction to CPUで100Bモデルを駆動する「bitnet.cpp」の衝撃――1.58ビットLLMが切り拓く推論の新たな地平 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/jma6bcc9qq0nie/"

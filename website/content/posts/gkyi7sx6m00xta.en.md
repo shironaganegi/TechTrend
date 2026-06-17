@@ -1,7 +1,7 @@
 +++
 title = "【徹底比較】Pythonの辞書・Lambda vs Luaのテーブル｜AI時代の多言語開発を支える「データ構造の深層哲学」 (English)"
 date = "2026-05-09T05:52:59.702705"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "RAG", "AIエージェント", "Python", "オープンソース"]
 draft = false
 description = "Introduction to 【徹底比較】Pythonの辞書・Lambda vs Luaのテーブル｜AI時代の多言語開発を支える「データ構造の深層哲学」 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/gkyi7sx6m00xta/"

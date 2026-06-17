@@ -1,7 +1,7 @@
 +++
 title = "Claude CodeとCursorのポテンシャルを極限まで引き出す：AIエージェント最適化OS「ECC」完全解剖 (English)"
 date = "2026-05-25T23:11:59.347809"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "オープンソース"]
 draft = false
 description = "Introduction to Claude CodeとCursorのポテンシャルを極限まで引き出す：AIエージェント最適化OS「ECC」完全解剖 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/bpqon4zg5u11k3/"

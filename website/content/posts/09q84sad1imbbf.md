@@ -1,7 +1,7 @@
 +++
 title = "LLM・RAGの精度を劇的に向上させる。Microsoft公式のドキュメント変換ツール「MarkItDown」の実力と実装"
 date = "2026-05-31T07:02:56.452152"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
 description = "AIツール「LLM・RAGの精度を劇的に向上させる。Microsoft公式のドキュメント変換ツール「MarkItDown」の実力と実装」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/09q84sad1imbbf/"

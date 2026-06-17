@@ -1,7 +1,7 @@
 +++
 title = "【Claude Code劇的進化】Karpathyの知恵を注入し、AI開発における「自律的な暴走」を完全に抑え込む方法"
 date = "2026-05-20T06:58:53.986788"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "フロントエンド", "Python"]
 draft = false
 description = "AIツール「【Claude Code劇的進化】Karpathyの知恵を注入し、AI開発における「自律的な暴走」を完全に抑え込む方法」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/29su0yv9ufot7l/"

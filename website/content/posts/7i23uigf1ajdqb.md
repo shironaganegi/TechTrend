@@ -1,7 +1,7 @@
 +++
 title = "27Bの常識を再定義する。Qwen3.6-27Bが「コーディング特化型AI」の勢力図を塗り替えた理由"
 date = "2026-04-22T22:54:50.451793"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "DevOps", "クラウド", "フロントエンド"]
 draft = false
 description = "AIツール「27Bの常識を再定義する。Qwen3.6-27Bが「コーディング特化型AI」の勢力図を塗り替えた理由」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/7i23uigf1ajdqb/"

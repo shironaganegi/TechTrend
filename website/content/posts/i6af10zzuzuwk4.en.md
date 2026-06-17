@@ -1,7 +1,7 @@
 +++
 title = "【深掘り】あらゆるLLMを自律型エージェントへ昇華させる——オープンソースRAGの決定版「Onyx」の実像 (English)"
 date = "2026-04-05T05:20:42.014894"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
 description = "Introduction to 【深掘り】あらゆるLLMを自律型エージェントへ昇華させる——オープンソースRAGの決定版「Onyx」の実像 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/i6af10zzuzuwk4/"

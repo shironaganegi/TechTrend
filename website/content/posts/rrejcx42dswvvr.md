@@ -1,7 +1,7 @@
 +++
 title = "20万行の巨大コードを瞬時に脳内マップ化。開発者の認知負荷を極小化する「Understand-Anything」がもたらす開発革新"
 date = "2026-05-24T23:03:42.933236"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "DevOps"]
 draft = false
 description = "AIツール「20万行の巨大コードを瞬時に脳内マップ化。開発者の認知負荷を極小化する「Understand-Anything」がもたらす開発革新」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/rrejcx42dswvvr/"

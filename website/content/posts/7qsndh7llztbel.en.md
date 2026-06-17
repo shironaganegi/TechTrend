@@ -1,7 +1,7 @@
 +++
 title = "Windows環境のIPC決定版：Pythonで「名前付きパイプ」を極め、プロセス間通信を高速化する実戦ガイド (English)"
 date = "2026-03-18T05:02:49.753291"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "RAG", "Python", "オープンソース"]
 draft = false
 description = "Introduction to Windows環境のIPC決定版：Pythonで「名前付きパイプ」を極め、プロセス間通信を高速化する実戦ガイド (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/7qsndh7llztbel/"

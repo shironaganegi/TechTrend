@@ -1,7 +1,7 @@
 +++
 title = "「同意」の定義が再定義される：米国最新判決がSaaS・AI開発に突きつける「通知基盤」の重要性 (English)"
 date = "2026-03-09T22:36:43.844709"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "クラウド"]
 draft = false
 description = "Introduction to 「同意」の定義が再定義される：米国最新判決がSaaS・AI開発に突きつける「通知基盤」の重要性 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/ko1eqv9uzjwauo/"

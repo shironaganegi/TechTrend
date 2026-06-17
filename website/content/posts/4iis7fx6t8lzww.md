@@ -1,7 +1,7 @@
 +++
 title = "フレームワークを「書く」から「統治する」へ。Django MTVモデルがAI時代のエンジニアに不可欠な理由"
 date = "2026-04-01T05:31:02.073443"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "セキュリティ", "Python", "データベース"]
 draft = false
 description = "AIツール「フレームワークを「書く」から「統治する」へ。Django MTVモデルがAI時代のエンジニアに不可欠な理由」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/4iis7fx6t8lzww/"

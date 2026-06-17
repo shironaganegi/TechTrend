@@ -1,7 +1,7 @@
 +++
 title = "AIアプリ開発の『最後にして最大の壁』を瓦解させる。Instant 1.0がバックエンドのパラダイムを刷新する理由"
 date = "2026-04-10T11:04:53.636732"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "セキュリティ", "フロントエンド", "データベース"]
 draft = false
 description = "AIツール「AIアプリ開発の『最後にして最大の壁』を瓦解させる。Instant 1.0がバックエンドのパラダイムを刷新する理由」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/m0peft1e789xr9/"

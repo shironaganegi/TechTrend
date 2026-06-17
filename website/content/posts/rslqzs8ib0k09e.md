@@ -1,7 +1,7 @@
 +++
 title = "「操作」から「制御」へ。あらゆるソフトウェアをAIエージェントの四肢に変える『CLI-Anything』の衝撃"
 date = "2026-05-19T06:54:51.187295"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "Python"]
 draft = false
 description = "AIツール「「操作」から「制御」へ。あらゆるソフトウェアをAIエージェントの四肢に変える『CLI-Anything』の衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/rslqzs8ib0k09e/"

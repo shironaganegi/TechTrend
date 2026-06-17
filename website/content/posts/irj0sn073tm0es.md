@@ -1,7 +1,7 @@
 +++
 title = "オーディオ・ルーティングの複雑性からの解放。同時録音ツール「Silkwave Voice」がエンジニアのワークフローを変える"
 date = "2026-04-07T11:04:58.859725"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "AIエージェント", "セキュリティ", "DevOps"]
 draft = false
 description = "AIツール「オーディオ・ルーティングの複雑性からの解放。同時録音ツール「Silkwave Voice」がエンジニアのワークフローを変える」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/irj0sn073tm0es/"

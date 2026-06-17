@@ -1,7 +1,7 @@
 +++
 title = "「Vibe Coding」から真のエンジニアリングへ。Matt Pocock氏が放つAIエージェント拡張ツール『skills』の本質 (English)"
 date = "2026-05-15T23:01:13.998814"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "フロントエンド"]
 draft = false
 description = "Introduction to 「Vibe Coding」から真のエンジニアリングへ。Matt Pocock氏が放つAIエージェント拡張ツール『skills』の本質 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/nzvn2nqly6x5eb/"

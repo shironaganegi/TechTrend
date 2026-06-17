@@ -1,7 +1,7 @@
 +++
 title = "非構造化データの「泥」を「資産」へ。RAG開発のボトルネックを解消する『DataSieve 2.0』の衝撃 (English)"
 date = "2026-03-23T22:40:06.528372"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "データベース", "オープンソース"]
 draft = false
 description = "Introduction to 非構造化データの「泥」を「資産」へ。RAG開発のボトルネックを解消する『DataSieve 2.0』の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/0vzar18qwreyrf/"

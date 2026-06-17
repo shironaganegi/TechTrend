@@ -1,7 +1,7 @@
 +++
 title = "Claude API「1Mコンテキスト・ベータ」廃止。大規模LLM運用の転換点と、エンジニアが取るべき戦略的移行ガイド"
 date = "2026-04-07T05:17:08.689893"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG"]
 draft = false
 description = "AIツール「Claude API「1Mコンテキスト・ベータ」廃止。大規模LLM運用の転換点と、エンジニアが取るべき戦略的移行ガイド」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/pdh26hp6ugo8ec/"

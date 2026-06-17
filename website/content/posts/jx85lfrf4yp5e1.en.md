@@ -1,7 +1,7 @@
 +++
 title = "Eコマース会計の「自律化」がもたらすパラダイムシフト。AI会計エージェント「CONA」がバックオフィスを再定義する (English)"
 date = "2026-04-20T22:53:06.320987"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
 description = "Introduction to Eコマース会計の「自律化」がもたらすパラダイムシフト。AI会計エージェント「CONA」がバックオフィスを再定義する (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/jx85lfrf4yp5e1/"

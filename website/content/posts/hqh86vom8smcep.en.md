@@ -1,7 +1,7 @@
 +++
 title = "「記憶」を社交資産へ。次世代PRM『LifeOS』が定義する、AI時代の新たな人間関係論 (English)"
 date = "2026-04-24T22:47:17.758096"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "オープンソース"]
 draft = false
 description = "Introduction to 「記憶」を社交資産へ。次世代PRM『LifeOS』が定義する、AI時代の新たな人間関係論 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/hqh86vom8smcep/"

@@ -1,7 +1,7 @@
 +++
 title = "TokenZip：AIエージェントの「バケツリレー」を終わらせる、共有メモリ・プロトコルの衝撃"
 date = "2026-03-12T10:48:48.621940"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
 description = "AIツール「TokenZip：AIエージェントの「バケツリレー」を終わらせる、共有メモリ・プロトコルの衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/3p8rjmlxw1rqcg/"

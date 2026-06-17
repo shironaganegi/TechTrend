@@ -1,7 +1,7 @@
 +++
 title = "180万件の労働データにフリーアクセス。「Job Postings API」がもたらすAI開発・市場分析のパラダイムシフト"
 date = "2026-06-07T07:10:55.613033"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
 description = "AIツール「180万件の労働データにフリーアクセス。「Job Postings API」がもたらすAI開発・市場分析のパラダイムシフト」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/aprwpggryjnh82/"

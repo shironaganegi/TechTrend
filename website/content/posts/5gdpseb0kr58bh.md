@@ -1,7 +1,7 @@
 +++
 title = "AIエージェントに「シニアの思考プロセス」を宿す。オープンソース「agent-skills」がもたらす自律型開発のブレイクスルー"
 date = "2026-06-13T11:58:18.929294"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "オープンソース"]
 draft = false
 description = "AIツール「AIエージェントに「シニアの思考プロセス」を宿す。オープンソース「agent-skills」がもたらす自律型開発のブレイクスルー」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/5gdpseb0kr58bh/"

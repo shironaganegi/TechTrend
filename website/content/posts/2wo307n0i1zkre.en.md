@@ -1,7 +1,7 @@
 +++
 title = "Chromeが「AI実行基盤」へと変貌する瞬間：4GBのサイレント・インストールが示唆するWebの未来 (English)"
 date = "2026-05-06T06:10:58.548382"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "フロントエンド"]
 draft = false
 description = "Introduction to Chromeが「AI実行基盤」へと変貌する瞬間：4GBのサイレント・インストールが示唆するWebの未来 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/2wo307n0i1zkre/"

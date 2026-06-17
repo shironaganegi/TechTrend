@@ -1,7 +1,7 @@
 +++
 title = "LLM運用の「重税」を打破する福音か？ Edgee Codex Compressorがもたらすパラダイムシフト (English)"
 date = "2026-04-13T05:48:57.165372"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
 description = "Introduction to LLM運用の「重税」を打破する福音か？ Edgee Codex Compressorがもたらすパラダイムシフト (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/djmzss9auf6ith/"

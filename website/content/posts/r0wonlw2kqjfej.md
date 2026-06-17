@@ -1,7 +1,7 @@
 +++
 title = "【不滅の分散システム】20年の差押えと法廷闘争を生き抜いた「The Pirate Bay」に学ぶ、究極の耐障害性アーキテクチャ"
 date = "2026-06-02T07:33:46.202587"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "セキュリティ", "DevOps", "クラウド", "フロントエンド"]
 draft = false
 description = "AIツール「【不滅の分散システム】20年の差押えと法廷闘争を生き抜いた「The Pirate Bay」に学ぶ、究極の耐障害性アーキテクチャ」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/r0wonlw2kqjfej/"

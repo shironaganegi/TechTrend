@@ -1,7 +1,7 @@
 +++
 title = "AI生成UIの「量産型スロップ」から脱却せよ──CursorやClaudeに一流のデザインセンスを移植する「taste-skill」の衝撃 (English)"
 date = "2026-05-27T23:22:00.416393"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
 description = "Introduction to AI生成UIの「量産型スロップ」から脱却せよ──CursorやClaudeに一流のデザインセンスを移植する「taste-skill」の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/6hjjpt0ga6ydus/"

@@ -1,7 +1,7 @@
 +++
 title = "画面変更に自動適応する次世代スクレイピング「Scrapling」がヤバい！Cloudflare突破・MCP標準対応の実力"
 date = "2026-06-01T23:41:29.720338"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
 description = "AIツール「画面変更に自動適応する次世代スクレイピング「Scrapling」がヤバい！Cloudflare突破・MCP標準対応の実力」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/1f1qu5uzwc6a2a/"

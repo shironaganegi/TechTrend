@@ -1,7 +1,7 @@
 +++
 title = "Claude APIによるWeb検索の新境地 — 「Dynamic Filtering」がもたらす精度向上とコスト最適化の最適解 (English)"
 date = "2026-03-30T11:11:55.477763"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント"]
 draft = false
 description = "Introduction to Claude APIによるWeb検索の新境地 — 「Dynamic Filtering」がもたらす精度向上とコスト最適化の最適解 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/m4n7rweyzwy91s/"

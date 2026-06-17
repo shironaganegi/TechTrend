@@ -1,7 +1,7 @@
 +++
 title = "旅の解像度を再定義する。Flighty Airportsが示す「リアルタイム・データ可視化」の極致 (English)"
 date = "2026-03-26T05:12:57.045858"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "オープンソース"]
 draft = false
 description = "Introduction to 旅の解像度を再定義する。Flighty Airportsが示す「リアルタイム・データ可視化」の極致 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/lkaxwjpnu4vk34/"

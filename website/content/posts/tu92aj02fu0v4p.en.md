@@ -1,7 +1,7 @@
 +++
 title = "自律型エージェントへと進化するClaude Code：開発者の朝を一変させる「日次レポート」自動生成の極致 (English)"
 date = "2026-04-25T22:44:36.085490"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "オープンソース"]
 draft = false
 description = "Introduction to 自律型エージェントへと進化するClaude Code：開発者の朝を一変させる「日次レポート」自動生成の極致 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/tu92aj02fu0v4p/"

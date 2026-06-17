@@ -1,7 +1,7 @@
 +++
 title = "Andrej Karpathyの哲学をClaude Codeへ。AI開発の品質を「次元上昇」させる『andrej-karpathy-skills』の実力"
 date = "2026-04-15T11:07:18.110752"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "フロントエンド"]
 draft = false
 description = "AIツール「Andrej Karpathyの哲学をClaude Codeへ。AI開発の品質を「次元上昇」させる『andrej-karpathy-skills』の実力」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/tewfbw5exg1x92/"

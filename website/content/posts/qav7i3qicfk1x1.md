@@ -1,7 +1,7 @@
 +++
 title = "Python開発のパラダイムシフト：AIが生成する「小ネタ」を武器に変える知略"
 date = "2026-05-16T05:59:02.598362"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "Python", "オープンソース"]
 draft = false
 description = "AIツール「Python開発のパラダイムシフト：AIが生成する「小ネタ」を武器に変える知略」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/qav7i3qicfk1x1/"

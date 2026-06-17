@@ -1,7 +1,7 @@
 +++
 title = "Claude Codeに自作MCPサーバー（Python）を接続する最小手順と「3大障害」の回避法【2026年最新】"
 date = "2026-06-14T23:14:56.328283"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "フロントエンド"]
 draft = false
 description = "AIツール「Claude Codeに自作MCPサーバー（Python）を接続する最小手順と「3大障害」の回避法【2026年最新】」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/vuluonccvsbbv5/"

@@ -1,7 +1,7 @@
 +++
 title = "Unity MCP × Claude Code連携の深淵：接続トラブルを打破し、AI自律型開発を実現する技術的要諦 (English)"
 date = "2026-03-12T22:50:10.483383"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "オープンソース"]
 draft = false
 description = "Introduction to Unity MCP × Claude Code連携の深淵：接続トラブルを打破し、AI自律型開発を実現する技術的要諦 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/2quuqr5cztvctz/"

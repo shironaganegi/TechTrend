@@ -1,7 +1,7 @@
 +++
 title = "AIコーディングの「迷走」を終わらせる。Andrej Karpathyの哲学を実装した『CLAUDE.md』の破壊力 (English)"
 date = "2026-05-05T23:01:47.962650"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント"]
 draft = false
 description = "Introduction to AIコーディングの「迷走」を終わらせる。Andrej Karpathyの哲学を実装した『CLAUDE.md』の破壊力 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/3mvly6yrjaz1db/"

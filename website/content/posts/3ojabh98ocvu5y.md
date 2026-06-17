@@ -1,7 +1,7 @@
 +++
 title = "Linuxカーネルが示した「AI共生」の羅針盤。公式ガイドラインから読み解く、真のエンジニアリング・エートス"
 date = "2026-04-11T22:39:32.107871"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "セキュリティ", "オープンソース"]
 draft = false
 description = "AIツール「Linuxカーネルが示した「AI共生」の羅針盤。公式ガイドラインから読み解く、真のエンジニアリング・エートス」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/3ojabh98ocvu5y/"

@@ -1,7 +1,7 @@
 +++
 title = "Androidの「自由」は終焉を迎えるのか？2026年導入、24時間アプリ検証プロセスの真意と開発者の生存戦略 (English)"
 date = "2026-03-19T22:36:40.052194"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "セキュリティ", "DevOps", "オープンソース"]
 draft = false
 description = "Introduction to Androidの「自由」は終焉を迎えるのか？2026年導入、24時間アプリ検証プロセスの真意と開発者の生存戦略 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/6qay6l27yebyu9/"

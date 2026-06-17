@@ -1,7 +1,7 @@
 +++
 title = "AIチップのコスト2/3が「メモリ」に？HBM高騰がもたらす開発ロードマップへの衝撃 (English)"
 date = "2026-05-25T07:20:48.902163"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG"]
 draft = false
 description = "Introduction to AIチップのコスト2/3が「メモリ」に？HBM高騰がもたらす開発ロードマップへの衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/8hc6gbjw3kujum/"

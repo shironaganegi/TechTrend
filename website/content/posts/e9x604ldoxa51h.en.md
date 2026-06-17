@@ -1,7 +1,7 @@
 +++
 title = "OpenAIとOracleの「決別」が示唆する、AGIインフラの臨界点と真の覇権争い (English)"
 date = "2026-03-10T10:50:44.093529"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "クラウド", "フロントエンド", "オープンソース"]
 draft = false
 description = "Introduction to OpenAIとOracleの「決別」が示唆する、AGIインフラの臨界点と真の覇権争い (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/e9x604ldoxa51h/"

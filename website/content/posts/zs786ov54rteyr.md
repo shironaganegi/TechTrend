@@ -1,7 +1,7 @@
 +++
 title = "AIエージェントを「シニアエンジニア」へと昇華させる：Addy Osmani氏が提唱する『agent-skills』がもたらす開発パラダイムシフト"
 date = "2026-05-08T05:34:25.166157"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント"]
 draft = false
 description = "AIツール「AIエージェントを「シニアエンジニア」へと昇華させる：Addy Osmani氏が提唱する『agent-skills』がもたらす開発パラダイムシフト」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/zs786ov54rteyr/"

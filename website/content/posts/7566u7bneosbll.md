@@ -1,7 +1,7 @@
 +++
 title = "【LlamaIndex発】ローカル完結で爆速PDF解析。Rust製の新星「liteparse」が拓く、RAGドキュメント前処理の新時代"
 date = "2026-05-30T23:05:18.114281"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "セキュリティ", "DevOps"]
 draft = false
 description = "AIツール「【LlamaIndex発】ローカル完結で爆速PDF解析。Rust製の新星「liteparse」が拓く、RAGドキュメント前処理の新時代」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/7566u7bneosbll/"

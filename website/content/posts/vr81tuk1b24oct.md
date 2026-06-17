@@ -1,7 +1,7 @@
 +++
 title = "AI時代の「知の空洞化」——名門UCバークレーで急増する落第生と、次世代エンジニアが直面する静かな危機"
 date = "2026-06-04T23:14:32.836711"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "機械学習", "セキュリティ", "データベース"]
 draft = false
 description = "AIツール「AI時代の「知の空洞化」——名門UCバークレーで急増する落第生と、次世代エンジニアが直面する静かな危機」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/vr81tuk1b24oct/"

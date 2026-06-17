@@ -1,7 +1,7 @@
 +++
 title = "AIエージェント時代の新・Web標準：「llms.txt」とは何か？LLMOを制する記述仕様を徹底解説 (English)"
 date = "2026-05-22T23:08:31.824978"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
 description = "Introduction to AIエージェント時代の新・Web標準：「llms.txt」とは何か？LLMOを制する記述仕様を徹底解説 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/1wmsjp0ghfollz/"

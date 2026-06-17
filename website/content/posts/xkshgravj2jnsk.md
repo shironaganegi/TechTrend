@@ -1,7 +1,7 @@
 +++
 title = "「開発の自動化」から「自律型エージェント」へ。Claude Code『Auto Mode』がもたらすパラダイムシフトの深層"
 date = "2026-03-11T22:33:51.897056"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "セキュリティ", "DevOps"]
 draft = false
 description = "AIツール「「開発の自動化」から「自律型エージェント」へ。Claude Code『Auto Mode』がもたらすパラダイムシフトの深層」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/xkshgravj2jnsk/"

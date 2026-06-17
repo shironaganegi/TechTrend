@@ -1,7 +1,7 @@
 +++
 title = "ブルームバーグ端末の民主化――C++20とAIエージェントが切り拓く次世代金融OSS「FinceptTerminal」の衝撃"
 date = "2026-04-19T10:47:45.625991"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「ブルームバーグ端末の民主化――C++20とAIエージェントが切り拓く次世代金融OSS「FinceptTerminal」の衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/pykpq5m6mxyzku/"

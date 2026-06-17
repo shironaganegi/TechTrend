@@ -1,7 +1,7 @@
 +++
 title = "情報の「死蔵」を終わらせる。Libertify.comが拓く、ドキュメント・デリバリーの新たな地平 (English)"
 date = "2026-04-17T05:34:28.633527"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "機械学習", "オープンソース"]
 draft = false
 description = "Introduction to 情報の「死蔵」を終わらせる。Libertify.comが拓く、ドキュメント・デリバリーの新たな地平 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/mlky40dkwux879/"

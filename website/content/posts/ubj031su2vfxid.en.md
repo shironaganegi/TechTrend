@@ -1,7 +1,7 @@
 +++
 title = "【Claude Code実機検証】「1ヶ月の苦闘」を10分へ。ターミナル常駐型AIエージェントが変える開発の現在地と、エンジニアが直面する新たな壁 (English)"
 date = "2026-05-13T23:11:43.309944"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "DevOps", "Python"]
 draft = false
 description = "Introduction to 【Claude Code実機検証】「1ヶ月の苦闘」を10分へ。ターミナル常駐型AIエージェントが変える開発の現在地と、エンジニアが直面する新たな壁 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/ubj031su2vfxid/"

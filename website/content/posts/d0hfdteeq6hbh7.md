@@ -1,7 +1,7 @@
 +++
 title = "Claude Codeを「計器」で支配する。公式の限界を超える可視化プラグイン『claude-hud』の実力"
 date = "2026-03-20T04:53:11.559238"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "クラウド"]
 draft = false
 description = "AIツール「Claude Codeを「計器」で支配する。公式の限界を超える可視化プラグイン『claude-hud』の実力」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/d0hfdteeq6hbh7/"

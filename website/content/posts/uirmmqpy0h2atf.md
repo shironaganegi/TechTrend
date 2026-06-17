@@ -1,7 +1,7 @@
 +++
 title = "次世代AIエージェントの試金石：Nous Researchが放つ『Hermes Agent』は、いかにして「自己進化」を遂げるのか"
 date = "2026-04-06T05:32:20.883026"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「次世代AIエージェントの試金石：Nous Researchが放つ『Hermes Agent』は、いかにして「自己進化」を遂げるのか」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/uirmmqpy0h2atf/"

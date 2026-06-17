@@ -1,7 +1,7 @@
 +++
 title = "「Claude Fable」ステルス規制問題の本質――AI開発者が直面する「不可視のガードレール」とマルチLLM時代の生存戦略 (English)"
 date = "2026-06-11T23:42:06.192301"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "DevOps", "オープンソース"]
 draft = false
 description = "Introduction to 「Claude Fable」ステルス規制問題の本質――AI開発者が直面する「不可視のガードレール」とマルチLLM時代の生存戦略 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/aiu29iii7sd1gv/"

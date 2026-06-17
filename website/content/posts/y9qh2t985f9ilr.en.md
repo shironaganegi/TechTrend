@@ -1,7 +1,7 @@
 +++
 title = "ターミナルが自律する時代へ：公式CLI「Claude Code」がもたらす開発プロセスのパラダイムシフト (English)"
 date = "2026-06-08T08:18:21.705145"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "Python", "オープンソース"]
 draft = false
 description = "Introduction to ターミナルが自律する時代へ：公式CLI「Claude Code」がもたらす開発プロセスのパラダイムシフト (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/y9qh2t985f9ilr/"

@@ -1,7 +1,7 @@
 +++
 title = "WordPress開発のパラダイムシフト。新星「WordPress Studio CLI」がもたらす開発体験の革新 (English)"
 date = "2026-03-28T22:37:04.767294"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "DevOps", "フロントエンド", "データベース"]
 draft = false
 description = "Introduction to WordPress開発のパラダイムシフト。新星「WordPress Studio CLI」がもたらす開発体験の革新 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/d7i3c6oxccp9dr/"

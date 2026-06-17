@@ -1,7 +1,7 @@
 +++
 title = "アプリテストは「書く」から「命じる」時代へ。自律型QAエージェント『Rova AI』がもたらす開発革命 (English)"
 date = "2026-04-30T11:43:20.807911"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "オープンソース"]
 draft = false
 description = "Introduction to アプリテストは「書く」から「命じる」時代へ。自律型QAエージェント『Rova AI』がもたらす開発革命 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/pg6lij8vn4pbev/"

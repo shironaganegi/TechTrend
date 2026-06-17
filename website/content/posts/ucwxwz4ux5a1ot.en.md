@@ -1,7 +1,7 @@
 +++
 title = "【2025年版】インターネットの「公的地籍」を所有する：*.city.state.us ロカリティ・ドメイン取得の探究 (English)"
 date = "2026-05-14T11:57:19.035810"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to 【2025年版】インターネットの「公的地籍」を所有する：*.city.state.us ロカリティ・ドメイン取得の探究 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/ucwxwz4ux5a1ot/"

@@ -1,7 +1,7 @@
 +++
 title = "30_OOF予測値によるIsotonic Regression：予測の「歪み」を正し、モデルに実戦的な信頼性を宿す手法"
 date = "2026-04-06T22:43:33.082454"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "機械学習", "オープンソース"]
 draft = false
 description = "AIツール「30_OOF予測値によるIsotonic Regression：予測の「歪み」を正し、モデルに実戦的な信頼性を宿す手法」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/55f0vd8x7bufwp/"

@@ -1,7 +1,7 @@
 +++
 title = "LangChain公式が示す自律型AI開発の「到達点」――新世代エージェント基盤『Deep Agents』徹底解説 (English)"
 date = "2026-03-18T10:58:23.017195"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
 description = "Introduction to LangChain公式が示す自律型AI開発の「到達点」――新世代エージェント基盤『Deep Agents』徹底解説 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/q9wyc85mw8erdf/"

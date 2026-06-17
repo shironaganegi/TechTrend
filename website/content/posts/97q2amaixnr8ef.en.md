@@ -1,7 +1,7 @@
 +++
 title = "エンジニアリングは「対話」から「指揮」へ——AIエージェントの潜在能力を解き放つ「oh-my-codex (OMX)」の正体 (English)"
 date = "2026-04-02T22:39:55.264941"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "オープンソース"]
 draft = false
 description = "Introduction to エンジニアリングは「対話」から「指揮」へ——AIエージェントの潜在能力を解き放つ「oh-my-codex (OMX)」の正体 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/97q2amaixnr8ef/"

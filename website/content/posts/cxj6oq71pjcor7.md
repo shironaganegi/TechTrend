@@ -1,7 +1,7 @@
 +++
 title = "Claude Opus 4.6から4.7への静かなる変革。システムプロンプトの「深層解剖」が示す、次世代AIの設計思想"
 date = "2026-04-20T05:47:30.621157"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM"]
 draft = false
 description = "AIツール「Claude Opus 4.6から4.7への静かなる変革。システムプロンプトの「深層解剖」が示す、次世代AIの設計思想」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/cxj6oq71pjcor7/"

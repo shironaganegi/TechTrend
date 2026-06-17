@@ -1,7 +1,7 @@
 +++
 title = "開発の民主化から「主権」の確立へ：オープンソースAIエージェント「OpenCode」が塗り替える設計図"
 date = "2026-03-21T22:32:44.755782"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "DevOps"]
 draft = false
 description = "AIツール「開発の民主化から「主権」の確立へ：オープンソースAIエージェント「OpenCode」が塗り替える設計図」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/al2lmjxoufu6tr/"

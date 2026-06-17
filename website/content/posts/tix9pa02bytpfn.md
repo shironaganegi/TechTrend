@@ -1,7 +1,7 @@
 +++
 title = "「障害は防ぐもの」から「制御するもの」へ。ChaosProof v1.1.0が定義する次世代レジリエンスの正体"
 date = "2026-03-14T22:33:52.808974"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "DevOps", "クラウド"]
 draft = false
 description = "AIツール「「障害は防ぐもの」から「制御するもの」へ。ChaosProof v1.1.0が定義する次世代レジリエンスの正体」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/tix9pa02bytpfn/"

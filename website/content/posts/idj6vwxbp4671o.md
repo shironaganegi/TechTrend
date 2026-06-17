@@ -1,7 +1,7 @@
 +++
 title = "Anthropic「Claude Code」の制約を突破する——プロキシ型エミュレーター『free-claude-code』がもたらす開発環境の転換"
 date = "2026-04-26T22:47:11.098939"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "クラウド", "Python"]
 draft = false
 description = "AIツール「Anthropic「Claude Code」の制約を突破する——プロキシ型エミュレーター『free-claude-code』がもたらす開発環境の転換」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/idj6vwxbp4671o/"

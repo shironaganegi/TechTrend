@@ -1,7 +1,7 @@
 +++
 title = "議事録の「要約」から、タスクの「完遂」へ：AIエージェント「Shadow 2.0」が定義する実行型ワークフローの正体 (English)"
 date = "2026-05-07T06:16:12.980722"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "AIエージェント", "フロントエンド", "オープンソース"]
 draft = false
 description = "Introduction to 議事録の「要約」から、タスクの「完遂」へ：AIエージェント「Shadow 2.0」が定義する実行型ワークフローの正体 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/8aw3631jdiofok/"

@@ -1,7 +1,7 @@
 +++
 title = "【深層解析】CERNが挑む「シリコンに刻む知能」——LHCの超高速データ処理を刷新するFPGAとTinyMLの衝撃 (English)"
 date = "2026-03-29T05:18:42.741110"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "機械学習", "Python", "オープンソース"]
 draft = false
 description = "Introduction to 【深層解析】CERNが挑む「シリコンに刻む知能」——LHCの超高速データ処理を刷新するFPGAとTinyMLの衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/pd96v5leq8zgcn/"

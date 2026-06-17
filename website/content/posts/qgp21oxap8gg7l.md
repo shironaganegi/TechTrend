@@ -1,7 +1,7 @@
 +++
 title = "金融リスク管理のパラダイムシフト：2026年、量子機械学習（QML）が導く「計算の壁」の突破"
 date = "2026-03-30T05:33:14.980000"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "機械学習", "クラウド"]
 draft = false
 description = "AIツール「金融リスク管理のパラダイムシフト：2026年、量子機械学習（QML）が導く「計算の壁」の突破」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/qgp21oxap8gg7l/"

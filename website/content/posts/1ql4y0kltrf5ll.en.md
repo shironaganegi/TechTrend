@@ -1,7 +1,7 @@
 +++
 title = "社会の血管を守るAI：Yarra Valley Waterが挑む水道インフラ「予知保全」の最前線 (English)"
 date = "2026-03-22T22:33:24.747902"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "機械学習", "クラウド", "フロントエンド", "オープンソース"]
 draft = false
 description = "Introduction to 社会の血管を守るAI：Yarra Valley Waterが挑む水道インフラ「予知保全」の最前線 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/1ql4y0kltrf5ll/"

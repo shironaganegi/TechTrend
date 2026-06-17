@@ -1,7 +1,7 @@
 +++
 title = "圏論的ディープラーニング入門：Compositional LearningとBackprop as Functorが導く「学習を組み立てる」未来"
 date = "2026-06-13T23:13:05.457522"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "AIエージェント", "機械学習", "Python"]
 draft = false
 description = "AIツール「圏論的ディープラーニング入門：Compositional LearningとBackprop as Functorが導く「学習を組み立てる」未来」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/xy7ttsjc10t3a5/"

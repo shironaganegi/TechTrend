@@ -1,7 +1,7 @@
 +++
 title = "巨大LLMを「個人の手」に取り戻す。AMD×tinygradが提示する究極のローカルAI基盤「Tinybox」の衝撃 (English)"
 date = "2026-03-22T04:58:38.452451"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "オープンソース"]
 draft = false
 description = "Introduction to 巨大LLMを「個人の手」に取り戻す。AMD×tinygradが提示する究極のローカルAI基盤「Tinybox」の衝撃 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/jreqotxjw5v50g/"

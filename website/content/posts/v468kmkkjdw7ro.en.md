@@ -1,7 +1,7 @@
 +++
 title = "Pydantic-settings 2.7.1における「破壊的挙動」の正体：validation_aliasの罠と堅牢なテストへの処方箋 (English)"
 date = "2026-04-16T22:51:06.872091"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "DevOps", "Python", "オープンソース"]
 draft = false
 description = "Introduction to Pydantic-settings 2.7.1における「破壊的挙動」の正体：validation_aliasの罠と堅牢なテストへの処方箋 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/v468kmkkjdw7ro/"

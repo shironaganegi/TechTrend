@@ -1,7 +1,7 @@
 +++
 title = "【検証】ワークフローの断片化を止める「Snapr」の真価——Cleanshot XとLoomを統合する新たな視覚言語の誕生 (English)"
 date = "2026-04-29T11:43:38.643774"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "DevOps", "オープンソース"]
 draft = false
 description = "Introduction to 【検証】ワークフローの断片化を止める「Snapr」の真価——Cleanshot XとLoomを統合する新たな視覚言語の誕生 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/hsg82fpnlwirt9/"

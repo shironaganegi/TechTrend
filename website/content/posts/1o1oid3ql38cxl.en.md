@@ -1,7 +1,7 @@
 +++
 title = "1.5万円で挑む「自律型ロケット」開発の衝撃――GitHubで公開された3Dプリント・プロジェクトの技術的本質 (English)"
 date = "2026-03-16T05:22:58.795119"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "クラウド", "オープンソース"]
 draft = false
 description = "Introduction to 1.5万円で挑む「自律型ロケット」開発の衝撃――GitHubで公開された3Dプリント・プロジェクトの技術的本質 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/1o1oid3ql38cxl/"

@@ -1,7 +1,7 @@
 +++
 title = "【検証】RTX 5090 × M4 MacBook Air：究極のモバイルと最強のGPUが交差する時。eGPUが直面する「帯域の壁」とその真価 (English)"
 date = "2026-05-14T23:02:36.981022"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "フロントエンド", "オープンソース"]
 draft = false
 description = "Introduction to 【検証】RTX 5090 × M4 MacBook Air：究極のモバイルと最強のGPUが交差する時。eGPUが直面する「帯域の壁」とその真価 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/7rv73accz8nequ/"

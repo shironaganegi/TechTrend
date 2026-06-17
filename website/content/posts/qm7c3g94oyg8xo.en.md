@@ -1,7 +1,7 @@
 +++
 title = "自律進化するAIエージェントの夜明け——Nous Research「Hermes Agent」がもたらす開発自動化の技術的ブレイクスルー (English)"
 date = "2026-06-05T12:45:14.322804"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
 description = "Introduction to 自律進化するAIエージェントの夜明け——Nous Research「Hermes Agent」がもたらす開発自動化の技術的ブレイクスルー (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/qm7c3g94oyg8xo/"

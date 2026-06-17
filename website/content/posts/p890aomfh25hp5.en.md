@@ -1,7 +1,7 @@
 +++
 title = "AI時代のアルゴリズム思考：AtCoder（ABC461）から紐解く、実務に効く「設計力」の鍛え方 (English)"
 date = "2026-06-06T23:10:11.114553"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "フロントエンド", "Python"]
 draft = false
 description = "Introduction to AI時代のアルゴリズム思考：AtCoder（ABC461）から紐解く、実務に効く「設計力」の鍛え方 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/p890aomfh25hp5/"

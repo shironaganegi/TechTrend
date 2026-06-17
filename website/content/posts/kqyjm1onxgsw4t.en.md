@@ -1,7 +1,7 @@
 +++
 title = "AIの主権をユーザーの手に。Mozillaが放つ次世代クライアント『Thunderbolt』が定義する、脱ベンダーロックインの未来 (English)"
 date = "2026-04-22T05:32:29.826182"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "DevOps", "オープンソース"]
 draft = false
 description = "Introduction to AIの主権をユーザーの手に。Mozillaが放つ次世代クライアント『Thunderbolt』が定義する、脱ベンダーロックインの未来 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/kqyjm1onxgsw4t/"

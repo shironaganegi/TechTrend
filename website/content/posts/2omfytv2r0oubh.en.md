@@ -1,7 +1,7 @@
 +++
 title = "AIエージェントに「物理的な声」を。Sendlyが変革する、SMSを介したAI×リアル実装の全貌 (English)"
 date = "2026-05-08T23:01:37.327462"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "オープンソース"]
 draft = false
 description = "Introduction to AIエージェントに「物理的な声」を。Sendlyが変革する、SMSを介したAI×リアル実装の全貌 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/2omfytv2r0oubh/"

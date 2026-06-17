@@ -1,7 +1,7 @@
 +++
 title = "【AIセキュリティの深淵】IBM Bobへの機密流出を未然に防ぐ――MCPとカスタムルールが描く「攻めの防御」 (English)"
 date = "2026-03-13T04:50:47.118466"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
 description = "Introduction to 【AIセキュリティの深淵】IBM Bobへの機密流出を未然に防ぐ――MCPとカスタムルールが描く「攻めの防御」 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/ufzof83nyuvrqc/"

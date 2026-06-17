@@ -1,7 +1,7 @@
 +++
 title = "データが語る「ドル円」の深層：エンジニアが解明すべき円安の構造的要因とPythonによる定量的アプローチ"
 date = "2026-04-12T22:42:46.046688"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "クラウド", "Python"]
 draft = false
 description = "AIツール「データが語る「ドル円」の深層：エンジニアが解明すべき円安の構造的要因とPythonによる定量的アプローチ」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/yrp6xkyyk2kkkm/"

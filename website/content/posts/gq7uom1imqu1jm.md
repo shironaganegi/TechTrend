@@ -1,7 +1,7 @@
 +++
 title = "既存のWebサイトを「デザイン資産」へ変貌させる。MiroMiro v2がもたらすワークフローの革新"
 date = "2026-05-12T06:19:19.708566"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "クラウド", "フロントエンド"]
 draft = false
 description = "AIツール「既存のWebサイトを「デザイン資産」へ変貌させる。MiroMiro v2がもたらすワークフローの革新」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/gq7uom1imqu1jm/"

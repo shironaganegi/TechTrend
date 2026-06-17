@@ -1,7 +1,7 @@
 +++
 title = "コマンドの記憶から解放される時。Git Adviserが提示する「意図」主体の次世代ワークフロー"
 date = "2026-04-08T05:22:06.912204"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "セキュリティ"]
 draft = false
 description = "AIツール「コマンドの記憶から解放される時。Git Adviserが提示する「意図」主体の次世代ワークフロー」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/qc7l30re4gw5pg/"

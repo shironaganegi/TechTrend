@@ -1,7 +1,7 @@
 +++
 title = "仮想通貨×予測市場の勝率を再定義する。AIエージェント「Fere AI」がもたらす自動トレードのパラダイムシフト"
 date = "2026-05-17T11:14:28.868344"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "Python"]
 draft = false
 description = "AIツール「仮想通貨×予測市場の勝率を再定義する。AIエージェント「Fere AI」がもたらす自動トレードのパラダイムシフト」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/ckqmow9yw99uua/"

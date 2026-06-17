@@ -1,7 +1,7 @@
 +++
 title = "AI情報の「鮮度」を制する。Claude Code専用スキル『last30days』が再定義するリサーチの到達点 (English)"
 date = "2026-03-29T22:39:09.136710"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "オープンソース"]
 draft = false
 description = "Introduction to AI情報の「鮮度」を制する。Claude Code専用スキル『last30days』が再定義するリサーチの到達点 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/1ma6ld2tygqx08/"

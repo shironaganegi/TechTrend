@@ -1,7 +1,7 @@
 +++
 title = "「アフリカ輸入のOS」への昇華――REasyが示す、新興国物流DXとバーティカルSaaSの真価 (English)"
 date = "2026-04-13T11:22:48.183651"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "オープンソース"]
 draft = false
 description = "Introduction to 「アフリカ輸入のOS」への昇華――REasyが示す、新興国物流DXとバーティカルSaaSの真価 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/9xly8kwy9vfohh/"

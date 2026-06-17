@@ -1,7 +1,7 @@
 +++
 title = "MCPサーバー開発のパラダイムシフト：FastMCPが解き放つClaudeの真価と次世代のエージェント構築術"
 date = "2026-05-02T05:43:08.001510"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "Python"]
 draft = false
 description = "AIツール「MCPサーバー開発のパラダイムシフト：FastMCPが解き放つClaudeの真価と次世代のエージェント構築術」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/e5t6b0sxrhk21n/"

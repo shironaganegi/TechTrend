@@ -1,7 +1,7 @@
 +++
 title = "【防衛テック】イタリアがA330 MRTTへ移行。システム構造から読み解く「自律飛行システム」と相互運用性の衝撃"
 date = "2026-05-24T11:21:27.565068"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「【防衛テック】イタリアがA330 MRTTへ移行。システム構造から読み解く「自律飛行システム」と相互運用性の衝撃」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/1uxogljrzukwoj/"

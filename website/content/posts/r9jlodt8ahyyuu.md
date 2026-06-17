@@ -1,7 +1,7 @@
 +++
 title = "WSL2 × FastAPI × Cloudflare Tunnel：ローカルCSVをAIエージェントの「知力」へ変えるセキュアな基盤構築術"
 date = "2026-04-23T05:36:46.961895"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "RAG", "AIエージェント", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「WSL2 × FastAPI × Cloudflare Tunnel：ローカルCSVをAIエージェントの「知力」へ変えるセキュアな基盤構築術」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/r9jlodt8ahyyuu/"

@@ -1,7 +1,7 @@
 +++
 title = "【航空機引き返し】Bluetoothの「デバイス名」が引き起こしたセキュリティパニックと技術的盲点"
 date = "2026-06-01T16:13:41.870351"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "セキュリティ"]
 draft = false
 description = "AIツール「【航空機引き返し】Bluetoothの「デバイス名」が引き起こしたセキュリティパニックと技術的盲点」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/osomi2yxsb23hk/"

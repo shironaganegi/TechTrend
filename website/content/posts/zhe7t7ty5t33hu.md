@@ -1,7 +1,7 @@
 +++
 title = "Claude CodeとOpenClawの「断絶」：Anthropicの規約変更が突きつけるプラットフォーム戦略の冷徹な現実"
 date = "2026-04-04T10:42:58.279196"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "セキュリティ", "オープンソース"]
 draft = false
 description = "AIツール「Claude CodeとOpenClawの「断絶」：Anthropicの規約変更が突きつけるプラットフォーム戦略の冷徹な現実」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/zhe7t7ty5t33hu/"

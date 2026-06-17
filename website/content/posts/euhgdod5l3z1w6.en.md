@@ -1,7 +1,7 @@
 +++
 title = "教育現場の環境構築を最適化する戦略的選択：VSCodeポータブル版がもたらす運用革命 (English)"
 date = "2026-05-01T11:13:04.238904"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "RAG", "オープンソース"]
 draft = false
 description = "Introduction to 教育現場の環境構築を最適化する戦略的選択：VSCodeポータブル版がもたらす運用革命 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/euhgdod5l3z1w6/"

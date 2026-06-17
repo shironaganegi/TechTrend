@@ -1,7 +1,7 @@
 +++
 title = "言語生成のパラダイムシフト：次世代AI「Introspective Diffusion」が拓く「内省する知能」の正体 (English)"
 date = "2026-04-14T22:53:29.519749"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "生成AI", "オープンソース"]
 draft = false
 description = "Introduction to 言語生成のパラダイムシフト：次世代AI「Introspective Diffusion」が拓く「内省する知能」の正体 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/4koliwzcfq9c5x/"

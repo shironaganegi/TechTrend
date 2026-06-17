@@ -1,7 +1,7 @@
 +++
 title = "【独占詳解】非エンジニアが挑んだ24時間稼働AIの衝撃――Cursor×Claudeが導く自律型エコシステム「System Lagrange」の本質 (English)"
 date = "2026-03-17T04:58:16.357638"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "Python"]
 draft = false
 description = "Introduction to 【独占詳解】非エンジニアが挑んだ24時間稼働AIの衝撃――Cursor×Claudeが導く自律型エコシステム「System Lagrange」の本質 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/aq5i831t32urpg/"

@@ -1,7 +1,7 @@
 +++
 title = "AIを「組織」として再定義する。金融取引のパラダイムシフトを担う「TradingAgents」の設計思想 (English)"
 date = "2026-05-03T22:52:47.213146"
-tags = ["AI", "Tools", "Python"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
 description = "Introduction to AIを「組織」として再定義する。金融取引のパラダイムシフトを担う「TradingAgents」の設計思想 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/tiuvz6gvwj1tcu/"

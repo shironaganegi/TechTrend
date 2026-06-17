@@ -1,7 +1,7 @@
 +++
 title = "AIエージェント開発のコスト・ボトルネックを突破する。次世代APIルーター「9router」がもたらすパラダイムシフト"
 date = "2026-05-09T11:02:41.124250"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「AIエージェント開発のコスト・ボトルネックを突破する。次世代APIルーター「9router」がもたらすパラダイムシフト」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/oy47ezvy3r7n1f/"

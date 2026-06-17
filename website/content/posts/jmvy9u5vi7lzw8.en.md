@@ -1,7 +1,7 @@
 +++
 title = "「検索」を「思索」へ。Agentic RAGが切り拓く次世代AIアーキテクチャの全貌 (English)"
 date = "2026-04-20T11:24:19.236501"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
 description = "Introduction to 「検索」を「思索」へ。Agentic RAGが切り拓く次世代AIアーキテクチャの全貌 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/jmvy9u5vi7lzw8/"

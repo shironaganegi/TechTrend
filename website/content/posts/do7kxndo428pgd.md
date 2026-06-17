@@ -1,7 +1,7 @@
 +++
 title = "ブラウザ自動化の「保守」という概念が消える日。自律型エージェント「Intuned Agent」が定義する新機軸"
 date = "2026-05-05T11:20:42.876509"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "クラウド"]
 draft = false
 description = "AIツール「ブラウザ自動化の「保守」という概念が消える日。自律型エージェント「Intuned Agent」が定義する新機軸」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/do7kxndo428pgd/"

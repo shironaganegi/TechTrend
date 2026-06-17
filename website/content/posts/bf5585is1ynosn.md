@@ -1,7 +1,7 @@
 +++
 title = "自律型AIエージェント「Ava 2.0」に学ぶ、次世代Agentアーキテクチャの設計プラクティス"
 date = "2026-05-29T12:53:32.636459"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "生成AI"]
 draft = false
 description = "AIツール「自律型AIエージェント「Ava 2.0」に学ぶ、次世代Agentアーキテクチャの設計プラクティス」の活用法を紹介"
 canonicalUrl = "https://techtrend-watch.com/posts/bf5585is1ynosn/"

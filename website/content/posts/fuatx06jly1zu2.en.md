@@ -1,7 +1,7 @@
 +++
 title = "ワークフローがそのまま教材に。次世代AI学習ツール「Scholé」が切り拓く、エンジニアの「自律的成長」の新基準 (English)"
 date = "2026-05-02T10:58:30.767899"
-tags = ["AI", "Tools"]
+tags = ["AI", "Tools", "LLM", "RAG"]
 draft = false
 description = "Introduction to ワークフローがそのまま教材に。次世代AI学習ツール「Scholé」が切り拓く、エンジニアの「自律的成長」の新基準 (English)"
 canonicalUrl = "https://techtrend-watch.com/posts/fuatx06jly1zu2/"
