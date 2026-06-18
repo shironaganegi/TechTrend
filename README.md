@@ -11,7 +11,7 @@
 このプロジェクトは、人間が一切介入することなく、以下のプロセスを**毎日3回（07:00, 12:00, 19:00 JST）** 自動実行します。
 
 1.  **トレンド収集**: GitHub, HackerNews, ProductHunt, Qiita, Zenn, X(Twitter) から話題のツールや記事を収集。
-2.  **選定・執筆**: Gemini 2.0 Flash がトレンドデータを分析し、最もバズる可能性の高いトピックを選定。エンジニア向けの解説記事を執筆。
+2.  **選定・執筆**: Gemini 2.5 Flash がトレンドデータを分析し、最もバズる可能性の高いトピックを選定。エンジニア向けの解説記事を執筆。
 3.  **多言語対応**: 日本語記事に加え、英語翻訳版も自動生成。
 4.  **収益化**: Google AdSense による広告収益（※アフィリエイトは廃止し、コンテンツ価値とAdSense一本に集中）。
 5.  **マルチ配信**:
@@ -33,7 +33,7 @@ graph TD
     
     subgraph "Phase 2: Analyst Agent 🧠"
         B --> D{Content Generator}
-        D -->|Gemini 2.0| E[Draft Article .md]
+        D -->|Gemini 2.5| E[Draft Article .md]
         E -->|Editor| F[Refined Article]
         E -->|Translator| G[English Draft .en.md]
     end

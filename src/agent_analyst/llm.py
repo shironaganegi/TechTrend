@@ -20,10 +20,12 @@ class LLMClient:
         # Initialize the new GenAI client
         self.client = genai.Client(api_key=config.GEMINI_API_KEY)
         
-        # Priority list of models to try
+        # 試行モデルの優先リスト
+        # 注: gemini-2.0-flash 系は無料枠が廃止(quota=0)され429になるため、
+        # 現行で無料枠のある 2.5 系へ更新。最後に latest エイリアスでフォールバック。
         self.models_to_try: List[str] = [
-            'gemini-2.0-flash',
-            'gemini-2.0-flash-lite-001',
+            'gemini-2.5-flash',
+            'gemini-2.5-flash-lite',
             'gemini-flash-latest'
         ]
 
