@@ -74,7 +74,7 @@ class DiscordPublisher:
             })
         
         payload = {
-            "username": "AI Affiliate Bot",
+            "username": "TechTrend Watch Bot",
             "embeds": [embed]
         }
         

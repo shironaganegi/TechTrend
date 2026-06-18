@@ -1,4 +1,4 @@
-name: Daily AI Affiliate Agent
+name: Daily TechTrend Agent
 
 on:
   schedule:
@@ -46,11 +46,6 @@ jobs:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         ZENN_AUTO_PUBLISH: ${{ vars.ZENN_AUTO_PUBLISH || 'false' }}
       run: python -m src.agent_analyst.content_generator
-      
-    - name: Send Discord Notification
-      env:
-        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-      run: python -m src.agent_publisher.discord_notifier
 
     - name: Run Maintenance Agent (Clean Old Files)
       run: python -m src.agent_watcher.maintenance

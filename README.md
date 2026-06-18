@@ -1,6 +1,6 @@
 # TechTrend Watch 🚀 (Automated Tech Media)
 
-[![Daily AI Affiliate Agent](https://github.com/shironaganegi/TechTrend/actions/workflows/daily_report.yml/badge.svg)](https://github.com/shironaganegi/TechTrend/actions/workflows/daily_report.yml)
+[![Daily TechTrend Agent](https://github.com/shironaganegi/TechTrend/actions/workflows/daily_report.yml/badge.svg)](https://github.com/shironaganegi/TechTrend/actions/workflows/daily_report.yml)
 ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
 ![Hugo](https://img.shields.io/badge/hugo-%23FD0E35.svg?style=flat&logo=hugo&logoColor=white)
 

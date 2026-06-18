@@ -24,26 +24,25 @@ def get_readme_content(github_url):
     Fetches the README content from a GitHub repository to give context to the LLM.
     """
     try:
-        parts = github_url.strip("/").split("/")
-        if len(parts) >= 5:
-            user = parts[3]
-            repo = parts[4]
-            raw_url = f"https://raw.githubusercontent.com/{user}/{repo}/main/README.md"
-            
-            response = safe_requests_get(raw_url)
-            if response and response.status_code == 200:
-                logger.info(f"Retrieved README from {raw_url}")
-                return response.text[:10000] # Limit context size
-            
-            # Try 'master' branch if main fails
-            raw_url_master = f"https://raw.githubusercontent.com/{user}/{repo}/master/README.md"
-            response = safe_requests_get(raw_url_master)
-            if response and response.status_code == 200:
-                return response.text[:10000]
+        # GitHubリポジトリのURLでなければREADME取得を試みない
+        # (HackerNews/Qiita/Zenn等のURLで誤ったraw URLを叩き404になるのを防ぐ)
+        if "github.com/" not in github_url:
+            return "No detailed documentation found."
+
+        parts = github_url.split("github.com/")[1].strip("/").split("/")
+        if len(parts) >= 2:
+            user = parts[0]
+            repo = parts[1]
+            for branch in ("main", "master"):
+                raw_url = f"https://raw.githubusercontent.com/{user}/{repo}/{branch}/README.md"
+                response = safe_requests_get(raw_url)
+                if response and response.status_code == 200:
+                    logger.info(f"Retrieved README from {raw_url}")
+                    return response.text[:10000]  # Limit context size
 
     except Exception as e:
         logger.error(f"Failed to fetch README: {e}")
-    
+
     return "No detailed documentation found."
 
 def generate_article(tool_data: Dict[str, Any], x_hot_words: Optional[List[str]] = None) -> str:
