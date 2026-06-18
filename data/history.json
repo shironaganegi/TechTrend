@@ -1,10 +1,5 @@
 [
   {
-    "name": "AWS MCP Server GA入門 — AIエージェントが300サービスを操作できるAPIの全貌",
-    "url": "https://qiita.com/kai_kou/items/46e04241395754f4fc65",
-    "date": "2026-05-13T12:09:21.452288"
-  },
-  {
     "name": "【Claude Code】7年前の自分に教えたい。1ヶ月かけたテレビゲーム売上分析、2026年は10分で終わる（が、落とし穴もあった）",
     "url": "https://qiita.com/hamham/items/b64e4e51d75b6b0525f3",
     "date": "2026-05-13T23:11:21.433865"
@@ -498,5 +493,10 @@
     "name": "ai-engineering-from-scratch",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "date": "2026-06-17T08:33:44.951877"
+  },
+  {
+    "name": "skills",
+    "url": "https://github.com/mattpocock/skills",
+    "date": "2026-06-18T00:26:04.213900"
   }
 ]
