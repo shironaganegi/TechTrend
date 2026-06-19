@@ -1,6 +1,5 @@
 import feedparser
 from datetime import datetime
-import logging
 from src.shared.utils import setup_logging
 
 logger = setup_logging(__name__)

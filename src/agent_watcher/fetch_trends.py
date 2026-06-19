@@ -69,12 +69,13 @@ def main() -> None:
         if sType in source_map:
             try:
                 logger.info(f"Fetching from {sType} with params {params}...")
-                # Dispatch with params if function accepts them
-                if sType == "github":
+                # params があれば展開して渡す（github の language や news_feed の url 等）。
+                # 空なら引数なしで呼ぶ（各 fetch 関数のデフォルト引数を使用）。
+                if params:
                     trends = source_map[sType](**params)
                 else:
-                    trends = source_map[sType]() # Others don't take params yet
-                
+                    trends = source_map[sType]()
+
                 all_trends.extend(trends)
             except Exception as e:
                 logger.error(f"Failed to fetch from {sType}: {e}")

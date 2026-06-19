@@ -1,5 +1,4 @@
 import os
-import requests
 import re
 from src.shared.config import config
 from src.shared.utils import setup_logging, safe_requests_post

@@ -36,7 +36,9 @@ class DiscordPublisher:
                 if not chunk.strip(): chunk = text[:limit]
                 chunks.append(chunk)
                 text = text[len(chunk):]
-            if text: chunks.append(text)
+            # 末尾の残り、または入力が空/全消化済みでも最低1要素を保証する
+            # (空リストだと後続の chunks[-1] 参照で IndexError になるため)
+            if text or not chunks: chunks.append(text)
             return chunks
 
         # Process X Post
