@@ -54,7 +54,7 @@ def fetch_github_trending(language=None):
                 "fetched_at": datetime.now().isoformat()
             })
         except Exception as e:
-            logging.warning(f"Error parsing a repo: {e}")
+            logger.warning(f"Error parsing a repo: {e}")
             continue
 
     return repos

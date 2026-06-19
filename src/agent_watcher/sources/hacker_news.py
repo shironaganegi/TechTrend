@@ -47,5 +47,5 @@ def fetch_hacker_news_trends():
         
         return trends
     except Exception as e:
-        logging.error(f"Failed to fetch Hacker News: {e}")
+        logger.error(f"Failed to fetch Hacker News: {e}")
         return []

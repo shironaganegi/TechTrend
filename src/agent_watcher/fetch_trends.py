@@ -12,7 +12,6 @@ from src.agent_watcher.sources.product_hunt import fetch_product_hunt_trends
 from src.agent_watcher.sources.hacker_news import fetch_hacker_news_trends
 from src.agent_watcher.sources.zenn import fetch_zenn_trends
 from src.agent_watcher.sources.qiita import fetch_qiita_trends
-from src.agent_watcher.sources.x_trends import fetch_x_trends
 from src.agent_watcher.sources.rss import fetch_rss_trends
 
 # Setup logging
@@ -80,9 +79,9 @@ def main() -> None:
             except Exception as e:
                 logger.error(f"Failed to fetch from {sType}: {e}")
 
-    # Get X trends for viral context (Global context, not a source per se)
-    x_hot_words = fetch_x_trends()
-    
+    # X (Twitter) トレンド取得は廃止。JSONフォーマット互換のため空配列を保持する。
+    x_hot_words: List[str] = []
+
     # 2. Deduplication based on URL
     seen_urls = set()
     unique_trends = []

@@ -302,7 +302,7 @@ def select_best_candidate(data):
         except (ValueError, KeyError):
             continue
             
-    candidates = [item for item in data if item.get('daily_stars', 0) > 0 and item['url'] not in recent_posted_urls]
+    candidates = [item for item in data if item.get('daily_stars', 0) > 0 and item.get('url') not in recent_posted_urls]
     
     # Fallback if everything is filtered
     if not candidates:

@@ -39,7 +39,7 @@ def fetch_product_hunt_trends():
                 "fetched_at": datetime.now().isoformat()
             })
         except Exception as e:
-            logging.warning(f"Error parsing Product Hunt item: {e}")
+            logger.warning(f"Error parsing Product Hunt item: {e}")
             continue
     
     return products
