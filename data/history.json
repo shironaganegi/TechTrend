@@ -1,10 +1,5 @@
 [
   {
-    "name": "hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "date": "2026-05-14T06:34:58.564378"
-  },
-  {
     "name": "Setting up a free *.city.state.us locality domain (2025)",
     "url": "https://fredchan.org/blog/locality-domains-guide/",
     "date": "2026-05-14T11:56:49.980180"
@@ -498,5 +493,10 @@
     "name": "【RAG入門】「学習」ではなく「検索」がキーポイント――元銀行員エンジニアが書籍で学んだRAGの全体像",
     "url": "https://qiita.com/takatosarada/items/99f2a5fd28731509d049",
     "date": "2026-06-18T23:49:08.089913"
+  },
+  {
+    "name": "Portia",
+    "url": "https://www.producthunt.com/products/portia-2",
+    "date": "2026-06-19T23:02:16.665081"
   }
 ]
