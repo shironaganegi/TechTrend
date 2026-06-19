@@ -30,9 +30,11 @@ class DiscordPublisher:
             while len(text) > limit:
                 split_index = text.rfind('\n', 0, limit)
                 if split_index == -1: split_index = text.rfind('。', 0, limit)
-                if split_index == -1: split_index = limit
-                
-                chunk = text[:split_index+1]
+
+                if split_index == -1:
+                    chunk = text[:limit]  # 区切り文字なし: limit ちょうどで切る
+                else:
+                    chunk = text[:split_index+1]
                 if not chunk.strip(): chunk = text[:limit]
                 chunks.append(chunk)
                 text = text[len(chunk):]

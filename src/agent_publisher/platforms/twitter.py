@@ -40,13 +40,16 @@ class TwitterPublisher:
                 split_index = post_text.rfind('\n', 0, MAX_LENGTH)
                 if split_index == -1:
                     split_index = post_text.rfind('。', 0, MAX_LENGTH)
-                if split_index == -1:
-                    split_index = MAX_LENGTH
 
-                chunk = post_text[:split_index+1] # Include the delimiter
+                if split_index == -1:
+                    # 区切り文字なし: ちょうど MAX_LENGTH で切る (+1 すると超過するため)
+                    chunk = post_text[:MAX_LENGTH]
+                else:
+                    chunk = post_text[:split_index+1] # 区切り文字を含める
+
                 if not chunk.strip(): # Avoid empty chunks if delimiter was at end
                      chunk = post_text[:MAX_LENGTH]
-                     
+
                 tweets.append(chunk)
                 post_text = post_text[len(chunk):]
             

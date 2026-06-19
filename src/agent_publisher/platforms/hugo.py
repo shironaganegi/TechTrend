@@ -19,16 +19,21 @@ class HugoPublisher:
         tags = derive_tags(title, body)
 
         description = f"AIツール「{title}」の活用法を紹介" if lang == "ja" else f"Introduction to {title}"
-        
+
         cover_yaml = ""
         # Disabled OGP logic placeholder
-        
+
+        # TOML値は json.dumps でエスケープする（" を含むタイトルでも壊れないように）。
+        # JSON文字列のエスケープ仕様は TOML basic string と互換。
+        title_toml = json.dumps(title, ensure_ascii=False)
+        description_toml = json.dumps(description, ensure_ascii=False)
+
         frontmatter = f"""+++
-title = "{title}"
+title = {title_toml}
 date = "{date_str}"
 tags = {json.dumps(tags)}
 draft = false
-description = "{description}"
+description = {description_toml}
 canonicalUrl = "{zenn_url}"{cover_yaml}
 +++
 

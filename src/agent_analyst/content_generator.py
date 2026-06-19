@@ -231,21 +231,23 @@ def generate_zenn_frontmatter(title, tool_name, source, x_post="", note_intro=""
     if "python" in tool_name.lower(): topics.append("Python")
     
     is_published = config.ZENN_AUTO_PUBLISH
-    
-    # Escape quotes in metadata
-    if x_post: x_post = x_post.replace('"', '\\"').replace("\n", "\\n")
-    if note_intro: note_intro = note_intro.replace('"', '\\"').replace("\n", "\\n")
-    if image_prompt: image_prompt = image_prompt.replace('"', '\\"').replace("\n", "\\n")
+
+    # YAML値は json.dumps でエスケープする（" や改行を安全に埋め込む）。
+    # json.dumps は前後の " も付与するため、テンプレート側では裸で展開する。
+    title_y = json.dumps(title, ensure_ascii=False)
+    x_post_y = json.dumps(x_post or "", ensure_ascii=False)
+    note_intro_y = json.dumps(note_intro or "", ensure_ascii=False)
+    image_prompt_y = json.dumps(image_prompt or "", ensure_ascii=False)
 
     frontmatter = f"""---
-title: "{title}"
+title: {title_y}
 emoji: "{random.choice(emojis)}"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: {json.dumps(topics)}
 published: {str(is_published).lower()}
-x_viral_post: "{x_post}"
-note_intro: "{note_intro}"
-image_prompt: "{image_prompt}"
+x_viral_post: {x_post_y}
+note_intro: {note_intro_y}
+image_prompt: {image_prompt_y}
 ---
 
 """
@@ -382,7 +384,9 @@ if __name__ == "__main__":
     article_title = "New AI Tool: " + top_tool['name']
     for line in body_content.split("\n"):
         if line.startswith("# "):
-            article_title = line.replace("# ", "").replace('"', '\\"')
+            # 生のタイトルを保持する。frontmatter への埋め込み時に json.dumps で
+            # 適切にエスケープするため、ここでは手動エスケープしない。
+            article_title = line.replace("# ", "").strip()
             break
             
     # generate_article() は本文末尾に隠しブロック(X投稿/note導入/画像プロンプト)を
@@ -413,8 +417,9 @@ if __name__ == "__main__":
     
     en_body = translate_article_to_english(body_only)
     if en_body:
+        en_title_y = json.dumps(f"{article_title} (English)", ensure_ascii=False)
         en_content = f"""---
-title: "{article_title} (English)"
+title: {en_title_y}
 emoji: "🤖"
 type: "tech"
 topics: []

@@ -5,6 +5,7 @@
 import os
 import glob
 import re
+import json
 import logging
 from typing import Tuple, Optional
 from src.shared.config import config
@@ -32,23 +33,36 @@ def get_latest_article() -> Optional[str]:
     return files[0]
 
 
+def _unquote(raw: str) -> str:
+    """frontmatter の二重引用符値(JSONエスケープ済み)を安全に復元する。
+
+    書き出し側は json.dumps で値を生成するため、json.loads で復号すれば
+    \\\\ や \\t を含むケースも完全に元へ戻せる。万一フォーマットが
+    異なる場合は最小限の手動アンエスケープにフォールバックする。
+    """
+    try:
+        return json.loads('"' + raw + '"')
+    except Exception:
+        return raw.replace("\\n", "\n").replace('\\"', '"')
+
+
 def parse_article(file_path: str) -> Tuple[str, str, Optional[str], Optional[str], Optional[str]]:
     """Zenn のマークダウンファイルからタイトル、本文、メタデータを抽出する。"""
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
-    
+
     # regexを使用してフロントマターを解析
     title_match = re.search(r'^title:\s*"(.*)"', content, re.MULTILINE)
-    title = title_match.group(1) if title_match else "No Title"
-    
+    title = _unquote(title_match.group(1)) if title_match else "No Title"
+
     x_post_match = re.search(r'^x_viral_post:\s*"(.*)"', content, re.MULTILINE)
-    x_viral_post = x_post_match.group(1).replace("\\n", "\n").replace('\\"', '"') if x_post_match else None
-    
+    x_viral_post = _unquote(x_post_match.group(1)) if x_post_match else None
+
     note_intro_match = re.search(r'^note_intro:\s*"(.*)"', content, re.MULTILINE)
-    note_intro = note_intro_match.group(1).replace("\\n", "\n").replace('\\"', '"') if note_intro_match else None
+    note_intro = _unquote(note_intro_match.group(1)) if note_intro_match else None
 
     image_prompt_match = re.search(r'^image_prompt:\s*"(.*)"', content, re.MULTILINE)
-    image_prompt = image_prompt_match.group(1).replace("\\n", "\n").replace('\\"', '"') if image_prompt_match else None
+    image_prompt = _unquote(image_prompt_match.group(1)) if image_prompt_match else None
 
     # 本文を取り出すためにフロントマターを除去
     body = re.sub(r'^---[\s\S]*?---\n', '', content)
@@ -99,7 +113,7 @@ def main() -> None:
                 en_content = f.read()
             
             en_title_match = re.search(r'^title:\s*"(.*)"', en_content, re.MULTILINE)
-            en_title = en_title_match.group(1) if en_title_match else title
+            en_title = _unquote(en_title_match.group(1)) if en_title_match else title
             en_body = re.sub(r'^---[\s\S]*?---\n', '', en_content)
             
             hugo.save_article(en_title, en_body, website_url, latest_en_path, lang="en")
