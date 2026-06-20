@@ -1,10 +1,5 @@
 [
   {
-    "name": "Setting up a free *.city.state.us locality domain (2025)",
-    "url": "https://fredchan.org/blog/locality-domains-guide/",
-    "date": "2026-05-14T11:56:49.980180"
-  },
-  {
     "name": "RTX 5090 and M4 MacBook Air: Can It Game?",
     "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
     "date": "2026-05-14T23:02:15.177313"
@@ -498,5 +493,10 @@
     "name": "Portia",
     "url": "https://www.producthunt.com/products/portia-2",
     "date": "2026-06-19T23:02:16.665081"
+  },
+  {
+    "name": "RAG の基礎技術を実装して整理する - ハイブリッド検索から Agentic RAG まで",
+    "url": "https://qiita.com/atsushi11o7/items/44fe6858a17cd5d9d09e",
+    "date": "2026-06-20T23:12:29.639704"
   }
 ]
