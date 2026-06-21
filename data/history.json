@@ -1,10 +1,5 @@
 [
   {
-    "name": "RTX 5090 and M4 MacBook Air: Can It Game?",
-    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "date": "2026-05-14T23:02:15.177313"
-  },
-  {
     "name": "LaTeX 文書 (Beamer スライド) の「今回の内容」を空にして「前回の内容」へスライドする Python スクリプト (定期的な報告資料に便利)",
     "url": "https://qiita.com/CookieBox26/items/4867eea25842b2605d57",
     "date": "2026-05-15T06:37:52.598946"
@@ -498,5 +493,10 @@
     "name": "RAG の基礎技術を実装して整理する - ハイブリッド検索から Agentic RAG まで",
     "url": "https://qiita.com/atsushi11o7/items/44fe6858a17cd5d9d09e",
     "date": "2026-06-20T23:12:29.639704"
+  },
+  {
+    "name": "Azure のローカル開発に miniblue を使ってみた。が",
+    "url": "https://zenn.dev/terraform_jp/articles/2026-06-22_terraform_miniblue",
+    "date": "2026-06-21T23:17:14.797177"
   }
 ]
