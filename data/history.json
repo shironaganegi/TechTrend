@@ -1,10 +1,5 @@
 [
   {
-    "name": "openhuman",
-    "url": "https://github.com/tinyhumansai/openhuman",
-    "date": "2026-05-15T12:01:01.881766"
-  },
-  {
     "name": "skills",
     "url": "https://github.com/mattpocock/skills",
     "date": "2026-05-15T23:00:54.188149"
@@ -498,5 +493,10 @@
     "name": "Skybridge",
     "url": "https://www.producthunt.com/products/skybridge",
     "date": "2026-06-22T23:23:08.043766"
+  },
+  {
+    "name": "OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "date": "2026-06-23T23:11:23.062425"
   }
 ]
