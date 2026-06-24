@@ -1,10 +1,5 @@
 [
   {
-    "name": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "date": "2026-05-15T23:00:54.188149"
-  },
-  {
     "name": "AI生成Python小ネタ",
     "url": "https://qiita.com/lemonIN/items/3ae435d52da20ba389cb",
     "date": "2026-05-16T05:58:44.283508"
@@ -498,5 +493,10 @@
     "name": "OpenMontage",
     "url": "https://github.com/calesthio/OpenMontage",
     "date": "2026-06-23T23:11:23.062425"
+  },
+  {
+    "name": "Propane",
+    "url": "https://www.producthunt.com/products/propane",
+    "date": "2026-06-24T23:07:00.344232"
   }
 ]
