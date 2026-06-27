@@ -1,10 +1,5 @@
 [
   {
-    "name": "Python の新定番パッケージマネージャ「uv」入門",
-    "url": "https://qiita.com/umanari145/items/9770ed5cdb967007ca5b",
-    "date": "2026-05-16T22:54:34.868280"
-  },
-  {
     "name": "Pythonの整数をめぐる冒険",
     "url": "https://qiita.com/quantum_for_ctf/items/20cdbc58bc0cdbd363e2",
     "date": "2026-05-17T06:27:21.980708"
@@ -498,5 +493,10 @@
     "name": "ai-berkshire",
     "url": "https://github.com/xbtlin/ai-berkshire",
     "date": "2026-06-26T23:09:53.497621"
+  },
+  {
+    "name": "design.md",
+    "url": "https://github.com/google-labs-code/design.md",
+    "date": "2026-06-27T23:05:52.272022"
   }
 ]
