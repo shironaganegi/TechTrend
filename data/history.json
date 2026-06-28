@@ -1,10 +1,5 @@
 [
   {
-    "name": "Pythonの整数をめぐる冒険",
-    "url": "https://qiita.com/quantum_for_ctf/items/20cdbc58bc0cdbd363e2",
-    "date": "2026-05-17T06:27:21.980708"
-  },
-  {
     "name": "Fere AI",
     "url": "https://www.producthunt.com/products/fere-ai",
     "date": "2026-05-17T11:14:10.833626"
@@ -498,5 +493,10 @@
     "name": "design.md",
     "url": "https://github.com/google-labs-code/design.md",
     "date": "2026-06-27T23:05:52.272022"
+  },
+  {
+    "name": "simplex-chat",
+    "url": "https://github.com/simplex-chat/simplex-chat",
+    "date": "2026-06-28T23:06:14.850760"
   }
 ]
