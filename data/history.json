@@ -1,10 +1,5 @@
 [
   {
-    "name": "Fere AI",
-    "url": "https://www.producthunt.com/products/fere-ai",
-    "date": "2026-05-17T11:14:10.833626"
-  },
-  {
     "name": "数学高校レベルのDS向けに「測度論→伊藤積分→ブラックショールズ」を全部つなげてみる",
     "url": "https://qiita.com/etale_cohomology/items/605040cf10805980b052",
     "date": "2026-05-17T22:57:59.023754"
@@ -498,5 +493,10 @@
     "name": "simplex-chat",
     "url": "https://github.com/simplex-chat/simplex-chat",
     "date": "2026-06-28T23:06:14.850760"
+  },
+  {
+    "name": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "date": "2026-06-29T23:01:51.419789"
   }
 ]
