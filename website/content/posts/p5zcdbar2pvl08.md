@@ -3,10 +3,10 @@ title = "23年の時を超えて：Claude CodeがLinuxカーネルの「最古�
 date = "2026-04-04T22:37:57.922474"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "フロントエンド"]
 draft = false
-description = "AIツール「23年の時を超えて：Claude CodeがLinuxカーネルの「最古級」脆弱性を看破した意義」の活用法を紹介"
+description = "「AIは既存情報の再構成に過ぎない」――こうした言説は、もはや過去の遺物となったのかもしれない。Anthropicが放ったエンジニア向けCLIツール「Claude…"
 canonicalUrl = "https://techtrend-watch.com/posts/p5zcdbar2pvl08/"
+author = "しろねぎ"
 +++
-
 
 # 23年の時を超えて：Claude CodeがLinuxカーネルの「最古級」脆弱性を看破した意義
 

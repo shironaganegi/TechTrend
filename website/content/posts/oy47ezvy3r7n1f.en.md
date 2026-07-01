@@ -1,12 +1,12 @@
 +++
-title = "AIエージェント開発のコスト・ボトルネックを突破する。次世代APIルーター「9router」がもたらすパラダイムシフト (English)"
+title = "Breaking Through AI Agent Development Costs and Bottlenecks: The Paradigm Shift Brought by the Next-Generation API Router \"9router\""
 date = "2026-05-09T11:02:41.125446"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "オープンソース"]
 draft = false
-description = "Introduction to AIエージェント開発のコスト・ボトルネックを突破する。次世代APIルーター「9router」がもたらすパラダイムシフト (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/oy47ezvy3r7n1f/"
+description = "While the evolution of AI tools is remarkable, the resulting \"accumulation of subscription costs\" and \"work interruptions due to rate limits\" have become…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/oy47ezvy3r7n1f/"
+author = "しろねぎ"
 +++
-
 
 # Breaking Through AI Agent Development Costs and Bottlenecks: The Paradigm Shift Brought by the Next-Generation API Router "9router"
 

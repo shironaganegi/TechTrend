@@ -1,12 +1,12 @@
 +++
-title = "AI生成UIの「量産型スロップ」から脱却せよ──CursorやClaudeに一流のデザインセンスを移植する「taste-skill」の衝撃 (English)"
+title = "Break Away from AI-Generated \"Mass-Produced UI Slop\" — The Shocking Impact of \"taste-skill,\" Porting Elite Design Sense into Cursor and Claude"
 date = "2026-05-27T23:22:00.416393"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
-description = "Introduction to AI生成UIの「量産型スロップ」から脱却せよ──CursorやClaudeに一流のデザインセンスを移植する「taste-skill」の衝撃 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/6hjjpt0ga6ydus/"
+description = "\"When I have AI make UI mockups, they all end up looking like the same bland, cookie-cutter designs.\""
+canonicalUrl = "https://techtrend-watch.com/en/posts/6hjjpt0ga6ydus/"
+author = "しろねぎ"
 +++
-
 
 # Break Away from AI-Generated "Mass-Produced UI Slop" — The Shocking Impact of "taste-skill," Porting Elite Design Sense into Cursor and Claude
 

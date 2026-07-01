@@ -1,12 +1,12 @@
 +++
-title = "PythonによるWordドキュメント制御の真髄：テキスト・段落書式の「完全自動化」を実現する技術詳解 (English)"
+title = "PythonによるWordドキュメント制御の真髄：テキスト・段落書式の「完全自動化」を実現する技術詳解"
 date = "2026-03-20T10:46:13.018462"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
-description = "Introduction to PythonによるWordドキュメント制御の真髄：テキスト・段落書式の「完全自動化」を実現する技術詳解 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/jzdruti7cb5435/"
+description = "\"Drowning in document revisions while creative work is pushed to the back burner\"—this is a common frustration."
+canonicalUrl = "https://techtrend-watch.com/en/posts/jzdruti7cb5435/"
+author = "しろねぎ"
 +++
-
 
 ### Introduction: Why Word Automation is Gaining Renewed Attention
 

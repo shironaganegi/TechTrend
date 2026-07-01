@@ -1,12 +1,12 @@
 +++
-title = "市場の「静かなる転換」をコードで捉える：ソーサーボトム自動検知システムの構築と技術的考察 (English)"
+title = "Capturing the Market's \"Silent Reversal\" via Code: Technical Insights into Building a Saucer Bottom Auto-Detection System"
 date = "2026-05-16T11:07:19.537825"
 tags = ["AI", "Tools", "RAG", "セキュリティ", "DevOps", "クラウド"]
 draft = false
-description = "Introduction to 市場の「静かなる転換」をコードで捉える：ソーサーボトム自動検知システムの構築と技術的考察 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/jzuw9ockezypms/"
+description = "In the world of investing, the most difficult yet crucial task is \"objective judgment divorced from emotion.\" Extracting meaningful signals from a sea of…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/jzuw9ockezypms/"
+author = "しろねぎ"
 +++
-
 
 # Capturing the Market's "Silent Reversal" via Code: Technical Insights into Building a Saucer Bottom Auto-Detection System
 

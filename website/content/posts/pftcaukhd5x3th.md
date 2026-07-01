@@ -3,10 +3,10 @@ title = "3000行の「神main.py」に終止符を。Pythonで実践する「依
 date = "2026-06-10T23:42:09.753861"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "DevOps", "Python"]
 draft = false
-description = "AIツール「3000行の「神main.py」に終止符を。Pythonで実践する「依存性の注入（DI）」設計パターン」の活用法を紹介"
+description = "プロトタイピングの迅速さや、AIエージェントのクイックな実装において、Pythonは圧倒的な利便性を誇ります。しかし、スピードを優先するあまり、気づけばすべての処理が main.py…"
 canonicalUrl = "https://techtrend-watch.com/posts/pftcaukhd5x3th/"
+author = "しろねぎ"
 +++
-
 
 # 3000行の「神main.py」に終止符を。Pythonで実践する「依存性の注入（DI）」設計パターン
 

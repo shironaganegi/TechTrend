@@ -1,12 +1,12 @@
 +++
-title = "「レビュー待ち」という停滞を打破する。次世代AIコードエージェント『Graphbit PRFlow』がもたらす開発サイクルの革新 (English)"
+title = "Breaking the \"Waiting for Review\" Stagnation: How Graphbit PRFlow, the Next-Gen AI Code Agent, Revolutionizes Development Cycles"
 date = "2026-05-11T12:43:29.629340"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
-description = "Introduction to 「レビュー待ち」という停滞を打破する。次世代AIコードエージェント『Graphbit PRFlow』がもたらす開発サイクルの革新 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/qm17f75glb67vh/"
+description = "In the world of engineering, the \"wait time\" between submitting a Pull Request (PR) and merging it is one of the biggest bottlenecks hindering product growth."
+canonicalUrl = "https://techtrend-watch.com/en/posts/qm17f75glb67vh/"
+author = "しろねぎ"
 +++
-
 
 # Breaking the "Waiting for Review" Stagnation: How Graphbit PRFlow, the Next-Gen AI Code Agent, Revolutionizes Development Cycles
 

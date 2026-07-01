@@ -1,12 +1,12 @@
 +++
-title = "【深掘り】あらゆるLLMを自律型エージェントへ昇華させる——オープンソースRAGの決定版「Onyx」の実像 (English)"
+title = "[Deep Dive] Elevating Any LLM into an Autonomous Agent—The Reality of \"Onyx,\" the Definitive Open-Source RAG"
 date = "2026-04-05T05:20:42.014894"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
-description = "Introduction to 【深掘り】あらゆるLLMを自律型エージェントへ昇華させる——オープンソースRAGの決定版「Onyx」の実像 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/i6af10zzuzuwk4/"
+description = "In the midst of the exponential evolution of AI technology, we are now facing a new barrier."
+canonicalUrl = "https://techtrend-watch.com/en/posts/i6af10zzuzuwk4/"
+author = "しろねぎ"
 +++
-
 
 # [Deep Dive] Elevating Any LLM into an Autonomous Agent—The Reality of "Onyx," the Definitive Open-Source RAG
 

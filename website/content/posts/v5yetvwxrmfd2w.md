@@ -3,10 +3,10 @@ title = "【DALL-E 3後継】GPT Image 2 API移行完全ガイド：進化する
 date = "2026-06-04T07:29:39.610400"
 tags = ["AI", "Tools", "LLM", "生成AI", "機械学習", "Python"]
 draft = false
-description = "AIツール「【DALL-E 3後継】GPT Image 2 API移行完全ガイド：進化するDiTアーキテクチャの実力と実装アプローチ」の活用法を紹介"
+description = "画像生成AIの技術パラダイムが、いま再び大きな転換期を迎えています。OpenAIが発表したDALL-E 3の後継モデル「GPT Image…"
 canonicalUrl = "https://techtrend-watch.com/posts/v5yetvwxrmfd2w/"
+author = "しろねぎ"
 +++
-
 
 # 【DALL-E 3後継】GPT Image 2 API移行完全ガイド：進化するDiTアーキテクチャの実力と実装アプローチ
 

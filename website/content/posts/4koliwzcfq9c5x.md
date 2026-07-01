@@ -3,10 +3,10 @@ title = "言語生成のパラダイムシフト：次世代AI「Introspective D
 date = "2026-04-14T22:53:29.518646"
 tags = ["AI", "Tools", "LLM", "生成AI", "オープンソース"]
 draft = false
-description = "AIツール「言語生成のパラダイムシフト：次世代AI「Introspective Diffusion」が拓く「内省する知能」の正体」の活用法を紹介"
+description = "現在のAI界隈を席巻している「次単語予測（Auto-regressive）」ベースの大型言語モデル（LLM）。その限界を突破する可能性を秘めた新技術、Introspective Diffusion Language…"
 canonicalUrl = "https://techtrend-watch.com/posts/4koliwzcfq9c5x/"
+author = "しろねぎ"
 +++
-
 
 # 言語生成のパラダイムシフト：次世代AI「Introspective Diffusion」が拓く「内省する知能」の正体
 

@@ -1,12 +1,12 @@
 +++
-title = "「道具」の域を超えた、自律成長型AIエージェントの衝撃——『hermes-agent』が再定義する人間とAIの共生 (English)"
+title = "Beyond a Mere \"Tool\": The Impact of Self-Evolving AI Agents — How *hermes-agent* Redefines Human-AI Symbiosis"
 date = "2026-05-14T06:35:18.227270"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
-description = "Introduction to 「道具」の域を超えた、自律成長型AIエージェントの衝撃——『hermes-agent』が再定義する人間とAIの共生 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/zflb9x391qbvji/"
+description = "\"Are AI agents truly ready for practical use?\" — A project has quietly yet powerfully emerged that may serve as the definitive answer to this question."
+canonicalUrl = "https://techtrend-watch.com/en/posts/zflb9x391qbvji/"
+author = "しろねぎ"
 +++
-
 
 # Beyond a Mere "Tool": The Impact of Self-Evolving AI Agents — How *hermes-agent* Redefines Human-AI Symbiosis
 

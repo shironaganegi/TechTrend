@@ -3,10 +3,10 @@ title = "AIが「共同創業者」になる日：Gusto Cofounderが変革する
 date = "2026-06-02T23:52:30.049609"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "データベース"]
 draft = false
-description = "AIツール「AIが「共同創業者」になる日：Gusto Cofounderが変革するスタートアップ起業とバックオフィス自動化の未来」の活用法を紹介"
+description = "個人開発者（Solopreneur）やスタートアップの創業者にとって、プロダクト開発以外の「バックオフィス業務」は、最も時間と精神を消耗する領域である。会社設立の登記、雇用契約書の作成、税務申告、そして給与計算。"
 canonicalUrl = "https://techtrend-watch.com/posts/z3v17uqbtht5t9/"
+author = "しろねぎ"
 +++
-
 
 # AIが「共同創業者」になる日：Gusto Cofounderが変革するスタートアップ起業とバックオフィス自動化の未来
 

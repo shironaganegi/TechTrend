@@ -1,12 +1,12 @@
 +++
-title = "AIエージェントが「財布」と「サーバー」を持つ時代：Stripe Projects × Cloudflareで実現する自律型インフラ構築の最前線 (English)"
+title = "AIエージェントが「財布」と「サーバー」を持つ時代：Stripe Projects × Cloudflareで実現する自律型インフラ構築の最前線"
 date = "2026-05-22T06:54:49.550108"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "DevOps", "クラウド"]
 draft = false
-description = "Introduction to AIエージェントが「財布」と「サーバー」を持つ時代：Stripe Projects × Cloudflareで実現する自律型インフラ構築の最前線 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/decfa3hal7fivw/"
+description = "AI outputs source code, and humans review and deploy it—this long-standing \"master-slave relationship\" in the development process is on the verge of being…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/decfa3hal7fivw/"
+author = "しろねぎ"
 +++
-
 
 ## 1. Introduction: A Future Where AI Becomes an Autonomous Economic Agent
 

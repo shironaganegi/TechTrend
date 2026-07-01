@@ -19,6 +19,15 @@ Our goal is to help engineers and creators access strictly curated, "must-know" 
 2.  **Analysis**: Going beyond simple summaries to surface key insights from READMEs and developer feedback.
 3.  **Editorial Value**: Adding technical comparisons, real-world pitfalls, and original commentary you won't find in the source.
 
+### Who Runs This Site
+
+TechTrend Watch is independently operated and edited by **Shironaganegi**, a developer interested in machine learning, LLMs, and developer tooling. Articles are written and edited with a hands-on, practitioner's perspective.
+
+- Operator / Editor: Shironaganegi
+- Contact: sai3desuyo@gmail.com
+- X: [@sai3desuyo](https://x.com/sai3desuyo)
+- Full profile: [Author & Editor Profile](/en/authors/shironaganegi/)
+
 ### Editorial Policy
 
-The TechTrend Watch editorial desk is dedicated to organizing the collective wisdom of engineers worldwide and delivering valuable technical insights with both passion and accuracy.
+We value the balance between enthusiasm and accuracy from a developer's point of view. Information reflects the state at publication and is verified where possible, but technology moves fast — please verify in your own environment before adopting anything. We hope our articles give you useful ideas for your own development.

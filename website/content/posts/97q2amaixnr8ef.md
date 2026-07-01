@@ -3,10 +3,10 @@ title = "エンジニアリングは「対話」から「指揮」へ——AIエ
 date = "2026-04-02T22:39:55.263841"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "フロントエンド"]
 draft = false
-description = "AIツール「エンジニアリングは「対話」から「指揮」へ——AIエージェントの潜在能力を解き放つ「oh-my-codex (OMX)」の正体」の活用法を紹介"
+description = "AIによるコード生成が「驚き」から「日常」へと変わった現在、開発者が直面している真の課題は、生成の質そのものではなく「AIをいかに効率的にオーケストレーション（編成・指揮）するか」にシフトしています。"
 canonicalUrl = "https://techtrend-watch.com/posts/97q2amaixnr8ef/"
+author = "しろねぎ"
 +++
-
 
 # エンジニアリングは「対話」から「指揮」へ——AIエージェントの潜在能力を解き放つ「oh-my-codex (OMX)」の正体
 

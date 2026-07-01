@@ -1,12 +1,12 @@
 +++
-title = "AI生成の「不毛な長文」からチームを守る：会話の密度を回復するオープンソース『NoSlopGrenade』の技術と思想 (English)"
+title = "Protecting Teams from AI-Generated \"Barren Long Texts\": The Technology and Philosophy of the Open-Source Tool \"NoSlopGrenade\" to Restore Conversation Density"
 date = "2026-05-21T23:08:12.352175"
 tags = ["AI", "Tools", "LLM", "RAG", "DevOps", "クラウド"]
 draft = false
-description = "Introduction to AI生成の「不毛な長文」からチームを守る：会話の密度を回復するオープンソース『NoSlopGrenade』の技術と思想 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/xrqygu58oh0fpi/"
+description = "In recent years, the spread of LLMs (Large Language Models) like ChatGPT and Claude has dramatically improved the \"productivity\" of text communication."
+canonicalUrl = "https://techtrend-watch.com/en/posts/xrqygu58oh0fpi/"
+author = "しろねぎ"
 +++
-
 
 # Protecting Teams from AI-Generated "Barren Long Texts": The Technology and Philosophy of the Open-Source Tool "NoSlopGrenade" to Restore Conversation Density
 

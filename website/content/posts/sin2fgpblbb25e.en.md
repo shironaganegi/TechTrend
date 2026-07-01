@@ -1,12 +1,12 @@
 +++
-title = "🧬 自律型AIは「調整」から「進化」の領域へ。GEP搭載エンジン『evolver』が塗り替えるエージェント開発のパラダイム (English)"
+title = "🧬 Autonomous AI Moves from \"Adjustment\" to \"Evolution\": How the GEP-Powered 'evolver' Engine Rewrites the Agent Development Paradigm"
 date = "2026-04-19T05:35:32.853539"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
-description = "Introduction to 🧬 自律型AIは「調整」から「進化」の領域へ。GEP搭載エンジン『evolver』が塗り替えるエージェント開発のパラダイム (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/sin2fgpblbb25e/"
+description = "A decisive paradigm shift is currently underway in the field of AI agent development."
+canonicalUrl = "https://techtrend-watch.com/en/posts/sin2fgpblbb25e/"
+author = "しろねぎ"
 +++
-
 
 # 🧬 Autonomous AI Moves from "Adjustment" to "Evolution": How the GEP-Powered 'evolver' Engine Rewrites the Agent Development Paradigm
 

@@ -1,12 +1,12 @@
 +++
-title = "Eコマース会計の「自律化」がもたらすパラダイムシフト。AI会計エージェント「CONA」がバックオフィスを再定義する (English)"
+title = "The Paradigm Shift of \"Autonomous\" E-commerce Accounting: How AI Accounting Agent \"CONA\" Redefines the Back Office"
 date = "2026-04-20T22:53:06.320987"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
-description = "Introduction to Eコマース会計の「自律化」がもたらすパラダイムシフト。AI会計エージェント「CONA」がバックオフィスを再定義する (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/jx85lfrf4yp5e1/"
+description = "\"Products are selling, but bookkeeping is stealing my creative time.\" This is a serious dilemma faced by many E-commerce (EC) operators."
+canonicalUrl = "https://techtrend-watch.com/en/posts/jx85lfrf4yp5e1/"
+author = "しろねぎ"
 +++
-
 
 # The Paradigm Shift of "Autonomous" E-commerce Accounting: How AI Accounting Agent "CONA" Redefines the Back Office
 

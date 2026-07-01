@@ -1,12 +1,12 @@
 +++
-title = "AIエージェントを「規律あるプロフェッショナル」へ。開発手法『superpowers』が定義する次世代のエンジニアリング (English)"
+title = "Transforming AI Agents into \"Disciplined Professionals\": Next-Generation Engineering Defined by the \"superpowers\" Methodology"
 date = "2026-03-11T04:48:42.663953"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "フロントエンド", "Python"]
 draft = false
-description = "Introduction to AIエージェントを「規律あるプロフェッショナル」へ。開発手法『superpowers』が定義する次世代のエンジニアリング (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/rwycuj7h4esm57/"
+description = "\"I let the AI write the code, but I ended up spending all my time fixing spaghetti code.\" This common challenge highlights a fundamental limitation in current…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/rwycuj7h4esm57/"
+author = "しろねぎ"
 +++
-
 
 # Transforming AI Agents into "Disciplined Professionals": Next-Generation Engineering Defined by the "superpowers" Methodology
 

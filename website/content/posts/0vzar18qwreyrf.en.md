@@ -1,12 +1,12 @@
 +++
-title = "非構造化データの「泥」を「資産」へ。RAG開発のボトルネックを解消する『DataSieve 2.0』の衝撃 (English)"
+title = "Turning Unstructured \"Mud\" into \"Assets\": The Impact of DataSieve 2.0 in Solving RAG Development Bottlenecks"
 date = "2026-03-23T22:40:06.528372"
 tags = ["AI", "Tools", "LLM", "RAG", "データベース", "オープンソース"]
 draft = false
-description = "Introduction to 非構造化データの「泥」を「資産」へ。RAG開発のボトルネックを解消する『DataSieve 2.0』の衝撃 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/0vzar18qwreyrf/"
+description = "In 2026, the primary battlefield of AI engineering has moved past the phase of \"which model to adopt\" and has fully transitioned into a data-centric paradigm:…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/0vzar18qwreyrf/"
+author = "しろねぎ"
 +++
-
 
 # Turning Unstructured "Mud" into "Assets": The Impact of DataSieve 2.0 in Solving RAG Development Bottlenecks
 

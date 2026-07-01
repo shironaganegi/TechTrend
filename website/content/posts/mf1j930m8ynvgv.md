@@ -3,10 +3,10 @@ title = "ファイル識別のパラダイムシフト：Google「Magika」が�
 date = "2026-04-18T05:13:52.307991"
 tags = ["AI", "Tools", "セキュリティ", "DevOps", "フロントエンド", "Python"]
 draft = false
-description = "AIツール「ファイル識別のパラダイムシフト：Google「Magika」がもたらすAIによる高精度・高速スキャンの全貌」の活用法を紹介"
+description = "「このファイル、拡張子と中身が一致していないのではないか？」あるいは「バイナリデータだが、本来の構造は何なのか」。"
 canonicalUrl = "https://techtrend-watch.com/posts/mf1j930m8ynvgv/"
+author = "しろねぎ"
 +++
-
 
 # ファイル識別のパラダイムシフト：Google「Magika」がもたらすAIによる高精度・高速スキャンの全貌
 

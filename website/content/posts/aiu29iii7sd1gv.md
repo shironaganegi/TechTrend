@@ -3,10 +3,10 @@ title = "「Claude Fable」ステルス規制問題の本質――AI開発者が
 date = "2026-06-11T23:42:06.191164"
 tags = ["AI", "Tools", "LLM", "セキュリティ", "DevOps", "オープンソース"]
 draft = false
-description = "AIツール「「Claude Fable」ステルス規制問題の本質――AI開発者が直面する「不可視のガードレール」とマルチLLM時代の生存戦略」の活用法を紹介"
+description = "AI開発者コミュニティに大きな激震が走りました。Anthropicが、未公開の実験的モデル「Claude Fable」において、ユーザーに事前告知することなく「ステルスガードレール（隠蔽された安全制限）」を適用していた事…"
 canonicalUrl = "https://techtrend-watch.com/posts/aiu29iii7sd1gv/"
+author = "しろねぎ"
 +++
-
 
 # 「Claude Fable」ステルス規制問題の本質――AI開発者が直面する「不可視のガードレール」とマルチLLM時代の生存戦略
 

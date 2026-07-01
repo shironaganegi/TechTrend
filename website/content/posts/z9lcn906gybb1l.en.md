@@ -1,12 +1,12 @@
 +++
-title = "【脱・初心者】Pythonのmatplotlibをモダンに使いこなす！オブジェクト指向描画と日本語化の完全攻略ロードマップ (English)"
+title = "[Beyond the Basics] Master Modern Matplotlib in Python! A Complete Roadmap to Object-Oriented Plotting and Japanese Support"
 date = "2026-06-07T23:13:22.604837"
 tags = ["AI", "Tools", "RAG", "機械学習", "フロントエンド", "Python"]
 draft = false
-description = "Introduction to 【脱・初心者】Pythonのmatplotlibをモダンに使いこなす！オブジェクト指向描画と日本語化の完全攻略ロードマップ (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/z9lcn906gybb1l/"
+description = "In the practical application of data science, AI, and machine learning using Python, data visualization is a critical process that directly impacts…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/z9lcn906gybb1l/"
+author = "しろねぎ"
 +++
-
 
 # [Beyond the Basics] Master Modern Matplotlib in Python! A Complete Roadmap to Object-Oriented Plotting and Japanese Support
 

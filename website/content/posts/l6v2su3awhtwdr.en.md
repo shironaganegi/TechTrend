@@ -1,12 +1,12 @@
 +++
-title = "SimpleX Chatが再定義する「真の匿名性」：ユーザー識別子を排除したメッセージングの革新 (English)"
+title = "SimpleX Chat Redefines \"True Anonymity\": Innovation in Messaging without User Identifiers"
 date = "2026-06-28T23:06:46.979363"
 tags = ["AI", "Tools", "DevOps", "\u30aa\u30fc\u30d7\u30f3\u30bd\u30fc\u30b9"]
 draft = false
-description = "Introduction to SimpleX Chatが再定義する「真の匿名性」：ユーザー識別子を排除したメッセージングの革新 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/l6v2su3awhtwdr/"
+description = "In modern digital society, the protection of personal information remains an urgent challenge for us developers and general users alike."
+canonicalUrl = "https://techtrend-watch.com/en/posts/l6v2su3awhtwdr/"
+author = "しろねぎ"
 +++
-
 
 # SimpleX Chat Redefines "True Anonymity": Innovation in Messaging without User Identifiers
 

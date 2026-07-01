@@ -3,10 +3,10 @@ title = "「道具」の域を超えた、自律成長型AIエージェントの
 date = "2026-05-14T06:35:18.226241"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
-description = "AIツール「「道具」の域を超えた、自律成長型AIエージェントの衝撃——『hermes-agent』が再定義する人間とAIの共生」の活用法を紹介"
+description = "「AIエージェントは実用レベルに達しているのか？」——この問いに対する決定的な回答となり得るプロジェクトが、いま静かに、しかし力強く産声を上げた。その名はhermes-agent。"
 canonicalUrl = "https://techtrend-watch.com/posts/zflb9x391qbvji/"
+author = "しろねぎ"
 +++
-
 
 # 「道具」の域を超えた、自律成長型AIエージェントの衝撃——『hermes-agent』が再定義する人間とAIの共生
 

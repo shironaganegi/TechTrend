@@ -1,12 +1,12 @@
 +++
-title = "AI開発の深淵に触れる：NumPyが導く「高効率演算」の極意 (English)"
+title = "Touching the Depths of AI Development: The Art of \"High-Efficiency Computation\" Guided by NumPy"
 date = "2026-04-14T05:30:55.964575"
 tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "Python"]
 draft = false
-description = "Introduction to AI開発の深淵に触れる：NumPyが導く「高効率演算」の極意 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/31jo5bjxovspaq/"
+description = "In today's AI landscape, it is easy to be dazzled by the spectacular achievements of Large Language Models (LLMs) and generative AI."
+canonicalUrl = "https://techtrend-watch.com/en/posts/31jo5bjxovspaq/"
+author = "しろねぎ"
 +++
-
 
 # Touching the Depths of AI Development: The Art of "High-Efficiency Computation" Guided by NumPy
 

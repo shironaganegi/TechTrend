@@ -1,12 +1,12 @@
 +++
-title = "【DALL-E 3後継】GPT Image 2 API移行完全ガイド：進化するDiTアーキテクチャの実力と実装アプローチ (English)"
+title = "[DALL-E 3 Successor] GPT Image 2 API Migration Complete Guide: The Power of the Evolving DiT Architecture and Implementation Approaches"
 date = "2026-06-04T07:29:39.611254"
 tags = ["AI", "Tools", "LLM", "RAG", "生成AI", "機械学習"]
 draft = false
-description = "Introduction to 【DALL-E 3後継】GPT Image 2 API移行完全ガイド：進化するDiTアーキテクチャの実力と実装アプローチ (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/v5yetvwxrmfd2w/"
+description = "The technological paradigm of image generation AI is once again undergoing a major transition."
+canonicalUrl = "https://techtrend-watch.com/en/posts/v5yetvwxrmfd2w/"
+author = "しろねぎ"
 +++
-
 
 # [DALL-E 3 Successor] GPT Image 2 API Migration Complete Guide: The Power of the Evolving DiT Architecture and Implementation Approaches
 

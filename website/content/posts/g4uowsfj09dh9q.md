@@ -3,10 +3,10 @@ title = "Python「整数型」の深淵：抽象化の極致がもたらすト�
 date = "2026-05-17T06:27:43.116503"
 tags = ["AI", "Tools", "セキュリティ", "Python", "Rust"]
 draft = false
-description = "AIツール「Python「整数型」の深淵：抽象化の極致がもたらすトレードオフと実装の妙」の活用法を紹介"
+description = "「Pythonは直感的で扱いやすい」——この評価は正しいが、不十分である。その平易なインターフェースの裏側には、計算機科学の粋を集めた複雑な実装が隠されている。"
 canonicalUrl = "https://techtrend-watch.com/posts/g4uowsfj09dh9q/"
+author = "しろねぎ"
 +++
-
 
 # Python「整数型」の深淵：抽象化の極致がもたらすトレードオフと実装の妙
 

@@ -3,10 +3,10 @@ title = "CLIエンジニアリングの極北：Claude Codeのポテンシャル
 date = "2026-03-31T22:41:49.742570"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
-description = "AIツール「CLIエンジニアリングの極北：Claude Codeのポテンシャルを解放する「設計哲学」としてのベストプラクティス」の活用法を紹介"
+description = "AIによるソフトウェア開発の主戦場は、ブラウザ上のチャットUIから、エンジニアの「本拠地」であるターミナル（CLI）へと急速に移行しています。"
 canonicalUrl = "https://techtrend-watch.com/posts/va4mnzxt8jki7l/"
+author = "しろねぎ"
 +++
-
 
 # CLIエンジニアリングの極北：Claude Codeのポテンシャルを解放する「設計哲学」としてのベストプラクティス
 

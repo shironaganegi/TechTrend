@@ -1,12 +1,12 @@
 +++
-title = "Python「整数型」の深淵：抽象化の極致がもたらすトレードオフと実装の妙 (English)"
+title = "The Abyss of Python's \"Integer Type\": The Implementation Brilliance and Trade-offs of Extreme Abstraction"
 date = "2026-05-17T06:27:43.117561"
 tags = ["AI", "Tools", "RAG", "Python", "Rust"]
 draft = false
-description = "Introduction to Python「整数型」の深淵：抽象化の極致がもたらすトレードオフと実装の妙 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/g4uowsfj09dh9q/"
+description = "\"Python is intuitive and easy to handle\"—this assessment is correct, but incomplete."
+canonicalUrl = "https://techtrend-watch.com/en/posts/g4uowsfj09dh9q/"
+author = "しろねぎ"
 +++
-
 
 # The Abyss of Python's "Integer Type": The Implementation Brilliance and Trade-offs of Extreme Abstraction
 

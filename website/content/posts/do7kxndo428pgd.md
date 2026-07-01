@@ -3,10 +3,10 @@ title = "ブラウザ自動化の「保守」という概念が消える日。�
 date = "2026-05-05T11:20:42.876509"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "クラウド"]
 draft = false
-description = "AIツール「ブラウザ自動化の「保守」という概念が消える日。自律型エージェント「Intuned Agent」が定義する新機軸」の活用法を紹介"
+description = "ブラウザ自動化、すなわちWebスクレイピングやE2E（エンド・ツー・エンド）テストに従事するエンジニアにとって、長年のアキレス腱となってきたのは「サイト構造の変化によるスクリプトの脆弱性」である。"
 canonicalUrl = "https://techtrend-watch.com/posts/do7kxndo428pgd/"
+author = "しろねぎ"
 +++
-
 
 # ブラウザ自動化の「保守」という概念が消える日。自律型エージェント「Intuned Agent」が定義する新機軸
 

@@ -3,10 +3,10 @@ title = "ターミナルが「思考」を始める——OpenAI公式『Codex CL
 date = "2026-04-01T11:12:15.482421"
 tags = ["AI", "Tools", "LLM", "セキュリティ", "オープンソース"]
 draft = false
-description = "AIツール「ターミナルが「思考」を始める——OpenAI公式『Codex CLI』がもたらす開発パラダイムの転換」の活用法を紹介"
+description = "「エンジニアの真の故郷はターミナルにある」という格言は、AI全盛の時代においても色褪せることはありません。むしろ、GUIによる抽象化が進む今だからこそ、OSの深部に直接アクセスできるターミナルの重要性は増していると言える…"
 canonicalUrl = "https://techtrend-watch.com/posts/me5w9zqu7qklbk/"
+author = "しろねぎ"
 +++
-
 
 # ターミナルが「思考」を始める——OpenAI公式『Codex CLI』がもたらす開発パラダイムの転換
 

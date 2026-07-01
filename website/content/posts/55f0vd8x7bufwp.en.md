@@ -1,12 +1,12 @@
 +++
-title = "30_OOF予測値によるIsotonic Regression：予測の「歪み」を正し、モデルに実戦的な信頼性を宿す手法 (English)"
+title = "30_Isotonic Regression using OOF Predictions: Correcting Prediction \"Distortion\" and Infusing Models with Practical Reliability"
 date = "2026-04-06T22:43:33.083494"
 tags = ["AI", "Tools", "RAG", "機械学習", "オープンソース"]
 draft = false
-description = "Introduction to 30_OOF予測値によるIsotonic Regression：予測の「歪み」を正し、モデルに実戦的な信頼性を宿す手法 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/55f0vd8x7bufwp/"
+description = "In machine learning projects—particularly in Kaggle-style competitions or domains like horse racing and finance where \"probabilistic accuracy\" directly…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/55f0vd8x7bufwp/"
+author = "しろねぎ"
 +++
-
 
 # 30_Isotonic Regression using OOF Predictions: Correcting Prediction "Distortion" and Infusing Models with Practical Reliability
 

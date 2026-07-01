@@ -1,12 +1,12 @@
 +++
-title = "副業・リスキリング時代の生存戦略：現役エンジニアが実践すべき「休養」という名のシステムメンテ術 (English)"
+title = "Survival Strategy in the Era of Side Hustles and Reskilling: \"Rest\" as Essential System Maintenance for Active Engineers"
 date = "2026-06-04T12:48:46.061697"
 tags = ["AI", "Tools", "LLM", "RAG", "DevOps", "クラウド"]
 draft = false
-description = "Introduction to 副業・リスキリング時代の生存戦略：現役エンジニアが実践すべき「休養」という名のシステムメンテ術 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/1dyep3xkpilyqp/"
+description = "In today's world, where the velocity of technological evolution is accelerating to the extreme, what is an engineer's most valuable asset? It is neither…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/1dyep3xkpilyqp/"
+author = "しろねぎ"
 +++
-
 
 # Survival Strategy in the Era of Side Hustles and Reskilling: "Rest" as Essential System Maintenance for Active Engineers
 

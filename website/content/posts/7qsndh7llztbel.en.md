@@ -1,12 +1,12 @@
 +++
-title = "Windows環境のIPC決定版：Pythonで「名前付きパイプ」を極め、プロセス間通信を高速化する実戦ガイド (English)"
+title = "The Definitive Guide to Windows IPC: Mastering Named Pipes in Python to Accelerate Inter-Process Communication"
 date = "2026-03-18T05:02:49.753291"
 tags = ["AI", "Tools", "RAG", "Python", "オープンソース"]
 draft = false
-description = "Introduction to Windows環境のIPC決定版：Pythonで「名前付きパイプ」を極め、プロセス間通信を高速化する実戦ガイド (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/7qsndh7llztbel/"
+description = "When coordinating multiple processes on the Windows OS, developers often face a trade-off between \"communication overhead\" and \"implementation complexity.\"…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/7qsndh7llztbel/"
+author = "しろねぎ"
 +++
-
 
 # The Definitive Guide to Windows IPC: Mastering Named Pipes in Python to Accelerate Inter-Process Communication
 

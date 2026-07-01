@@ -3,10 +3,10 @@ title = "圏論的ディープラーニング入門：Compositional LearningとB
 date = "2026-06-13T23:13:05.457522"
 tags = ["AI", "Tools", "AIエージェント", "機械学習", "Python"]
 draft = false
-description = "AIツール「圏論的ディープラーニング入門：Compositional LearningとBackprop as Functorが導く「学習を組み立てる」未来」の活用法を紹介"
+description = "現在のディープラーニング（深層学習）は目覚ましい進化を遂げていますが、そのネットワークアーキテクチャ設計の多くは「実験と直感」に基づくアドホックな試行錯誤に依存しています。「なぜこの組み合わせでうまく動くのか？"
 canonicalUrl = "https://techtrend-watch.com/posts/xy7ttsjc10t3a5/"
+author = "しろねぎ"
 +++
-
 
 # 圏論的ディープラーニング入門：Compositional LearningとBackprop as Functorが導く「学習を組み立てる」未来
 

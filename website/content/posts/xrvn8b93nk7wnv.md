@@ -3,10 +3,10 @@ title = "Python × Claude APIで構築する「次世代・自律型要約シス
 date = "2026-04-27T11:50:21.020609"
 tags = ["AI", "Tools", "LLM", "セキュリティ", "Python", "データベース"]
 draft = false
-description = "AIツール「Python × Claude APIで構築する「次世代・自律型要約システム」のすゝめ」の活用法を紹介"
+description = "現代のビジネスシーンにおいて、情報の洪水はもはや日常である。日々更新されるテックニュース、長大なプレスリリース、そして終わりのない会議議事録。"
 canonicalUrl = "https://techtrend-watch.com/posts/xrvn8b93nk7wnv/"
+author = "しろねぎ"
 +++
-
 
 ## はじめに：情報爆発時代を生き抜くための「情報の取捨選択」
 

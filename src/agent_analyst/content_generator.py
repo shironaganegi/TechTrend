@@ -417,7 +417,12 @@ if __name__ == "__main__":
     
     en_body = translate_article_to_english(body_only)
     if en_body:
-        en_title_y = json.dumps(f"{article_title} (English)", ensure_ascii=False)
+        # 英語版タイトルは翻訳本文の H1（正しい英語タイトル）を採用する。
+        # 抽出できない場合のみ日本語タイトルへフォールバック。
+        from src.shared.article_text import extract_first_heading
+        en_heading = extract_first_heading(en_body)
+        en_display_title = en_heading if en_heading else f"{article_title} (English)"
+        en_title_y = json.dumps(en_display_title, ensure_ascii=False)
         en_content = f"""---
 title: {en_title_y}
 emoji: "🤖"

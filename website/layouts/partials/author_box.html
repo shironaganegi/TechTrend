@@ -1,0 +1,16 @@
+{{- /* 記事末尾の著者ボックス（E-E-A-T 明示のためサイト独自で追加） */ -}}
+{{- $name := site.Params.authorName | default site.Params.author | default "しろねぎ" -}}
+{{- $bio := site.Params.authorBio -}}
+{{- $url := site.Params.authorProfileUrl | default "/authors/shironaganegi/" -}}
+{{- $isJa := eq site.Language.Lang "ja" -}}
+{{- with $bio }}
+<section class="author-box">
+  <div class="author-box-avatar" aria-hidden="true">{{ substr $name 0 1 }}</div>
+  <div class="author-box-body">
+    <div class="author-box-label">{{ if $isJa }}この記事を書いた人{{ else }}About the author{{ end }}</div>
+    <div class="author-box-name"><a href="{{ $url }}">{{ $name }}</a></div>
+    <p class="author-box-bio">{{ . }}</p>
+    <a class="author-box-more" href="{{ $url }}">{{ if $isJa }}プロフィールを見る →{{ else }}View profile →{{ end }}</a>
+  </div>
+</section>
+{{- end }}

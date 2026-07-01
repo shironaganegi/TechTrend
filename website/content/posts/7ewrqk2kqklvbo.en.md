@@ -1,12 +1,12 @@
 +++
-title = "AIエージェントの「ラストワンマイル」を突破する：Monid 2.0がもたらすツール接続の抽象化と標準化 (English)"
+title = "Breaking the \"Last Mile\" of AI Agents: Tool Connectivity Abstraction and Standardization via Monid 2.0"
 date = "2026-05-08T11:24:07.204133"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "オープンソース"]
 draft = false
-description = "Introduction to AIエージェントの「ラストワンマイル」を突破する：Monid 2.0がもたらすツール接続の抽象化と標準化 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/7ewrqk2kqklvbo/"
+description = "A major paradigm shift is currently occurring at the forefront of AI agent development."
+canonicalUrl = "https://techtrend-watch.com/en/posts/7ewrqk2kqklvbo/"
+author = "しろねぎ"
 +++
-
 
 # Breaking the "Last Mile" of AI Agents: Tool Connectivity Abstraction and Standardization via Monid 2.0
 

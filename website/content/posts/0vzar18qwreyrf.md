@@ -3,10 +3,10 @@ title = "非構造化データの「泥」を「資産」へ。RAG開発のボ�
 date = "2026-03-23T22:40:06.527320"
 tags = ["AI", "Tools", "LLM", "RAG", "セキュリティ", "データベース"]
 draft = false
-description = "AIツール「非構造化データの「泥」を「資産」へ。RAG開発のボトルネックを解消する『DataSieve 2.0』の衝撃」の活用法を紹介"
+description = "2026年、AIエンジニアリングの主戦場は「どのモデルを採用するか」というフェーズを通り越し、「いかに高純度なデータをモデルに供給するか」というデータ・セントリックなパラダイムへと完全に移行しました。"
 canonicalUrl = "https://techtrend-watch.com/posts/0vzar18qwreyrf/"
+author = "しろねぎ"
 +++
-
 
 # 非構造化データの「泥」を「資産」へ。RAG開発のボトルネックを解消する『DataSieve 2.0』の衝撃
 

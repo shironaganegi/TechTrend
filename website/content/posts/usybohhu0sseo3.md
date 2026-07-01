@@ -3,10 +3,10 @@ title = "Webスクレイピングの新境地。Cloudflareの障壁を無効化�
 date = "2026-05-10T11:04:10.163592"
 tags = ["AI", "Tools", "DevOps", "クラウド", "フロントエンド", "Python"]
 draft = false
-description = "AIツール「Webスクレイピングの新境地。Cloudflareの障壁を無効化するステルスブラウザ『CloakBrowser』の正体」の活用法を紹介"
+description = "Webデータの活用がビジネスの成否を分ける現代において、エンジニアを最も悩ませるのが「Bot検知システム」との終わりなき攻防です。"
 canonicalUrl = "https://techtrend-watch.com/posts/usybohhu0sseo3/"
+author = "しろねぎ"
 +++
-
 
 # Webスクレイピングの新境地。Cloudflareの障壁を無効化するステルスブラウザ『CloakBrowser』の正体
 

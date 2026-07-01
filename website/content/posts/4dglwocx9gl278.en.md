@@ -1,12 +1,12 @@
 +++
-title = "AIエージェントをPMFへ導く新星「Brief」の実力。開発の「自己満足」を脱し、ビジネス価値を定量化する評価プラットフォームの全貌 (English)"
+title = "The Power of \"Brief,\" the Rising Star Guiding AI Agents to PMF: Moving Beyond Developer \"Self-Satisfaction\" to Quantify Business Value"
 date = "2026-06-02T14:11:32.250232"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
-description = "Introduction to AIエージェントをPMFへ導く新星「Brief」の実力。開発の「自己満足」を脱し、ビジネス価値を定量化する評価プラットフォームの全貌 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/4dglwocx9gl278/"
+description = "With the AI agent development boom reaching its peak, many engineers and new business leaders are facing a common, massive hurdle."
+canonicalUrl = "https://techtrend-watch.com/en/posts/4dglwocx9gl278/"
+author = "しろねぎ"
 +++
-
 
 # The Power of "Brief," the Rising Star Guiding AI Agents to PMF: Moving Beyond Developer "Self-Satisfaction" to Quantify Business Value
 

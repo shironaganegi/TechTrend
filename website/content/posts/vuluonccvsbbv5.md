@@ -3,10 +3,10 @@ title = "Claude Codeに自作MCPサーバー（Python）を接続する最小手
 date = "2026-06-14T23:14:56.328283"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "フロントエンド"]
 draft = false
-description = "AIツール「Claude Codeに自作MCPサーバー（Python）を接続する最小手順と「3大障害」の回避法【2026年最新】」の活用法を紹介"
+description = "ソフトウェア開発におけるAIの役割は、単なる「コード生成アシスタント」から、自律的にタスクを遂行する「エージェント」へと進化を遂げています。"
 canonicalUrl = "https://techtrend-watch.com/posts/vuluonccvsbbv5/"
+author = "しろねぎ"
 +++
-
 
 # Claude Codeに自作MCPサーバー（Python）を接続する最小手順と「3大障害」の回避法【2026年最新】
 

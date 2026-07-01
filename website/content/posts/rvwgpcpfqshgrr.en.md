@@ -1,12 +1,12 @@
 +++
-title = "Google Gemma 4が提示する「オープンウェイト」の新地平――エッジAIと高精度推論が融合する未来 (English)"
+title = "Google Gemma 4: A New Horizon for \"Open Weights\" — The Future Where Edge AI and High-Precision Reasoning Converge"
 date = "2026-04-03T22:41:50.788309"
 tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "オープンソース"]
 draft = false
-description = "Introduction to Google Gemma 4が提示する「オープンウェイト」の新地平――エッジAIと高精度推論が融合する未来 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/rvwgpcpfqshgrr/"
+description = "The announcement of \"Gemma 4,\" the next-generation open-weight model from Google DeepMind, has the potential to become a significant turning point in the…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/rvwgpcpfqshgrr/"
+author = "しろねぎ"
 +++
-
 
 # Google Gemma 4: A New Horizon for "Open Weights" — The Future Where Edge AI and High-Precision Reasoning Converge
 

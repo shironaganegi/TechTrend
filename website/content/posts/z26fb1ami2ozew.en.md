@@ -1,12 +1,12 @@
 +++
-title = "自律型商談の衝撃：FlowMarketが切り拓く「A2A（Agent-to-Agent）」経済の全貌 (English)"
+title = "The Impact of Autonomous Negotiations: How FlowMarket is Paving the Way for the \"Agent-to-Agent (A2A)\" Economy"
 date = "2026-05-07T11:54:19.500754"
 tags = ["AI", "Tools", "LLM", "AIエージェント"]
 draft = false
-description = "Introduction to 自律型商談の衝撃：FlowMarketが切り拓く「A2A（Agent-to-Agent）」経済の全貌 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/z26fb1ami2ozew/"
+description = "The evolution of AI is currently undergoing a decisive paradigm shift from the \"responding to humans\" phase to the \"acting on behalf of humans\" phase."
+canonicalUrl = "https://techtrend-watch.com/en/posts/z26fb1ami2ozew/"
+author = "しろねぎ"
 +++
-
 
 # The Impact of Autonomous Negotiations: How FlowMarket is Paving the Way for the "Agent-to-Agent (A2A)" Economy
 

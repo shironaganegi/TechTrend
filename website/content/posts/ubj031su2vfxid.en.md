@@ -1,12 +1,12 @@
 +++
-title = "【Claude Code実機検証】「1ヶ月の苦闘」を10分へ。ターミナル常駐型AIエージェントが変える開発の現在地と、エンジニアが直面する新たな壁 (English)"
+title = "[Claude Code Hands-on Review] Turning \"A Month of Struggle\" into 10 Minutes: How Terminal-Resident AI Agents Are Redefining Development and the New Challenges Engineers Face"
 date = "2026-05-13T23:11:43.309944"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "DevOps", "Python"]
 draft = false
-description = "Introduction to 【Claude Code実機検証】「1ヶ月の苦闘」を10分へ。ターミナル常駐型AIエージェントが変える開発の現在地と、エンジニアが直面する新たな壁 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/ubj031su2vfxid/"
+description = "\"If only I could have given this tool to my past self—\""
+canonicalUrl = "https://techtrend-watch.com/en/posts/ubj031su2vfxid/"
+author = "しろねぎ"
 +++
-
 
 # [Claude Code Hands-on Review] Turning "A Month of Struggle" into 10 Minutes: How Terminal-Resident AI Agents Are Redefining Development and the New Challenges Engineers Face
 

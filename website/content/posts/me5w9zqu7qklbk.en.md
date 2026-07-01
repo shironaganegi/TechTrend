@@ -1,12 +1,12 @@
 +++
-title = "ターミナルが「思考」を始める——OpenAI公式『Codex CLI』がもたらす開発パラダイムの転換 (English)"
+title = "The Terminal Begins to \"Think\"—The Paradigm Shift in Development Brought by OpenAI’s Official \"Codex CLI\""
 date = "2026-04-01T11:12:15.483491"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "オープンソース"]
 draft = false
-description = "Introduction to ターミナルが「思考」を始める——OpenAI公式『Codex CLI』がもたらす開発パラダイムの転換 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/me5w9zqu7qklbk/"
+description = "The maxim \"An engineer's true home lies in the terminal\" remains untarnished even in the peak of the AI era."
+canonicalUrl = "https://techtrend-watch.com/en/posts/me5w9zqu7qklbk/"
+author = "しろねぎ"
 +++
-
 
 # The Terminal Begins to "Think"—The Paradigm Shift in Development Brought by OpenAI’s Official "Codex CLI"
 

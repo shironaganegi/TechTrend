@@ -1,12 +1,12 @@
 +++
-title = "AI情報の「鮮度」を制する。Claude Code専用スキル『last30days』が再定義するリサーチの到達点 (English)"
+title = "Mastering the \"Currency\" of AI Information: How the \"last30days\" Skill for Claude Code Redefines the Frontiers of Research"
 date = "2026-03-29T22:39:09.136710"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "オープンソース"]
 draft = false
-description = "Introduction to AI情報の「鮮度」を制する。Claude Code専用スキル『last30days』が再定義するリサーチの到達点 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/1ma6ld2tygqx08/"
+description = "The pace of evolution in the AI industry has already far surpassed the limits of human cognition. Yesterday’s optimal solution becomes today’s legacy."
+canonicalUrl = "https://techtrend-watch.com/en/posts/1ma6ld2tygqx08/"
+author = "しろねぎ"
 +++
-
 
 # Mastering the "Currency" of AI Information: How the "last30days" Skill for Claude Code Redefines the Frontiers of Research
 

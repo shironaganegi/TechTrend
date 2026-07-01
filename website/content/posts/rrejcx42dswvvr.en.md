@@ -1,12 +1,12 @@
 +++
-title = "20万行の巨大コードを瞬時に脳内マップ化。開発者の認知負荷を極小化する「Understand-Anything」がもたらす開発革新 (English)"
+title = "Instantly Map 200,000 Lines of Massive Codebases in Your Mind: How \"Understand-Anything\" Minimizes Cognitive Load and Revolutionizes Development"
 date = "2026-05-24T23:03:42.934326"
 tags = ["AI", "Tools", "LLM", "RAG", "DevOps", "フロントエンド"]
 draft = false
-description = "Introduction to 20万行の巨大コードを瞬時に脳内マップ化。開発者の認知負荷を極小化する「Understand-Anything」がもたらす開発革新 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/rrejcx42dswvvr/"
+description = "When you join a new project and find that the codebase exceeds 200,000 lines, where do you start reading? Many developers know the feeling of spending an…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/rrejcx42dswvvr/"
+author = "しろねぎ"
 +++
-
 
 # Instantly Map 200,000 Lines of Massive Codebases in Your Mind: How "Understand-Anything" Minimizes Cognitive Load and Revolutionizes Development
 

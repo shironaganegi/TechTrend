@@ -1,12 +1,12 @@
 +++
-title = "AIエージェントに「ネットの目」を授ける。Webの壁を突破する自律型ツール群「Agent-Reach」の衝撃 (English)"
+title = "Giving AI Agents \"Eyes on the Net\": The Impact of \"Agent-Reach,\" an Autonomous Tool Suite Breaking Down Web Barriers"
 date = "2026-06-08T14:16:19.340066"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
-description = "Introduction to AIエージェントに「ネットの目」を授ける。Webの壁を突破する自律型ツール群「Agent-Reach」の衝撃 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/oqlu4n60yljtpu/"
+description = "For developers deploying AI agents in real-world workflows, retrieving real-time information from external sources is a constant headache."
+canonicalUrl = "https://techtrend-watch.com/en/posts/oqlu4n60yljtpu/"
+author = "しろねぎ"
 +++
-
 
 # Giving AI Agents "Eyes on the Net": The Impact of "Agent-Reach," an Autonomous Tool Suite Breaking Down Web Barriers
 

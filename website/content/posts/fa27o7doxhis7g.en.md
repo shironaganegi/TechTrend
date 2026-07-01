@@ -1,12 +1,12 @@
 +++
-title = "Claude Codeの真価を引き出すエンジニアの新・流儀：攻略リポジトリ「claude-howto」で自律型開発を実現する (English)"
+title = "Unlocking the True Potential of Claude Code: A New Engineering Paradigm for Autonomous Development via the \"claude-howto\" Repository"
 date = "2026-03-31T05:15:51.809703"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
-description = "Introduction to Claude Codeの真価を引き出すエンジニアの新・流儀：攻略リポジトリ「claude-howto」で自律型開発を実現する (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/fa27o7doxhis7g/"
+description = "Anthropic’s release of Claude Code, a terminal-based AI agent, has the potential to fundamentally transform the engineering work environment."
+canonicalUrl = "https://techtrend-watch.com/en/posts/fa27o7doxhis7g/"
+author = "しろねぎ"
 +++
-
 
 # Unlocking the True Potential of Claude Code: A New Engineering Paradigm for Autonomous Development via the "claude-howto" Repository
 

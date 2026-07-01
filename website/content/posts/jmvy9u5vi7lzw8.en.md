@@ -1,12 +1,12 @@
 +++
-title = "「検索」を「思索」へ。Agentic RAGが切り拓く次世代AIアーキテクチャの全貌 (English)"
+title = "From \"Search\" to \"Reasoning\": The Full Picture of Next-Generation AI Architecture Driven by Agentic RAG"
 date = "2026-04-20T11:24:19.236501"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
-description = "Introduction to 「検索」を「思索」へ。Agentic RAGが切り拓く次世代AIアーキテクチャの全貌 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/jmvy9u5vi7lzw8/"
+description = "At the forefront of AI application development, the most significant paradigm shift currently taking place is \"Agentic RAG\" (Agentic Retrieval-Augmented…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/jmvy9u5vi7lzw8/"
+author = "しろねぎ"
 +++
-
 
 # From "Search" to "Reasoning": The Full Picture of Next-Generation AI Architecture Driven by Agentic RAG
 

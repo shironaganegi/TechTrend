@@ -5,20 +5,41 @@ from datetime import datetime
 from src.shared.config import config
 from src.shared.utils import setup_logging
 from src.shared.tagging import derive_tags
+from src.shared.article_text import build_description, extract_first_heading
+from src.shared.branding import SITE_BASE_URL, SITE_AUTHOR
 
 logger = setup_logging(__name__)
 
 class HugoPublisher:
     def save_article(self, title, body, zenn_url, original_filename, lang="ja", ogp_url=None):
         os.makedirs(config.WEBSITE_CONTENT_DIR, exist_ok=True)
-        
+
         date_str = datetime.now().isoformat()
         target_filename = os.path.basename(original_filename)
+        slug = re.sub(r'\.(en\.)?md$', '', target_filename)
+
+        # 英語記事は frontmatter title が「日本語タイトル (English)」で渡ってくるため、
+        # 本文の H1（正しい英語タイトル）を優先採用する。
+        if lang == "en":
+            en_heading = extract_first_heading(body)
+            if en_heading:
+                title = en_heading
 
         # 内容に応じた具体的なトピックタグを導出（検索・回遊性向上）
         tags = derive_tags(title, body)
 
-        description = f"AIツール「{title}」の活用法を紹介" if lang == "ja" else f"Introduction to {title}"
+        # description は本文の最初の実段落から生成（テンプレ文言を廃止し重複を解消）。
+        # 抽出できない場合のみタイトルベースのフォールバックを使う。
+        desc_max = 160 if lang == "en" else 110
+        description = build_description(body, max_len=desc_max)
+        if not description:
+            description = title
+
+        # canonicalUrl は各ページ自身の URL を指す（英語→日本語の相互 canonical を撤廃）。
+        if lang == "en":
+            canonical_url = f"{SITE_BASE_URL}/en/posts/{slug}/"
+        else:
+            canonical_url = f"{SITE_BASE_URL}/posts/{slug}/"
 
         cover_yaml = ""
         # Disabled OGP logic placeholder
@@ -27,6 +48,7 @@ class HugoPublisher:
         # JSON文字列のエスケープ仕様は TOML basic string と互換。
         title_toml = json.dumps(title, ensure_ascii=False)
         description_toml = json.dumps(description, ensure_ascii=False)
+        author_toml = json.dumps(SITE_AUTHOR, ensure_ascii=False)
 
         frontmatter = f"""+++
 title = {title_toml}
@@ -34,7 +56,8 @@ date = "{date_str}"
 tags = {json.dumps(tags)}
 draft = false
 description = {description_toml}
-canonicalUrl = "{zenn_url}"{cover_yaml}
+author = {author_toml}
+canonicalUrl = "{canonical_url}"{cover_yaml}
 +++
 
 """

@@ -1,12 +1,12 @@
 +++
-title = "AI開発のパラダイムシフト——自律型エージェント基盤「Superpowers」がもたらす、規律ある自動化の正体 (English)"
+title = "AI開発のパラダイムシフト——自律型エージェント基盤「Superpowers」がもたらす、規律ある自動化の正体"
 date = "2026-03-29T10:43:16.202059"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント"]
 draft = false
-description = "Introduction to AI開発のパラダイムシフト——自律型エージェント基盤「Superpowers」がもたらす、規律ある自動化の正体 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/rdmqs9yewvepvx/"
+description = "AI-driven code generation is no longer a magic trick that inspires awe; it has evolved into a daily utility."
+canonicalUrl = "https://techtrend-watch.com/en/posts/rdmqs9yewvepvx/"
+author = "しろねぎ"
 +++
-
 
 ## Introduction: AI Coding Evolves from "Generation" to "Workflow"
 

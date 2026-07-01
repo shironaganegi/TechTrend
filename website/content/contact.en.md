@@ -7,14 +7,15 @@ url = "/en/contact/"
 
 ## Contact Us
 
-We welcome inquiries, feedback, and bug reports through the following channel:
+We welcome inquiries, feedback, and bug reports about TechTrend Watch through the following channel.
 
-### GitHub Issues (Recommended)
+### 📩 Email
+For questions about our operations or content, please reach out to:
+**Email: sai3desuyo@gmail.com**
 
-For technical questions or feedback regarding the system or content, please create an Issue on our GitHub repository.
-
-[GitHub Repository 🔗](https://github.com/shironaganegi/TechTrend)
+### 🏷️ Operator
+**TechTrend Watch Editorial Desk**
 
 ### Note
-
-Please understand that we may not be able to respond to every individual inquiry.
+- Urgent matters (rights infringement claims, partnership proposals, etc.) are checked and handled promptly.
+- We typically respond within 3 business days.

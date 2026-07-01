@@ -3,10 +3,10 @@ title = "あらゆる窓口の問い合わせを自律解決！マルチチャ�
 date = "2026-06-10T13:41:25.688224"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
-description = "AIツール「あらゆる窓口の問い合わせを自律解決！マルチチャネル型AIエージェント『SeaTicket』の衝撃と導入ロードマップ」の活用法を紹介"
+description = "Slack、Discord、電子メール、Webフォーム……。モダンなサービスやSaaSを運営する開発チームやカスタマーサポート（CS）部門にとって、複数チャネルから絶え間なく寄せられる問い合わせへの対応は、日々の生産性を…"
 canonicalUrl = "https://techtrend-watch.com/posts/ygcigibv3kms06/"
+author = "しろねぎ"
 +++
-
 
 # あらゆる窓口の問い合わせを自律解決！マルチチャネル型AIエージェント『SeaTicket』の衝撃と導入ロードマップ
 

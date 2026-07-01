@@ -3,10 +3,10 @@ title = "コードの「神経系」をAIに授ける ── GitNexusが切り�
 date = "2026-03-17T10:57:31.451156"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
-description = "AIツール「コードの「神経系」をAIに授ける ── GitNexusが切り拓くナレッジグラフ駆動型開発の全貌」の活用法を紹介"
+description = "AIによるコーディング支援は、もはや「断片的なコード生成」のフェーズを終え、「プロジェクト全体の文脈理解」へと主戦場を移している。"
 canonicalUrl = "https://techtrend-watch.com/posts/92qw5ewodha8hn/"
+author = "しろねぎ"
 +++
-
 
 # コードの「神経系」をAIに授ける ── GitNexusが切り拓くナレッジグラフ駆動型開発の全貌
 

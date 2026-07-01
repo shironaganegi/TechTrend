@@ -3,10 +3,10 @@ title = "Claude APIによるWeb検索の新境地 — 「Dynamic Filtering」が
 date = "2026-03-30T11:11:55.476698"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント"]
 draft = false
-description = "AIツール「Claude APIによるWeb検索の新境地 — 「Dynamic Filtering」がもたらす精度向上とコスト最適化の最適解」の活用法を紹介"
+description = "AIエージェント開発の最前線において、現在最も議論されている課題の一つが「RAG（検索拡張生成）におけるノイズの制御」である。"
 canonicalUrl = "https://techtrend-watch.com/posts/m4n7rweyzwy91s/"
+author = "しろねぎ"
 +++
-
 
 # Claude APIによるWeb検索の新境地 — 「Dynamic Filtering」がもたらす精度向上とコスト最適化の最適解
 

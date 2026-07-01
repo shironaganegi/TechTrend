@@ -3,10 +3,10 @@ title = "20万行の巨大コードを瞬時に脳内マップ化。開発者の
 date = "2026-05-24T23:03:42.933236"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "DevOps"]
 draft = false
-description = "AIツール「20万行の巨大コードを瞬時に脳内マップ化。開発者の認知負荷を極小化する「Understand-Anything」がもたらす開発革新」の活用法を紹介"
+description = "新しくジョインしたプロジェクトのコードベースが「20万行」を超えていたとき、あなたならどこから読み解き始めますか？"
 canonicalUrl = "https://techtrend-watch.com/posts/rrejcx42dswvvr/"
+author = "しろねぎ"
 +++
-
 
 # 20万行の巨大コードを瞬時に脳内マップ化。開発者の認知負荷を極小化する「Understand-Anything」がもたらす開発革新
 

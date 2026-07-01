@@ -3,10 +3,10 @@ title = "ブラウザに「意志」を宿す——MyNextBrowserが切り拓く�
 date = "2026-03-15T05:11:39.675429"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "フロントエンド"]
 draft = false
-description = "AIツール「ブラウザに「意志」を宿す——MyNextBrowserが切り拓く自律型オートメーションの分水嶺」の活用法を紹介"
+description = "AIの進化速度は、我々の想像を絶する。2024年、AI業界は「チャット（対話）」という長い習作期間を終え、「アクション（実行）」という実務フェーズへと完全に移行した。"
 canonicalUrl = "https://techtrend-watch.com/posts/nkb8o2lvq071h8/"
+author = "しろねぎ"
 +++
-
 
 # ブラウザに「意志」を宿す——MyNextBrowserが切り拓く自律型オートメーションの分水嶺
 

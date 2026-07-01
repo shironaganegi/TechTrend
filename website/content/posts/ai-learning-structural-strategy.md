@@ -1,10 +1,11 @@
-﻿+++
++++
 title = "「実装力」への転換点：AI独学者がDay 2に挑むべき「構造的学習」の羅針盤"
 date = "2026-03-09T00:00:00+09:00"
 tags = ["AI", "Learning", "Education", "Python"]
 draft = false
 description = "AI学習2日目の壁をどう乗り越えるか。エンジニアとして生き残るための「構造的学習」の羅針盤を提示。"
 canonicalUrl = "https://techtrend-watch.com/posts/ai-learning-structural-strategy/"
+author = "しろねぎ"
 +++
 
 # 「実装力」への転換点：AI独学者がDay 2に挑むべき「構造적学習」の羅針盤

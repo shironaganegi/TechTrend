@@ -3,10 +3,10 @@ title = "AIソフトウェア供給網の「聖域」を守る――Anthropicが
 date = "2026-04-08T11:05:25.634301"
 tags = ["AI", "Tools", "LLM", "セキュリティ", "DevOps", "データベース"]
 draft = false
-description = "AIツール「AIソフトウェア供給網の「聖域」を守る――Anthropicが提唱する「Project Glasswing」の真価と、開発環境のパラダイムシフト」の活用法を紹介"
+description = "AIによるコード生成が日常に溶け込み、開発スピードが劇的に向上した現代。しかし、その背後ではかつてないリスクが静かに、そして確実に拡大している。「AIが生成したコードの安全性を、誰が、どう担保するのか？"
 canonicalUrl = "https://techtrend-watch.com/posts/0ilvm2a4dkrz51/"
+author = "しろねぎ"
 +++
-
 
 # AIソフトウェア供給網の「聖域」を守る――Anthropicが提唱する「Project Glasswing」の真価と、開発環境のパラダイムシフト
 

@@ -3,10 +3,10 @@ title = "【LlamaIndex発】ローカル完結で爆速PDF解析。Rust製の新
 date = "2026-05-30T23:05:18.114281"
 tags = ["AI", "Tools", "LLM", "RAG", "セキュリティ", "DevOps"]
 draft = false
-description = "AIツール「【LlamaIndex発】ローカル完結で爆速PDF解析。Rust製の新星「liteparse」が拓く、RAGドキュメント前処理の新時代」の活用法を紹介"
+description = "LLM（大規模言語モデル）やRAG（検索拡張生成）の社会実装が急速に進む中、PDFをはじめとする非構造化ドキュメントの解析技術は、AIシステム開発の成否を分ける決定的な要素となっています。"
 canonicalUrl = "https://techtrend-watch.com/posts/7566u7bneosbll/"
+author = "しろねぎ"
 +++
-
 
 # 【LlamaIndex発】ローカル完結で爆速PDF解析。Rust製の新星「liteparse」が拓く、RAGドキュメント前処理の新時代
 

@@ -1,12 +1,12 @@
 +++
-title = "Claude Codeに自作MCPサーバー（Python）を接続する最小手順と「3大障害」の回避法【2026年最新】 (English)"
+title = "Minimal Setup to Connect a Custom MCP Server (Python) to Claude Code and How to Avoid the \"3 Major Pitfalls\" [2026 Latest]"
 date = "2026-06-14T23:14:56.329593"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
-description = "Introduction to Claude Codeに自作MCPサーバー（Python）を接続する最小手順と「3大障害」の回避法【2026年最新】 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/vuluonccvsbbv5/"
+description = "The role of AI in software development is evolving from a mere \"code generation assistant\" to an \"agent\" that executes tasks autonomously."
+canonicalUrl = "https://techtrend-watch.com/en/posts/vuluonccvsbbv5/"
+author = "しろねぎ"
 +++
-
 
 # Minimal Setup to Connect a Custom MCP Server (Python) to Claude Code and How to Avoid the "3 Major Pitfalls" [2026 Latest]
 

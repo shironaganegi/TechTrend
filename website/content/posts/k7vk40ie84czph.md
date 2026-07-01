@@ -3,10 +3,10 @@ title = "ByteDanceが放つ「DeerFlow 2.0」の衝撃 —— 調査・開発・
 date = "2026-03-24T22:39:23.084712"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "セキュリティ"]
 draft = false
-description = "AIツール「ByteDanceが放つ「DeerFlow 2.0」の衝撃 —— 調査・開発・実行を自律化するSuperAgentハーネスの実力」の活用法を紹介"
+description = "AIエージェントの進化は、もはや「指示への回答」というフェーズを通り過ぎ、自律的に思考し、コードを書き、安全な環境で実行して結果を検証する「自律型エンジニアリング」の領域へと突入しました。"
 canonicalUrl = "https://techtrend-watch.com/posts/k7vk40ie84czph/"
+author = "しろねぎ"
 +++
-
 
 # ByteDanceが放つ「DeerFlow 2.0」の衝撃 —— 調査・開発・実行を自律化するSuperAgentハーネスの実力
 

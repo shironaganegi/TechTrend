@@ -1,12 +1,12 @@
 +++
-title = "WordPress開発のパラダイムシフト。新星「WordPress Studio CLI」がもたらす開発体験の革新 (English)"
+title = "A Paradigm Shift in WordPress Development: How the New \"WordPress Studio CLI\" Revolutionizes the Developer Experience"
 date = "2026-03-28T22:37:04.767294"
 tags = ["AI", "Tools", "RAG", "DevOps", "フロントエンド", "データベース"]
 draft = false
-description = "Introduction to WordPress開発のパラダイムシフト。新星「WordPress Studio CLI」がもたらす開発体験の革新 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/d7i3c6oxccp9dr/"
+description = "For a long time, setting up local WordPress environments has meant being constrained by \"heavyweight GUI tools.\" The resources consumed every time an…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/d7i3c6oxccp9dr/"
+author = "しろねぎ"
 +++
-
 
 # A Paradigm Shift in WordPress Development: How the New "WordPress Studio CLI" Revolutionizes the Developer Experience
 

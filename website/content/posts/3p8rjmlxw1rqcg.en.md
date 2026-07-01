@@ -1,12 +1,12 @@
 +++
-title = "TokenZip：AIエージェントの「バケツリレー」を終わらせる、共有メモリ・プロトコルの衝撃 (English)"
+title = "TokenZip: Ending the AI Agent \"Bucket Brigade\" — The Impact of Shared Memory Protocols"
 date = "2026-03-12T10:48:48.623097"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "オープンソース"]
 draft = false
-description = "Introduction to TokenZip：AIエージェントの「バケツリレー」を終わらせる、共有メモリ・プロトコルの衝撃 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/3p8rjmlxw1rqcg/"
+description = "\"I want to link AI agents, but the token consumption is so intense that the running costs are unrealistic.\""
+canonicalUrl = "https://techtrend-watch.com/en/posts/3p8rjmlxw1rqcg/"
+author = "しろねぎ"
 +++
-
 
 # TokenZip: Ending the AI Agent "Bucket Brigade" — The Impact of Shared Memory Protocols
 

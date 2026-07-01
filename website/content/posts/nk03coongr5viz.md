@@ -3,10 +3,10 @@ title = "【Python独学】公式ドキュメントが読めない決定的な�
 date = "2026-06-09T12:50:46.990830"
 tags = ["AI", "Tools", "LLM", "フロントエンド", "Python", "Rust"]
 draft = false
-description = "AIツール「【Python独学】公式ドキュメントが読めない決定的な理由！「仕様書」と「説明書」の違いと正しい読み方マップ」の活用法を紹介"
+description = "Pythonを学び始めた人や、ChatGPTなどのAIを使ってコードを書いているエンジニアから、「公式ドキュメントが難しすぎて読めない」「何が書いてあるか全く頭に入ってこない」という不満をよく耳にします。"
 canonicalUrl = "https://techtrend-watch.com/posts/nk03coongr5viz/"
+author = "しろねぎ"
 +++
-
 
 # 【Python独学】公式ドキュメントが読めない決定的な理由！「仕様書」と「説明書」の違いと正しい読み方マップ
 

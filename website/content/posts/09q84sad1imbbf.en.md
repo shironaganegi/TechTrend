@@ -1,12 +1,12 @@
 +++
-title = "LLM・RAGの精度を劇的に向上させる。Microsoft公式のドキュメント変換ツール「MarkItDown」の実力と実装 (English)"
+title = "Dramatically Improve LLM and RAG Accuracy: The Power and Implementation of Microsoft's Official Document Converter \"MarkItDown\""
 date = "2026-05-31T07:02:56.453095"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
-description = "Introduction to LLM・RAGの精度を劇的に向上させる。Microsoft公式のドキュメント変換ツール「MarkItDown」の実力と実装 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/09q84sad1imbbf/"
+description = "When integrating Large Language Models (LLMs) like ChatGPT or Claude into business processes and products, many developers encounter a major bottleneck:…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/09q84sad1imbbf/"
+author = "しろねぎ"
 +++
-
 
 # Dramatically Improve LLM and RAG Accuracy: The Power and Implementation of Microsoft's Official Document Converter "MarkItDown"
 

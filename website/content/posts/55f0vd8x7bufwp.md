@@ -3,10 +3,10 @@ title = "30_OOF予測値によるIsotonic Regression：予測の「歪み」を�
 date = "2026-04-06T22:43:33.082454"
 tags = ["AI", "Tools", "機械学習", "オープンソース"]
 draft = false
-description = "AIツール「30_OOF予測値によるIsotonic Regression：予測の「歪み」を正し、モデルに実戦的な信頼性を宿す手法」の活用法を紹介"
+description = "機械学習プロジェクト、特にKaggleなどのコンペティションや、競馬・金融といった「確率の正確さ」が直接的な利益やリスクに直結する領域において、モデルの評価指標（RMSEやLogLoss）を追求した後に必ず直面する壁があ…"
 canonicalUrl = "https://techtrend-watch.com/posts/55f0vd8x7bufwp/"
+author = "しろねぎ"
 +++
-
 
 # 30_OOF予測値によるIsotonic Regression：予測の「歪み」を正し、モデルに実戦的な信頼性を宿す手法
 

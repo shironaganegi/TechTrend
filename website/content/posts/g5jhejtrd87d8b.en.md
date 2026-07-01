@@ -1,12 +1,12 @@
 +++
-title = "データベース設計の「真の終着点」——第5正規形（5NF）でデータ不整合の連鎖を断つ (English)"
+title = "The \"True Destination\" of Database Design — Breaking the Chain of Data Inconsistency with Fifth Normal Form (5NF)"
 date = "2026-04-15T05:30:51.289917"
 tags = ["AI", "Tools", "RAG", "データベース", "オープンソース"]
 draft = false
-description = "Introduction to データベース設計の「真の終着点」——第5正規形（5NF）でデータ不整合の連鎖を断つ (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/g5jhejtrd87d8b/"
+description = "\"Database design is sufficient up to the Third Normal Form (3NF).\" This long-standing adage in the development community can often become a precarious…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/g5jhejtrd87d8b/"
+author = "しろねぎ"
 +++
-
 
 # The "True Destination" of Database Design — Breaking the Chain of Data Inconsistency with Fifth Normal Form (5NF)
 

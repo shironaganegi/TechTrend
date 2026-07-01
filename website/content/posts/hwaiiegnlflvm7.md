@@ -3,10 +3,10 @@ title = "なぜ「ローカルAI」が標準となるのか？2026年、全エ�
 date = "2026-05-12T12:06:09.290142"
 tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "セキュリティ"]
 draft = false
-description = "AIツール「なぜ「ローカルAI」が標準となるのか？2026年、全エンジニアが直面するエッジAIへのパラダイムシフト」の活用法を紹介"
+description = "テクノロジーの潮流は、今まさに明確な転換点を迎えている。これまで「AIを利用する」ことは、OpenAIなどの巨大プロバイダーが提供するAPIにリクエストを投げることと同義であった。"
 canonicalUrl = "https://techtrend-watch.com/posts/hwaiiegnlflvm7/"
+author = "しろねぎ"
 +++
-
 
 # なぜ「ローカルAI」が標準となるのか？2026年、全エンジニアが直面するエッジAIへのパラダイムシフト
 

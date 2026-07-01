@@ -3,10 +3,10 @@ title = "PythonによるWordドキュメント制御の真髄：テキスト・�
 date = "2026-03-20T10:46:13.017418"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "DevOps", "Python"]
 draft = false
-description = "AIツール「PythonによるWordドキュメント制御の真髄：テキスト・段落書式の「完全自動化」を実現する技術詳解」の活用法を紹介"
+description = "「ドキュメントの修正作業に忙殺され、本来の創造的な業務が後回しになる」――。生成AIがソースコードを書き、スライドを自動生成する2026年においても、日本のビジネス現場における最終成果物の標準は依然として「Microso…"
 canonicalUrl = "https://techtrend-watch.com/posts/jzdruti7cb5435/"
+author = "しろねぎ"
 +++
-
 
 ### はじめに：なぜ今、Wordの「自動化」が再注目されているのか？
 

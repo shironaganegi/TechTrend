@@ -3,10 +3,10 @@ title = "Windows環境のIPC決定版：Pythonで「名前付きパイプ」を�
 date = "2026-03-18T05:02:49.752317"
 tags = ["AI", "Tools", "機械学習", "セキュリティ", "クラウド", "フロントエンド"]
 draft = false
-description = "AIツール「Windows環境のIPC決定版：Pythonで「名前付きパイプ」を極め、プロセス間通信を高速化する実戦ガイド」の活用法を紹介"
+description = "Windows OS上で複数のプロセスを連携させる際、開発者が直面するのが「通信オーバーヘッド」と「実装の複雑さ」のトレードオフである。"
 canonicalUrl = "https://techtrend-watch.com/posts/7qsndh7llztbel/"
+author = "しろねぎ"
 +++
-
 
 # Windows環境のIPC決定版：Pythonで「名前付きパイプ」を極め、プロセス間通信を高速化する実戦ガイド
 

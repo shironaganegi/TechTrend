@@ -1,12 +1,12 @@
 +++
-title = "【Intuitが3,000人削減】AIシフトがもたらす開発者キャリアの地殻変動と生存戦略 (English)"
+title = "[Intuit Cuts 3,000 Jobs] The AI Shift: Seismic Changes in Developer Careers and Strategies for Survival"
 date = "2026-05-21T12:53:01.201105"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
-description = "Introduction to 【Intuitが3,000人削減】AIシフトがもたらす開発者キャリアの地殻変動と生存戦略 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/dfh6xca3yn0dyw/"
+description = "Intuit, the US accounting and financial software giant, has announced layoffs of over 3,000 employees, representing approximately 10% of its global workforce."
+canonicalUrl = "https://techtrend-watch.com/en/posts/dfh6xca3yn0dyw/"
+author = "しろねぎ"
 +++
-
 
 # [Intuit Cuts 3,000 Jobs] The AI Shift: Seismic Changes in Developer Careers and Strategies for Survival
 

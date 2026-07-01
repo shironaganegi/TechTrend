@@ -1,12 +1,12 @@
 +++
-title = "ファイル識別のパラダイムシフト：Google「Magika」がもたらすAIによる高精度・高速スキャンの全貌 (English)"
+title = "A Paradigm Shift in File Identification: An Overview of AI-Powered, High-Precision, High-Speed Scanning with Google \"Magika\""
 date = "2026-04-18T05:13:52.309065"
 tags = ["AI", "Tools", "RAG", "機械学習", "DevOps", "フロントエンド"]
 draft = false
-description = "Introduction to ファイル識別のパラダイムシフト：Google「Magika」がもたらすAIによる高精度・高速スキャンの全貌 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/mf1j930m8ynvgv/"
+description = "\"Does this file's extension actually match its content?\" or \"This is binary data, but what is its true underlying structure?\" Google has provided a definitive…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/mf1j930m8ynvgv/"
+author = "しろねぎ"
 +++
-
 
 # A Paradigm Shift in File Identification: An Overview of AI-Powered, High-Precision, High-Speed Scanning with Google "Magika"
 

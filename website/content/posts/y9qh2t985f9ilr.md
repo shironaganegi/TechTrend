@@ -3,10 +3,10 @@ title = "ターミナルが自律する時代へ：公式CLI「Claude Code」が
 date = "2026-06-08T08:18:21.703924"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "Python"]
 draft = false
-description = "AIツール「ターミナルが自律する時代へ：公式CLI「Claude Code」がもたらす開発プロセスのパラダイムシフト」の活用法を紹介"
+description = "世界の開発者コミュニティにおいて、現在最も注目を集めている革新的なツールがある。Anthropicが満を持してリリースした、ターミナル専用のAI自律型エージェント「Claude Code」だ。"
 canonicalUrl = "https://techtrend-watch.com/posts/y9qh2t985f9ilr/"
+author = "しろねぎ"
 +++
-
 
 # ターミナルが自律する時代へ：公式CLI「Claude Code」がもたらす開発プロセスのパラダイムシフト
 

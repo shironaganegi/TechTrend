@@ -1,12 +1,12 @@
 +++
-title = "ByteDanceが放つ「DeerFlow 2.0」の衝撃 —— 調査・開発・実行を自律化するSuperAgentハーネスの実力 (English)"
+title = "The Impact of ByteDance's \"DeerFlow 2.0\": Unveiling the SuperAgent Harness That Autonomizes Research, Development, and Execution"
 date = "2026-03-24T22:39:23.085690"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "Python"]
 draft = false
-description = "Introduction to ByteDanceが放つ「DeerFlow 2.0」の衝撃 —— 調査・開発・実行を自律化するSuperAgentハーネスの実力 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/k7vk40ie84czph/"
+description = "The evolution of AI agents has moved past the phase of simply \"answering instructions\" and has entered the realm of \"autonomous engineering\"—where agents…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/k7vk40ie84czph/"
+author = "しろねぎ"
 +++
-
 
 # The Impact of ByteDance's "DeerFlow 2.0": Unveiling the SuperAgent Harness That Autonomizes Research, Development, and Execution
 

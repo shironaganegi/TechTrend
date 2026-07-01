@@ -1,12 +1,12 @@
 +++
-title = "Chromeが「AI実行基盤」へと変貌する瞬間：4GBのサイレント・インストールが示唆するWebの未来 (English)"
+title = "The Moment Chrome Transforms into an \"AI Execution Platform\": What a 4GB Silent Installation Suggests for the Future of the Web"
 date = "2026-05-06T06:10:58.548382"
 tags = ["AI", "Tools", "LLM", "RAG", "フロントエンド"]
 draft = false
-description = "Introduction to Chromeが「AI実行基盤」へと変貌する瞬間：4GBのサイレント・インストールが示唆するWebの未来 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/2wo307n0i1zkre/"
+description = "\"Storage has decreased by 4GB before I knew it.\" — Currently, a mysterious behavior in Google Chrome is causing a stir among engineers and power users…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/2wo307n0i1zkre/"
+author = "しろねぎ"
 +++
-
 
 # The Moment Chrome Transforms into an "AI Execution Platform": What a 4GB Silent Installation Suggests for the Future of the Web
 

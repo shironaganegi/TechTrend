@@ -1,12 +1,12 @@
 +++
-title = "Optionキー一発で文脈を完全同期。自己の「デジタルツイン」を生成するパーソナルAIアシスタント「Goldfish」がもたらすパラダイムシフト (English)"
+title = "Instant Context Sync with a Single Tap of the Option Key: The Paradigm Shift Brought by \"Goldfish,\" the Personal AI Assistant Generating Your \"Digital Twin\""
 date = "2026-06-16T15:14:58.373681"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
-description = "Introduction to Optionキー一発で文脈を完全同期。自己の「デジタルツイン」を生成するパーソナルAIアシスタント「Goldfish」がもたらすパラダイムシフト (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/rywhy2e43s8rxf/"
+description = "Modern knowledge workers—especially engineers and creators—are facing a severe \"communication overhead.\" Dealing with a relentless onslaught of messages across…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/rywhy2e43s8rxf/"
+author = "しろねぎ"
 +++
-
 
 # Instant Context Sync with a Single Tap of the Option Key: The Paradigm Shift Brought by "Goldfish," the Personal AI Assistant Generating Your "Digital Twin"
 

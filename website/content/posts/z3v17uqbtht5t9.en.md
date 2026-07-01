@@ -1,12 +1,12 @@
 +++
-title = "AIが「共同創業者」になる日：Gusto Cofounderが変革するスタートアップ起業とバックオフィス自動化の未来 (English)"
+title = "The Day AI Becomes a \"Co-founder\": How Gusto Cofounder is Transforming Startup Entrepreneurship and the Future of Back-Office Automation"
 date = "2026-06-02T23:52:30.050603"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "クラウド"]
 draft = false
-description = "Introduction to AIが「共同創業者」になる日：Gusto Cofounderが変革するスタートアップ起業とバックオフィス自動化の未来 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/z3v17uqbtht5t9/"
+description = "For solopreneurs and startup founders, \"back-office tasks\" outside of product development are the most time-consuming and mentally draining areas."
+canonicalUrl = "https://techtrend-watch.com/en/posts/z3v17uqbtht5t9/"
+author = "しろねぎ"
 +++
-
 
 # The Day AI Becomes a "Co-founder": How Gusto Cofounder is Transforming Startup Entrepreneurship and the Future of Back-Office Automation
 

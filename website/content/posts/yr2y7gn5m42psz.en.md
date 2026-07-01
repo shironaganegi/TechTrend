@@ -1,12 +1,12 @@
 +++
-title = "300のAWSサービスをAIが指揮する：AWS MCP ServerのGAがもたらす「自律型インフラ運用」の夜明け (English)"
+title = "AI Orchestrates 300 AWS Services: The Dawn of \"Autonomous Infrastructure Operations\" Brought by the AWS MCP Server GA"
 date = "2026-05-13T12:09:42.844816"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "クラウド", "オープンソース"]
 draft = false
-description = "Introduction to 300のAWSサービスをAIが指揮する：AWS MCP ServerのGAがもたらす「自律型インフラ運用」の夜明け (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/yr2y7gn5m42psz/"
+description = "The era of facing the AWS Management Console and manually building or managing resources has reached a definitive turning point."
+canonicalUrl = "https://techtrend-watch.com/en/posts/yr2y7gn5m42psz/"
+author = "しろねぎ"
 +++
-
 
 # AI Orchestrates 300 AWS Services: The Dawn of "Autonomous Infrastructure Operations" Brought by the AWS MCP Server GA
 

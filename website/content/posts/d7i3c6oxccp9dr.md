@@ -3,10 +3,10 @@ title = "WordPress開発のパラダイムシフト。新星「WordPress Studio 
 date = "2026-03-28T22:37:04.766156"
 tags = ["AI", "Tools", "DevOps", "クラウド", "フロントエンド", "データベース"]
 draft = false
-description = "AIツール「WordPress開発のパラダイムシフト。新星「WordPress Studio CLI」がもたらす開発体験の革新」の活用法を紹介"
+description = "WordPressのローカル環境構築において、私たちは長らく「重厚なGUIツール」という制約の中にいた。環境を立ち上げるたびにリソースを消費し、ツールの起動を待つ時間は、モダンな開発リズムを求めるエンジニアにとって小さく…"
 canonicalUrl = "https://techtrend-watch.com/posts/d7i3c6oxccp9dr/"
+author = "しろねぎ"
 +++
-
 
 # WordPress開発のパラダイムシフト。新星「WordPress Studio CLI」がもたらす開発体験の革新
 

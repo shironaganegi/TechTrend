@@ -1,12 +1,12 @@
 +++
-title = "「知能の密度」が再定義するAIの地平：小規模脳から学ぶ次世代アーキテクチャの真髄 (English)"
+title = "The Horizon of AI Redefined by \"Intelligence Density\": The Essence of Next-Generation Architecture Inspired by Small Brains"
 date = "2026-03-30T22:44:36.166777"
 tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "クラウド"]
 draft = false
-description = "Introduction to 「知能の密度」が再定義するAIの地平：小規模脳から学ぶ次世代アーキテクチャの真髄 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/ycwwkhf1tso8sv/"
+description = "\"AI intelligence is proportional to the number of parameters\"—this dogma of \"Scaling Laws\" that has dominated the industry is now reaching a dramatic turning…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/ycwwkhf1tso8sv/"
+author = "しろねぎ"
 +++
-
 
 # The Horizon of AI Redefined by "Intelligence Density": The Essence of Next-Generation Architecture Inspired by Small Brains
 

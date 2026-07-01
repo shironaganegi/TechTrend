@@ -11,7 +11,7 @@ TechTrend Watch に関するお問い合わせ、ご意見、バグ報告等は�
 
 ### 📩 電子メール
 開発および運営に関するお問い合わせは、以下のメールアドレスまでお気軽にご連絡ください。
-**Email: shironaganegi.inc+techtrend@gmail.com** (または [GitHub リポジトリ](https://github.com/shironaganegi/TechTrend) 経由)
+**Email: sai3desuyo@gmail.com**
 
 ### 🏷️ 運営責任者
 **TechTrend Watch 運営事務局**

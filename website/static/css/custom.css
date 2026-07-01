@@ -228,6 +228,58 @@ body {
     line-height: 1.5;
 }
 
+/* === 著者ボックス（E-E-A-T 明示） === */
+.author-box {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    margin-top: 3rem;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid var(--border, #e2e8f0);
+    border-radius: 12px;
+    background: var(--primary-light, #f0f4ff);
+}
+.author-box-avatar {
+    flex: 0 0 auto;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: var(--primary, #3366ff);
+    color: #fff;
+    font-weight: 800;
+    font-size: 1.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+}
+.author-box-label {
+    font-size: .78rem;
+    color: var(--text-muted, #7f8c8d);
+    font-weight: 700;
+    letter-spacing: .04em;
+}
+.author-box-name {
+    font-size: 1.05rem;
+    font-weight: 800;
+    margin: .1rem 0 .4rem;
+}
+.author-box-name a { color: var(--text-main, #2c3e50); text-decoration: none; }
+.author-box-name a:hover { color: var(--primary, #3366ff); }
+.author-box-bio {
+    font-size: .9rem;
+    line-height: 1.6;
+    color: var(--text-main, #2c3e50);
+    margin: 0 0 .5rem;
+}
+.author-box-more {
+    font-size: .85rem;
+    font-weight: 700;
+    color: var(--primary, #3366ff);
+    text-decoration: none;
+}
+.author-box-more:hover { text-decoration: underline; }
+
 /* === ホーム: 検索導線＋トピック別ブラウズ === */
 .home-discover {
     margin: 1.5rem 0 2.5rem;

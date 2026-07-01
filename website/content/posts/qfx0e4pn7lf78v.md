@@ -3,10 +3,10 @@ title = "慢性疾患に特化したAIコンパニオン「Juno」が示す、LL
 date = "2026-06-11T14:09:48.589617"
 tags = ["AI", "Tools", "LLM", "生成AI", "セキュリティ", "データベース"]
 draft = false
-description = "AIツール「慢性疾患に特化したAIコンパニオン「Juno」が示す、LLMヘルスケア変革のロードマップ」の活用法を紹介"
+description = "人工知能（AI）の進化は、テキスト生成やコード記述の自動化というフェーズを越え、人間の生命や健康を直接的に支える「ヘルスケア」の領域へと急速に浸透しつつあります。"
 canonicalUrl = "https://techtrend-watch.com/posts/qfx0e4pn7lf78v/"
+author = "しろねぎ"
 +++
-
 
 # 慢性疾患に特化したAIコンパニオン「Juno」が示す、LLMヘルスケア変革のロードマップ
 

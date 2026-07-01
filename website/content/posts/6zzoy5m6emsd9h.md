@@ -3,10 +3,10 @@ title = "言語学習の「死の谷」をAIが埋める——パーソナライ
 date = "2026-03-14T10:35:54.881034"
 tags = ["AI", "Tools", "LLM", "RAG", "生成AI", "データベース"]
 draft = false
-description = "AIツール「言語学習の「死の谷」をAIが埋める——パーソナライズ・ド・ストーリーテリング「Lingofable」が示す新境地」の活用法を紹介"
+description = "「語学学習を志したが、単語帳の3ページ目で挫折した」——この普遍的な挫折体験は、学習者の根気不足ではなく、教材の「静的な構造」に起因するものだ。"
 canonicalUrl = "https://techtrend-watch.com/posts/6zzoy5m6emsd9h/"
+author = "しろねぎ"
 +++
-
 
 # 言語学習の「死の谷」をAIが埋める——パーソナライズ・ド・ストーリーテリング「Lingofable」が示す新境地
 

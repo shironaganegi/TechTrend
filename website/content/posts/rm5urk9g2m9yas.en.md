@@ -1,12 +1,12 @@
 +++
-title = "「見えない電波」で空間を解読する。WiFi信号を視覚化するAI『RuView』がもたらす空間知能の変革 (English)"
+title = "Decoding Space with \"Invisible Waves\": How 'RuView' and WiFi-Based AI are Revolutionizing Spatial Intelligence"
 date = "2026-04-21T05:33:51.038799"
 tags = ["AI", "Tools", "Rust", "オープンソース"]
 draft = false
-description = "Introduction to 「見えない電波」で空間を解読する。WiFi信号を視覚化するAI『RuView』がもたらす空間知能の変革 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/rm5urk9g2m9yas/"
+description = "Who is behind that wall, and what posture are they in? The \"X-ray vision\" once depicted as a sci-fi gadget is becoming a reality through the ubiquitous WiFi…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/rm5urk9g2m9yas/"
+author = "しろねぎ"
 +++
-
 
 # Decoding Space with "Invisible Waves": How 'RuView' and WiFi-Based AI are Revolutionizing Spatial Intelligence
 

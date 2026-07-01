@@ -1,12 +1,12 @@
 +++
-title = "なぜ「ローカルAI」が標準となるのか？2026年、全エンジニアが直面するエッジAIへのパラダイムシフト (English)"
+title = "Why \"Local AI\" Is Becoming the Standard: The 2026 Paradigm Shift to Edge AI for All Engineers"
 date = "2026-05-12T12:06:09.291296"
 tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "オープンソース"]
 draft = false
-description = "Introduction to なぜ「ローカルAI」が標準となるのか？2026年、全エンジニアが直面するエッジAIへのパラダイムシフト (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/hwaiiegnlflvm7/"
+description = "The technological tide is currently reaching a definitive turning point. Until now, \"using AI\" has been synonymous with sending requests to APIs provided by…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/hwaiiegnlflvm7/"
+author = "しろねぎ"
 +++
-
 
 # Why "Local AI" Is Becoming the Standard: The 2026 Paradigm Shift to Edge AI for All Engineers
 

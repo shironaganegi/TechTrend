@@ -1,12 +1,12 @@
 +++
-title = "ブラウザに「意志」を宿す——MyNextBrowserが切り拓く自律型オートメーションの分水嶺 (English)"
+title = "Giving the Browser a \"Will\": MyNextBrowser and the Watershed of Autonomous Automation"
 date = "2026-03-15T05:11:39.676494"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
-description = "Introduction to ブラウザに「意志」を宿す——MyNextBrowserが切り拓く自律型オートメーションの分水嶺 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/nkb8o2lvq071h8/"
+description = "The pace of AI evolution is defying all expectations. In 2024, the AI industry fully transitioned from its long experimental phase of \"Chat\" (dialogue) into a…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/nkb8o2lvq071h8/"
+author = "しろねぎ"
 +++
-
 
 # Giving the Browser a "Will": MyNextBrowser and the Watershed of Autonomous Automation
 

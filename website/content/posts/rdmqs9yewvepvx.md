@@ -3,10 +3,10 @@ title = "AI開発のパラダイムシフト——自律型エージェント基
 date = "2026-03-29T10:43:16.201155"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "機械学習"]
 draft = false
-description = "AIツール「AI開発のパラダイムシフト——自律型エージェント基盤「Superpowers」がもたらす、規律ある自動化の正体」の活用法を紹介"
+description = "AIによるコード生成は、もはや驚きを伴う魔法ではなく、日常的なユーティリティへと昇華した。CursorやClaude…"
 canonicalUrl = "https://techtrend-watch.com/posts/rdmqs9yewvepvx/"
+author = "しろねぎ"
 +++
-
 
 ## はじめに：AIコーディングは「生成」から「ワークフロー」の時代へ
 

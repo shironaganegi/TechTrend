@@ -1,12 +1,12 @@
 +++
-title = "OSと知能の「融解」。デスクトップ・ネイティブAI「Flowly」が変革する、知的生産の新たな地平 (English)"
+title = "The Fusion of OS and Intelligence: How Desktop-Native AI \"Flowly\" is Redefining the Frontiers of Knowledge Work"
 date = "2026-05-04T11:56:02.630817"
 tags = ["AI", "Tools", "LLM", "RAG", "DevOps", "オープンソース"]
 draft = false
-description = "Introduction to OSと知能の「融解」。デスクトップ・ネイティブAI「Flowly」が変革する、知的生産の新たな地平 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/helgo1d4gbuxa0/"
+description = "The greatest enemy facing modern knowledge workers is \"context switching\" caused by information fragmentation."
+canonicalUrl = "https://techtrend-watch.com/en/posts/helgo1d4gbuxa0/"
+author = "しろねぎ"
 +++
-
 
 # The Fusion of OS and Intelligence: How Desktop-Native AI "Flowly" is Redefining the Frontiers of Knowledge Work
 
