@@ -3,10 +3,10 @@ title = "AIエージェントが「財布」と「サーバー」を持つ時代
 date = "2026-05-22T06:54:49.548838"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "DevOps"]
 draft = false
-description = "AIツール「AIエージェントが「財布」と「サーバー」を持つ時代：Stripe Projects × Cloudflareで実現する自律型インフラ構築の最前線」の活用法を紹介"
+description = "AIがソースコードを出力し、人間がそれをレビューしてデプロイする――。長らく続いていたこの「開発プロセスの主従関係」が、今まさに逆転しようとしています。"
 canonicalUrl = "https://techtrend-watch.com/posts/decfa3hal7fivw/"
+author = "しろねぎ"
 +++
-
 
 ## 1. 導入：AIが自律的な経済主体となる未来
 

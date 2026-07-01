@@ -1,12 +1,12 @@
 +++
-title = "【深層解析】CERNが挑む「シリコンに刻む知能」——LHCの超高速データ処理を刷新するFPGAとTinyMLの衝撃 (English)"
+title = "[Deep Analysis] CERN’s Quest for “Intelligence Etched in Silicon”: The Impact of FPGAs and TinyML in Revolutionizing LHC Data Processing"
 date = "2026-03-29T05:18:42.741110"
 tags = ["AI", "Tools", "LLM", "機械学習", "Python", "オープンソース"]
 draft = false
-description = "Introduction to 【深層解析】CERNが挑む「シリコンに刻む知能」——LHCの超高速データ処理を刷新するFPGAとTinyMLの衝撃 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/pd96v5leq8zgcn/"
+description = "CERN (the European Organization for Nuclear Research) stands at the pinnacle of global scientific inquiry."
+canonicalUrl = "https://techtrend-watch.com/en/posts/pd96v5leq8zgcn/"
+author = "しろねぎ"
 +++
-
 
 # [Deep Analysis] CERN’s Quest for “Intelligence Etched in Silicon”: The Impact of FPGAs and TinyML in Revolutionizing LHC Data Processing
 

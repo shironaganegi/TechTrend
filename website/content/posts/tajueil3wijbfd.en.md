@@ -1,12 +1,12 @@
 +++
-title = "デザインの「構造」を維持して動かす：次世代AI動画生成「iArt.ai」がもたらすクリエイティブのパラダイムシフト (English)"
+title = "Preserving Design \"Structure\" in Motion: The Creative Paradigm Shift Brought by Next-Generation AI Video Generator \"iArt.ai\""
 date = "2026-06-10T07:14:39.748610"
 tags = ["AI", "Tools", "RAG", "生成AI", "オープンソース"]
 draft = false
-description = "Introduction to デザインの「構造」を維持して動かす：次世代AI動画生成「iArt.ai」がもたらすクリエイティブのパラダイムシフト (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/tajueil3wijbfd/"
+description = "In recent years, the evolution of generative AI video generation technology has progressed at a pace that makes the word \"remarkable\" seem like an…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/tajueil3wijbfd/"
+author = "しろねぎ"
 +++
-
 
 # Preserving Design "Structure" in Motion: The Creative Paradigm Shift Brought by Next-Generation AI Video Generator "iArt.ai"
 

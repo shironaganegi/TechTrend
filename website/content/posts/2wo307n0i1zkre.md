@@ -3,10 +3,10 @@ title = "Chromeが「AI実行基盤」へと変貌する瞬間：4GBのサイレ
 date = "2026-05-06T06:10:58.547494"
 tags = ["AI", "Tools", "LLM", "クラウド"]
 draft = false
-description = "AIツール「Chromeが「AI実行基盤」へと変貌する瞬間：4GBのサイレント・インストールが示唆するWebの未来」の活用法を紹介"
+description = "「いつの間にかストレージが4GBも減少している」――。現在、世界のエンジニアやパワーユーザーの間で、Google Chromeの不可解な挙動が波紋を広げている。"
 canonicalUrl = "https://techtrend-watch.com/posts/2wo307n0i1zkre/"
+author = "しろねぎ"
 +++
-
 
 # Chromeが「AI実行基盤」へと変貌する瞬間：4GBのサイレント・インストールが示唆するWebの未来
 

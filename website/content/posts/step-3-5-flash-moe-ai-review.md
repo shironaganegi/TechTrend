@@ -1,10 +1,11 @@
-﻿+++
++++
 title = "MoEの革命児「Step 3.5 Flash」解体新書！OpenClawエージェント特化型の衝撃と実装の極意"
 date = "2026-03-09T00:00:00+09:00"
 tags = ["AI", "MoE", "OpenClaw", "Step35Flash"]
 draft = false
 description = "エージェント開発特化の超速MoEモデル『Step 3.5 Flash』を技術解説。低遅延な自律システムを実現。"
 canonicalUrl = "https://techtrend-watch.com/posts/step-3-5-flash-moe-ai-review/"
+author = "しろねぎ"
 +++
 
 # MoEの革命児「Step 3.5 Flash」解体新書！OpenClawエージェント特化型の衝撃と実装の極意

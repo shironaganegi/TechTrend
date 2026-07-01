@@ -3,10 +3,10 @@ title = "ヤン・ルカンが描く「物理法則を解するAI」：10億ド�
 date = "2026-03-11T10:50:52.814581"
 tags = ["AI", "Tools", "LLM", "生成AI", "機械学習"]
 draft = false
-description = "AIツール「ヤン・ルカンが描く「物理法則を解するAI」：10億ドルの巨額資金が照らすLLMの次の地平」の活用法を紹介"
+description = "AI業界に再び、パラダイムシフトの予兆とも言える激震が走った。MetaのチーフAIサイエンティストであり、深層学習の先駆者として知られるヤン・ルカン（Yann…"
 canonicalUrl = "https://techtrend-watch.com/posts/4qttuga156oa40/"
+author = "しろねぎ"
 +++
-
 
 # ヤン・ルカンが描く「物理法則を解するAI」：10億ドルの巨額資金が照らすLLMの次の地平
 

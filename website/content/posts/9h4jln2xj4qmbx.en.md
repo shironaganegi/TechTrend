@@ -1,12 +1,12 @@
 +++
-title = "【深掘解説】Cohere「Tiny Aya」が示すSLMの新境地――多言語性能の常識を覆す“軽量AI”の衝撃 (English)"
+title = "[Deep Dive] Cohere’s \"Tiny Aya\" Marks a New Frontier for SLMs: The Shock of a \"Lightweight AI\" Defying Multilingual Norms"
 date = "2026-04-05T10:43:22.675949"
 tags = ["AI", "Tools", "LLM", "RAG", "データベース", "オープンソース"]
 draft = false
-description = "Introduction to 【深掘解説】Cohere「Tiny Aya」が示すSLMの新境地――多言語性能の常識を覆す“軽量AI”の衝撃 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/9h4jln2xj4qmbx/"
+description = "The trend in AI models is reaching a major turning point. While the scaling law—where \"performance equals model size\"—previously dominated, there is now a…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/9h4jln2xj4qmbx/"
+author = "しろねぎ"
 +++
-
 
 # [Deep Dive] Cohere’s "Tiny Aya" Marks a New Frontier for SLMs: The Shock of a "Lightweight AI" Defying Multilingual Norms
 

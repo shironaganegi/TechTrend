@@ -1,12 +1,12 @@
 +++
-title = "1万スターが示す「教育の再定義」——AIエージェント・ネイティブな個別指導ツール「DeepTutor v1.0.0」の衝撃 (English)"
+title = "10,000 Stars Redefining Education: The Impact of the AI Agent-Native Tutoring Tool \"DeepTutor v1.0.0\""
 date = "2026-04-08T22:51:34.422410"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
-description = "Introduction to 1万スターが示す「教育の再定義」——AIエージェント・ネイティブな個別指導ツール「DeepTutor v1.0.0」の衝撃 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/8mqjx3t9xu2e5e/"
+description = "There is a project on GitHub that has amassed over 10,000 stars in just 39 days since its release."
+canonicalUrl = "https://techtrend-watch.com/en/posts/8mqjx3t9xu2e5e/"
+author = "しろねぎ"
 +++
-
 
 # 10,000 Stars Redefining Education: The Impact of the AI Agent-Native Tutoring Tool "DeepTutor v1.0.0"
 

@@ -1,10 +1,11 @@
-﻿+++
++++
 title = "独力開発の限界を突破する：AIエージェント・オーケストレーション『The Agency』がもたらす開発パラダイムの転換"
 date = "2026-03-09T00:00:00+09:00"
 tags = ["AI", "Agents", "OpenSource", "Development"]
 draft = false
 description = "1人開発の限界を超えるAIエージェントチーム『The Agency』を徹底解説。専門家AIを指揮して爆速開発。"
 canonicalUrl = "https://techtrend-watch.com/posts/agency-agents-orchestration-review/"
+author = "しろねぎ"
 +++
 
 # 独力開発の限界を突破する：AIエージェント・オーケストレーション『The Agency』がもたらす開発パラダイムの転換

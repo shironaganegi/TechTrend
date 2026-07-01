@@ -1,12 +1,12 @@
 +++
-title = "【音声AIの新パラダイム】トークナイザー不要で“肉声”を超えるか？ 次世代TTS「VoxCPM2」がもたらす破壊的イノベーション (English)"
+title = "[The New Paradigm of Voice AI] Will Tokenizer-Free Technology Surpass the \"Human Voice\"? The Disruptive Innovation of Next-Generation TTS \"VoxCPM2\""
 date = "2026-05-30T06:28:38.570388"
 tags = ["AI", "Tools", "LLM", "RAG", "生成AI", "オープンソース"]
 draft = false
-description = "Introduction to 【音声AIの新パラダイム】トークナイザー不要で“肉声”を超えるか？ 次世代TTS「VoxCPM2」がもたらす破壊的イノベーション (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/5lrpaenva8aszh/"
+description = "Over the past few years, AI-based speech generation technology (TTS: Text-to-Speech) has evolved dramatically."
+canonicalUrl = "https://techtrend-watch.com/en/posts/5lrpaenva8aszh/"
+author = "しろねぎ"
 +++
-
 
 # [The New Paradigm of Voice AI] Will Tokenizer-Free Technology Surpass the "Human Voice"? The Disruptive Innovation of Next-Generation TTS "VoxCPM2"
 

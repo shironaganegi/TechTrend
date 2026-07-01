@@ -3,10 +3,10 @@ title = "【音声AIの新パラダイム】トークナイザー不要で“肉
 date = "2026-05-30T06:28:38.569287"
 tags = ["AI", "Tools", "LLM", "生成AI", "クラウド", "オープンソース"]
 draft = false
-description = "AIツール「【音声AIの新パラダイム】トークナイザー不要で“肉声”を超えるか？ 次世代TTS「VoxCPM2」がもたらす破壊的イノベーション」の活用法を紹介"
+description = "AIによる音声生成技術（TTS: Text-to-Speech）は、ここ数年で驚異的な進化を遂げました。しかし、これまでの主要なツールの多くは、テキストと音声を一度「離散トークン（Discrete…"
 canonicalUrl = "https://techtrend-watch.com/posts/5lrpaenva8aszh/"
+author = "しろねぎ"
 +++
-
 
 # 【音声AIの新パラダイム】トークナイザー不要で“肉声”を超えるか？ 次世代TTS「VoxCPM2」がもたらす破壊的イノベーション
 

@@ -1,12 +1,12 @@
 +++
-title = "ローカルLLMの新潮流：Gemma 4とQwen 3.5が示す「日本語推論」の臨界点 (English)"
+title = "ローカルLLMの新潮流：Gemma 4とQwen 3.5が示す「日本語推論」の臨界点"
 date = "2026-04-05T22:39:15.473419"
 tags = ["AI", "Tools", "LLM", "オープンソース"]
 draft = false
-description = "Introduction to ローカルLLMの新潮流：Gemma 4とQwen 3.5が示す「日本語推論」の臨界点 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/1lf52drjdla6au/"
+description = "Over the past few months, the landscape surrounding local LLMs (Large Language Models) has entered a \"paradigm shift\" that goes beyond mere technical progress."
+canonicalUrl = "https://techtrend-watch.com/en/posts/1lf52drjdla6au/"
+author = "しろねぎ"
 +++
-
 
 ## 1. Introduction: Local LLMs Shift from "Substitutes" to "Primary Choices"
 

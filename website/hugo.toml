@@ -60,6 +60,10 @@ theme = "PaperMod"
     title = "TechTrend Watch"
     [languages.en.params]
       description = "Daily Curated Tech Trends"
+      author = "Shironaganegi"
+      authorName = "Shironaganegi"
+      authorProfileUrl = "/en/authors/shironaganegi/"
+      authorBio = "Operator and editor of TechTrend Watch. An independent developer following machine learning, LLMs, and developer tools — reconstructing articles from primary sources with hands-on comparisons and implementation notes."
       [languages.en.params.homeInfoParams]
         Title = "TechTrend Watch 🚀"
         Content = "Daily curated tech trends from GitHub, Hacker News, and more."
@@ -99,8 +103,13 @@ theme = "PaperMod"
 [params]
   defaultTheme = "auto"
   description = "厳選してお届けする、今日の最新技術トレンド"
-  author = "TechTrend Watch 編集部"
-  
+  author = "しろねぎ"
+
+  # 著者ボックス／E-E-A-T 用（日本語。英語は [languages.en.params] で上書き）
+  authorName = "しろねぎ"
+  authorProfileUrl = "/authors/shironaganegi/"
+  authorBio = "TechTrend Watch の運営・編集担当。機械学習／LLM・開発ツールを追う個人開発者。一次情報をもとに、実装の勘所や比較を加えて記事を再構成しています。"
+
   # Site Features
   ShowReadingTime = true
   ShowShareButtons = true
@@ -111,15 +120,12 @@ theme = "PaperMod"
   
   [params.footer]
     hideCopyright = false
-    text = "© 2026 TechTrend Watch. 技術トレンドを専門的な視点で厳選・解説するテックメディアです。情報の正確性には万全を期していますが、最終的な判断は読者自身の責任において行ってください。"
+    text = "© 2026 TechTrend Watch（運営・編集：しろねぎ）. 技術トレンドを開発者視点で厳選・解説するテックメディアです。情報の正確性には万全を期していますが、最終的な判断は読者自身の責任において行ってください。"
 
   [params.homeInfoParams]
     Title = "TechTrend Watch 🚀"
     Content = "世界中のGitHub、HackerNews、Qiitaから、今注目すべき技術トレンドを厳選。専門的なキュレーションと独自のインサイトで、あなたの技術革新を加速させます。"
 
-  [[params.socialIcons]]
-     name = "github"
-     url = "https://github.com/shironaganegi/TechTrend"
   [[params.socialIcons]]
      name = "x"
      url = "https://x.com/sai3desuyo"

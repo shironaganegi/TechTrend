@@ -3,10 +3,10 @@ title = "記憶を繋ぎ、分身を創る。GitHub発の「OpenHuman」が提�
 date = "2026-05-15T12:01:50.268943"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "クラウド"]
 draft = false
-description = "AIツール「記憶を繋ぎ、分身を創る。GitHub発の「OpenHuman」が提示するパーソナルAIの最終形態」の活用法を紹介"
+description = "AI技術が「汎用的な回答」から「個人のコンテキストへの最適化」へと舵を切る中、GitHubで一際異彩を放つプロジェクトが登場した。それが「OpenHuman」である。"
 canonicalUrl = "https://techtrend-watch.com/posts/neiutstfja0jp3/"
+author = "しろねぎ"
 +++
-
 
 # 記憶を繋ぎ、分身を創る。GitHub発の「OpenHuman」が提示するパーソナルAIの最終形態
 

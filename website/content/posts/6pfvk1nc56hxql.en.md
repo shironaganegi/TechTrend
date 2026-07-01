@@ -1,12 +1,12 @@
 +++
-title = "経営と開発現場を「グラフデータ」で結ぶ：AI時代の戦略実行プラットフォーム「VisionSync」が解消するミスマッチの本質 (English)"
+title = "Connecting Management and the Development Frontlines via \"Graph Data\": How the AI-Era Strategy Execution Platform \"VisionSync\" Resolves the Core Alignment Mismatch"
 date = "2026-06-05T07:14:31.564265"
 tags = ["AI", "Tools", "RAG", "AIエージェント", "機械学習", "DevOps"]
 draft = false
-description = "Introduction to 経営と開発現場を「グラフデータ」で結ぶ：AI時代の戦略実行プラットフォーム「VisionSync」が解消するミスマッチの本質 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/6pfvk1nc56hxql/"
+description = "The corporate vision (strategy) and the code that engineers write today (tasks) have become completely decoupled."
+canonicalUrl = "https://techtrend-watch.com/en/posts/6pfvk1nc56hxql/"
+author = "しろねぎ"
 +++
-
 
 # Connecting Management and the Development Frontlines via "Graph Data": How the AI-Era Strategy Execution Platform "VisionSync" Resolves the Core Alignment Mismatch
 

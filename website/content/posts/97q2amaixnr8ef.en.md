@@ -1,12 +1,12 @@
 +++
-title = "エンジニアリングは「対話」から「指揮」へ——AIエージェントの潜在能力を解き放つ「oh-my-codex (OMX)」の正体 (English)"
+title = "From \"Dialogue\" to \"Command\"—Unlocking the Potential of AI Agents with \"oh-my-codex (OMX)\""
 date = "2026-04-02T22:39:55.264941"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "オープンソース"]
 draft = false
-description = "Introduction to エンジニアリングは「対話」から「指揮」へ——AIエージェントの潜在能力を解き放つ「oh-my-codex (OMX)」の正体 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/97q2amaixnr8ef/"
+description = "As AI-driven code generation shifts from a \"surprise\" to \"commonplace,\" the true challenge facing developers has shifted from the quality of generation itself…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/97q2amaixnr8ef/"
+author = "しろねぎ"
 +++
-
 
 # From "Dialogue" to "Command"—Unlocking the Potential of AI Agents with "oh-my-codex (OMX)"
 

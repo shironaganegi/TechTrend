@@ -1,12 +1,12 @@
 +++
-title = "ターミナルが自律する時代へ：公式CLI「Claude Code」がもたらす開発プロセスのパラダイムシフト (English)"
+title = "Entering the Era of Autonomous Terminals: How the Official CLI \"Claude Code\" Shifts the Software Development Paradigm"
 date = "2026-06-08T08:18:21.705145"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "Python", "オープンソース"]
 draft = false
-description = "Introduction to ターミナルが自律する時代へ：公式CLI「Claude Code」がもたらす開発プロセスのパラダイムシフト (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/y9qh2t985f9ilr/"
+description = "Among the global developer community, there is one revolutionary tool generating immense excitement right now."
+canonicalUrl = "https://techtrend-watch.com/en/posts/y9qh2t985f9ilr/"
+author = "しろねぎ"
 +++
-
 
 # Entering the Era of Autonomous Terminals: How the Official CLI "Claude Code" Shifts the Software Development Paradigm
 

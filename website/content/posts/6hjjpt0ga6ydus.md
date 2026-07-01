@@ -3,10 +3,10 @@ title = "AI生成UIの「量産型スロップ」から脱却せよ──Cursor�
 date = "2026-05-27T23:22:00.415170"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "生成AI", "フロントエンド"]
 draft = false
-description = "AIツール「AI生成UIの「量産型スロップ」から脱却せよ──CursorやClaudeに一流のデザインセンスを移植する「taste-skill」の衝撃」の活用法を紹介"
+description = "「AIにUIのモックアップを作らせると、どれも似たり寄ったりの味気ないデザインになってしまう」"
 canonicalUrl = "https://techtrend-watch.com/posts/6hjjpt0ga6ydus/"
+author = "しろねぎ"
 +++
-
 
 # AI生成UIの「量産型スロップ」から脱却せよ──CursorやClaudeに一流のデザインセンスを移植する「taste-skill」の衝撃
 

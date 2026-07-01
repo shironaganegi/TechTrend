@@ -3,10 +3,10 @@ title = "境界線が消失する：Anthropic「Claude Design」が再定義す�
 date = "2026-04-18T22:42:45.070613"
 tags = ["AI", "Tools", "LLM", "生成AI", "フロントエンド"]
 draft = false
-description = "AIツール「境界線が消失する：Anthropic「Claude Design」が再定義するUI開発の未来」の活用法を紹介"
+description = "AI業界のフロントランナーであるAnthropicが、ついに「デザイン」という聖域に本格的な一歩を記した。これまでもClaude 3.5…"
 canonicalUrl = "https://techtrend-watch.com/posts/2zsujxa40tyq66/"
+author = "しろねぎ"
 +++
-
 
 # 境界線が消失する：Anthropic「Claude Design」が再定義するUI開発の未来
 

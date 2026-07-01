@@ -3,10 +3,10 @@ title = "AIコーディングの限界点：プロジェクト肥大化で発生
 date = "2026-05-23T06:17:08.612175"
 tags = ["AI", "Tools", "LLM", "RAG", "フロントエンド"]
 draft = false
-description = "AIツール「AIコーディングの限界点：プロジェクト肥大化で発生する「サイレント崩壊」の真実と実践的対策」の活用法を紹介"
+description = "CursorやGitHub Copilot、ClaudeといったAIコーディングツールの進化は目覚ましい。単一ファイルの実装や小規模な個人開発において、AIはすでに「不可欠な開発パートナー」としての地位を確立している。"
 canonicalUrl = "https://techtrend-watch.com/posts/bmmm2sbqzt9eii/"
+author = "しろねぎ"
 +++
-
 
 # AIコーディングの限界点：プロジェクト肥大化で発生する「サイレント崩壊」の真実と実践的対策
 

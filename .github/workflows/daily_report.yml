@@ -2,9 +2,9 @@ name: Daily TechTrend Agent
 
 on:
   schedule:
-    # 1日1回に抑制（大量自動生成シグナルを下げAdSense審査リスクを低減）
-    # 07:00 JST (22:00 UTC prev day) - Morning
-    - cron: '0 22 * * *'
+    # 週1回に抑制（大量自動生成 = scaled content シグナルを下げAdSense審査リスクを低減）
+    # 毎週月曜 07:00 JST（JST=UTC+9 なので日曜 22:00 UTC）。cron の曜日 0=日曜。
+    - cron: '0 22 * * 0'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
@@ -76,7 +76,8 @@ jobs:
 
     - name: Build Website
       working-directory: ./website
-      run: hugo --minify
+      # --cleanDestinationDir: 間引きで削除した記事の古いHTMLを public から確実に除去する
+      run: hugo --minify --cleanDestinationDir
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3

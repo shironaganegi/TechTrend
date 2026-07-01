@@ -3,10 +3,10 @@ title = "1兆パラメータの衝撃：Xiaomi「MiMo-V2-Pro」が描くLLMの�
 date = "2026-03-22T10:35:24.577663"
 tags = ["AI", "Tools", "LLM", "オープンソース"]
 draft = false
-description = "AIツール「1兆パラメータの衝撃：Xiaomi「MiMo-V2-Pro」が描くLLMの新たな地平とその技術的真価」の活用法を紹介"
+description = "「Xiaomi（シャオミ）＝コストパフォーマンスに優れたスマートフォンメーカー」という認識は、もはや過去のものとなりつつあります。"
 canonicalUrl = "https://techtrend-watch.com/posts/addjkl1c50s068/"
+author = "しろねぎ"
 +++
-
 
 # 1兆パラメータの衝撃：Xiaomi「MiMo-V2-Pro」が描くLLMの新たな地平とその技術的真価
 

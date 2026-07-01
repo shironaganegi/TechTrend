@@ -1,12 +1,12 @@
 +++
-title = "GitHubで星を集める『離譜的英語学習指南』に学ぶ：マルチLLMを「オーケストレーション」する2026年版・次世代英語学習ハック (English)"
+title = "Learning from \"English-level-up-tips\" Gaining Stars on GitHub: Orchestrating Multi-LLMs for the 2026 Next-Gen English Learning Hack"
 date = "2026-05-29T23:19:57.806871"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
-description = "Introduction to GitHubで星を集める『離譜的英語学習指南』に学ぶ：マルチLLMを「オーケストレーション」する2026年版・次世代英語学習ハック (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/wcrzsocijo1180/"
+description = "How long will we continue to rely on \"static learning materials\" for English language learning? The era of memorizing vocabulary books and repeating generic…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/wcrzsocijo1180/"
+author = "しろねぎ"
 +++
-
 
 # Learning from "English-level-up-tips" Gaining Stars on GitHub: Orchestrating Multi-LLMs for the 2026 Next-Gen English Learning Hack
 

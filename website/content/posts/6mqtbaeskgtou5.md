@@ -3,10 +3,10 @@ title = "LLMの「手癖」を脱却せよ：『LLM Writing Tropes』が導く�
 date = "2026-03-09T04:58:21.649650"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "オープンソース"]
 draft = false
-description = "AIツール「LLMの「手癖」を脱却せよ：『LLM Writing Tropes』が導く、AIコンテンツの真の高度化」の活用法を紹介"
+description = "「AIに執筆を依頼したが、どこか味気ない、あるいは既視感がある」――。2026年現在、大規模言語モデル（LLM）の進化により、文法的な誤りはほぼ一掃された。"
 canonicalUrl = "https://techtrend-watch.com/posts/6mqtbaeskgtou5/"
+author = "しろねぎ"
 +++
-
 
 ## はじめに：AI生成文が陥る「不気味な谷」の正体
 

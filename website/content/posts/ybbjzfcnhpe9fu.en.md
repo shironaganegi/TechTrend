@@ -1,12 +1,12 @@
 +++
-title = "【Microsoftの至宝】次世代音声AI「VibeVoice」が示すオープンソースの極致——長尺TTSと構造化ASRがもたらすパラダイムシフト (English)"
+title = "[Microsoft's Crown Jewel] Next-Gen Voice AI \"VibeVoice\" Represents the Pinnacle of Open Source—The Paradigm Shift of Long-Form TTS and Structured ASR"
 date = "2026-04-29T23:02:51.000116"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "生成AI"]
 draft = false
-description = "Introduction to 【Microsoftの至宝】次世代音声AI「VibeVoice」が示すオープンソースの極致——長尺TTSと構造化ASRがもたらすパラダイムシフト (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/ybbjzfcnhpe9fu/"
+description = "The balance of power in the AI industry is approaching another major turning point."
+canonicalUrl = "https://techtrend-watch.com/en/posts/ybbjzfcnhpe9fu/"
+author = "しろねぎ"
 +++
-
 
 # [Microsoft's Crown Jewel] Next-Gen Voice AI "VibeVoice" Represents the Pinnacle of Open Source—The Paradigm Shift of Long-Form TTS and Structured ASR
 

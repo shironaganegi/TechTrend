@@ -3,10 +3,10 @@ title = "フレームワークを「書く」から「統治する」へ。Djang
 date = "2026-04-01T05:31:02.073443"
 tags = ["AI", "Tools", "セキュリティ", "Python", "データベース"]
 draft = false
-description = "AIツール「フレームワークを「書く」から「統治する」へ。Django MTVモデルがAI時代のエンジニアに不可欠な理由」の活用法を紹介"
+description = "AIによるコード生成がデフォルトとなった2026年、エンジニアの介在価値は「1からコードを書く力」から「生成された構造の妥当性を評価し、最適化する力」へと移行した。"
 canonicalUrl = "https://techtrend-watch.com/posts/4iis7fx6t8lzww/"
+author = "しろねぎ"
 +++
-
 
 ## はじめに：AI時代における「設計思想」の再定義
 

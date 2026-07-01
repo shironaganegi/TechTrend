@@ -3,10 +3,10 @@ title = "LLM・RAGの精度を劇的に向上させる。Microsoft公式のド�
 date = "2026-05-31T07:02:56.452152"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
-description = "AIツール「LLM・RAGの精度を劇的に向上させる。Microsoft公式のドキュメント変換ツール「MarkItDown」の実力と実装」の活用法を紹介"
+description = "ChatGPTやClaudeなどのLLM（大規模言語モデル）を実務プロセスやプロダクトに組み込む際、多くの開発者が直面するのが「PDF、Word、Excelといったオフィスドキュメントの読み込みとパース」という課題です。"
 canonicalUrl = "https://techtrend-watch.com/posts/09q84sad1imbbf/"
+author = "しろねぎ"
 +++
-
 
 # LLM・RAGの精度を劇的に向上させる。Microsoft公式のドキュメント変換ツール「MarkItDown」の実力と実装
 

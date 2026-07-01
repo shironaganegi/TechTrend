@@ -3,10 +3,10 @@ title = "【深掘り】あらゆるLLMを自律型エージェントへ昇華�
 date = "2026-04-05T05:20:42.013667"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "フロントエンド"]
 draft = false
-description = "AIツール「【深掘り】あらゆるLLMを自律型エージェントへ昇華させる——オープンソースRAGの決定版「Onyx」の実像」の活用法を紹介"
+description = "AI技術の指数関数的な進化の中で、我々は今、新たな壁に直面している。ChatGPTやClaude、Perplexityといった個別のLLM（大規模言語モデル）の性能は極まったが、それらを「自社の固有データとどう同期させ、…"
 canonicalUrl = "https://techtrend-watch.com/posts/i6af10zzuzuwk4/"
+author = "しろねぎ"
 +++
-
 
 # 【深掘り】あらゆるLLMを自律型エージェントへ昇華させる——オープンソースRAGの決定版「Onyx」の実像
 

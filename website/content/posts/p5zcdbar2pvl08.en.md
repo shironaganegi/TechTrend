@@ -1,12 +1,12 @@
 +++
-title = "23年の時を超えて：Claude CodeがLinuxカーネルの「最古級」脆弱性を看破した意義 (English)"
+title = "Beyond 23 Years: The Significance of Claude Code Exposing one of the Linux Kernel's \"Oldest\" Vulnerabilities"
 date = "2026-04-04T22:37:57.923516"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "オープンソース"]
 draft = false
-description = "Introduction to 23年の時を超えて：Claude CodeがLinuxカーネルの「最古級」脆弱性を看破した意義 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/p5zcdbar2pvl08/"
+description = "\"AI is merely a reconstruction of existing information\"—this sentiment may now be a relic of the past."
+canonicalUrl = "https://techtrend-watch.com/en/posts/p5zcdbar2pvl08/"
+author = "しろねぎ"
 +++
-
 
 # Beyond 23 Years: The Significance of Claude Code Exposing one of the Linux Kernel's "Oldest" Vulnerabilities
 

@@ -3,10 +3,10 @@ title = "AI生成の「不毛な長文」からチームを守る：会話の密
 date = "2026-05-21T23:08:12.350888"
 tags = ["AI", "Tools", "LLM", "セキュリティ", "DevOps", "クラウド"]
 draft = false
-description = "AIツール「AI生成の「不毛な長文」からチームを守る：会話の密度を回復するオープンソース『NoSlopGrenade』の技術と思想」の活用法を紹介"
+description = "近年、ChatGPTやClaudeをはじめとするLLM（大規模言語モデル）の普及により、テキストコミュニケーションの「生産性」は劇的に向上した。しかし、この恩恵の裏側で、新たなデジタル公害が急速に顕在化している。"
 canonicalUrl = "https://techtrend-watch.com/posts/xrqygu58oh0fpi/"
+author = "しろねぎ"
 +++
-
 
 # AI生成の「不毛な長文」からチームを守る：会話の密度を回復するオープンソース『NoSlopGrenade』の技術と思想
 

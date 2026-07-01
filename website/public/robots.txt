@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-
-# Google AdSense crawler
-User-agent: Mediapartners-Google
-Allow: /
-
-Sitemap: https://techtrend-watch.com/sitemap.xml

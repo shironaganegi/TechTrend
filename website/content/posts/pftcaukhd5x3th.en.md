@@ -1,12 +1,12 @@
 +++
-title = "3000行の「神main.py」に終止符を。Pythonで実践する「依存性の注入（DI）」設計パターン (English)"
+title = "Ending the Era of the 3000-Line \"God main.py\": Implementing the \"Dependency Injection (DI)\" Design Pattern in Python"
 date = "2026-06-10T23:42:09.754686"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "Python"]
 draft = false
-description = "Introduction to 3000行の「神main.py」に終止符を。Pythonで実践する「依存性の注入（DI）」設計パターン (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/pftcaukhd5x3th/"
+description = "Python boasts overwhelming convenience when it comes to rapid prototyping and quick implementations of AI agents."
+canonicalUrl = "https://techtrend-watch.com/en/posts/pftcaukhd5x3th/"
+author = "しろねぎ"
 +++
-
 
 # Ending the Era of the 3000-Line "God main.py": Implementing the "Dependency Injection (DI)" Design Pattern in Python
 

@@ -1,12 +1,12 @@
 +++
-title = "AIソフトウェア供給網の「聖域」を守る――Anthropicが提唱する「Project Glasswing」の真価と、開発環境のパラダイムシフト (English)"
+title = "Protecting the \"Sanctuary\" of the AI Software Supply Chain — The True Value of Anthropic's \"Project Glasswing\" and a Paradigm Shift in Development Environments"
 date = "2026-04-08T11:05:25.635288"
 tags = ["AI", "Tools", "LLM", "RAG", "セキュリティ", "DevOps"]
 draft = false
-description = "Introduction to AIソフトウェア供給網の「聖域」を守る――Anthropicが提唱する「Project Glasswing」の真価と、開発環境のパラダイムシフト (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/0ilvm2a4dkrz51/"
+description = "In an era where AI-driven code generation has become part of daily life and development speed has increased dramatically, an unprecedented risk is quietly but…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/0ilvm2a4dkrz51/"
+author = "しろねぎ"
 +++
-
 
 # Protecting the "Sanctuary" of the AI Software Supply Chain — The True Value of Anthropic's "Project Glasswing" and a Paradigm Shift in Development Environments
 

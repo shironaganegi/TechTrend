@@ -3,10 +3,10 @@ title = "Claude Codeの真価を引き出すエンジニアの新・流儀：攻
 date = "2026-03-31T05:15:51.808713"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "DevOps", "クラウド"]
 draft = false
-description = "AIツール「Claude Codeの真価を引き出すエンジニアの新・流儀：攻略リポジトリ「claude-howto」で自律型開発を実現する」の活用法を紹介"
+description = "Anthropicが発表したターミナル用AIエージェント「Claude Code」は、エンジニアの作業環境を根本から変えるポテンシャルを秘めています。"
 canonicalUrl = "https://techtrend-watch.com/posts/fa27o7doxhis7g/"
+author = "しろねぎ"
 +++
-
 
 # Claude Codeの真価を引き出すエンジニアの新・流儀：攻略リポジトリ「claude-howto」で自律型開発を実現する
 

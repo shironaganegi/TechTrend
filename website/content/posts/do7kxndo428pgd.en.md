@@ -1,12 +1,12 @@
 +++
-title = "ブラウザ自動化の「保守」という概念が消える日。自律型エージェント「Intuned Agent」が定義する新機軸 (English)"
+title = "The Day \"Maintenance\" Vanishes from Browser Automation: A New Frontier Defined by the Autonomous \"Intuned Agent\""
 date = "2026-05-05T11:20:42.877293"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "クラウド"]
 draft = false
-description = "Introduction to ブラウザ自動化の「保守」という概念が消える日。自律型エージェント「Intuned Agent」が定義する新機軸 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/do7kxndo428pgd/"
+description = "For engineers involved in browser automation—whether it be web scraping or end-to-end (E2E) testing—the long-standing Achilles' heel has been the \"fragility of…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/do7kxndo428pgd/"
+author = "しろねぎ"
 +++
-
 
 # The Day "Maintenance" Vanishes from Browser Automation: A New Frontier Defined by the Autonomous "Intuned Agent"
 

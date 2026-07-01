@@ -3,10 +3,10 @@ title = "AIエージェントの「ラストワンマイル」を突破する：
 date = "2026-05-08T11:24:07.203163"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ", "データベース"]
 draft = false
-description = "AIツール「AIエージェントの「ラストワンマイル」を突破する：Monid 2.0がもたらすツール接続の抽象化と標準化」の活用法を紹介"
+description = "AIエージェント開発の最前線において、今、大きなパラダイムシフトが起きている。かつて開発者の頭を悩ませたのは「どのモデル（LLM）を選ぶか」という選択肢の多さであった。"
 canonicalUrl = "https://techtrend-watch.com/posts/7ewrqk2kqklvbo/"
+author = "しろねぎ"
 +++
-
 
 # AIエージェントの「ラストワンマイル」を突破する：Monid 2.0がもたらすツール接続の抽象化と標準化
 

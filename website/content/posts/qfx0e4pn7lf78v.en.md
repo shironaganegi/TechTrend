@@ -1,12 +1,12 @@
 +++
-title = "慢性疾患に特化したAIコンパニオン「Juno」が示す、LLMヘルスケア変革のロードマップ (English)"
+title = "The LLM Healthcare Transformation Roadmap: Insights from Chronic Disease AI Companion \"Juno\""
 date = "2026-06-11T14:09:48.590652"
 tags = ["AI", "Tools", "LLM", "RAG", "オープンソース"]
 draft = false
-description = "Introduction to 慢性疾患に特化したAIコンパニオン「Juno」が示す、LLMヘルスケア変革のロードマップ (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/qfx0e4pn7lf78v/"
+description = "The evolution of artificial intelligence (AI) has moved beyond the phases of text generation and automated coding, rapidly penetrating the realm of…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/qfx0e4pn7lf78v/"
+author = "しろねぎ"
 +++
-
 
 # The LLM Healthcare Transformation Roadmap: Insights from Chronic Disease AI Companion "Juno"
 

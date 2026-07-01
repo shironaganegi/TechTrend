@@ -1,12 +1,12 @@
 +++
-title = "Claude Codeの真価を引き出す公式プラグインエコシステム：MCPがもたらす開発環境の再定義 (English)"
+title = "The Official Plugin Ecosystem Unlocking the True Power of Claude Code: How MCP Redefines the Development Environment"
 date = "2026-05-24T06:42:11.803736"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "Python", "オープンソース"]
 draft = false
-description = "Introduction to Claude Codeの真価を引き出す公式プラグインエコシステム：MCPがもたらす開発環境の再定義 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/dgytcp5o8mcvpk/"
+description = "\"Claude Code\" is rapidly gaining support as a terminal-based AI development agent."
+canonicalUrl = "https://techtrend-watch.com/en/posts/dgytcp5o8mcvpk/"
+author = "しろねぎ"
 +++
-
 
 # The Official Plugin Ecosystem Unlocking the True Power of Claude Code: How MCP Redefines the Development Environment
 

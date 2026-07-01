@@ -18,3 +18,8 @@ venv/
 
 # Logs
 logs/
+
+# Hugo build output（ビルド成果物はコミットしない。デプロイはCIが都度ビルドする）
+website/public/
+website/resources/
+website/.hugo_build.lock

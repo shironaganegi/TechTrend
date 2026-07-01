@@ -1,12 +1,12 @@
 +++
-title = "言語学習の「死の谷」をAIが埋める——パーソナライズ・ド・ストーリーテリング「Lingofable」が示す新境地 (English)"
+title = "AI Bridges the \"Valley of Death\" in Language Learning: The New Frontier of Personalized Storytelling with \"Lingofable\""
 date = "2026-03-14T10:35:54.882175"
 tags = ["AI", "Tools", "LLM", "RAG", "データベース", "オープンソース"]
 draft = false
-description = "Introduction to 言語学習の「死の谷」をAIが埋める——パーソナライズ・ド・ストーリーテリング「Lingofable」が示す新境地 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/6zzoy5m6emsd9h/"
+description = "\"I set out to learn a language, but gave up by the third page of the vocabulary book.\" This universal experience of failure is not due to a lack of persistence…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/6zzoy5m6emsd9h/"
+author = "しろねぎ"
 +++
-
 
 # AI Bridges the "Valley of Death" in Language Learning: The New Frontier of Personalized Storytelling with "Lingofable"
 

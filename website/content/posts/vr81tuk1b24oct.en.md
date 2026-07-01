@@ -1,12 +1,12 @@
 +++
-title = "AI時代の「知の空洞化」——名門UCバークレーで急増する落第生と、次世代エンジニアが直面する静かな危機 (English)"
+title = "The \"Hollowing Out of Knowledge\" in the AI Era: Rising Failures at Prestigious UC Berkeley and the Silent Crisis Facing Next-Generation Engineers"
 date = "2026-06-04T23:14:32.837555"
 tags = ["AI", "Tools", "LLM", "RAG", "機械学習"]
 draft = false
-description = "Introduction to AI時代の「知の空洞化」——名門UCバークレーで急増する落第生と、次世代エンジニアが直面する静かな危機 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/vr81tuk1b24oct/"
+description = "\"Why should we bother learning foundational math and algorithms now, in an era when AI can just generate code for us?\""
+canonicalUrl = "https://techtrend-watch.com/en/posts/vr81tuk1b24oct/"
+author = "しろねぎ"
 +++
-
 
 # The "Hollowing Out of Knowledge" in the AI Era: Rising Failures at Prestigious UC Berkeley and the Silent Crisis Facing Next-Generation Engineers
 

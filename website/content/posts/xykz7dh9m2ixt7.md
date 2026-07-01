@@ -3,10 +3,10 @@ title = "【ローカル完結】NotebookLMのOSS代替「Open Notebook」の実
 date = "2026-06-06T11:39:46.531173"
 tags = ["AI", "Tools", "LLM", "RAG", "セキュリティ", "DevOps"]
 draft = false
-description = "AIツール「【ローカル完結】NotebookLMのOSS代替「Open Notebook」の実力――18以上のAIモデル対応と鉄壁のプライバシーを両立する新星」の活用法を紹介"
+description = "Googleが提供する「NotebookLM」は、アップロードした資料を即座に要約・分析し、疑似的なポッドキャストまで生成できる画期的なツールとして大きな注目を集めています。"
 canonicalUrl = "https://techtrend-watch.com/posts/xykz7dh9m2ixt7/"
+author = "しろねぎ"
 +++
-
 
 # 【ローカル完結】NotebookLMのOSS代替「Open Notebook」の実力――18以上のAIモデル対応と鉄壁のプライバシーを両立する新星
 

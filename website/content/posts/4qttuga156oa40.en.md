@@ -1,12 +1,12 @@
 +++
-title = "ヤン・ルカンが描く「物理法則を解するAI」：10億ドルの巨額資金が照らすLLMの次の地平 (English)"
+title = "Yann LeCun’s Vision for \"AI That Understands Physics\": A $1 Billion Fund Illuminates the Next Horizon Beyond LLMs"
 date = "2026-03-11T10:50:52.815715"
 tags = ["AI", "Tools", "LLM", "機械学習", "クラウド", "オープンソース"]
 draft = false
-description = "Introduction to ヤン・ルカンが描く「物理法則を解するAI」：10億ドルの巨額資金が照らすLLMの次の地平 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/4qttuga156oa40/"
+description = "The AI industry has been struck by a seismic shift that signals yet another paradigm change."
+canonicalUrl = "https://techtrend-watch.com/en/posts/4qttuga156oa40/"
+author = "しろねぎ"
 +++
-
 
 # Yann LeCun’s Vision for "AI That Understands Physics": A $1 Billion Fund Illuminates the Next Horizon Beyond LLMs
 

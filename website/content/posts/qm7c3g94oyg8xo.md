@@ -3,10 +3,10 @@ title = "自律進化するAIエージェントの夜明け——Nous Research�
 date = "2026-06-05T12:45:14.321662"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "DevOps", "クラウド"]
 draft = false
-description = "AIツール「自律進化するAIエージェントの夜明け——Nous Research「Hermes Agent」がもたらす開発自動化の技術的ブレイクスルー」の活用法を紹介"
+description = "オープンソースのLLM（大規模言語モデル）シーンにおいて、常に一線を画した存在感を放ち続ける「Nous Hermes」シリーズ。"
 canonicalUrl = "https://techtrend-watch.com/posts/qm7c3g94oyg8xo/"
+author = "しろねぎ"
 +++
-
 
 # 自律進化するAIエージェントの夜明け——Nous Research「Hermes Agent」がもたらす開発自動化の技術的ブレイクスルー
 

@@ -1,12 +1,12 @@
 +++
-title = "スマホで爆速動作：超軽量1Bモデル「MiniCPM5-1B」が切り拓くオンデバイスAIの未来 (English)"
+title = "Blazing Fast on Smartphones: How the Ultra-Lightweight 1B Model \"MiniCPM5-1B\" Is Shaping the Future of On-Device AI"
 date = "2026-05-26T23:15:40.328604"
 tags = ["AI", "Tools", "LLM", "機械学習", "オープンソース"]
 draft = false
-description = "Introduction to スマホで爆速動作：超軽量1Bモデル「MiniCPM5-1B」が切り拓くオンデバイスAIの未来 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/slmal1zbvertg7/"
+description = "Against the trend of ever-growing Large Language Models (LLMs), several challenges are being raised in the development community."
+canonicalUrl = "https://techtrend-watch.com/en/posts/slmal1zbvertg7/"
+author = "しろねぎ"
 +++
-
 
 # Blazing Fast on Smartphones: How the Ultra-Lightweight 1B Model "MiniCPM5-1B" Is Shaping the Future of On-Device AI
 

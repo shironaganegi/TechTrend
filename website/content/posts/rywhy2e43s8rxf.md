@@ -3,10 +3,10 @@ title = "Optionキー一発で文脈を完全同期。自己の「デジタル�
 date = "2026-06-16T15:14:58.372512"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "機械学習"]
 draft = false
-description = "AIツール「Optionキー一発で文脈を完全同期。自己の「デジタルツイン」を生成するパーソナルAIアシスタント「Goldfish」がもたらすパラダイムシフト」の活用法を紹介"
+description = "現代のナレッジワーカー、とりわけエンジニアやクリエイターは、深刻な「コミュニケーションのオーバーヘッド」に直面している。"
 canonicalUrl = "https://techtrend-watch.com/posts/rywhy2e43s8rxf/"
+author = "しろねぎ"
 +++
-
 
 # Optionキー一発で文脈を完全同期。自己の「デジタルツイン」を生成するパーソナルAIアシスタント「Goldfish」がもたらすパラダイムシフト
 

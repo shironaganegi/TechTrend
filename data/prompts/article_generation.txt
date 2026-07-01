@@ -42,6 +42,8 @@ Topic Info:
 - **Min Length**: **1,500+ characters** (excluding code/tags). Deliver depth and substance.
 - **Originality**: Provide **Additional Commentary (独自の解説)**. Do NOT just summarize the README. Think as a tech consultant.
 - **Thin Content Avoidance**: Ensure every paragraph adds new information or perspective. No filler text.
+- **Structural Variety (重要)**: 毎回まったく同じ雛形（expert-opinion → 比較表 → FAQ → まとめ の固定順）を機械的に繰り返さないこと。トピックの性質に応じて見出し・順序・要素の有無を変え、テンプレート然とした量産感を避ける。比較表やFAQは「その記事にとって意味がある場合のみ」用いる。
+- **First-hand Concreteness**: READMEの言い換えに留めず、具体的なバージョン差・ユースケース・想定される失敗例・代替案との使い分けなど、実際に触った開発者にしか書けない粒度の情報を最低1つ含める。
 - **Anti-Spam**: No **Keyword Stuffing**. Do not unnaturally repeat project names or industry buzzwords.
 - **EEAT Focus**: Maintain a professional yet engaging tone that builds trust with developers.
 - **No Meta-Disclosure**: NEVER state or imply that the article is AI-generated, auto-generated, or machine-written. Write as a human editor would. Do not mention "AI agent", "自動生成", "as an AI", or the publishing system itself anywhere in the body.

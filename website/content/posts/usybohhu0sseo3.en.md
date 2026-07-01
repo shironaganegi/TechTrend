@@ -1,12 +1,12 @@
 +++
-title = "Webスクレイピングの新境地。Cloudflareの障壁を無効化するステルスブラウザ『CloakBrowser』の正体 (English)"
+title = "The New Frontier of Web Scraping: Unmasking \"CloakBrowser,\" the Stealth Browser That Neutralizes Cloudflare Barriers"
 date = "2026-05-10T11:04:10.164589"
 tags = ["AI", "Tools", "RAG", "DevOps", "クラウド", "フロントエンド"]
 draft = false
-description = "Introduction to Webスクレイピングの新境地。Cloudflareの障壁を無効化するステルスブラウザ『CloakBrowser』の正体 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/usybohhu0sseo3/"
+description = "In an era where the utilization of web data determines the success or failure of a business, the endless cat-and-mouse game with \"Bot Detection Systems\"…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/usybohhu0sseo3/"
+author = "しろねぎ"
 +++
-
 
 # The New Frontier of Web Scraping: Unmasking "CloakBrowser," the Stealth Browser That Neutralizes Cloudflare Barriers
 

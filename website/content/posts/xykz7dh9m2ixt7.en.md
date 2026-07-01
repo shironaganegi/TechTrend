@@ -1,12 +1,12 @@
 +++
-title = "【ローカル完結】NotebookLMのOSS代替「Open Notebook」の実力――18以上のAIモデル対応と鉄壁のプライバシーを両立する新星 (English)"
+title = "[Fully Local] The Power of \"Open Notebook,\" the OSS Alternative to NotebookLM — A Rising Star Balancing Support for 18+ AI Models with Ironclad Privacy"
 date = "2026-06-06T11:39:46.532255"
 tags = ["AI", "Tools", "LLM", "RAG", "DevOps", "フロントエンド"]
 draft = false
-description = "Introduction to 【ローカル完結】NotebookLMのOSS代替「Open Notebook」の実力――18以上のAIモデル対応と鉄壁のプライバシーを両立する新星 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/xykz7dh9m2ixt7/"
+description = "Google's \"NotebookLM\" has garnered significant attention as a groundbreaking tool that can instantly summarize and analyze uploaded documents and even generate…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/xykz7dh9m2ixt7/"
+author = "しろねぎ"
 +++
-
 
 # [Fully Local] The Power of "Open Notebook," the OSS Alternative to NotebookLM — A Rising Star Balancing Support for 18+ AI Models with Ironclad Privacy
 

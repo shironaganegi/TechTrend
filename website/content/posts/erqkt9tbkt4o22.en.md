@@ -1,12 +1,12 @@
 +++
-title = "【徹底解説】Claude Codeが「開発の挫折」を終わらせる。Pythonパーサ実装を1日で完遂する新時代のワークフロー (English)"
+title = "[In-Depth] Claude Code Ends \"Development Frustration\": A New Era Workflow to Complete a Python Parser in One Day"
 date = "2026-04-02T10:58:42.824617"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "Python"]
 draft = false
-description = "Introduction to 【徹底解説】Claude Codeが「開発の挫折」を終わらせる。Pythonパーサ実装を1日で完遂する新時代のワークフロー (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/erqkt9tbkt4o22/"
+description = "\"I tried to build my own compiler or parser, but I got lost in the labyrinth of recursive descent parsing and eventually gave up.\" This is a path many…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/erqkt9tbkt4o22/"
+author = "しろねぎ"
 +++
-
 
 # [In-Depth] Claude Code Ends "Development Frustration": A New Era Workflow to Complete a Python Parser in One Day
 

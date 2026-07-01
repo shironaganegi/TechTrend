@@ -3,10 +3,10 @@ title = "【深層解析】CERNが挑む「シリコンに刻む知能」——L
 date = "2026-03-29T05:18:42.739933"
 tags = ["AI", "Tools", "LLM", "クラウド", "Python", "オープンソース"]
 draft = false
-description = "AIツール「【深層解析】CERNが挑む「シリコンに刻む知能」——LHCの超高速データ処理を刷新するFPGAとTinyMLの衝撃」の活用法を紹介"
+description = "世界最高峰の科学探究の場であるCERN（欧州原子核研究機構）。その心臓部である大型ハドロン衝突型加速器（LHC）において、今、コンピューティングの歴史を塗り替えるパラダイムシフトが起きている。"
 canonicalUrl = "https://techtrend-watch.com/posts/pd96v5leq8zgcn/"
+author = "しろねぎ"
 +++
-
 
 # 【深層解析】CERNが挑む「シリコンに刻む知能」——LHCの超高速データ処理を刷新するFPGAとTinyMLの衝撃
 

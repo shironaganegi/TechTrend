@@ -3,10 +3,10 @@ title = "Pythonで日常の主導権を取り戻す。『スクレイピング�
 date = "2026-06-15T15:54:33.048790"
 tags = ["AI", "Tools", "LLM", "セキュリティ", "DevOps", "フロントエンド"]
 draft = false
-description = "AIツール「Pythonで日常の主導権を取り戻す。『スクレイピング・ハッキング・ラボ』が示す、自動化とモダンWeb解析の極意」の活用法を紹介"
+description = "日々の業務やプライベートにおいて、ブラウザ上での単純なコピペ作業や、手動での情報収集に貴重な時間を奪われてはいないだろうか。"
 canonicalUrl = "https://techtrend-watch.com/posts/atbsb0004zskaf/"
+author = "しろねぎ"
 +++
-
 
 # Pythonで日常の主導権を取り戻す。『スクレイピング・ハッキング・ラボ』が示す、自動化とモダンWeb解析の極意
 

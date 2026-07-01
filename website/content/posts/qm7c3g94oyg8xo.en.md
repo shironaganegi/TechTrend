@@ -1,12 +1,12 @@
 +++
-title = "自律進化するAIエージェントの夜明け——Nous Research「Hermes Agent」がもたらす開発自動化の技術的ブレイクスルー (English)"
+title = "The Dawn of Self-Evolving AI Agents—Technological Breakthroughs in Development Automation with Nous Research \"Hermes Agent\""
 date = "2026-06-05T12:45:14.322804"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "DevOps"]
 draft = false
-description = "Introduction to 自律進化するAIエージェントの夜明け——Nous Research「Hermes Agent」がもたらす開発自動化の技術的ブレイクスルー (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/qm7c3g94oyg8xo/"
+description = "The \"Nous Hermes\" series has always maintained a distinct, leading presence in the open-source LLM (Large Language Model) scene."
+canonicalUrl = "https://techtrend-watch.com/en/posts/qm7c3g94oyg8xo/"
+author = "しろねぎ"
 +++
-
 
 # The Dawn of Self-Evolving AI Agents—Technological Breakthroughs in Development Automation with Nous Research "Hermes Agent"
 

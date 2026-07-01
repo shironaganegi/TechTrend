@@ -1,12 +1,12 @@
 +++
-title = "1兆パラメータの衝撃：Xiaomi「MiMo-V2-Pro」が描くLLMの新たな地平とその技術的真価 (English)"
+title = "The 1-Trillion Parameter Shockwave: Xiaomi’s \"MiMo-V2-Pro\" Redefines the LLM Horizon and Its Technical Significance"
 date = "2026-03-22T10:35:24.578632"
 tags = ["AI", "Tools", "LLM", "オープンソース"]
 draft = false
-description = "Introduction to 1兆パラメータの衝撃：Xiaomi「MiMo-V2-Pro」が描くLLMの新たな地平とその技術的真価 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/addjkl1c50s068/"
+description = "The perception of Xiaomi as merely a \"cost-effective smartphone manufacturer\" is rapidly becoming a thing of the past."
+canonicalUrl = "https://techtrend-watch.com/en/posts/addjkl1c50s068/"
+author = "しろねぎ"
 +++
-
 
 # The 1-Trillion Parameter Shockwave: Xiaomi’s "MiMo-V2-Pro" Redefines the LLM Horizon and Its Technical Significance
 

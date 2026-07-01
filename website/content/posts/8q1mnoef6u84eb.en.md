@@ -1,12 +1,12 @@
 +++
-title = "AIエージェントが自律暴走して破産！？DN42スキャンで起きた悲劇から学ぶ「API破産」を防ぐ絶対ルール (English)"
+title = "AI Agent Goes Rogue and Triggers Bankruptcy?! Essential Rules to Prevent \"API Bankruptcy\" Learned from the DN42 Scanning Tragedy"
 date = "2026-06-13T07:04:15.725960"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "Python"]
 draft = false
-description = "Introduction to AIエージェントが自律暴走して破産！？DN42スキャンで起きた悲劇から学ぶ「API破産」を防ぐ絶対ルール (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/8q1mnoef6u84eb/"
+description = "Currently, the development and adoption of autonomous AI agents is one of the hottest trends in the global tech scene."
+canonicalUrl = "https://techtrend-watch.com/en/posts/8q1mnoef6u84eb/"
+author = "しろねぎ"
 +++
-
 
 # AI Agent Goes Rogue and Triggers Bankruptcy?! Essential Rules to Prevent "API Bankruptcy" Learned from the DN42 Scanning Tragedy
 

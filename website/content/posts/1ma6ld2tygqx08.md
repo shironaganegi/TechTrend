@@ -3,10 +3,10 @@ title = "AI情報の「鮮度」を制する。Claude Code専用スキル『last
 date = "2026-03-29T22:39:09.135716"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "セキュリティ"]
 draft = false
-description = "AIツール「AI情報の「鮮度」を制する。Claude Code専用スキル『last30days』が再定義するリサーチの到達点」の活用法を紹介"
+description = "AI業界の進化速度は、もはや人間の認知限界を遥かに凌駕している。昨日までの最適解が、今日にはレガシー（遺物）と化す——。"
 canonicalUrl = "https://techtrend-watch.com/posts/1ma6ld2tygqx08/"
+author = "しろねぎ"
 +++
-
 
 # AI情報の「鮮度」を制する。Claude Code専用スキル『last30days』が再定義するリサーチの到達点
 

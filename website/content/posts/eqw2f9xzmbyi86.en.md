@@ -1,12 +1,12 @@
 +++
-title = "オプティカルフローが紡ぐ数理の美――鳴門の渦潮から宇宙の超新星まで、森羅万象の「動き」を定量化する技術 (English)"
+title = "The Mathematical Beauty of Optical Flow: Quantifying \"Movement\" in All Things, From Naruto's Whirlpools to Cosmic Supernovae"
 date = "2026-06-12T07:29:15.142864"
 tags = ["AI", "Tools", "RAG", "生成AI", "機械学習", "クラウド"]
 draft = false
-description = "Introduction to オプティカルフローが紡ぐ数理の美――鳴門の渦潮から宇宙の超新星まで、森羅万象の「動き」を定量化する技術 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/eqw2f9xzmbyi86/"
+description = "In recent years, with the rise of generative AI and Large Multimodal Models (LMMs), image and video analysis technologies have undergone rapid evolution."
+canonicalUrl = "https://techtrend-watch.com/en/posts/eqw2f9xzmbyi86/"
+author = "しろねぎ"
 +++
-
 
 # The Mathematical Beauty of Optical Flow: Quantifying "Movement" in All Things, From Naruto's Whirlpools to Cosmic Supernovae
 

@@ -1,12 +1,12 @@
 +++
-title = "180万件の労働データにフリーアクセス。「Job Postings API」がもたらすAI開発・市場分析のパラダイムシフト (English)"
+title = "Free Access to 1.8 Million Job Records: How the \"Job Postings API\" Drives a Paradigm Shift in AI Development and Market Analysis"
 date = "2026-06-07T07:10:55.613992"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "クラウド"]
 draft = false
-description = "Introduction to 180万件の労働データにフリーアクセス。「Job Postings API」がもたらすAI開発・市場分析のパラダイムシフト (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/aprwpggryjnh82/"
+description = "In modern AI application development, securing \"high-quality, real-time data\" continuously and cost-effectively is a critical factor that can make or break a…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/aprwpggryjnh82/"
+author = "しろねぎ"
 +++
-
 
 # Free Access to 1.8 Million Job Records: How the "Job Postings API" Drives a Paradigm Shift in AI Development and Market Analysis
 

@@ -1,12 +1,12 @@
 +++
-title = "🚀 RAG入門を超越する：LLMの「知性の拡張」がAI開発を革新する (English)"
+title = "🚀 Beyond RAG Basics: How LLM 'Intelligence Augmentation' Revolutionizes AI Development"
 date = "2026-06-18T23:49:59.970658"
 tags = ["AI", "Tools", "LLM", "RAG", "\u6a5f\u68b0\u5b66\u7fd2", "Python"]
 draft = false
-description = "Introduction to 🚀 RAG入門を超越する：LLMの「知性の拡張」がAI開発を革新する (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/ku1yiwuqabd33b/"
+description = "In today's digital world, generative AI, especially Large Language Models (LLMs), is redefining the boundaries of business and technology."
+canonicalUrl = "https://techtrend-watch.com/en/posts/ku1yiwuqabd33b/"
+author = "しろねぎ"
 +++
-
 
 # 🚀 Beyond RAG Basics: How LLM 'Intelligence Augmentation' Revolutionizes AI Development
 

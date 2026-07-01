@@ -1,12 +1,12 @@
 +++
-title = "Oracle AI Database 26aiが拓く「自律型データ基盤」の新境地：Agent FactoryとMCPがもたらすアーキテクチャの転換 (English)"
+title = "Oracle AI Database 26ai: A New Frontier in \"Autonomous Data Foundations\" – The Architectural Shift Driven by Agent Factory and MCP"
 date = "2026-03-27T10:56:37.547774"
 tags = ["AI", "Tools", "LLM", "RAG", "AIエージェント", "クラウド"]
 draft = false
-description = "Introduction to Oracle AI Database 26aiが拓く「自律型データ基盤」の新境地：Agent FactoryとMCPがもたらすアーキテクチャの転換 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/9axb6t696gjbl4/"
+description = "As the pace of AI evolution accelerates exponentially, the \"integration of LLMs and data\" has become the primary challenge in engineering."
+canonicalUrl = "https://techtrend-watch.com/en/posts/9axb6t696gjbl4/"
+author = "しろねぎ"
 +++
-
 
 # Oracle AI Database 26ai: A New Frontier in "Autonomous Data Foundations" – The Architectural Shift Driven by Agent Factory and MCP
 

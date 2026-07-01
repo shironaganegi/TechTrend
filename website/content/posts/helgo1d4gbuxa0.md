@@ -3,10 +3,10 @@ title = "OSと知能の「融解」。デスクトップ・ネイティブAI「F
 date = "2026-05-04T11:56:02.629639"
 tags = ["AI", "Tools", "LLM", "セキュリティ", "DevOps"]
 draft = false
-description = "AIツール「OSと知能の「融解」。デスクトップ・ネイティブAI「Flowly」が変革する、知的生産の新たな地平」の活用法を紹介"
+description = "現代のナレッジワーカーが直面している最大の敵は、情報の断片化による「コンテキスト・スイッチ」である。2026年、AIツールは百花繚乱の時代を迎えたが、その多くは依然としてブラウザのタブの中に閉じ込められている。"
 canonicalUrl = "https://techtrend-watch.com/posts/helgo1d4gbuxa0/"
+author = "しろねぎ"
 +++
-
 
 # OSと知能の「融解」。デスクトップ・ネイティブAI「Flowly」が変革する、知的生産の新たな地平
 

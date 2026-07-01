@@ -3,10 +3,10 @@ title = "「検索」を「思索」へ。Agentic RAGが切り拓く次世代AI�
 date = "2026-04-20T11:24:19.235547"
 tags = ["AI", "Tools", "LLM", "RAG", "セキュリティ", "データベース"]
 draft = false
-description = "AIツール「「検索」を「思索」へ。Agentic RAGが切り拓く次世代AIアーキテクチャの全貌」の活用法を紹介"
+description = "AIアプリケーション開発の最前線において、今最も注目すべきパラダイムシフトが「Agentic RAG（エージェント的検索拡張生成）」である。"
 canonicalUrl = "https://techtrend-watch.com/posts/jmvy9u5vi7lzw8/"
+author = "しろねぎ"
 +++
-
 
 # 「検索」を「思索」へ。Agentic RAGが切り拓く次世代AIアーキテクチャの全貌
 

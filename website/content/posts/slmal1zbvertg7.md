@@ -3,10 +3,10 @@ title = "スマホで爆速動作：超軽量1Bモデル「MiniCPM5-1B」が切�
 date = "2026-05-26T23:15:40.327541"
 tags = ["AI", "Tools", "LLM", "生成AI", "機械学習", "クラウド"]
 draft = false
-description = "AIツール「スマホで爆速動作：超軽量1Bモデル「MiniCPM5-1B」が切り拓くオンデバイスAIの未来」の活用法を紹介"
+description = "巨大化を続けるLLM（大規模言語モデル）のトレンドに対し、開発現場からはいくつかの課題が提起されています。「クラウドのAPIコストが事業を圧迫する」「リアルタイムな応答には通信遅延（レイテンシ）が許容できない」――こうし…"
 canonicalUrl = "https://techtrend-watch.com/posts/slmal1zbvertg7/"
+author = "しろねぎ"
 +++
-
 
 # スマホで爆速動作：超軽量1Bモデル「MiniCPM5-1B」が切り拓くオンデバイスAIの未来
 

@@ -3,10 +3,10 @@ title = "AIエージェントを「規律あるプロフェッショナル」へ
 date = "2026-03-11T04:48:42.662777"
 tags = ["AI", "Tools", "LLM", "AIエージェント", "フロントエンド", "Python"]
 draft = false
-description = "AIツール「AIエージェントを「規律あるプロフェッショナル」へ。開発手法『superpowers』が定義する次世代のエンジニアリング」の活用法を紹介"
+description = "「AIにコードを書かせたものの、最終的にはスパゲッティコードの修正に追われた」——多くの開発者が直面しているこの課題は、現在のAI開発における一つの限界を示唆している。"
 canonicalUrl = "https://techtrend-watch.com/posts/rwycuj7h4esm57/"
+author = "しろねぎ"
 +++
-
 
 # AIエージェントを「規律あるプロフェッショナル」へ。開発手法『superpowers』が定義する次世代のエンジニアリング
 

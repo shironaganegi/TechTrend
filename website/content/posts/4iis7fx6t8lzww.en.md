@@ -1,12 +1,12 @@
 +++
-title = "フレームワークを「書く」から「統治する」へ。Django MTVモデルがAI時代のエンジニアに不可欠な理由 (English)"
+title = "フレームワークを「書く」から「統治する」へ。Django MTVモデルがAI時代のエンジニアに不可欠な理由"
 date = "2026-04-01T05:31:02.074606"
 tags = ["AI", "Tools", "LLM", "フロントエンド", "Python"]
 draft = false
-description = "Introduction to フレームワークを「書く」から「統治する」へ。Django MTVモデルがAI時代のエンジニアに不可欠な理由 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/4iis7fx6t8lzww/"
+description = "In 2026, where AI-driven code generation has become the default, the value provided by an engineer has shifted from \"the ability to write code from scratch\" to…"
+canonicalUrl = "https://techtrend-watch.com/en/posts/4iis7fx6t8lzww/"
+author = "しろねぎ"
 +++
-
 
 ## Introduction: Redefining "Design Philosophy" in the Age of AI
 

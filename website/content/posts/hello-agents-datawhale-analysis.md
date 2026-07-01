@@ -1,10 +1,11 @@
-﻿+++
++++
 title = "賢いだけのAIは、もういらない。2025年「エージェント元年」を生き抜く羅針盤『hello-agents』を解剖する"
 date = "2026-03-09T00:00:00+09:00"
 tags = ["AI", "Agents", "Python", "Datawhale"]
 draft = false
 description = "2025年「エージェント元年」を生き抜くための決定版ガイド『hello-agents』を徹底解剖。"
 canonicalUrl = "https://techtrend-watch.com/posts/hello-agents-datawhale-analysis/"
+author = "しろねぎ"
 +++
 
 # 賢いだけのAIは、もういらない。2025年「エージェント元年」を生き抜く羅針盤『hello-agents』を解剖する

@@ -1,12 +1,12 @@
 +++
-title = "境界線が消失する：Anthropic「Claude Design」が再定義するUI開発の未来 (English)"
+title = "The Vanishing Boundary: How Anthropic's \"Claude Design\" Redefines the Future of UI Development"
 date = "2026-04-18T22:42:45.071578"
 tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "フロントエンド"]
 draft = false
-description = "Introduction to 境界線が消失する：Anthropic「Claude Design」が再定義するUI開発の未来 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/2zsujxa40tyq66/"
+description = "Anthropic, a frontrunner in the AI industry, has finally made a serious move into the \"sanctuary\" of design."
+canonicalUrl = "https://techtrend-watch.com/en/posts/2zsujxa40tyq66/"
+author = "しろねぎ"
 +++
-
 
 # The Vanishing Boundary: How Anthropic's "Claude Design" Redefines the Future of UI Development
 

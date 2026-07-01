@@ -1,12 +1,12 @@
 +++
-title = "音声が切り拓くロボティクスの新境地。低遅延音声制御システム「ClawMote」が示す身体拡張の未来 (English)"
+title = "A New Frontier in Robotics: How the \"ClawMote\" Low-Latency Voice Control System Defines the Future of Human Augmentation"
 date = "2026-03-13T10:44:53.204258"
 tags = ["AI", "Tools", "LLM", "Python", "オープンソース"]
 draft = false
-description = "Introduction to 音声が切り拓くロボティクスの新境地。低遅延音声制御システム「ClawMote」が示す身体拡張の未来 (English)"
-canonicalUrl = "https://techtrend-watch.com/posts/bgioj568ivdslr/"
+description = "In the act of \"operating a robot,\" we have long been tethered to physical devices—heavy controllers and complex keyboard sequences."
+canonicalUrl = "https://techtrend-watch.com/en/posts/bgioj568ivdslr/"
+author = "しろねぎ"
 +++
-
 
 # A New Frontier in Robotics: How the "ClawMote" Low-Latency Voice Control System Defines the Future of Human Augmentation
 
