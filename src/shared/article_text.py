@@ -19,6 +19,28 @@ _CODE_FENCE_RE = re.compile(r'```[\s\S]*?```')
 # 残存 HTML タグ
 _HTML_TAG_RE = re.compile(r'<[^>]+>')
 
+# 本文末尾に付く隠しブロックの種類ごとの (開始マーカー, 終了マーカー)
+HIDDEN_BLOCKS = {
+    "x_post": ("---X_POST_START---", "---X_POST_END---"),
+    "note_intro": ("---NOTE_INTRO_START---", "---NOTE_INTRO_END---"),
+    "image_prompt": ("---IMAGE_PROMPT_START---", "---IMAGE_PROMPT_END---"),
+}
+
+
+def extract_hidden_block(text: str, kind: str) -> str:
+    """text から kind に対応する隠しブロックの中身を抽出する。無ければ空文字。"""
+    start, end = HIDDEN_BLOCKS[kind]
+    m = re.search(rf'{re.escape(start)}([\s\S]*?){re.escape(end)}', text)
+    return m.group(1).strip() if m else ""
+
+
+def strip_hidden_blocks(text: str, kinds) -> str:
+    """text から kinds で指定した種類の隠しブロックを除去する。"""
+    for kind in kinds:
+        start, end = HIDDEN_BLOCKS[kind]
+        text = re.sub(rf'{re.escape(start)}[\s\S]*?{re.escape(end)}\n?', '', text)
+    return text
+
 
 def extract_first_heading(body: str) -> str:
     """本文中の最初の Markdown H1（`# ...`）テキストを返す。無ければ空文字。"""
