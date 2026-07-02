@@ -177,7 +177,12 @@ def main():
     for (lo, hi), lab in zip(buckets, labels):
         c = sum(1 for r in rows if lo <= r['score'] < hi)
         print(f"  {lab:>10}: {c}")
-    print(f"総日本語記事: {len(rows)}  / CSV: {os.path.relpath(args.csv, REPO_ROOT)}")
+    try:
+        csv_display = os.path.relpath(args.csv, REPO_ROOT)
+    except ValueError:
+        # Windows ではドライブが異なると relpath が計算できない
+        csv_display = os.path.abspath(args.csv)
+    print(f"総日本語記事: {len(rows)}  / CSV: {csv_display}")
 
     if args.keep is None:
         print("\n→ --keep N を指定すると keep/drop の内訳を表示します。")
