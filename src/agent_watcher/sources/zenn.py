@@ -5,6 +5,9 @@ from src.shared.utils import setup_logging, safe_requests_get
 
 logger = setup_logging(__name__)
 
+ZENN_ARTICLES_URL = "https://zenn.dev/articles"
+ZENN_BASE_URL = "https://zenn.dev"
+
 
 def fetch_zenn_trends():
     """
@@ -14,7 +17,7 @@ def fetch_zenn_trends():
     DOM セレクタ依存は壊れやすい。代わりにページ埋め込みの
     __NEXT_DATA__ (Next.js の JSON) から記事情報を抽出する。
     """
-    url = "https://zenn.dev/articles"
+    url = ZENN_ARTICLES_URL
     logger.info(f"Fetching Zenn trends: {url}")
 
     response = safe_requests_get(url)
@@ -67,7 +70,7 @@ def fetch_zenn_trends():
             "source": "zenn",
             "name": title,
             "owner": owner or "Zenn Authors",
-            "url": f"https://zenn.dev{path}",
+            "url": f"{ZENN_BASE_URL}{path}",
             "description": title,
             # ベーススコア50 + いいね数。daily_stars>0 のフィルタを通しつつ
             # 人気記事ほど上位にランクされるようにする。

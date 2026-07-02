@@ -4,6 +4,8 @@ from src.shared.utils import setup_logging
 
 logger = setup_logging(__name__)
 
+QIITA_TAG_FEED_URL_TEMPLATE = "https://qiita.com/tags/{tag}/feed"
+
 def fetch_qiita_trends():
     """
     Fetches trending articles from Qiita via RSS tags.
@@ -11,9 +13,9 @@ def fetch_qiita_trends():
     """
     tags = ["python", "ai", "機械学習"]
     results = []
-    
+
     for tag in tags:
-        url = f"https://qiita.com/tags/{tag}/feed"
+        url = QIITA_TAG_FEED_URL_TEMPLATE.format(tag=tag)
         logger.info(f"Fetching Qiita trends for tag {tag}: {url}")
         
         try:

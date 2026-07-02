@@ -5,7 +5,7 @@ from datetime import datetime
 from src.shared.config import config
 from src.shared.utils import setup_logging
 from src.shared.tagging import derive_tags
-from src.shared.article_text import build_description, extract_first_heading
+from src.shared.article_text import build_description, extract_first_heading, strip_hidden_blocks
 from src.shared.branding import SITE_BASE_URL, SITE_AUTHOR
 
 logger = setup_logging(__name__)
@@ -63,8 +63,7 @@ canonicalUrl = "{canonical_url}"{cover_yaml}
 """
         # Clean body for Hugo
         hugo_body = body.replace("<!-- AFFILIATE_START -->", "").replace("<!-- AFFILIATE_END -->", "")
-        hugo_body = re.sub(r'---X_POST_START---[\s\S]*?---X_POST_END---\n?', '', hugo_body)
-        hugo_body = re.sub(r'---NOTE_INTRO_START---[\s\S]*?---NOTE_INTRO_END---\n?', '', hugo_body)
+        hugo_body = strip_hidden_blocks(hugo_body, ("x_post", "note_intro"))
 
         # Convert Zenn syntax (:::message) to blockquotes
         def message_to_quote(match):

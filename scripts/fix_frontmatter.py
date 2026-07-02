@@ -29,40 +29,13 @@ sys.path.insert(0, REPO_ROOT)
 
 from src.shared.article_text import build_description, extract_first_heading  # noqa: E402
 from src.shared.branding import SITE_BASE_URL, SITE_AUTHOR  # noqa: E402
+from src.shared.frontmatter import (  # noqa: E402
+    split_toml_frontmatter as split_frontmatter,
+    get_toml_value,
+    set_toml_key,
+)
 
 POSTS_DIR = os.path.join(REPO_ROOT, "website", "content", "posts")
-
-_FM_RE = re.compile(r'^\+\+\+\n([\s\S]*?)\n\+\+\+\n?')
-
-
-def split_frontmatter(content: str):
-    """(frontmatter文字列, 本文) を返す。frontmatter が無ければ (None, content)。"""
-    m = _FM_RE.match(content)
-    if not m:
-        return None, content
-    return m.group(1), content[m.end():]
-
-
-def get_toml_value(fm: str, key: str):
-    """frontmatter から key の生の値（右辺文字列）を取り出す。無ければ None。"""
-    m = re.search(rf'^{re.escape(key)}\s*=\s*(.*)$', fm, re.MULTILINE)
-    return m.group(1).strip() if m else None
-
-
-def set_toml_key(fm: str, key: str, value_literal: str) -> str:
-    """frontmatter の key を value_literal（TOML リテラル）へ設定する。
-
-    既存行があれば置換、無ければ末尾に追記。置換は関数置換を用い、
-    値に含まれるバックスラッシュ（json.dumps 由来の \\" 等）が
-    re の置換仕様で壊れないようにする。
-    """
-    line = f"{key} = {value_literal}"
-    pattern = re.compile(rf'^{re.escape(key)}\s*=.*$', re.MULTILINE)
-    if pattern.search(fm):
-        return pattern.sub(lambda _m: line, fm, count=1)
-    if fm and not fm.endswith('\n'):
-        fm += '\n'
-    return fm + line
 
 
 def strip_english_suffix(title: str) -> str:
@@ -171,8 +144,8 @@ def main():
     # Windows コンソール(cp932)でも UTF-8 を出力できるようにする（表示のみ・ファイルはUTF-8）
     try:
         sys.stdout.reconfigure(encoding='utf-8')
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"[WARN] stdout reconfigure failed: {e}", file=sys.stderr)
 
     if not os.path.isdir(POSTS_DIR):
         print(f"[ERROR] posts ディレクトリが見つかりません: {POSTS_DIR}")
