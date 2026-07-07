@@ -3,6 +3,9 @@ from src.shared.utils import setup_logging, safe_requests_get
 
 logger = setup_logging(__name__)
 
+HN_TOP_STORIES_URL = "https://hacker-news.firebaseio.com/v0/topstories.json"
+HN_ITEM_URL_TEMPLATE = "https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
+
 def fetch_hacker_news_trends():
     """
     Fetches top stories from Hacker News and filters for AI/Python tech.
@@ -10,16 +13,16 @@ def fetch_hacker_news_trends():
     logger.info("Fetching Hacker News Top Stories")
     try:
         # Get top story IDs
-        top_ids_url = "https://hacker-news.firebaseio.com/v0/topstories.json"
+        top_ids_url = HN_TOP_STORIES_URL
         resp_ids = safe_requests_get(top_ids_url)
         top_ids = resp_ids.json() if resp_ids else []
-        
+
         trends = []
         keywords = ["AI", "LLM", "GPT", "Model", "Data", "Python", "Claude", "Gemini"]
-        
+
         # Check first 50 stories for performance
         for story_id in top_ids[:50]:
-            story_url = f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
+            story_url = HN_ITEM_URL_TEMPLATE.format(story_id=story_id)
             resp_story = safe_requests_get(story_url, timeout=5)
             if not resp_story:
                 continue

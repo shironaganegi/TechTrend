@@ -23,27 +23,19 @@ import shutil
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, REPO_ROOT)
 
+from src.shared.frontmatter import (  # noqa: E402
+    split_toml_frontmatter as split_frontmatter,
+    get_toml_value,
+)
+
 POSTS_DIR = os.path.join(REPO_ROOT, "website", "content", "posts")
 TRASH_DIR = os.path.join(REPO_ROOT, "trash_posts")
 
-_FM_RE = re.compile(r'^\+\+\+\n([\s\S]*?)\n\+\+\+\n?')
 _CODE_FENCE_RE = re.compile(r'```[\s\S]*?```')
 _HTML_TAG_RE = re.compile(r'<[^>]+>')
 
 FAIL_MARKERS = ('記事生成に失敗しました', 'Mock content', 'Metrics error', '"article":')
 OFF_TOPIC_KEYWORDS = ('カフェ', 'ノマド', 'グルメ', '占い', '恋愛', 'ダイエット')
-
-
-def split_frontmatter(content):
-    m = _FM_RE.match(content)
-    if not m:
-        return None, content
-    return m.group(1), content[m.end():]
-
-
-def get_toml_value(fm, key):
-    m = re.search(rf'^{re.escape(key)}\s*=\s*(.*)$', fm, re.MULTILINE)
-    return m.group(1).strip() if m else None
 
 
 def plain_text(body):
@@ -133,8 +125,8 @@ def main():
     args = parser.parse_args()
     try:
         sys.stdout.reconfigure(encoding='utf-8')
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"[WARN] stdout reconfigure failed: {e}", file=sys.stderr)
 
     ja_files = sorted(f for f in os.listdir(POSTS_DIR) if f.endswith('.md') and not f.endswith('.en.md'))
 

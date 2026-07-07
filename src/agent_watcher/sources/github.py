@@ -4,11 +4,13 @@ from src.shared.utils import setup_logging, safe_requests_get
 
 logger = setup_logging(__name__)
 
+GITHUB_TRENDING_URL = "https://github.com/trending"
+
 def fetch_github_trending(language=None):
     """
     Fetches trending repositories from GitHub.
     """
-    url = "https://github.com/trending"
+    url = GITHUB_TRENDING_URL
     if language:
         url += f"/{language}"
     
