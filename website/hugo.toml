@@ -54,52 +54,6 @@ theme = "PaperMod"
         url = "/contact/"
         weight = 60
 
-  [languages.en]
-    languageName = "English"
-    weight = 2
-    title = "TechTrend Watch"
-    [languages.en.params]
-      description = "Daily Curated Tech Trends"
-      author = "Shironaganegi"
-      authorName = "Shironaganegi"
-      authorProfileUrl = "/en/authors/shironaganegi/"
-      authorBio = "Operator and editor of TechTrend Watch. An independent developer following machine learning, LLMs, and developer tools — reconstructing articles from primary sources with hands-on comparisons and implementation notes."
-      [languages.en.params.homeInfoParams]
-        Title = "TechTrend Watch 🚀"
-        Content = "Daily curated tech trends from GitHub, Hacker News, and more."
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "archives"
-        name = "Archives"
-        url = "/en/archives/"
-        weight = 10
-      [[languages.en.menu.main]]
-        identifier = "search"
-        name = "Search 🔍"
-        url = "/en/search/"
-        weight = 30
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/en/about/"
-        weight = 40
-      [[languages.en.menu.main]]
-        identifier = "privacy"
-        name = "Privacy"
-        url = "/en/privacy/"
-        weight = 50
-      [[languages.en.menu.main]]
-        identifier = "terms"
-        name = "Terms"
-        url = "/en/terms/"
-        weight = 55
-      [[languages.en.menu.main]]
-        identifier = "contact"
-        name = "Contact"
-        url = "/en/contact/"
-        weight = 60
-
 [params]
   defaultTheme = "auto"
   description = "厳選してお届けする、今日の最新技術トレンド"

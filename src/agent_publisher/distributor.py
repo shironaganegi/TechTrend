@@ -82,30 +82,9 @@ def main() -> None:
 
     # 4. Hugo (JA)
     hugo = HugoPublisher()
-    hugo.save_article(title, body, website_url, latest_ja_path, lang="ja")
+    hugo.save_article(title, body, website_url, latest_ja_path)
 
-    # 5. Hugo (EN)
-    filename_en = os.path.basename(latest_ja_path).replace(".md", ".en.md")
-    latest_en_path = os.path.join(config.EN_ARTICLES_DIR, filename_en)
-    
-    if os.path.exists(latest_en_path):
-        logger.info(f"英語版記事が見つかりました: {latest_en_path}")
-        try:
-            with open(latest_en_path, 'r', encoding='utf-8') as f:
-                en_content = f.read()
-            
-            en_title = get_yaml_str(en_content, 'title')
-            if en_title is None:
-                en_title = title
-            en_body = strip_yaml_frontmatter(en_content)
-            
-            hugo.save_article(en_title, en_body, website_url, latest_en_path, lang="en")
-        except Exception as e:
-             logger.error(f"Hugo記事の生成(EN)に失敗: {e}")
-    else:
-        logger.info("英語版記事が見つからないため、EN配信をスキップします。")
-
-    # 6. Discord 通知
+    # 5. Discord 通知
     discord = DiscordPublisher()
     x_text_for_discord = x_viral_text if x_viral_text else f"記事公開: {title}"
     note_text_for_discord = note_intro_text if note_intro_text else "Note用の紹介文はありません。"
