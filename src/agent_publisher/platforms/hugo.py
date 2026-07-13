@@ -5,41 +5,29 @@ from datetime import datetime
 from src.shared.config import config
 from src.shared.utils import setup_logging
 from src.shared.tagging import derive_tags
-from src.shared.article_text import build_description, extract_first_heading, strip_hidden_blocks
+from src.shared.article_text import build_description, strip_hidden_blocks
 from src.shared.branding import SITE_BASE_URL, SITE_AUTHOR
 
 logger = setup_logging(__name__)
 
 class HugoPublisher:
-    def save_article(self, title, body, zenn_url, original_filename, lang="ja", ogp_url=None):
+    def save_article(self, title, body, zenn_url, original_filename, ogp_url=None):
         os.makedirs(config.WEBSITE_CONTENT_DIR, exist_ok=True)
 
         date_str = datetime.now().isoformat()
         target_filename = os.path.basename(original_filename)
-        slug = re.sub(r'\.(en\.)?md$', '', target_filename)
-
-        # 英語記事は frontmatter title が「日本語タイトル (English)」で渡ってくるため、
-        # 本文の H1（正しい英語タイトル）を優先採用する。
-        if lang == "en":
-            en_heading = extract_first_heading(body)
-            if en_heading:
-                title = en_heading
+        slug = re.sub(r'\.md$', '', target_filename)
 
         # 内容に応じた具体的なトピックタグを導出（検索・回遊性向上）
         tags = derive_tags(title, body)
 
         # description は本文の最初の実段落から生成（テンプレ文言を廃止し重複を解消）。
         # 抽出できない場合のみタイトルベースのフォールバックを使う。
-        desc_max = 160 if lang == "en" else 110
-        description = build_description(body, max_len=desc_max)
+        description = build_description(body, max_len=110)
         if not description:
             description = title
 
-        # canonicalUrl は各ページ自身の URL を指す（英語→日本語の相互 canonical を撤廃）。
-        if lang == "en":
-            canonical_url = f"{SITE_BASE_URL}/en/posts/{slug}/"
-        else:
-            canonical_url = f"{SITE_BASE_URL}/posts/{slug}/"
+        canonical_url = f"{SITE_BASE_URL}/posts/{slug}/"
 
         cover_yaml = ""
         # Disabled OGP logic placeholder
@@ -53,7 +41,7 @@ class HugoPublisher:
         frontmatter = f"""+++
 title = {title_toml}
 date = "{date_str}"
-tags = {json.dumps(tags)}
+tags = {json.dumps(tags, ensure_ascii=False)}
 draft = false
 description = {description_toml}
 author = {author_toml}
@@ -74,15 +62,8 @@ canonicalUrl = "{canonical_url}"{cover_yaml}
             
         hugo_body = re.sub(r':::message\n([\s\S]*?)\n:::', message_to_quote, hugo_body)
         
-        if lang == "ja":
-            # No footer needed for main site (or maybe affiliate disclaimer if wanted)
-            footer = "" 
-        else:
-            footer = f"\n\n---\n\n> This article is also available in [Japanese]({zenn_url}).\n" # Actually zenn_url is now website_url so this links to JA version on same site
-
-        
         output_path = os.path.join(config.WEBSITE_CONTENT_DIR, target_filename)
         with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(frontmatter + hugo_body + footer)
-        
-        logger.info(f"Saved Hugo article ({lang}) to: {output_path}")
+            f.write(frontmatter + hugo_body)
+
+        logger.info(f"Saved Hugo article to: {output_path}")

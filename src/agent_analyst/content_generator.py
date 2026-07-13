@@ -137,30 +137,6 @@ def generate_article(tool_data: Dict[str, Any], x_hot_words: Optional[List[str]]
 
     return refined_article
 
-def translate_article_to_english(content):
-    """
-    Translates the Japanese Markdown content to English using Gemini.
-    """
-    # Pre-processing: Remove Zenn-specific blocks (PR notices etc)
-    content = re.sub(r':::message[\s\S]*?:::\n?', '', content)
-
-    prompt = f"""
-    You are a professional Tech Translator.
-    Translate the following Japanese Markdown blog post into high-quality English.
-
-    Requirements:
-    - Keep the Markdown format exactly as is (headings, links, code blocks).
-    - Maintain the professional and insightful tone.
-    - Translate "Recommended Products" section naturally (or keep affiliate links if they are universal, otherwise keep them).
-    - Do NOT translate the Frontmatter (YAML block at the top), I will handle it programmatically, BUT if you see it, just leave it or ignore it.
-    - Output ONLY the translated markdown content.
-
-    Original Content:
-    {content}
-    """
-
-    return llm_client.generate_content(prompt)
-
 def append_footer_content(article, x_post, note_intro="", image_prompt=""):
     # Add Hidden X Post
     if x_post:
@@ -279,37 +255,7 @@ def main():
     final_content = frontmatter + body_content
 
     # 5. Save Japanese Article
-    filepath_ja = save_article_file(final_content, top_tool)
-
-    # 6. Generate & Save English Version
-    body_only = body_content
-    logger.info("Translating article to English...")
-
-    en_body = translate_article_to_english(body_only)
-    if en_body:
-        # 英語版タイトルは翻訳本文の H1（正しい英語タイトル）を採用する。
-        # 抽出できない場合のみ日本語タイトルへフォールバック。
-        from src.shared.article_text import extract_first_heading
-        en_heading = extract_first_heading(en_body)
-        en_display_title = en_heading if en_heading else f"{article_title} (English)"
-        en_title_y = json.dumps(en_display_title, ensure_ascii=False)
-        en_content = f"""---
-title: {en_title_y}
-emoji: "🤖"
-type: "tech"
-topics: []
-published: false
----
-
-{en_body}
-"""
-        filename_en = os.path.basename(filepath_ja).replace(".md", ".en.md")
-        os.makedirs(config.EN_ARTICLES_DIR, exist_ok=True)
-        filepath_en = os.path.join(config.EN_ARTICLES_DIR, filename_en)
-
-        with open(filepath_en, 'w', encoding='utf-8') as f:
-            f.write(en_content)
-        logger.info(f"English translation saved to: {filepath_en}")
+    save_article_file(final_content, top_tool)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,7 @@
+{{- /* 著者ページ用: 最新記事10件のリスト（E-E-A-T: 執筆実績の提示） */ -}}
+{{- $posts := where site.RegularPages "Section" "posts" -}}
+<ul>
+{{- range first 10 $posts }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>（{{ .Date.Format "2006-01-02" }}）</li>
+{{- end }}
+</ul>

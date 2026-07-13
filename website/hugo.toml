@@ -2,6 +2,15 @@ baseURL = "https://techtrend-watch.com/"
 defaultContentLanguage = 'ja'
 defaultContentLanguageInSubdir = false
 theme = "PaperMod"
+hasCJKLanguage = true # 読了時間・WordCount を日本語(CJK)文字数ベースで正しく算出する
+
+# タグ(term)ページは内容が薄くインデックス価値が低いため noindex にする
+# (PaperMod の head.html が robotsNoIndex パラメータを標準サポート)
+[[cascade]]
+  [cascade.params]
+    robotsNoIndex = true
+  [cascade.target]
+    kind = "term"
 
 [outputs]
     home = ["HTML", "RSS", "JSON"]
@@ -52,52 +61,6 @@ theme = "PaperMod"
         identifier = "contact"
         name = "Contact"
         url = "/contact/"
-        weight = 60
-
-  [languages.en]
-    languageName = "English"
-    weight = 2
-    title = "TechTrend Watch"
-    [languages.en.params]
-      description = "Daily Curated Tech Trends"
-      author = "Shironaganegi"
-      authorName = "Shironaganegi"
-      authorProfileUrl = "/en/authors/shironaganegi/"
-      authorBio = "Operator and editor of TechTrend Watch. An independent developer following machine learning, LLMs, and developer tools — reconstructing articles from primary sources with hands-on comparisons and implementation notes."
-      [languages.en.params.homeInfoParams]
-        Title = "TechTrend Watch 🚀"
-        Content = "Daily curated tech trends from GitHub, Hacker News, and more."
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "archives"
-        name = "Archives"
-        url = "/en/archives/"
-        weight = 10
-      [[languages.en.menu.main]]
-        identifier = "search"
-        name = "Search 🔍"
-        url = "/en/search/"
-        weight = 30
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/en/about/"
-        weight = 40
-      [[languages.en.menu.main]]
-        identifier = "privacy"
-        name = "Privacy"
-        url = "/en/privacy/"
-        weight = 50
-      [[languages.en.menu.main]]
-        identifier = "terms"
-        name = "Terms"
-        url = "/en/terms/"
-        weight = 55
-      [[languages.en.menu.main]]
-        identifier = "contact"
-        name = "Contact"
-        url = "/en/contact/"
         weight = 60
 
 [params]

@@ -2,6 +2,8 @@ name: Deploy Website Only (No AI)
 
 on:
   push:
+    branches:
+      - main  # mainブランチのみ（フィーチャーブランチのpushで本番デプロイされないように）
     paths:
       - 'website/**'  # websiteフォルダ以下の変更時のみ起動
   workflow_dispatch:  # 手動ボタンでも実行可能
