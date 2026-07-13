@@ -30,6 +30,14 @@ TechTrend Watch の運営・編集を担当しています。機械学習・LLM 
 掲載内容は公開時点の情報に基づき、可能な範囲で正確性を確認していますが、
 最終的な採否はご自身の環境で検証のうえ判断してください。
 
+### 執筆記事
+
+最近の執筆記事はこちらです。
+
+{{< author_recent_posts >}}
+
+[記事一覧（アーカイブ）を見る →](/archives/)
+
 ### 連絡先
 - Email: sai3desuyo@gmail.com
 - X: [@sai3desuyo](https://x.com/sai3desuyo)

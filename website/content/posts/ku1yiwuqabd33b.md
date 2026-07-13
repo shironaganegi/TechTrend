@@ -1,7 +1,7 @@
 +++
 title = "🚀 RAG入門を超越する：LLMの「知性の拡張」がAI開発を革新する"
 date = "2026-06-18T23:49:59.969162"
-tags = ["AI", "Tools", "LLM", "RAG", "\u6a5f\u68b0\u5b66\u7fd2", "\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3"]
+tags = ["AI", "Tools", "LLM", "RAG", "機械学習", "セキュリティ"]
 draft = false
 description = "今日のデジタル世界において、生成AI、特に大規模言語モデル（LLM）はビジネスと技術の境界を再定義しています。しかし、LLMが持つ固有の課題、すなわち「最新情報へのアクセス制限」や「ハルシネーション（誤情報生成）」は、そ…"
 canonicalUrl = "https://techtrend-watch.com/posts/ku1yiwuqabd33b/"

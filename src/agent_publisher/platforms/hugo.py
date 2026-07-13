@@ -41,7 +41,7 @@ class HugoPublisher:
         frontmatter = f"""+++
 title = {title_toml}
 date = "{date_str}"
-tags = {json.dumps(tags)}
+tags = {json.dumps(tags, ensure_ascii=False)}
 draft = false
 description = {description_toml}
 author = {author_toml}

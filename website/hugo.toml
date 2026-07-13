@@ -2,6 +2,15 @@ baseURL = "https://techtrend-watch.com/"
 defaultContentLanguage = 'ja'
 defaultContentLanguageInSubdir = false
 theme = "PaperMod"
+hasCJKLanguage = true # 読了時間・WordCount を日本語(CJK)文字数ベースで正しく算出する
+
+# タグ(term)ページは内容が薄くインデックス価値が低いため noindex にする
+# (PaperMod の head.html が robotsNoIndex パラメータを標準サポート)
+[[cascade]]
+  [cascade.params]
+    robotsNoIndex = true
+  [cascade.target]
+    kind = "term"
 
 [outputs]
     home = ["HTML", "RSS", "JSON"]
