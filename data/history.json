@@ -1,10 +1,5 @@
 [
   {
-    "name": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "date": "2026-05-19T12:45:52.632482"
-  },
-  {
     "name": "Gemini 3.5 Flash",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
     "date": "2026-05-19T23:09:49.786356"
@@ -498,5 +493,10 @@
     "name": "London Gatwick has launched a robotic airport parking service",
     "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
     "date": "2026-07-26T23:03:13.293313"
+  },
+  {
+    "name": "SessionStart だけ http hook が使えない：Win/Mac/Linux で外部依存無しでhookからテレメトリを集めた話",
+    "url": "https://zenn.dev/owayo/articles/6955e05d7474ff",
+    "date": "2026-08-02T23:00:23.034762"
   }
 ]
