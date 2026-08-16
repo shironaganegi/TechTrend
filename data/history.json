@@ -1,10 +1,5 @@
 [
   {
-    "name": "andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "date": "2026-05-20T06:58:21.323457"
-  },
-  {
     "name": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
     "url": "https://github.com/antoinezambelli/forge",
     "date": "2026-05-20T12:30:01.741929"
@@ -498,5 +493,10 @@
     "name": "Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
     "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
     "date": "2026-08-09T22:35:55.599514"
+  },
+  {
+    "name": "同じRust製のBiomeとOxlintで、なぜ速度差が大きいのか",
+    "url": "https://zenn.dev/estie/articles/64b80da2fbf175",
+    "date": "2026-08-16T22:25:41.041964"
   }
 ]
