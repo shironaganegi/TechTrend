@@ -1,10 +1,5 @@
 [
   {
-    "name": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-    "url": "https://github.com/antoinezambelli/forge",
-    "date": "2026-05-20T12:30:01.741929"
-  },
-  {
     "name": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
     "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
     "date": "2026-05-20T23:18:17.238073"
@@ -498,5 +493,10 @@
     "name": "同じRust製のBiomeとOxlintで、なぜ速度差が大きいのか",
     "url": "https://zenn.dev/estie/articles/64b80da2fbf175",
     "date": "2026-08-16T22:25:41.041964"
+  },
+  {
+    "name": "codex",
+    "url": "https://github.com/openai/codex",
+    "date": "2026-08-23T22:26:19.440752"
   }
 ]
